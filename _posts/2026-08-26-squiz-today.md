@@ -14,28 +14,28 @@ excerpt: "Police shooting anniversary and memorials、Dolly Parton's death and l
 ## News Highlights
 
 - **Police shooting anniversary and memorials／警察槍擊事件週年紀念和紀念活動**
-  It was a year ago today that two Victorian police officers were killed, and another was injured by the gunman, Desi Freeman, while they were attending a rural property in poor punker. But just to recap, a year ago, 10 police officers arrived at a...
-  一年前的今天，兩名維多利亞州警察被殺，另一名警察在槍手德西·弗裏曼（ Desi Freeman ）在貧窮的龐克中參加農村財產時受傷。但回顧一下，一年前， 10名警察來到一個…
+  There have been two inquests into the deaths of the two police officers.
+  對兩名警察的死亡進行了兩次調查。
 
 - **Dolly Parton's death and legacy／多莉·帕頓的去世和遺產**
-  And as I mentioned in the headlines, Anna, the queen of country music, Dolly Parton, has died at the age of 80. And within the space of just a few days, these songs in question were Jolene and I Will Always Love You, which I...
-  正如我在頭條新聞中提到的，鄉村音樂女王安娜 (Anna) 多莉·帕頓 (Dolly Parton) 去世，享年 80 歲。在短短幾天內，這些有問題的歌曲是《喬琳》(Jolene) 和《我將永遠愛你》(I Will Always Love You)，我…
+  And as I mentioned in the headlines, Anna, the queen of country music, Dolly Parton, has died at the age of 80.
+  正如我在頭條新聞中提到的，鄉村音樂女王安娜·多莉·帕頓 (Dolly Parton) 去世，享年 80 歲。
 
-- **National Cabinet considers AI and gun reform／國家內閣考慮人工智慧和槍支改革**
-  This time, National Standards for Artificial Intelligence and Gun Reforms are promising to be top of the agenda. That's where PM Anthony Albanese gets together with state and territory leaders to talk some of the big ticket items affecting Australia.
-  這一次，人工智慧國家標準和槍支改革有望成為首要議程。總理安東尼·艾博尼斯 (Anthony Albanese) 在這裡與各州和領地領導人會面，討論影響澳洲的一些重大問題。
+- **National Cabinet considers AI and gun reform／國家內閣考慮人工智能和槍枝改革**
+  This time, National Standards for Artificial Intelligence and Gun Reforms are promising to be top of the agenda.
+  這一次，國家人工智能標準和槍枝改革有望成為議程的首要議題。
 
-- **Jai Arrow receives a special chance to reach 100 NRL games／Jai Arrow 獲得參加 100 場 NRL 比賽的特殊機會**
-  They're going to allow him to play two more games so he can reach his 100-game milestone for his club, which is the South Sydney Rabbitos. He's the 31-year-old NRL star who had to retire following a diagnosis of motor neurone disease.
-  他們將允許他再打兩場比賽，這樣他就可以為他的俱樂部（南雪梨兔子隊）達到 100 場比賽的里程碑。他是 31 歲的 NRL 明星，在診斷出運動神經元疾病後不得不退休。
+- **Jai Arrow receives a special chance to reach 100 NRL games／Jai Arrow有特別機會達到100場NRL比賽**
+  They're going to allow him to play two more games so he can reach his 100-game milestone for his club, which is the South Sydney Rabbitos.
+  他們將允許他再打兩場比賽，這樣他就可以為他的俱樂部達到他的100場裏程碑，那就是南悉尼兔子隊。
 
-- **Batman movie estate faces action over disrepair and bats／蝙蝠俠電影莊園因年久失修和蝙蝠而面臨訴訟**
-  The owner of a British estate used as a location in a Batman movie has been told that it might be taken off his hands if he doesn't hire someone to come in and assess the joint for bats. And it's now in such a...
-  英國一處莊園的主人被告知，如果他不僱人進來評估該莊園是否有蝙蝠，那麼這座莊園可能會被從他手中奪走。而現在又是在這樣一個...
+- **Batman movie estate faces action over disrepair and bats／蝙蝠俠電影院面臨年久失修和蝙蝠的困境**
+  Otherwise, the local council will come in to seize it, cave and all.
+  否則，當地議會會進來奪取它，洞穴和所有。
 
-- **La Tomatina and other unusual festivals／La Tomatina 和其他不尋常的節日**
-  And on the off chance you're listening to us from Spain, watch out because today is La Tomatina, the largest tomato throwing festival in the world, which got us wondering just how many of these there are around the world. In order to be the...
-  如果您在西班牙收聽我們的節目，請注意，因為今天是 La Tomatina，世界上最大的西紅柿投擲節，這讓我們想知道世界各地有多少西紅柿投擲節。為了成為...
+- **La Tomatina and other unusual festivals／La Tomatina和其他不同尋常的節日**
+  And on the off chance you're listening to us from Spain, watch out because today is La Tomatina, the largest tomato throwing festival in the world, which got us wondering just how many of these there are around the world.
+  如果您在西班牙收聽我們的節目，請注意，因為今天是 La Tomatina，世界上最大的西紅柿投擲節，這讓我們想知道世界各地有多少西紅柿投擲節。
 
 ## Full Transcript
 
@@ -51,8 +51,8 @@ It was a year ago today that two Victorian police officers were killed, and anot
 
 #### Words in this section
 
-- **manhunt**：追捕
-- **parton**：帕頓
+- **parton**：（翻譯失敗）
+- **manhunt**：搜捕
 - <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 
 ### Police Officers Victoria
@@ -67,9 +67,9 @@ And on that, police said at the time that they believed he must have had help **
 
 #### Words in this section
 
-- **airlifted**：空運的
+- **airlifted**：空運
 - **evading**：逃避
-- **manhunt**：追捕
+- **manhunt**：搜捕
 
 ### Local Mentioned Events
 
@@ -84,9 +84,9 @@ Her nephew announced the news on her official Instagram account not long before 
 #### Words in this section
 
 - **vadim**：瓦迪姆
-- **heaving**：起伏
+- **heaving**：呕吐
 - **substandard**：不合格
-- **parton**：帕頓
+- **parton**：（翻譯失敗）
 
 ### Music Songs Huge
 
@@ -100,9 +100,9 @@ Is it ever? Going back to music, though, I actually saw her perform at Glastonbu
 
 #### Words in this section
 
-- **jolene**：喬琳
+- **jolene**：（翻譯失敗）
 - **businesswoman**：女商人
-- **parton**：帕頓
+- **parton**：（翻譯失敗）
 
 ### Crowd Generations Watch
 
@@ -116,7 +116,7 @@ The family are asking for fans to leave messages by tagging at Dolly **Parton** 
 
 #### Words in this section
 
-- **parton**：帕頓
+- **parton**：（翻譯失敗）
 
 ### PM Anthony Albanese Territory Australia
 
@@ -141,8 +141,8 @@ What else? Of course. Mentmore Towers in **Buckinghamshire** was used as the loc
 #### Words in this section
 
 - **buckinghamshire**：白金漢郡
+- **subbed**：塗膠
 - **roosters**：公雞
-- **subbed**：替補
 
 ### Batman Local Council
 
@@ -157,8 +157,8 @@ There's news around that the final block of hearings in the Royal Commission int
 #### Words in this section
 
 - **ecologist**：生態學家
-- **neeson**：尼森
-- **disrepair**：失修
+- **neeson**：（翻譯失敗）
+- **disrepair**：年久失修
 
 ### Tomato Throwing Listening
 
@@ -189,12 +189,12 @@ We'll be back with you again tomorrow.
 <tr>
 <td>jolene</td>
 <td>noun</td>
-<td>喬琳</td>
+<td>（翻譯失敗）</td>
 </tr>
 <tr>
 <td>airlifted</td>
 <td>verb</td>
-<td>空運的</td>
+<td>空運</td>
 </tr>
 <tr>
 <td>ecologist</td>
@@ -209,17 +209,17 @@ We'll be back with you again tomorrow.
 <tr>
 <td>neeson</td>
 <td>noun</td>
-<td>尼森</td>
+<td>（翻譯失敗）</td>
 </tr>
 <tr>
 <td>disrepair</td>
 <td>noun</td>
-<td>失修</td>
+<td>年久失修</td>
 </tr>
 <tr>
 <td>heaving</td>
 <td>verb</td>
-<td>起伏</td>
+<td>呕吐</td>
 </tr>
 <tr>
 <td>businesswoman</td>
@@ -237,14 +237,14 @@ We'll be back with you again tomorrow.
 <td>逃避</td>
 </tr>
 <tr>
-<td>manhunt</td>
-<td>noun</td>
-<td>追捕</td>
-</tr>
-<tr>
 <td>parton</td>
 <td>noun</td>
-<td>帕頓</td>
+<td>（翻譯失敗）</td>
+</tr>
+<tr>
+<td>manhunt</td>
+<td>noun</td>
+<td>搜捕</td>
 </tr>
 <tr>
 <td>buckinghamshire</td>
@@ -252,14 +252,14 @@ We'll be back with you again tomorrow.
 <td>白金漢郡</td>
 </tr>
 <tr>
+<td>subbed</td>
+<td>verb</td>
+<td>塗膠</td>
+</tr>
+<tr>
 <td>roosters</td>
 <td>noun</td>
 <td>公雞</td>
-</tr>
-<tr>
-<td>subbed</td>
-<td>verb</td>
-<td>替補</td>
 </tr>
 </tbody>
 </table>
@@ -280,7 +280,7 @@ We'll be back with you again tomorrow.
 <tr>
 <td><span style="color:#ff8c00">squiz</span></td>
 <td>a quick look</td>
-<td>快速瀏覽一下</td>
+<td>快速查看</td>
 </tr>
 </tbody>
 </table>
@@ -299,7 +299,7 @@ We'll be back with you again tomorrow.
 <tbody>
 <tr>
 <td>The Age</td>
-<td>Major daily newspaper based in Melbourne, Australia.／總部位於澳洲墨爾本的主要日報。</td>
+<td>Major daily newspaper based in Melbourne, Australia.／位於澳洲墨爾本的主要日報。</td>
 </tr>
 <tr>
 <td>NRL</td>
