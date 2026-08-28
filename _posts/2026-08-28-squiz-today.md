@@ -13,15 +13,15 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 
 ## News Highlights
 
-- **Nepal floods／尼泊爾洪水**
+- **Nepal floods／Nepal floods**
   35 Australians missing, death toll around 400, over 1300 missing globally.
   35 名澳洲人失踪，死亡人數約 400 人，全球失蹤人數超過 1,300 人。
 
-- **US murder trial／美國謀殺案審判**
+- **US murder trial／US murder trial**
   Lindsay Clancy accused of murdering her three children; trial sparks debate on postpartum mental illness.
   林賽·克蘭西被指控謀殺了她的三個孩子；審判引發了關於產後精神疾病的爭論。
 
-- **NASA space telescope launch／美國太空總署太空望遠鏡發射**
+- **NASA space telescope launch／NASA space telescope launch**
   Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
   南希·格蕾絲·羅馬太空望遠鏡發射升空以研究暗物質和暗能量。
 
@@ -45,92 +45,92 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tr>
 <td>meditated</td>
 <td>verb</td>
-<td>沉思的</td>
-<td>But on the other side the...</td>
+<td>meditated</td>
+<td>But on the other side the prosecution says she took deliberate actions and the murders were pre-meditated and this trial has spot a huge debate in the US as Larissa...</td>
 </tr>
 <tr>
 <td>homey</td>
 <td>noun</td>
 <td>溫馨的</td>
-<td>They were aged five, three...</td>
+<td>They were aged five, three and eight months old in 2023 at their homey Massachusetts</td>
 </tr>
 <tr>
 <td>unaccounted</td>
 <td>verb</td>
 <td>下落不明的</td>
-<td>That includes 35 Australians...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>nepalese</td>
 <td>noun</td>
 <td>尼泊爾人</td>
-<td>Yes and that includes staying...</td>
+<td>Yes and that includes staying away from dangerous water and just on that we've heard from Nepalese and Chinese authorities who are saying that they're still a high risk that...</td>
 </tr>
 <tr>
 <td>postpartum</td>
 <td>noun</td>
 <td>產後</td>
-<td>Yeah experts are saying that...</td>
+<td>Yeah experts are saying that it's a case that has started some difficult conversations over in the US around postpartum mental illness</td>
 </tr>
 <tr>
 <td>gory</td>
 <td>noun</td>
 <td>血淋淋的</td>
-<td>Now several of my girlfriends...</td>
+<td>Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it's not really want to watch with any little...</td>
 </tr>
 <tr>
 <td>trekking</td>
 <td>verb</td>
 <td>健行</td>
-<td>That includes 35 Australians...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>kangaroos</td>
 <td>noun</td>
 <td>袋鼠</td>
-<td>Yeah the other thing on the...</td>
+<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with...</td>
 </tr>
 <tr>
 <td>foundational</td>
 <td>noun</td>
 <td>基礎的</td>
-<td>Sorry to bust out physics...</td>
+<td>Sorry to bust out physics first thing in the morning it's not my strong suit but that's basically that space and time a link which is a pretty big deal...</td>
 </tr>
 <tr>
 <td>aussies</td>
 <td>noun</td>
 <td>澳洲人</td>
-<td>That includes 35 Australians...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>hikers</td>
 <td>noun</td>
 <td>徒步旅行者</td>
-<td>That includes 35 Australians...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>criminally</td>
 <td>adverb</td>
 <td>犯罪地</td>
-<td>Whether she was suffering...</td>
+<td>Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that's their quote who shouldn't be held criminally responsible for...</td>
 </tr>
 <tr>
 <td>himalayan</td>
 <td>noun</td>
 <td>喜馬拉雅山</td>
-<td>That includes 35 Australians...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>astronomer</td>
 <td>noun</td>
 <td>天文學家</td>
-<td>6 billion project so it's a...</td>
+<td>6 billion project so it's a very big deal and in a nutshell it's super powerful and it's named after the US astronomer who was also the first female NASA...</td>
 </tr>
 <tr>
 <td>hotspot</td>
 <td>noun</td>
 <td>熱點</td>
-<td>That includes 35 Australians...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 </tbody>
 </table>
@@ -153,13 +153,13 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <td><span style="color:#ff8c00">aussies</span></td>
 <td>Australians (informal)</td>
 <td>澳洲人（非正式）</td>
-<td>That includes 35 Australians...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">flying kangaroo</span></td>
 <td>nickname for Qantas</td>
 <td>澳洲航空的暱稱</td>
-<td>Yeah the other thing on the...</td>
+<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with...</td>
 </tr>
 </tbody>
 </table>
@@ -186,15 +186,15 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>One Nation</td>
-<td>Australian political party founded by Pauline Hanson, right-wing populist.／Australian political party founded by Pauline Hanson, right-wing populist.</td>
+<td>Australian political party founded by Pauline Hanson, right-wing populist.／由右翼民粹主義者寶琳漢森 (Pauline Hanson) 創立的澳洲政黨。</td>
 </tr>
 <tr>
 <td>Nancy Grace Roman Space Telescope</td>
-<td>NASA space telescope named after first female NASA executive, launching 2027.／NASA space telescope named after first female NASA executive, launching 2027.</td>
+<td>NASA space telescope named after first female NASA executive, launching 2027.／NASA 太空望遠鏡以第一位 NASA 女性高管的名字命名，將於 2027 年發射。</td>
 </tr>
 <tr>
 <td>Project Sunrise</td>
-<td>Qantas project for nonstop flights from Sydney to London and New York.／Qantas project for nonstop flights from Sydney to London and New York.</td>
+<td>Qantas project for nonstop flights from Sydney to London and New York.／澳洲航空計劃開通從雪梨飛往倫敦和紐約的直飛航班。</td>
 </tr>
 <tr>
 <td>Interstellar</td>
