@@ -13,29 +13,33 @@ excerpt: "Police shooting anniversary and memorials、Dolly Parton's death and l
 
 ## News Highlights
 
-- **Police shooting anniversary and memorials／警察槍擊事件週年紀念和紀念活動**
-  There have been two inquests into the deaths of the two police officers.
-  對兩名警察的死亡進行了兩次調查。
+- **Memorials Mark One Year Since Porepunkah Police Shootings／普爾龐卡警察殉職案屆滿一週年 地方舉行追悼儀式**
+  One year after two Victorian police officers were killed in Porepunkah, memorial services and plaques in Wangaratta and the High Country honored the fallen officers. Gunman Desi Freeman was shot dead in March following Australia's largest seven-month manhunt.
+  維多利亞州普爾龐卡（Porepunkah）兩名警察殉職事件屆滿一週年，旺加拉塔與高地地區舉行追悼儀式並揭牌紀念。槍手戴西·弗里曼（Desi Freeman）在歷經澳洲史上最大規模、長達七個月的搜捕後，已於今年三月遭警方擊斃。
 
-- **Dolly Parton's death and legacy／多莉·帕頓的去世和遺產**
-  And as I mentioned in the headlines, Anna, the queen of country music, Dolly Parton, has died at the age of 80.
-  正如我在頭條新聞中提到的，鄉村音樂女王安娜·多莉·帕頓 (Dolly Parton) 去世，享年 80 歲。
+- **Country Music Legend Dolly Parton Passes Away at 80／鄉村音樂傳奇多莉·帕頓逝世 享壽80歲**
+  Country music icon Dolly Parton has died at age 80 after a remarkable seven-decade career that produced global hits like "Jolene" and "I Will Always Love You." Beyond music, she was widely celebrated for her philanthropy, including donating millions of books for children's literacy.
+  鄉村音樂巨星多莉·帕頓（Dolly Parton）安詳辭世，享壽 80 歲，結束了長達七十載的輝煌生涯。她創作了〈Jolene〉與〈I Will Always Love You〉等傳世名曲，同時也是備受尊敬的慈善家，曾捐贈數百萬本書籍推廣兒童識字。
 
-- **National Cabinet considers AI and gun reform／國家內閣考慮人工智能和槍枝改革**
-  This time, National Standards for Artificial Intelligence and Gun Reforms are promising to be top of the agenda.
-  這一次，國家人工智能標準和槍枝改革有望成為議程的首要議題。
+- **National Cabinet Convenes to Debate AI Standards and Gun Reforms／澳洲國家內閣會議召開 聚焦AI監管與槍枝改革**
+  Prime Minister Anthony Albanese and state leaders are meeting at National Cabinet to discuss federal AI standards and national gun reforms. The meeting also addresses state perspectives on AI regulation alongside updates on gender-based violence, fuel supplies, and bird flu.
+  澳洲總理艾班尼斯（Anthony Albanese）與各州及領地首長召開國家內閣會議，重點研商聯邦人工智慧（AI）國家標準與槍枝改革法規。會議亦將探討各州對 AI 監管的立場，以及消除性別暴力、燃油供應和禽流感等議題。
 
-- **Jai Arrow receives a special chance to reach 100 NRL games／Jai Arrow有特別機會達到100場NRL比賽**
-  They're going to allow him to play two more games so he can reach his 100-game milestone for his club, which is the South Sydney Rabbitos.
-  他們將允許他再打兩場比賽，這樣他就可以為他的俱樂部達到他的100場裏程碑，那就是南悉尼兔子隊。
+- **NRL Grants Special Exemption for Retiring Jai Arrow to Reach Milestone／NRL特准榮譽出場 助因病退役球星Jai Arrow圓夢百場里程碑**
+  The NRL has approved a special interchange rule for 31-year-old South Sydney Rabbitohs star Jai Arrow following his motor neurone disease diagnosis. The exemption allows co-captain Arrow to lead the team onto the field before being substituted off, helping him reach his 100-game club milestone.
+  南悉尼兔子隊 31 歲球星傑·阿羅（Jai Arrow）因確診運動神經元疾病（MND）宣告退役，NRL 破例特准額外替補名額，讓擔任共同隊長的阿羅能身著全套球衣帶隊進場後再換下，圓滿達成代表俱樂部出戰 100 場的生涯里程碑。
 
-- **Batman movie estate faces action over disrepair and bats／蝙蝠俠電影院面臨年久失修和蝙蝠的困境**
-  Otherwise, the local council will come in to seize it, cave and all.
-  否則，當地議會會進來奪取它，洞穴和所有。
+- **Historic Batman Estate Faces Council Ultimatum Over Disrepair and Bats／《蝙蝠俠》莊園取景地面臨維修通牒 地方議會要求生態評估**
+  Mentmore Towers in Buckinghamshire, which was featured as Wayne Manor in the 2005 film *Batman Begins*, faces potential council seizure due to severe disrepair. The owner has been given one month to hire contractors and a licensed bat ecologist to assess and preserve the property.
+  曾於 2005 年電影《蝙蝠俠：開戰時刻》中作為「韋恩莊園」取景地的英國白金漢郡門特莫爾莊園（Mentmore Towers）因年久失修，遭當地議會下達最後通牒。業主限期一個月內聘請修繕團隊與持證蝙蝠生態學家進行評估，否則莊園將面臨強制徵收。
 
-- **La Tomatina and other unusual festivals／La Tomatina和其他不同尋常的節日**
-  And on the off chance you're listening to us from Spain, watch out because today is La Tomatina, the largest tomato throwing festival in the world, which got us wondering just how many of these there are around the world.
-  如果您在西班牙收聽我們的節目，請注意，因為今天是 La Tomatina，世界上最大的西紅柿投擲節，這讓我們想知道世界各地有多少西紅柿投擲節。
+- **Royal Commission into Antisemitism Poised to Wrap Up Hearings Early／反猶太主義皇家委員會聽證會預計提前落幕**
+  The final block of public hearings in the Royal Commission into antisemitism and social cohesion is expected to conclude today, wrapping up a couple of days earlier than originally scheduled.
+  針對反猶太主義與社會凝聚力所展開的皇家委員會調查，其最後一輪公開聽證會預計將於今日提早結束，比原定時程提前數天落幕。
+
+- **Spain Marks La Tomatina as World Celebrates Tomato-Throwing Festivals／西班牙番茄大戰登場 全球多國同慶投擲狂歡**
+  Spain is hosting its famous La Tomatina festival, the world's largest tomato-throwing gathering. The vibrant tradition has inspired international spin-offs, with similar festive tomato-throwing events held in Colombia, the United States, and Vietnam.
+  西班牙今日迎來全球規模最大的番茄投擲節慶「番茄大戰」（La Tomatina）。這項熱鬧傳統也在全球催生了多項同類活動，包括哥倫比亞的番茄節，以及美國與越南的狂歡節日。
 
 ## Full Transcript
 
