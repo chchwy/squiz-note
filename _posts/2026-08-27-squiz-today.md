@@ -8,22 +8,22 @@ excerpt: "Google AI Message Deakin、Results Coles Supermarkets、Sales Results 
 
 ## Listen／收聽本集
 
-- [Apple Podcasts](https://podcasts.apple.com/tw/podcast/squiz-today/id1385995581)
+- [Apple Podcasts](https://podcasts.apple.com/tw/podcast/coles-and-woolies-bag-a-profit-and-remembering-dolly/id1385995581?i=1000786108100)
 - [YouTube](https://www.youtube.com/watch?v=o3NadvuDDL4)
 
 ## News Highlights
 
-- **Google AI Message Deakin／Google AI訊息Deakin**
+- **Google AI Message Deakin／谷歌人工智慧消息迪肯**
   Before we get into the news, a message from Deakin University. A Deakin study has asked Australian teenagers what they really think about gambling advertising and they have some strong views.
-  在我們進入新聞之前，來自迪肯大學的訊息Deakin的一項研究詢問了澳洲青少年對賭博廣告的真實想法，他們有一些強烈的看法。
+  在我們了解新聞之前，先聽聽迪肯大學的消息。迪肯大學的一項研究詢問了澳洲青少年他們對賭博廣告的真實看法，他們有一些強烈的觀點。
 
-- **Results Coles Supermarkets／科爾斯超市**
+- **Results Coles Supermarkets／結果 Coles 超市**
   This is your squiz today. Larissa, our two biggest supermarkets, Coles and Woollies, have been in the headlines this week after posting their results for the last financial year.
-  這是你今天的比賽我們最大的兩家超市Larissa ， Coles和Woollies ，在上一財政年度公布業績後，本週成為頭條新聞。
+  這是你今天的測驗。 Larissa、我們最大的兩家超市 Coles 和 Woollies 在公佈上一財年的業績後，本周成為頭條新聞。
 
-- **Sales Results Staff／銷售結果員工**
+- **Sales Results Staff／銷售業績員工**
   They posted a profit of just over $1 billion, which is up 1%, with supermarket sales growth of 3.7%. Now both groups' results were reduced by back pay payments owed to staff.
-  他們公布的利潤略超過10億$ ，增長1 ％ ，超市銷售增長3.7 ％。現在，欠員工的欠款減少了兩組的結果。
+  他們公佈的利潤略高於 10 億美元，成長 1%，超市銷售額成長 3.7%。現在，兩個小組的業績都因拖欠員工薪資而下降。
 
 - **Higher Prices Month／價格上漲月**
   So it's a timely release by the Bureau of Stats, and it showed yesterday that prices across the board in Australia are 3.5% higher than they were a year ago.
@@ -61,7 +61,7 @@ excerpt: "Google AI Message Deakin、Results Coles Supermarkets、Sales Results 
   So they wanted to see complete bans on gambling marketing or big restrictions. Young people, they can tell us about how fun and exciting the gambling marketing makes gambling look, and they also say that...
   因此，他們希望看到賭博行銷的完全禁止或嚴格限制。年輕人，他們可以告訴我們賭博行銷讓賭博看起來多麼有趣和令人興奮，他們也說…
 
-- **Gambling Young Social／賭博青少年社交**
+- **Gambling Young Social／（翻譯失敗）**
   So this group of kids that you surveyed were between 12 and 17 years old. So that means they're now impacted by the social media ban.
   您調查的這群孩子年齡在 12 歲到 17 歲之間。這意味著他們現在受到社群媒體禁令的影響。
 
@@ -98,7 +98,7 @@ But the CEO, Amanda Bardwell says that it's due to people buying more rather tha
 
 #### Words in this section
 
-- **woolworths**：伍爾沃斯
+- **woolworths**：（翻譯失敗）
 - **trolleys**：手推車
 - <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 - <span style="color:#ff8c00"><strong>aussies</strong></span>：澳洲用語
@@ -133,7 +133,7 @@ Search and rescue efforts are underway and we'll be hearing more updates as they
 #### Words in this section
 
 - **pilgrimages**：朝聖
-- **mountaineering**：登山
+- **mountaineering**：登山运动
 
 ### Changes Coming Metta
 
@@ -159,8 +159,8 @@ Yes, they said it hadn't allowed enough time for a detailed review of the rise o
 
 - **commemorations**：紀念活動
 - **deakin**：迪肯
-- **bondi**：邦迪
-- **regrettable**：遺憾的
+- **regrettable**：令人遺憾的
+- **bondi**：邦迪(bondi)
 
 ### Dolly Tributes Giving
 
@@ -175,8 +175,8 @@ And I think in terms of the **outpouring** of love for Dolly, the Batuta advocat
 #### Words in this section
 
 - **rednecks**：鄉下人
-- **transcended**：超越了
-- **outpouring**：傾瀉而出
+- **transcended**：超越
+- **outpouring**：傾盆大雨
 
 ### Minister Anthony Albanese Gave
 
@@ -190,8 +190,8 @@ Yep, I definitely recognised his face, but I know him best from kids movies. He 
 
 #### Words in this section
 
-- **tortures**：酷刑
-- **smother**：窒息
+- **tortures**：折磨
+- **smother**：扼殺
 - **macaulay**：麥考利
 - <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 
@@ -263,14 +263,14 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 </thead>
 <tbody>
 <tr>
-<td>pilgrimages</td>
-<td>noun</td>
-<td>朝聖</td>
-</tr>
-<tr>
 <td>commemorations</td>
 <td>noun</td>
 <td>紀念活動</td>
+</tr>
+<tr>
+<td>pilgrimages</td>
+<td>noun</td>
+<td>朝聖</td>
 </tr>
 <tr>
 <td>rednecks</td>
@@ -280,7 +280,7 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <tr>
 <td>woolworths</td>
 <td>noun</td>
-<td>伍爾沃斯</td>
+<td>（翻譯失敗）</td>
 </tr>
 <tr>
 <td>trolleys</td>
@@ -295,22 +295,22 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <tr>
 <td>transcended</td>
 <td>verb</td>
-<td>超越了</td>
+<td>超越</td>
 </tr>
 <tr>
 <td>outpouring</td>
 <td>verb</td>
-<td>傾瀉而出</td>
+<td>傾盆大雨</td>
 </tr>
 <tr>
 <td>mountaineering</td>
 <td>verb</td>
-<td>登山</td>
+<td>登山运动</td>
 </tr>
 <tr>
 <td>tortures</td>
 <td>noun</td>
-<td>酷刑</td>
+<td>折磨</td>
 </tr>
 <tr>
 <td>adequacy</td>
@@ -320,7 +320,7 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <tr>
 <td>smother</td>
 <td>noun</td>
-<td>窒息</td>
+<td>扼殺</td>
 </tr>
 <tr>
 <td>macaulay</td>
@@ -328,14 +328,14 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <td>麥考利</td>
 </tr>
 <tr>
-<td>bondi</td>
-<td>noun</td>
-<td>邦迪</td>
-</tr>
-<tr>
 <td>regrettable</td>
 <td>adj.</td>
-<td>遺憾的</td>
+<td>令人遺憾的</td>
+</tr>
+<tr>
+<td>bondi</td>
+<td>noun</td>
+<td>邦迪(bondi)</td>
 </tr>
 </tbody>
 </table>
@@ -356,7 +356,7 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <tr>
 <td><span style="color:#ff8c00">squiz</span></td>
 <td>a quick look</td>
-<td>快速瀏覽一下</td>
+<td>快速查看</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">aussies</span></td>
@@ -366,7 +366,7 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <tr>
 <td><span style="color:#ff8c00">heaps</span></td>
 <td>a lot</td>
-<td>很多</td>
+<td>十分喜歡</td>
 </tr>
 </tbody>
 </table>
@@ -385,11 +385,11 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <tbody>
 <tr>
 <td>Deakin University</td>
-<td>Major Australian public university located in Victoria.／澳洲主要公立大學位於維多利亞。</td>
+<td>Major Australian public university located in Victoria.／位於維多利亞州的澳洲主要公立大學。</td>
 </tr>
 <tr>
 <td>The Age</td>
-<td>Major daily newspaper based in Melbourne, Australia.／總部位於澳洲墨爾本的主要日報。</td>
+<td>Major daily newspaper based in Melbourne, Australia.／位於澳洲墨爾本的主要日報。</td>
 </tr>
 </tbody>
 </table>
