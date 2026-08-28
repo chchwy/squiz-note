@@ -3,7 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-28"
 date: 2026-08-28 07:00:00 +0800
 categories: notes
-excerpt: "Himalayan Glacier Adventures Nepal From、Penny Wong Australia There、Lindsay Clancy Massachusetts Whether、Secret Harbour Labour Election、New York A380s Planes、Kennedy Space Center NASA Telescope、Sarah Keefer Disney Because、Thank Wraps Always"
+excerpt: "Himalayan Glacier Adventures Nepal Group、Penny Wong Australia Area、Lindsay Clancy Massachusetts Criminally、Secret Harbour Labour Election、New York A380s Planes、Kennedy Space Center NASA Telescope、Sarah Keefer Disney Cake"
 ---
 
 ## Listen／收聽本集
@@ -13,15 +13,15 @@ excerpt: "Himalayan Glacier Adventures Nepal From、Penny Wong Australia There�
 
 ## News Highlights
 
-- **Himalayan Glacier Adventures Nepal From／尼泊爾喜馬拉雅冰川探險之旅（出發）**
+- **Himalayan Glacier Adventures Nepal Group／尼泊爾喜馬拉雅冰川探險集團**
   We talked yesterday about the flash floods that swept through board of villagers between Nepal and China and we've got a bit more information this morning.
-  我們昨天談到了尼泊爾和中國之間橫掃村民委員會的山洪暴發，今天早上我們得到了更多的信息。
+  昨天我們談到了尼泊爾和中國之間席捲村民的山洪，今天早上我們得到了更多資訊。
 
-- **Penny Wong Australia There／Penny Wong Australia那裏**
+- **Penny Wong Australia Area／Penny Wong 澳洲地區**
   Penny Wong also said Australia is deploying defat personnel to the region but she's stressed that it's a remote area and access and information and very limited given the scale of the disaster those are...
   Penny Wong還表示，澳大利亞正在向該地區部署DEFAT人員，但她強調，這是一個偏遠地區，訪問和信息非常有限，鑑於災難的規模...
 
-- **Lindsay Clancy Massachusetts Whether／林賽克蘭西 馬薩諸塞州 是否**
+- **Lindsay Clancy Massachusetts Criminally／林賽克蘭西 馬薩諸塞州刑事犯罪**
   But to wind it back a bit it hinges on whether 36 year old Lindsay Clancy who doesn't dispute that she strangled her children. They were aged five, three and eight months old in 2023...
   但說回來，這取決於 36 歲的林賽·克蘭西 (Lindsay Clancy) 是否不否認她勒死了自己的孩子。 2023 年，他們分別是 5 個月、3 個月和 8 個月大…
 
@@ -34,16 +34,12 @@ excerpt: "Himalayan Glacier Adventures Nepal From、Penny Wong Australia There�
   現在，它確實公佈了稅前利潤略高於 20 億美元，但它正在尋求將自 2008 年以來一直運營的舊 A380 飛機的稅收改為新飛機，請耐心等待…
 
 - **Kennedy Space Center NASA Telescope／甘迺迪太空中心美國太空總署望遠鏡**
-  Flying we're back with another space update and now on Sunday night US Space Agency NASA is scheduled to launch the Nancy Grace Roman Space Telescope.
-  飛行我們帶著另一次太空更新回來了，現在美國航天局美國宇航局計劃在周日晚上發射南希·格雷斯·羅馬太空望遠鏡。
+  We're back with another space update and now on Sunday night US Space Agency NASA is scheduled to launch the Nancy Grace Roman Space Telescope.
+  我們帶來了另一個太空更新，現在美國太空總署計劃在星期天晚上發射南希·格雷斯羅馬太空望遠鏡。
 
-- **Sarah Keefer Disney Because／莎拉基弗 迪士尼 因為**
+- **Sarah Keefer Disney Cake／莎拉基弗迪士尼蛋糕**
   Friday lights now and Larissa I've been watching a new series on Disney plus called Furious. Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer...
-  《週五燈光》和《拉麗莎》我一直在看迪士尼加上《憤怒》的新劇集。現在，我的幾個女朋友向我推薦了它，因為它追捕了一名女連環殺手...
-
-- **Thank Wraps Always／感謝永遠包裹**
-  And that wraps us up for the week. Thank you as always for listening.
-  這就結束了我們這一周的工作一如既往地感謝您的聆聽。
+  星期五燈光現在和拉里薩我一直在觀看迪士尼+的一部新劇集《速度與激情》。現在我的幾個女朋友向我推薦了它，它講述了追捕一名女性連環殺手的故事...
 
 ## Full Transcript
 
@@ -59,7 +55,7 @@ I'm Anna Pikeit and I'm Larissa Huntington. It's Friday the 28th of August. In y
 
 A jury deliberates in the US murder trial. Quantas says Bon voyage to its A380s and a crowd pleasing chocolate cake. This is your squeeze today.
 
-### Himalayan Glacier Adventures Nepal From
+### Himalayan Glacier Adventures Nepal Group
 
 Larissa we talked yesterday about the flash floods that swept through board of villagers between Nepal and China and we've got a bit more information this morning. As is often the case with disasters like this the numbers are changing quite quickly but as we record this around 400 people have been confirmed dead and at least 1300 have been reported missing from countries around the world. That includes 35 Australians and the area as we said yesterday is pretty popular with **hikers**, tourists and pilgrims for **trekking** as well as for spiritual reasons and it's also a hotspot for people who like to do yoga meditation there and yesterday morning we heard from a US-based tour company called **Himalayan** Glacier Adventures which said that a group of 15 **<span style="color:#ff8c00">Aussies</span>** that had taken on a pilgrimage in Nepal are still **unaccounted** for with the ages of the group between 11 years old and 64 years old and this includes two young brothers and most of this group are thought to be from Sydney according to reports but this morning Harold has also spoken to a man in Melbourne who's 61-year-old father is also missing.
 
@@ -68,13 +64,13 @@ So it's a tenth time Anna for many families around the world who are still waiti
 #### Words in this section
 
 - **unaccounted**：下落不明的
-- **trekking**：健行
+- **trekking**：徒步
 - **aussies**：澳洲人
 - **hikers**：徒步旅行者
-- **himalayan**：喜馬拉雅山
+- **himalayan**：喜瑪拉雅山脈的
 - <span style="color:#ff8c00"><strong>aussies</strong></span>：澳洲用語
 
-### Penny Wong Australia There
+### Penny Wong Australia Area
 
 Penny Wong also said Australia is deploying defat personnel to the region but she's stressed that it's a remote area and access and information and very limited given the scale of the disaster those are her words. She's reminded **<span style="color:#ff8c00">Aussies</span>** in the area to follow the advice of local officials. Yes and that includes staying away from dangerous water and just on that we've heard from **Nepalese** and Chinese authorities who are saying that they're still a high risk that more flooding could be on the way because satellite images are showing that a river has been blocked and is forming a lake at the side of where the flood first happened on Wednesday and they've warned that this could breach and create more flooding downstream in the days to come.
 
@@ -91,7 +87,7 @@ It's really brought it to the front of public debate over there.
 - **aussies**：澳洲人
 - <span style="color:#ff8c00"><strong>aussies</strong></span>：澳洲用語
 
-### Lindsay Clancy Massachusetts Whether
+### Lindsay Clancy Massachusetts Criminally
 
 But to wind it back a bit it hinges on whether 36 year old Lindsay **Clancy** who doesn't dispute that she strangled her children. They were aged five, three and eight months old in 2023 at their **homey** Massachusetts. Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that's their quote who shouldn't be held **criminally** responsible for her actions on that basis.
 
@@ -101,9 +97,9 @@ Now some of the details of this story are quite distressing so if it's raised an
 
 #### Words in this section
 
-- **meditated**：沉思的
-- **homey**：溫馨的
-- **clancy**：克蘭西
+- **meditated**：冥想
+- **homey**：居家
+- **clancy**：（翻譯失敗）
 - **criminally**：犯罪地
 
 ### Secret Harbour Labour Election
@@ -139,7 +135,7 @@ Sorry to bust out physics first thing in the morning it's not my strong suit but
 - **foundational**：基礎的
 - **astronomer**：天文學家
 
-### Sarah Keefer Disney Because
+### Sarah Keefer Disney Cake
 
 Friday lights now and Larissa I've been watching a new series on Disney plus called Furious. Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it's not really want to watch with any little people in your house because it is a bit **gory** I must admit that I've watched quite a lot of it from behind a cushion but it has got ray reviews so if you need a new series to binge over this final winter weekend can you believe it's the last weekend of winter I cannot you sort it but on the more happy side of things if you draw the bake Larissa's got you sorted. Yeah I would just sweet her things.
 
@@ -151,13 +147,9 @@ You're a fellow baker so you'll know how good it is when you find a recipe that'
 
 - **gory**：血淋淋的
 
-### Thank Wraps Always
-
-And that wraps us up for the week. Thank you as always for listening.
-
 ### Close
 
-We hope you have a lovely and safe weekend and Andrew and I will be back with you again on Mum Day.
+And that wraps us up for the week. Thank you as always for listening. We hope you have a lovely and safe weekend and Andrew and I will be back with you again on Mum Day.
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
@@ -174,12 +166,12 @@ We hope you have a lovely and safe weekend and Andrew and I will be back with yo
 <tr>
 <td>meditated</td>
 <td>verb</td>
-<td>沉思的</td>
+<td>冥想</td>
 </tr>
 <tr>
 <td>homey</td>
 <td>noun</td>
-<td>溫馨的</td>
+<td>居家</td>
 </tr>
 <tr>
 <td>unaccounted</td>
@@ -202,24 +194,24 @@ We hope you have a lovely and safe weekend and Andrew and I will be back with yo
 <td>產後</td>
 </tr>
 <tr>
-<td>trekking</td>
-<td>verb</td>
-<td>健行</td>
-</tr>
-<tr>
 <td>kangaroos</td>
 <td>noun</td>
 <td>袋鼠</td>
 </tr>
 <tr>
-<td>aussies</td>
-<td>noun</td>
-<td>澳洲人</td>
+<td>trekking</td>
+<td>verb</td>
+<td>徒步</td>
 </tr>
 <tr>
 <td>foundational</td>
 <td>adj.</td>
 <td>基礎的</td>
+</tr>
+<tr>
+<td>aussies</td>
+<td>noun</td>
+<td>澳洲人</td>
 </tr>
 <tr>
 <td>clancy</td>
@@ -239,7 +231,7 @@ We hope you have a lovely and safe weekend and Andrew and I will be back with yo
 <tr>
 <td>himalayan</td>
 <td>noun</td>
-<td>喜馬拉雅山</td>
+<td>喜瑪拉雅山脈的</td>
 </tr>
 <tr>
 <td>astronomer</td>
