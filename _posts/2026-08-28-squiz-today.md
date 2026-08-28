@@ -82,14 +82,14 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <td>袋鼠</td>
 </tr>
 <tr>
-<td>foundational</td>
-<td>noun</td>
-<td>基礎的</td>
-</tr>
-<tr>
 <td>aussies</td>
 <td>noun</td>
 <td>澳洲人</td>
+</tr>
+<tr>
+<td>foundational</td>
+<td>noun</td>
+<td>基礎的</td>
 </tr>
 <tr>
 <td>hikers</td>
@@ -195,7 +195,7 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>Sydney Morning Herald</td>
-<td>Major newspaper in Sydney, Australia.／</td>
+<td>Major newspaper in Sydney, Australia.／澳洲悉尼的主要報紙。</td>
 </tr>
 </tbody>
 </table>
@@ -225,6 +225,17 @@ She's reminded **<span style="color:#ff8c00">Aussies</span>** in the area to fol
 
 So there's a real focus on the rescue effort in what is pretty difficult to reign and hard to reach areas. Nepal is four hours behind Aussie eastern standard time to bet is two hours behind so we can expect more updates across the day.
 
+#### Words in this section
+
+- **unaccounted**：下落不明的
+- **nepalese**：尼泊爾人
+- **trekking**：健行
+- **aussies**：澳洲人
+- **hikers**：徒步旅行者
+- **himalayan**：喜馬拉雅山
+- **hotspot**：熱點
+- <span style="color:#ff8c00"><strong>aussies</strong></span>：澳洲用語
+
 ### US trial
 
 The risk of there's been a distressing case playing out over the past five weeks in the US of a mother accused of murdering her three young children. It's all over the international news sites this morning because the jury has just retired to consider its verdict. Yeah experts are saying that it's a case that has started some difficult conversations over in the US around **postpartum** mental illness.
@@ -234,6 +245,13 @@ It's really brought it to the front of public debate over there. But to wind it 
 Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that's their quote who shouldn't be held **criminally** responsible for her actions on that basis. But on the other side the prosecution says she took deliberate actions and the murders were pre-**meditated** and this trial has spot a huge debate in the US as Larissa was saying and hundreds of women have taken to wearing pink outside the court in support of Clancy. If she's convicted she'll face life in prison.
 
 If she's found not **criminally** responsible she'll be committed to a state psychiatric hospital. Now some of the details of this story are quite distressing so if it's raised any issues for you we'll put a link in the show notes to some support resources.
+
+#### Words in this section
+
+- **meditated**：沉思的
+- **homey**：溫馨的
+- **postpartum**：產後
+- **criminally**：犯罪地
 
 ### Australian politics
 
@@ -251,6 +269,10 @@ Now it did post a profit of just over $2 billion before tax but it's looking to 
 
 Yeah the other thing on the horizon for the flying **kangaroos** projects sunrise with its nonstop flights to London in New York which will launch next year in October with bookings opening for them from February next year.
 
+#### Words in this section
+
+- **kangaroos**：袋鼠
+
 ### Space
 
 Talking about flying we're back with another space update and now on Sunday night US Space Agency NASA is scheduled to launch the Nancy Grace Roman Space Telescope. Now you might be wondering why they're putting it in space but this isn't an ordinary telescope. No sure isn't this is a $5.6 billion project so it's a very big deal and in a nutshell it's super powerful and it's named after the US **astronomer** who was also the first female NASA executive and it's got infrared cameras that can survey deep space.
@@ -259,6 +281,11 @@ It's been 16 years in the making and it's scheduled to blast off from the Kenned
 
 Sorry to bust out physics first thing in the morning it's not my strong suit but that's basically that space and time a link which is a pretty big deal given that's been a **foundational** part of physics since Einstein came up with it in the early 20th century. Now Nancy's set to launch around 926 precisely Eastern Standard Time will include a link to NASA's website so you can watch a long if you'd like.
 
+#### Words in this section
+
+- **foundational**：基礎的
+- **astronomer**：天文學家
+
 ### Culture / lifestyle
 
 Friday lights now and Larissa I've been watching a new series on Disney plus called Furious. Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it's not really want to watch with any little people in your house because it is a bit **gory** I must admit that I've watched quite a lot of it from behind a cushion but it has got ray reviews so if you need a new series to binge over this final winter weekend can you believe it's the last weekend of winter I cannot you sort it but on the more happy side of things if you draw the bake Larissa's got you sorted. Yeah I would just sweet her things.
@@ -266,6 +293,10 @@ Friday lights now and Larissa I've been watching a new series on Disney plus cal
 It's my mum's birthday on the weekend and she's asked for a chocolate cake instead of her usual carrot cake which is pretty good because I've already shared by favourite carrot cake recipe with this very time. How convenient. So this cake is a version of the recipe that I've been using for years now from an American cook named Sarah Keefer about a hundred years ago when I used to write my baking blog you know about that because of my banana bread and I discovered her blog um it's called the vanilla bean blog and it's full of achievable and delicious cakes like this chocolate one.
 
 You're a fellow baker so you'll know how good it is when you find a recipe that's the Keefer. Oh absolutely but I normally ruin them by putting more sweet stuff in them because I have such a bad sweet tooth but I'll give this one a try. We'll put a link to that recipe in the show notes if you'd like to have a go as well.
+
+#### Words in this section
+
+- **gory**：血淋淋的
 
 ### Close
 
