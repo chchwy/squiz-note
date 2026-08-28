@@ -13,21 +13,21 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 
 ## News Highlights
 
-- **Nepal floods／尼泊爾洪水**
+- **Nepal floods／Nepal floods**
   35 Australians missing, death toll around 400, over 1300 missing globally.
-  35 名澳洲人失踪，死亡人數約 400 人，全球失蹤人數超過 1,300 人。
+  35 Australians missing, death toll around 400, over 1300 missing globally.
 
-- **US murder trial／美國謀殺案審判**
+- **US murder trial／US murder trial**
   Lindsay Clancy accused of murdering her three children; trial sparks debate on postpartum mental illness.
-  林賽·克蘭西被指控謀殺了她的三個孩子；審判引發了關於產後精神疾病的爭論。
+  Lindsay Clancy accused of murdering her three children; trial sparks debate on postpartum mental illness.
 
-- **NASA space telescope launch／美國太空總署太空望遠鏡發射**
+- **NASA space telescope launch／NASA space telescope launch**
   Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
   Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
 
-- **WA by-election／西澳補選**
+- **WA by-election／WA by-election**
   Secret Harbour electorate voting; potential three-way fight between Labor, One Nation, Liberal.
-  秘密港選民投票；工黨、一國黨、自由黨之間可能有三方鬥爭。
+  Secret Harbour electorate voting; potential three-way fight between Labor, One Nation, Liberal.
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
@@ -38,7 +38,6 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <th>Word</th>
 <th>詞性</th>
 <th>中文</th>
-<th>原文例句</th>
 </tr>
 </thead>
 <tbody>
@@ -46,91 +45,76 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <td>meditated</td>
 <td>verb</td>
 <td>meditated</td>
-<td>But on the other side the prosecution says she took deliberate actions and the murders were pre-**meditated** and this trial has spot a huge debate in the US as Larissa...</td>
 </tr>
 <tr>
 <td>homey</td>
 <td>noun</td>
 <td>homey</td>
-<td>They were aged five, three and eight months old in 2023 at their **homey** Massachusetts</td>
 </tr>
 <tr>
 <td>unaccounted</td>
 <td>verb</td>
 <td>unaccounted</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>nepalese</td>
 <td>noun</td>
-<td>尼泊爾人</td>
-<td>Yes and that includes staying away from dangerous water and just on that we've heard from **Nepalese** and Chinese authorities who are saying that they're still a high risk that...</td>
-</tr>
-<tr>
-<td>postpartum</td>
-<td>noun</td>
-<td>postpartum</td>
-<td>Yeah experts are saying that it's a case that has started some difficult conversations over in the US around **postpartum** mental illness</td>
+<td>nepalese</td>
 </tr>
 <tr>
 <td>gory</td>
 <td>noun</td>
-<td>血淋淋的</td>
-<td>Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it's not really want to watch with any little...</td>
+<td>gory</td>
+</tr>
+<tr>
+<td>postpartum</td>
+<td>noun</td>
+<td>postpartum</td>
 </tr>
 <tr>
 <td>trekking</td>
 <td>verb</td>
 <td>trekking</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for **trekking** as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>kangaroos</td>
 <td>noun</td>
-<td>袋鼠</td>
-<td>Yeah the other thing on the horizon for the flying **kangaroos** projects sunrise with its nonstop flights to London in New York which will launch next year in October with...</td>
+<td>kangaroos</td>
+</tr>
+<tr>
+<td>foundational</td>
+<td>noun</td>
+<td>foundational</td>
 </tr>
 <tr>
 <td>aussies</td>
 <td>noun</td>
-<td>澳洲人</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
-</tr>
-<tr>
-<td>foundational</td>
-<td>noun</td>
-<td>foundational</td>
-<td>Sorry to bust out physics first thing in the morning it's not my strong suit but that's basically that space and time a link which is a pretty big deal...</td>
+<td>aussies</td>
 </tr>
 <tr>
 <td>hikers</td>
 <td>noun</td>
-<td>徒步旅行者</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with **hikers**, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
+<td>hikers</td>
 </tr>
 <tr>
 <td>criminally</td>
 <td>adverb</td>
 <td>犯罪地</td>
-<td>Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that's their quote who shouldn't be held **criminally** responsible for...</td>
 </tr>
 <tr>
 <td>himalayan</td>
 <td>noun</td>
-<td>himalayan</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
+<td>喜馬拉雅山</td>
 </tr>
 <tr>
 <td>astronomer</td>
 <td>noun</td>
-<td>天文學家</td>
-<td>6 billion project so it's a very big deal and in a nutshell it's super powerful and it's named after the US **astronomer** who was also the first female NASA...</td>
+<td>astronomer</td>
 </tr>
 <tr>
 <td>hotspot</td>
 <td>noun</td>
-<td>熱點</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
+<td>hotspot</td>
 </tr>
 </tbody>
 </table>
@@ -145,21 +129,18 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <th>Slang / Idiom</th>
 <th>意思</th>
 <th>中文</th>
-<th>原文例句</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><span style="color:#ff8c00">aussies</span></td>
 <td>Australians (informal)</td>
-<td>澳洲人（非正式）</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
+<td>Australians (informal)</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">flying kangaroo</span></td>
 <td>nickname for Qantas</td>
-<td>澳洲航空的暱稱</td>
-<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with...</td>
+<td>nickname for Qantas</td>
 </tr>
 </tbody>
 </table>
@@ -178,15 +159,15 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tbody>
 <tr>
 <td>Deacon University</td>
-<td>Likely meant Deakin University, Australian university in Victoria.／可能指的是位於維多利亞的澳洲大學迪肯大學。</td>
+<td>Likely meant Deakin University, Australian university in Victoria.／Likely meant Deakin University, Australian university in Victoria.</td>
 </tr>
 <tr>
 <td>Consular Emergency Centre</td>
-<td>Australian government 24/7 hotline for Australians overseas in distress.／澳洲政府為海外遇險澳洲人提供 24/7 熱線。</td>
+<td>Australian government 24/7 hotline for Australians overseas in distress.／Australian government 24/7 hotline for Australians overseas in distress.</td>
 </tr>
 <tr>
 <td>One Nation</td>
-<td>Australian political party founded by Pauline Hanson, right-wing populist.／由右翼民粹主義者寶琳漢森 (Pauline Hanson) 創立的澳洲政黨。</td>
+<td>Australian political party founded by Pauline Hanson, right-wing populist.／Australian political party founded by Pauline Hanson, right-wing populist.</td>
 </tr>
 <tr>
 <td>Nancy Grace Roman Space Telescope</td>
@@ -194,11 +175,11 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>Project Sunrise</td>
-<td>Qantas project for nonstop flights from Sydney to London and New York.／澳洲航空計劃開通從雪梨飛往倫敦和紐約的直飛航班。</td>
+<td>Qantas project for nonstop flights from Sydney to London and New York.／Qantas project for nonstop flights from Sydney to London and New York.</td>
 </tr>
 <tr>
 <td>Interstellar</td>
-<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 年克里斯多福諾蘭執導的關於太空旅行和相對論的科幻電影。</td>
+<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 sci-fi film directed by Christopher Nolan about space travel and relativity.</td>
 </tr>
 <tr>
 <td>Disney Plus</td>
@@ -210,11 +191,11 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>Secret Harbour</td>
-<td>Suburb of Perth, Western Australia.／西澳大利亞珀斯郊區。</td>
+<td>Suburb of Perth, Western Australia.／Suburb of Perth, Western Australia.</td>
 </tr>
 <tr>
 <td>Sydney Morning Herald</td>
-<td>Major newspaper in Sydney, Australia.／澳洲悉尼的主要報紙。</td>
+<td>Major newspaper in Sydney, Australia.／Major newspaper in Sydney, Australia.</td>
 </tr>
 </tbody>
 </table>
