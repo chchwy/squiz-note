@@ -13,17 +13,17 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 
 ## News Highlights
 
-- **Nepal floods／Nepal floods**
+- **Nepal floods／尼泊爾洪水**
   35 Australians missing, death toll around 400, over 1300 missing globally.
   35 名澳洲人失踪，死亡人數約 400 人，全球失蹤人數超過 1,300 人。
 
-- **US murder trial／US murder trial**
+- **US murder trial／美國謀殺案審判**
   Lindsay Clancy accused of murdering her three children; trial sparks debate on postpartum mental illness.
   林賽·克蘭西被指控謀殺了她的三個孩子；審判引發了關於產後精神疾病的爭論。
 
-- **NASA space telescope launch／NASA space telescope launch**
+- **NASA space telescope launch／美國太空總署太空望遠鏡發射**
   Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
-  南希·格蕾絲·羅馬太空望遠鏡發射升空以研究暗物質和暗能量。
+  Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
 
 - **WA by-election／西澳補選**
   Secret Harbour electorate voting; potential three-way fight between Labor, One Nation, Liberal.
@@ -46,31 +46,31 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <td>meditated</td>
 <td>verb</td>
 <td>meditated</td>
-<td>But on the other side the prosecution says she took deliberate actions and the murders were pre-meditated and this trial has spot a huge debate in the US as Larissa...</td>
+<td>But on the other side the prosecution says she took deliberate actions and the murders were pre-**meditated** and this trial has spot a huge debate in the US as Larissa...</td>
 </tr>
 <tr>
 <td>homey</td>
 <td>noun</td>
-<td>溫馨的</td>
-<td>They were aged five, three and eight months old in 2023 at their homey Massachusetts</td>
+<td>homey</td>
+<td>They were aged five, three and eight months old in 2023 at their **homey** Massachusetts</td>
 </tr>
 <tr>
 <td>unaccounted</td>
 <td>verb</td>
-<td>下落不明的</td>
+<td>unaccounted</td>
 <td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>nepalese</td>
 <td>noun</td>
 <td>尼泊爾人</td>
-<td>Yes and that includes staying away from dangerous water and just on that we've heard from Nepalese and Chinese authorities who are saying that they're still a high risk that...</td>
+<td>Yes and that includes staying away from dangerous water and just on that we've heard from **Nepalese** and Chinese authorities who are saying that they're still a high risk that...</td>
 </tr>
 <tr>
 <td>postpartum</td>
 <td>noun</td>
-<td>產後</td>
-<td>Yeah experts are saying that it's a case that has started some difficult conversations over in the US around postpartum mental illness</td>
+<td>postpartum</td>
+<td>Yeah experts are saying that it's a case that has started some difficult conversations over in the US around **postpartum** mental illness</td>
 </tr>
 <tr>
 <td>gory</td>
@@ -81,20 +81,14 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tr>
 <td>trekking</td>
 <td>verb</td>
-<td>健行</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
+<td>trekking</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for **trekking** as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>kangaroos</td>
 <td>noun</td>
 <td>袋鼠</td>
-<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with...</td>
-</tr>
-<tr>
-<td>foundational</td>
-<td>noun</td>
-<td>基礎的</td>
-<td>Sorry to bust out physics first thing in the morning it's not my strong suit but that's basically that space and time a link which is a pretty big deal...</td>
+<td>Yeah the other thing on the horizon for the flying **kangaroos** projects sunrise with its nonstop flights to London in New York which will launch next year in October with...</td>
 </tr>
 <tr>
 <td>aussies</td>
@@ -103,28 +97,34 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
+<td>foundational</td>
+<td>noun</td>
+<td>foundational</td>
+<td>Sorry to bust out physics first thing in the morning it's not my strong suit but that's basically that space and time a link which is a pretty big deal...</td>
+</tr>
+<tr>
 <td>hikers</td>
 <td>noun</td>
 <td>徒步旅行者</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with **hikers**, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>criminally</td>
 <td>adverb</td>
 <td>犯罪地</td>
-<td>Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that's their quote who shouldn't be held criminally responsible for...</td>
+<td>Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that's their quote who shouldn't be held **criminally** responsible for...</td>
 </tr>
 <tr>
 <td>himalayan</td>
 <td>noun</td>
-<td>喜馬拉雅山</td>
+<td>himalayan</td>
 <td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also...</td>
 </tr>
 <tr>
 <td>astronomer</td>
 <td>noun</td>
 <td>天文學家</td>
-<td>6 billion project so it's a very big deal and in a nutshell it's super powerful and it's named after the US astronomer who was also the first female NASA...</td>
+<td>6 billion project so it's a very big deal and in a nutshell it's super powerful and it's named after the US **astronomer** who was also the first female NASA...</td>
 </tr>
 <tr>
 <td>hotspot</td>
@@ -198,15 +198,15 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>Interstellar</td>
-<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 年由克里斯多福諾蘭執導的關於太空旅行和相對論的科幻電影。</td>
+<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 年克里斯多福諾蘭執導的關於太空旅行和相對論的科幻電影。</td>
 </tr>
 <tr>
 <td>Disney Plus</td>
-<td>Streaming service by Disney.／迪士尼的串流服務。</td>
+<td>Streaming service by Disney.／Streaming service by Disney.</td>
 </tr>
 <tr>
 <td>Vanilla Bean Blog</td>
-<td>Blog by Sarah Kieffer known for baking recipes.／莎拉·基弗 (Sarah Kieffer) 的部落格以烘焙食譜而聞名。</td>
+<td>Blog by Sarah Kieffer known for baking recipes.／Blog by Sarah Kieffer known for baking recipes.</td>
 </tr>
 <tr>
 <td>Secret Harbour</td>
