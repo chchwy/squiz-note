@@ -13,99 +13,231 @@ excerpt: "尼泊爾洪災、美國謀殺案審判、NASA 太空望遠鏡、西�
 - **WA by-election**: Secret Harbour electorate voting; potential three-way fight between Labor, One Nation, Liberal.
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
-| Word | Approx. Zipf Frequency | Part of Speech (guess) | Chinese Definition | Example from Transcript | Additional Example |
-|------|------------------------|------------------------|--------------------|-------------------------|--------------------|
-| ceilater | 0.00 | noun | 待查 | Quantas announced yesterday that it'll be saying
-ceilater to its fleet of Airbus A380s from 2020 A | The ceilater was notable. |
-| defat | 0.00 | noun | 待查 | Penny Wong also said Australia is deploying
-defat personnel to the region but she's stressed that it's a remote area and access and
-information and very limited given the scale of the disaster those are her words | The defat was notable. |
-| pikeit | 0.00 | noun | 待查 | I'm Anna Pikeit and I'm Larissa Huntington | The pikeit was notable. |
-| quantas | 1.40 | noun | 待查 | Quantas says Bon voyage to its A380s
-and a crowd pleasing chocolate cake | The quantas was notable. |
-| papalia | 1.50 | noun | 待查 | Back home now and over in WA we've
-got a bi-election on our hands this time in the electorate of Secret Harbour which is set to be the
-center of political attention tomorrow night where the vote is happening to replace long-time state
-Labour MP Paul Papalia | The papalia was notable. |
-| deliberates | 1.73 | noun | 待查 | A jury deliberates in the US murder trial | The deliberates was notable. |
-| keefer | 2.17 | noun | 待查 | So this cake is a version of the recipe that I've been using for years now
-from an American cook named Sarah Keefer about a hundred years ago when I used to write my baking
-blog you know about that because of my banana bread and I discovered her blog um it's called
-the vanilla bean blog and it's full of achievable and delicious cakes like this chocolate one | The keefer was notable. |
-| shouldn | 2.33 | noun | 待查 | Whether she was suffering from psychosis at the time
-and her lawyers argue that she was a darn good mother that's their quote who shouldn't be held
-criminally responsible for her actions on that basis | The shouldn was notable. |
-| meditated | 2.55 | verb | 待查 | But on the other side the prosecution says
-she took deliberate actions and the murders were pre-meditated and this trial has spot a huge
-debate in the US as Larissa was saying and hundreds of women have taken to wearing pink
-outside the court in support of Clancy | They meditated every day. |
-| larissa | 2.75 | noun | 待查 | I'm Anna Pikeit and I'm Larissa Huntington | The larissa was notable. |
-| homey | 2.75 | noun | 待查 | They were aged five, three and eight months old
-in 2023 at their homey Massachusetts | The homey was notable. |
-| wouldn | 2.80 | noun | 待查 | But ordinarily a state bi-election in what's been a pretty safe labour seat
-wouldn't be making national news but the chance that Paul in Hansen's one nation might pinch
-the seat of the dominant Labour government is creating some interest over there | The wouldn was notable. |
-| unaccounted | 2.85 | verb | 待查 | That includes 35 Australians
-and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking
-as well as for spiritual reasons and it's also a hotspot for people who like to do yoga
-meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier
-Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still
-unaccounted for with the ages of the group between 11 years old and 64 years old and this includes
-two young brothers and most of this group are thought to be from Sydney according to reports but
-this morning Harold has also spoken to a man in Melbourne who's 61-year-old father is also missing | They unaccounted every day. |
-| nepalese | 2.94 | noun | 待查 | Yes and that includes staying away
-from dangerous water and just on that we've heard from Nepalese and Chinese authorities who are saying
-that they're still a high risk that more flooding could be on the way because satellite images
-are showing that a river has been blocked and is forming a lake at the side of where the flood
-first happened on Wednesday and they've warned that this could breach and create more flooding
-downstream in the days to come | The nepalese was notable. |
-| postpartum | 2.98 | noun | 待查 | Yeah experts are saying that it's a case that has started some difficult conversations over
-in the US around postpartum mental illness | The postpartum was notable. |
-| gory | 2.98 | noun | 待查 | Now several of my girlfriends have recommended it to me it follows the hunt
-for a female serial killer but yet it's not really want to watch with any little people in your
-house because it is a bit gory I must admit that I've watched quite a lot of it from behind a cushion
-but it has got ray reviews so if you need a new series to binge over this final winter weekend
-can you believe it's the last weekend of winter I cannot you sort it but on the more happy side of
-things if you draw the bake Larissa's got you sorted | The gory was notable. |
-| trekking | 3.02 | verb | 待查 | That includes 35 Australians
-and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking
-as well as for spiritual reasons and it's also a hotspot for people who like to do yoga
-meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier
-Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still
-unaccounted for with the ages of the group between 11 years old and 64 years old and this includes
-two young brothers and most of this group are thought to be from Sydney according to reports but
-this morning Harold has also spoken to a man in Melbourne who's 61-year-old father is also missing | They trekking every day. |
-| kangaroos | 3.02 | noun | 待查 | Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop
-flights to London in New York which will launch next year in October with bookings opening for
-them from February next year | The kangaroos was notable. |
-| isn | 3.05 | noun | 待查 | Now you might be wondering why they're putting it in space but this isn't an ordinary
-telescope | The isn was notable. |
-| foundational | 3.06 | noun | 待查 | Sorry to bust out physics first thing in the morning it's not my strong suit but that's
-basically that space and time a link which is a pretty big deal given that's been a foundational
-part of physics since Einstein came up with it in the early 20th century | The foundational was notable. |
+
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Word</th>
+<th>詞性</th>
+<th>中文</th>
+<th>原文例句</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ceilater</td>
+<td>noun</td>
+<td>待查</td>
+<td>Quantas announced yesterday that it&#x27;ll be saying ceilater to its fleet of Airbus A380s from 2020 A</td>
+</tr>
+<tr>
+<td>defat</td>
+<td>noun</td>
+<td>待查</td>
+<td>Penny Wong also said Australia is deploying defat personnel to the region but she&#x27;s stressed that it&#x27;s a remote area and access and information and very limited given the scale of the disaster those are her words</td>
+</tr>
+<tr>
+<td>pikeit</td>
+<td>noun</td>
+<td>待查</td>
+<td>I&#x27;m Anna Pikeit and I&#x27;m Larissa Huntington</td>
+</tr>
+<tr>
+<td>quantas</td>
+<td>noun</td>
+<td>待查</td>
+<td>Quantas says Bon voyage to its A380s and a crowd pleasing chocolate cake</td>
+</tr>
+<tr>
+<td>papalia</td>
+<td>noun</td>
+<td>待查</td>
+<td>Back home now and over in WA we&#x27;ve got a bi-election on our hands this time in the electorate of Secret Harbour which is set to be the center of political attention tomorrow night where the vote is happening to replace long-time state Labour MP Paul Papalia</td>
+</tr>
+<tr>
+<td>deliberates</td>
+<td>noun</td>
+<td>待查</td>
+<td>A jury deliberates in the US murder trial</td>
+</tr>
+<tr>
+<td>keefer</td>
+<td>noun</td>
+<td>待查</td>
+<td>So this cake is a version of the recipe that I&#x27;ve been using for years now from an American cook named Sarah Keefer about a hundred years ago when I used to write my baking blog you know about that because of my banana bread and I discovered her blog um it&#x27;s called the vanilla bean blog and it&#x27;s full of achievable and delicious cakes like this chocolate one</td>
+</tr>
+<tr>
+<td>shouldn</td>
+<td>noun</td>
+<td>待查</td>
+<td>Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that&#x27;s their quote who shouldn&#x27;t be held criminally responsible for her actions on that basis</td>
+</tr>
+<tr>
+<td>meditated</td>
+<td>verb</td>
+<td>待查</td>
+<td>But on the other side the prosecution says she took deliberate actions and the murders were pre-meditated and this trial has spot a huge debate in the US as Larissa was saying and hundreds of women have taken to wearing pink outside the court in support of Clancy</td>
+</tr>
+<tr>
+<td>larissa</td>
+<td>noun</td>
+<td>待查</td>
+<td>I&#x27;m Anna Pikeit and I&#x27;m Larissa Huntington</td>
+</tr>
+<tr>
+<td>homey</td>
+<td>noun</td>
+<td>待查</td>
+<td>They were aged five, three and eight months old in 2023 at their homey Massachusetts</td>
+</tr>
+<tr>
+<td>wouldn</td>
+<td>noun</td>
+<td>待查</td>
+<td>But ordinarily a state bi-election in what&#x27;s been a pretty safe labour seat wouldn&#x27;t be making national news but the chance that Paul in Hansen&#x27;s one nation might pinch the seat of the dominant Labour government is creating some interest over there</td>
+</tr>
+<tr>
+<td>unaccounted</td>
+<td>verb</td>
+<td>待查</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it&#x27;s also a hotspot for people who like to do yoga meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still unaccounted for with the ages of the group between 11 years old and 64 years old and this includes two young brothers and most of this group are thought to be from Sydney according to reports but this morning Harold has also spoken to a man in Melbourne who&#x27;s 61-year-old father is also missing</td>
+</tr>
+<tr>
+<td>nepalese</td>
+<td>noun</td>
+<td>待查</td>
+<td>Yes and that includes staying away from dangerous water and just on that we&#x27;ve heard from Nepalese and Chinese authorities who are saying that they&#x27;re still a high risk that more flooding could be on the way because satellite images are showing that a river has been blocked and is forming a lake at the side of where the flood first happened on Wednesday and they&#x27;ve warned that this could breach and create more flooding downstream in the days to come</td>
+</tr>
+<tr>
+<td>postpartum</td>
+<td>noun</td>
+<td>待查</td>
+<td>Yeah experts are saying that it&#x27;s a case that has started some difficult conversations over in the US around postpartum mental illness</td>
+</tr>
+<tr>
+<td>gory</td>
+<td>noun</td>
+<td>待查</td>
+<td>Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it&#x27;s not really want to watch with any little people in your house because it is a bit gory I must admit that I&#x27;ve watched quite a lot of it from behind a cushion but it has got ray reviews so if you need a new series to binge over this final winter weekend can you believe it&#x27;s the last weekend of winter I cannot you sort it but on the more happy side of things if you draw the bake Larissa&#x27;s got you sorted</td>
+</tr>
+<tr>
+<td>trekking</td>
+<td>verb</td>
+<td>待查</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it&#x27;s also a hotspot for people who like to do yoga meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still unaccounted for with the ages of the group between 11 years old and 64 years old and this includes two young brothers and most of this group are thought to be from Sydney according to reports but this morning Harold has also spoken to a man in Melbourne who&#x27;s 61-year-old father is also missing</td>
+</tr>
+<tr>
+<td>kangaroos</td>
+<td>noun</td>
+<td>待查</td>
+<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with bookings opening for them from February next year</td>
+</tr>
+<tr>
+<td>isn</td>
+<td>noun</td>
+<td>待查</td>
+<td>Now you might be wondering why they&#x27;re putting it in space but this isn&#x27;t an ordinary telescope</td>
+</tr>
+<tr>
+<td>foundational</td>
+<td>noun</td>
+<td>待查</td>
+<td>Sorry to bust out physics first thing in the morning it&#x27;s not my strong suit but that&#x27;s basically that space and time a link which is a pretty big deal given that&#x27;s been a foundational part of physics since Einstein came up with it in the early 20th century</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
 
 ## Aussie Slang & Idioms
-| Slang/Idiom | Meaning | Chinese Explanation | Usage Note | Example from Transcript |
-|-------------|---------|---------------------|------------|-------------------------|
-| roo | kangaroo | kangaroo | Informal/Australian | Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop
-flights to London in New York which will launch next year in October with bookings opening for
-them from February next year |
-| ta | thanks | thanks | Informal/Australian | Quantas says Bon voyage to its A380s
-and a crowd pleasing chocolate cake |
+
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>Slang / Idiom</th>
+<th>意思</th>
+<th>中文</th>
+<th>原文例句</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>roo</td>
+<td>kangaroo</td>
+<td>kangaroo</td>
+<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with bookings opening for them from February next year</td>
+</tr>
+<tr>
+<td>ta</td>
+<td>thanks</td>
+<td>thanks</td>
+<td>Quantas says Bon voyage to its A380s and a crowd pleasing chocolate cake</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
 
 ## Cultural Background Explanation
-| Reference | Explanation | Chinese Explanation | Notes |
-|-----------|-------------|---------------------|-------|
-| Deacon University | Likely meant Deakin University, Australian university in Victoria. | Likely meant Deakin University, Australian university in Victoria. | AU vs US/UK |
-| Consular Emergency Centre | Australian government 24/7 hotline for Australians overseas in distress. | Australian government 24/7 hotline for Australians overseas in distress. | AU vs US/UK |
-| One Nation | Australian political party founded by Pauline Hanson, right-wing populist. | Australian political party founded by Pauline Hanson, right-wing populist. | AU vs US/UK |
-| Nancy Grace Roman Space Telescope | NASA space telescope named after first female NASA executive, launching 2027. | NASA space telescope named after first female NASA executive, launching 2027. | AU vs US/UK |
-| Project Sunrise | Qantas project for nonstop flights from Sydney to London and New York. | Qantas project for nonstop flights from Sydney to London and New York. | AU vs US/UK |
-| Interstellar | 2014 sci-fi film directed by Christopher Nolan about space travel and relativity. | 2014 sci-fi film directed by Christopher Nolan about space travel and relativity. | AU vs US/UK |
-| Disney Plus | Streaming service by Disney. | Streaming service by Disney. | AU vs US/UK |
-| Vanilla Bean Blog | Blog by Sarah Kieffer known for baking recipes. | Blog by Sarah Kieffer known for baking recipes. | AU vs US/UK |
-| Secret Harbour | Suburb of Perth, Western Australia. | Suburb of Perth, Western Australia. | AU vs US/UK |
-| Sydney Morning Herald | Major newspaper in Sydney, Australia. | Major newspaper in Sydney, Australia. | AU vs US/UK |
+
+<div class="table-wrap">
+<table>
+<thead>
+<tr>
+<th>名稱</th>
+<th>說明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Deacon University</td>
+<td>Likely meant Deakin University, Australian university in Victoria.</td>
+</tr>
+<tr>
+<td>Consular Emergency Centre</td>
+<td>Australian government 24/7 hotline for Australians overseas in distress.</td>
+</tr>
+<tr>
+<td>One Nation</td>
+<td>Australian political party founded by Pauline Hanson, right-wing populist.</td>
+</tr>
+<tr>
+<td>Nancy Grace Roman Space Telescope</td>
+<td>NASA space telescope named after first female NASA executive, launching 2027.</td>
+</tr>
+<tr>
+<td>Project Sunrise</td>
+<td>Qantas project for nonstop flights from Sydney to London and New York.</td>
+</tr>
+<tr>
+<td>Interstellar</td>
+<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.</td>
+</tr>
+<tr>
+<td>Disney Plus</td>
+<td>Streaming service by Disney.</td>
+</tr>
+<tr>
+<td>Vanilla Bean Blog</td>
+<td>Blog by Sarah Kieffer known for baking recipes.</td>
+</tr>
+<tr>
+<td>Secret Harbour</td>
+<td>Suburb of Perth, Western Australia.</td>
+</tr>
+<tr>
+<td>Sydney Morning Herald</td>
+<td>Major newspaper in Sydney, Australia.</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
 
 ## Full Transcript
 ```
