@@ -17,10 +17,19 @@ table {
 
 th,
 td {
-  white-space: normal;
-  word-break: break-word;
   vertical-align: top;
   line-height: 1.45;
+}
+
+th {
+  white-space: nowrap;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+td {
+  white-space: normal;
+  overflow-wrap: break-word;
 }
 
 td:last-child {
