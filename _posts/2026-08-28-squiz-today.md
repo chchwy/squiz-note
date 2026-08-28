@@ -6,6 +6,11 @@ categories: notes
 excerpt: "尼泊爾洪災、美國謀殺案審判、NASA 太空望遠鏡、西澳補選"
 ---
 
+## Listen／收聽本集
+
+- [Apple Podcasts](https://podcasts.apple.com/tw/podcast/the-nepal-toll-climbs-and-a-historic-space-telescope-launch/id1385995581?i=1000786341122)
+- [YouTube](https://www.youtube.com/watch?v=XG0cXyPjLPE)
+
 ## News Highlights
 
 - **Nepal floods／尼泊爾洪災**  
