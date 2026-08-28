@@ -3,7 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-26"
 date: 2026-08-26 07:00:00 +0800
 categories: notes
-excerpt: "Poor Punker Shot、Police Officers Victoria、Local Mentioned Events、Music Songs Huge、Crowd Generations Watch、PM Anthony Albanese Territory Australia、Games South Sydney Rabbitos Play、Batman Local Council、Tomato Throwing Listening"
+excerpt: "Police shooting anniversary and memorials、Dolly Parton's death and legacy、National Cabinet considers AI and gun reform、Jai Arrow receives a special chance to reach 100 NRL games、Batman movie estate faces action over disrepair and bats、La Tomatina and other unusual festivals"
 ---
 
 ## Listen／收聽本集
@@ -13,41 +13,29 @@ excerpt: "Poor Punker Shot、Police Officers Victoria、Local Mentioned Events�
 
 ## News Highlights
 
-- **Poor Punker Shot／糟糕的朋克射擊**
-  This is a Squiz podcast, where you're shot cut to being informed. Good morning.
-  這是一個 Squiz 播客，您將被切入其中以獲取資訊。早安.
+- **Police shooting anniversary and memorials／警察槍擊事件週年紀念和紀念活動**
+  It was a year ago today that two Victorian police officers were killed, and another was injured by the gunman, Desi Freeman, while they were attending a rural property in poor punker. But just to recap, a year ago, 10 police officers arrived at a...
+  一年前的今天，兩名維多利亞州警察被殺，另一名警察在槍手德西·弗裏曼（ Desi Freeman ）在貧窮的龐克中參加農村財產時受傷。但回顧一下，一年前， 10名警察來到一個…
 
-- **Police Officers Victoria／維多利亞警察**
-  But just to recap, a year ago, 10 police officers arrived at a house to serve a search warrant on Freeman in Victoria's northeast Alpine region when he opened fire on them.
-  但回顧一下，一年前，10 名警察來到維多利亞州東北阿爾卑斯地區的一所房子，對弗里曼執行搜查令，但弗里曼向他們開槍。
+- **Dolly Parton's death and legacy／多莉·帕頓的去世和遺產**
+  And as I mentioned in the headlines, Anna, the queen of country music, Dolly Parton, has died at the age of 80. And within the space of just a few days, these songs in question were Jolene and I Will Always Love You, which I...
+  正如我在頭條新聞中提到的，鄉村音樂女王安娜 (Anna) 多莉·帕頓 (Dolly Parton) 去世，享年 80 歲。在短短幾天內，這些有問題的歌曲是《喬琳》(Jolene) 和《我將永遠愛你》(I Will Always Love You)，我…
 
-- **Local Mentioned Events／當地提及的事件**
-  And as we mentioned on the pod yesterday, events have already taken place to remember Senior Constable Vadim Davar Hotat and Detective-leading Senior Constable Neil Thompson in Victoria's High Country.
-  正如我們昨天在播客中提到的，維多利亞州高地地區已經舉辦了紀念高級警官瓦迪姆·達瓦爾·霍塔特和偵探領導的高級警官尼爾·湯普森的活動。
+- **National Cabinet considers AI and gun reform／國家內閣考慮人工智慧和槍支改革**
+  This time, National Standards for Artificial Intelligence and Gun Reforms are promising to be top of the agenda. That's where PM Anthony Albanese gets together with state and territory leaders to talk some of the big ticket items affecting Australia.
+  這一次，人工智慧國家標準和槍支改革有望成為首要議程。總理安東尼·艾博尼斯 (Anthony Albanese) 在這裡與各州和領地領導人會面，討論影響澳洲的一些重大問題。
 
-- **Music Songs Huge／音樂歌曲巨大**
-  She was born in Tennessee, the fourth of 12 children, and her career spans seven decades, during which she wrote two, at least two, of the most famous songs of all time.
-  她出生於田納西州，在 12 個孩子中排行第四，她的職業生涯跨越了七十年，在此期間她創作了兩首（至少兩首）有史以來最著名的歌曲。
+- **Jai Arrow receives a special chance to reach 100 NRL games／Jai Arrow 獲得參加 100 場 NRL 比賽的特殊機會**
+  They're going to allow him to play two more games so he can reach his 100-game milestone for his club, which is the South Sydney Rabbitos. He's the 31-year-old NRL star who had to retire following a diagnosis of motor neurone disease.
+  他們將允許他再打兩場比賽，這樣他就可以為他的俱樂部（南雪梨兔子隊）達到 100 場比賽的里程碑。他是 31 歲的 NRL 明星，在診斷出運動神經元疾病後不得不退休。
 
-- **Crowd Generations Watch／人群世代觀看**
-  She was 68 at the time. And, Andrew, the way she could command a crowd across a heap of generations was incredible to watch.
-  當時她68歲。而且，安德魯，她能夠指揮幾代人的人群的方式令人難以置信。
+- **Batman movie estate faces action over disrepair and bats／蝙蝠俠電影莊園因年久失修和蝙蝠而面臨訴訟**
+  The owner of a British estate used as a location in a Batman movie has been told that it might be taken off his hands if he doesn't hire someone to come in and assess the joint for bats. And it's now in such a...
+  英國一處莊園的主人被告知，如果他不僱人進來評估該莊園是否有蝙蝠，那麼這座莊園可能會被從他手中奪走。而現在又是在這樣一個...
 
-- **PM Anthony Albanese Territory Australia／澳洲總理安東尼·阿爾巴內斯領地**
-  That's where PM Anthony Albanese gets together with state and territory leaders to talk some of the big ticket items affecting Australia.
-  總理安東尼·艾博尼斯 (Anthony Albanese) 在這裡與各州和領地領導人會面，討論影響澳洲的一些重大問題。
-
-- **Games South Sydney Rabbitos Play／南悉尼兔子玩遊戲**
-  It did. They're going to allow him to play two more games so he can reach his 100-game milestone for his club, which is the South Sydney Rabbitos.
-  確實如此。他們將允許他再打兩場比賽，這樣他就可以為他的俱樂部（南雪梨兔子隊）達到 100 場比賽的里程碑。
-
-- **Batman Local Council／蝙蝠俠地方議會**
-  So that's Batman's house. In the 2005 Christopher Nolan movie, Batman Begins, which starred Christian Bale and Liam Neeson.
-  這就是蝙蝠俠的房子。 2005 年克里斯多福諾蘭執導的電影《蝙蝠俠：俠影之謎》由克里斯汀貝爾和連恩尼遜主演。
-
-- **Tomato Throwing Listening／番茄投擲聽力**
-  And on the off chance you're listening to us from Spain, watch out because today is La Tomatina, the largest tomato throwing festival in the world, which got us wondering just how many of these...
-  如果您在西班牙收聽我們的節目，請注意，因為今天是 La Tomatina，世界上最大的西紅柿投擲節，這讓我們想知道其中有多少...
+- **La Tomatina and other unusual festivals／La Tomatina 和其他不尋常的節日**
+  And on the off chance you're listening to us from Spain, watch out because today is La Tomatina, the largest tomato throwing festival in the world, which got us wondering just how many of these there are around the world. In order to be the...
+  如果您在西班牙收聽我們的節目，請注意，因為今天是 La Tomatina，世界上最大的西紅柿投擲節，這讓我們想知道世界各地有多少西紅柿投擲節。為了成為...
 
 ## Full Transcript
 
@@ -153,8 +141,8 @@ What else? Of course. Mentmore Towers in **Buckinghamshire** was used as the loc
 #### Words in this section
 
 - **buckinghamshire**：白金漢郡
-- **subbed**：替補
 - **roosters**：公雞
+- **subbed**：替補
 
 ### Batman Local Council
 
@@ -249,11 +237,6 @@ We'll be back with you again tomorrow.
 <td>逃避</td>
 </tr>
 <tr>
-<td>buckinghamshire</td>
-<td>noun</td>
-<td>白金漢郡</td>
-</tr>
-<tr>
 <td>manhunt</td>
 <td>noun</td>
 <td>追捕</td>
@@ -264,14 +247,19 @@ We'll be back with you again tomorrow.
 <td>帕頓</td>
 </tr>
 <tr>
-<td>subbed</td>
-<td>verb</td>
-<td>替補</td>
+<td>buckinghamshire</td>
+<td>noun</td>
+<td>白金漢郡</td>
 </tr>
 <tr>
 <td>roosters</td>
 <td>noun</td>
 <td>公雞</td>
+</tr>
+<tr>
+<td>subbed</td>
+<td>verb</td>
+<td>替補</td>
 </tr>
 </tbody>
 </table>
