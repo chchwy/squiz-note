@@ -73,28 +73,28 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <td>Yes and that includes staying away from dangerous water and just on that we've heard from Nepalese and Chinese authorities who are saying that they're still a high risk that more flooding could be on the way because satellite images are showing that a river has been blocked and is forming a lake at the side of where the flood first happened on Wednesday and they've warned that this could breach and create more flooding downstream in the days to come</td>
 </tr>
 <tr>
-<td>gory</td>
-<td>noun</td>
-<td>血淋淋的</td>
-<td>Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it's not really want to watch with any little people in your house because it is a bit gory I must admit that I've watched quite a lot of it from behind a cushion but it has got ray reviews so if you need a new series to binge over this final winter weekend can you believe it's the last weekend of winter I cannot you sort it but on the more happy side of things if you draw the bake Larissa's got you sorted</td>
-</tr>
-<tr>
 <td>postpartum</td>
 <td>noun</td>
 <td>產後</td>
 <td>Yeah experts are saying that it's a case that has started some difficult conversations over in the US around postpartum mental illness</td>
 </tr>
 <tr>
-<td>trekking</td>
-<td>verb</td>
-<td>健行</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also a hotspot for people who like to do yoga meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still unaccounted for with the ages of the group between 11 years old and 64 years old and this includes two young brothers and most of this group are thought to be from Sydney according to reports but this morning Harold has also spoken to a man in Melbourne who's 61-year-old father is also missing</td>
+<td>gory</td>
+<td>noun</td>
+<td>血淋淋的</td>
+<td>Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it's not really want to watch with any little people in your house because it is a bit gory I must admit that I've watched quite a lot of it from behind a cushion but it has got ray reviews so if you need a new series to binge over this final winter weekend can you believe it's the last weekend of winter I cannot you sort it but on the more happy side of things if you draw the bake Larissa's got you sorted</td>
 </tr>
 <tr>
 <td>kangaroos</td>
 <td>noun</td>
 <td>袋鼠</td>
 <td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with bookings opening for them from February next year</td>
+</tr>
+<tr>
+<td>trekking</td>
+<td>verb</td>
+<td>健行</td>
+<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it's also a hotspot for people who like to do yoga meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still unaccounted for with the ages of the group between 11 years old and 64 years old and this includes two young brothers and most of this group are thought to be from Sydney according to reports but this morning Harold has also spoken to a man in Melbourne who's 61-year-old father is also missing</td>
 </tr>
 <tr>
 <td>aussies</td>
@@ -178,7 +178,7 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tbody>
 <tr>
 <td>Deacon University</td>
-<td>Likely meant Deakin University, Australian university in Victoria.／可能指的是位於維多利亞的澳洲大學迪肯大學。</td>
+<td>Likely meant Deakin University, Australian university in Victoria.／Likely meant Deakin University, Australian university in Victoria.</td>
 </tr>
 <tr>
 <td>Consular Emergency Centre</td>
@@ -198,7 +198,7 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>Interstellar</td>
-<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 年克里斯多福諾蘭執導的關於太空旅行和相對論的科幻電影。</td>
+<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 年由克里斯多福諾蘭執導的關於太空旅行和相對論的科幻電影。</td>
 </tr>
 <tr>
 <td>Disney Plus</td>
@@ -206,7 +206,7 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>Vanilla Bean Blog</td>
-<td>Blog by Sarah Kieffer known for baking recipes.／Blog by Sarah Kieffer known for baking recipes.</td>
+<td>Blog by Sarah Kieffer known for baking recipes.／莎拉·基弗 (Sarah Kieffer) 的部落格以烘焙食譜而聞名。</td>
 </tr>
 <tr>
 <td>Secret Harbour</td>
