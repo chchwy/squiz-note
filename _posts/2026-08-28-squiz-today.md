@@ -7,10 +7,26 @@ excerpt: "尼泊爾洪災、美國謀殺案審判、NASA 太空望遠鏡、西�
 ---
 
 ## News Highlights
-- **Nepal floods**: 35 Australians missing, death toll around 400, over 1300 missing globally.
-- **US murder trial**: Lindsay Clancy accused of murdering her three children; trial sparks debate on postpartum mental illness.
-- **NASA space telescope launch**: Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
-- **WA by-election**: Secret Harbour electorate voting; potential three-way fight between Labor, One Nation, Liberal.
+
+- **Nepal floods／尼泊爾洪災**  
+  About 400 confirmed dead and at least 1,300 missing worldwide, including 35 Australians.  
+  全球約 400 人確認死亡、至少 1,300 人失蹤，其中包含 35 名澳洲人。
+
+- **US murder trial／美國謀殺案審判**  
+  Jury is deliberating in the Lindsay Clancy case; the trial has sparked debate on postpartum mental illness.  
+  陪審團正在審議 Lindsay Clancy 案，引發產後精神疾病相關討論。
+
+- **NASA space telescope／NASA 太空望遠鏡**  
+  The Nancy Grace Roman Space Telescope is scheduled to launch, to study dark matter and dark energy.  
+  南希·格雷斯·羅曼太空望遠鏡預計發射，用於研究暗物質與暗能量。
+
+- **WA by-election／西澳補選**  
+  Secret Harbour votes to replace a long-time Labor MP; Labor, One Nation and the Liberals are in a three-way fight.  
+  Secret Harbour 補選將改選長期工黨議員；工黨、One Nation 與自由黨三方競爭。
+
+- **Qantas A380s／澳洲航空 A380**  
+  Qantas will retire its A380 fleet from 2028, four years earlier than planned.  
+  澳洲航空將自 2028 年起退役 A380 機隊，比原定計畫提早四年。
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
@@ -26,130 +42,98 @@ excerpt: "尼泊爾洪災、美國謀殺案審判、NASA 太空望遠鏡、西�
 </thead>
 <tbody>
 <tr>
-<td>ceilater</td>
-<td>noun</td>
-<td>待查</td>
-<td>Quantas announced yesterday that it&#x27;ll be saying ceilater to its fleet of Airbus A380s from 2020 A</td>
-</tr>
-<tr>
-<td>defat</td>
-<td>noun</td>
-<td>待查</td>
-<td>Penny Wong also said Australia is deploying defat personnel to the region but she&#x27;s stressed that it&#x27;s a remote area and access and information and very limited given the scale of the disaster those are her words</td>
-</tr>
-<tr>
-<td>pikeit</td>
-<td>noun</td>
-<td>待查</td>
-<td>I&#x27;m Anna Pikeit and I&#x27;m Larissa Huntington</td>
-</tr>
-<tr>
-<td>quantas</td>
-<td>noun</td>
-<td>待查</td>
-<td>Quantas says Bon voyage to its A380s and a crowd pleasing chocolate cake</td>
-</tr>
-<tr>
-<td>papalia</td>
-<td>noun</td>
-<td>待查</td>
-<td>Back home now and over in WA we&#x27;ve got a bi-election on our hands this time in the electorate of Secret Harbour which is set to be the center of political attention tomorrow night where the vote is happening to replace long-time state Labour MP Paul Papalia</td>
-</tr>
-<tr>
-<td>deliberates</td>
-<td>noun</td>
-<td>待查</td>
-<td>A jury deliberates in the US murder trial</td>
-</tr>
-<tr>
-<td>keefer</td>
-<td>noun</td>
-<td>待查</td>
-<td>So this cake is a version of the recipe that I&#x27;ve been using for years now from an American cook named Sarah Keefer about a hundred years ago when I used to write my baking blog you know about that because of my banana bread and I discovered her blog um it&#x27;s called the vanilla bean blog and it&#x27;s full of achievable and delicious cakes like this chocolate one</td>
-</tr>
-<tr>
-<td>shouldn</td>
-<td>noun</td>
-<td>待查</td>
-<td>Whether she was suffering from psychosis at the time and her lawyers argue that she was a darn good mother that&#x27;s their quote who shouldn&#x27;t be held criminally responsible for her actions on that basis</td>
-</tr>
-<tr>
-<td>meditated</td>
-<td>verb</td>
-<td>待查</td>
-<td>But on the other side the prosecution says she took deliberate actions and the murders were pre-meditated and this trial has spot a huge debate in the US as Larissa was saying and hundreds of women have taken to wearing pink outside the court in support of Clancy</td>
-</tr>
-<tr>
-<td>larissa</td>
-<td>noun</td>
-<td>待查</td>
-<td>I&#x27;m Anna Pikeit and I&#x27;m Larissa Huntington</td>
-</tr>
-<tr>
-<td>homey</td>
-<td>noun</td>
-<td>待查</td>
-<td>They were aged five, three and eight months old in 2023 at their homey Massachusetts</td>
-</tr>
-<tr>
-<td>wouldn</td>
-<td>noun</td>
-<td>待查</td>
-<td>But ordinarily a state bi-election in what&#x27;s been a pretty safe labour seat wouldn&#x27;t be making national news but the chance that Paul in Hansen&#x27;s one nation might pinch the seat of the dominant Labour government is creating some interest over there</td>
-</tr>
-<tr>
 <td>unaccounted</td>
-<td>verb</td>
-<td>待查</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it&#x27;s also a hotspot for people who like to do yoga meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still unaccounted for with the ages of the group between 11 years old and 64 years old and this includes two young brothers and most of this group are thought to be from Sydney according to reports but this morning Harold has also spoken to a man in Melbourne who&#x27;s 61-year-old father is also missing</td>
-</tr>
-<tr>
-<td>nepalese</td>
-<td>noun</td>
-<td>待查</td>
-<td>Yes and that includes staying away from dangerous water and just on that we&#x27;ve heard from Nepalese and Chinese authorities who are saying that they&#x27;re still a high risk that more flooding could be on the way because satellite images are showing that a river has been blocked and is forming a lake at the side of where the flood first happened on Wednesday and they&#x27;ve warned that this could breach and create more flooding downstream in the days to come</td>
+<td>adj.</td>
+<td>下落不明的、尚未列入統計的</td>
+<td>a group of 15 Aussies … are still unaccounted for</td>
 </tr>
 <tr>
 <td>postpartum</td>
-<td>noun</td>
-<td>待查</td>
-<td>Yeah experts are saying that it&#x27;s a case that has started some difficult conversations over in the US around postpartum mental illness</td>
+<td>adj.</td>
+<td>產後的</td>
+<td>difficult conversations … around postpartum mental illness</td>
 </tr>
 <tr>
-<td>gory</td>
-<td>noun</td>
-<td>待查</td>
-<td>Now several of my girlfriends have recommended it to me it follows the hunt for a female serial killer but yet it&#x27;s not really want to watch with any little people in your house because it is a bit gory I must admit that I&#x27;ve watched quite a lot of it from behind a cushion but it has got ray reviews so if you need a new series to binge over this final winter weekend can you believe it&#x27;s the last weekend of winter I cannot you sort it but on the more happy side of things if you draw the bake Larissa&#x27;s got you sorted</td>
+<td>premeditated</td>
+<td>adj.</td>
+<td>預謀的</td>
+<td>the murders were premeditated</td>
+</tr>
+<tr>
+<td>psychosis</td>
+<td>n.</td>
+<td>精神病發作、精神錯亂</td>
+<td>whether she was suffering from psychosis at the time</td>
+</tr>
+<tr>
+<td>deliberates</td>
+<td>v.</td>
+<td>（陪審團）審議、慎重考慮</td>
+<td>A jury deliberates in the US murder trial</td>
+</tr>
+<tr>
+<td>consular</td>
+<td>adj.</td>
+<td>領事的</td>
+<td>contact the government's 24-hour Consular Emergency Centre</td>
+</tr>
+<tr>
+<td>deploying</td>
+<td>v.</td>
+<td>部署、派遣</td>
+<td>Australia is deploying DFAT personnel to the region</td>
+</tr>
+<tr>
+<td>downstream</td>
+<td>adv./adj.</td>
+<td>下游（的）</td>
+<td>create more flooding downstream in the days to come</td>
+</tr>
+<tr>
+<td>electorate</td>
+<td>n.</td>
+<td>選區</td>
+<td>a by-election … in the electorate of Secret Harbour</td>
+</tr>
+<tr>
+<td>pilgrimage</td>
+<td>n.</td>
+<td>朝聖、朝聖之旅</td>
+<td>a group of 15 Aussies that had taken on a pilgrimage in Nepal</td>
 </tr>
 <tr>
 <td>trekking</td>
-<td>verb</td>
-<td>待查</td>
-<td>That includes 35 Australians and the area as we said yesterday is pretty popular with hikers, tourists and pilgrims for trekking as well as for spiritual reasons and it&#x27;s also a hotspot for people who like to do yoga meditation there and yesterday morning we heard from a US-based tour company called Himalayan Glacier Adventures which said that a group of 15 Aussies that had taken on a pilgrimage in Nepal are still unaccounted for with the ages of the group between 11 years old and 64 years old and this includes two young brothers and most of this group are thought to be from Sydney according to reports but this morning Harold has also spoken to a man in Melbourne who&#x27;s 61-year-old father is also missing</td>
-</tr>
-<tr>
-<td>kangaroos</td>
-<td>noun</td>
-<td>待查</td>
-<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with bookings opening for them from February next year</td>
-</tr>
-<tr>
-<td>isn</td>
-<td>noun</td>
-<td>待查</td>
-<td>Now you might be wondering why they&#x27;re putting it in space but this isn&#x27;t an ordinary telescope</td>
+<td>n./v.</td>
+<td>健行、長途徒步</td>
+<td>pretty popular with hikers, tourists and pilgrims for trekking</td>
 </tr>
 <tr>
 <td>foundational</td>
-<td>noun</td>
-<td>待查</td>
-<td>Sorry to bust out physics first thing in the morning it&#x27;s not my strong suit but that&#x27;s basically that space and time a link which is a pretty big deal given that&#x27;s been a foundational part of physics since Einstein came up with it in the early 20th century</td>
+<td>adj.</td>
+<td>基礎的、根本的</td>
+<td>that's been a foundational part of physics since Einstein</td>
+</tr>
+<tr>
+<td>infrared</td>
+<td>adj.</td>
+<td>紅外線的</td>
+<td>it's got infrared cameras that can survey deep space</td>
+</tr>
+<tr>
+<td>gory</td>
+<td>adj.</td>
+<td>血腥的、殘暴的</td>
+<td>it is a bit gory</td>
+</tr>
+<tr>
+<td>binge</td>
+<td>v.</td>
+<td>一口氣看完、狂看</td>
+<td>if you need a new series to binge over this final winter weekend</td>
 </tr>
 </tbody>
 </table>
 </div>
-
-
 
 ## Aussie Slang & Idioms
 
@@ -165,22 +149,50 @@ excerpt: "尼泊爾洪災、美國謀殺案審判、NASA 太空望遠鏡、西�
 </thead>
 <tbody>
 <tr>
-<td>roo</td>
-<td>kangaroo</td>
-<td>kangaroo</td>
-<td>Yeah the other thing on the horizon for the flying kangaroos projects sunrise with its nonstop flights to London in New York which will launch next year in October with bookings opening for them from February next year</td>
+<td>Aussies</td>
+<td>Australians (informal)</td>
+<td>澳洲人（口語）</td>
+<td>a group of 15 Aussies that had taken on a pilgrimage in Nepal</td>
 </tr>
 <tr>
-<td>ta</td>
-<td>thanks</td>
-<td>thanks</td>
-<td>Quantas says Bon voyage to its A380s and a crowd pleasing chocolate cake</td>
+<td>the flying kangaroo</td>
+<td>nickname for Qantas</td>
+<td>澳洲航空的暱稱（飛天袋鼠）</td>
+<td>the other thing on the horizon for the flying kangaroo is Project Sunrise</td>
+</tr>
+<tr>
+<td>see you later</td>
+<td>goodbye; here: retire / farewell</td>
+<td>再見；此處比喻「告別、退役」</td>
+<td>it'll be saying see you later to its fleet of Airbus A380s</td>
+</tr>
+<tr>
+<td>pinch the seat</td>
+<td>snatch a parliamentary seat</td>
+<td>搶下議席</td>
+<td>One Nation might pinch the seat off the dominant Labor government</td>
+</tr>
+<tr>
+<td>got you sorted</td>
+<td>taken care of; organised for you</td>
+<td>幫你搞定了</td>
+<td>if you'd rather bake, Larissa's got you sorted</td>
+</tr>
+<tr>
+<td>darn good</td>
+<td>really good (mild swear)</td>
+<td>非常好、夠讚的（語氣較重的口語）</td>
+<td>she was a darn good mother, that's their quote</td>
+</tr>
+<tr>
+<td>to the tune of</td>
+<td>amounting to (a figure)</td>
+<td>高達、總計約</td>
+<td>that hit was to the tune of $420 million for the year</td>
 </tr>
 </tbody>
 </table>
 </div>
-
-
 
 ## Cultural Background Explanation
 
@@ -194,52 +206,51 @@ excerpt: "尼泊爾洪災、美國謀殺案審判、NASA 太空望遠鏡、西�
 </thead>
 <tbody>
 <tr>
-<td>Deacon University</td>
-<td>Likely meant Deakin University, Australian university in Victoria.</td>
+<td>Deakin University</td>
+<td>澳洲維多利亞州的迪肯大學。節目裡的贊助口白被 Whisper 聽成 Deacon University。</td>
+</tr>
+<tr>
+<td>DFAT</td>
+<td>澳洲外交貿易部（Department of Foreign Affairs and Trade）。節目說澳洲會派遣 DFAT 人員到災區。</td>
 </tr>
 <tr>
 <td>Consular Emergency Centre</td>
-<td>Australian government 24/7 hotline for Australians overseas in distress.</td>
+<td>澳洲政府 24 小時領事緊急中心，供海外澳洲人求助。</td>
 </tr>
 <tr>
 <td>One Nation</td>
-<td>Australian political party founded by Pauline Hanson, right-wing populist.</td>
-</tr>
-<tr>
-<td>Nancy Grace Roman Space Telescope</td>
-<td>NASA space telescope named after first female NASA executive, launching 2027.</td>
-</tr>
-<tr>
-<td>Project Sunrise</td>
-<td>Qantas project for nonstop flights from Sydney to London and New York.</td>
-</tr>
-<tr>
-<td>Interstellar</td>
-<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.</td>
-</tr>
-<tr>
-<td>Disney Plus</td>
-<td>Streaming service by Disney.</td>
-</tr>
-<tr>
-<td>Vanilla Bean Blog</td>
-<td>Blog by Sarah Kieffer known for baking recipes.</td>
+<td>寶琳·韓森（Pauline Hanson）創立的澳洲右翼民粹政黨。</td>
 </tr>
 <tr>
 <td>Secret Harbour</td>
-<td>Suburb of Perth, Western Australia.</td>
+<td>西澳伯斯南方的郊區選區，本次補選焦點。</td>
+</tr>
+<tr>
+<td>Qantas / 飛天袋鼠</td>
+<td>澳洲國家航空公司，綽號 the flying kangaroo。</td>
+</tr>
+<tr>
+<td>Project Sunrise</td>
+<td>澳洲航空計畫開辦雪梨直飛倫敦、紐約的超長程航班。</td>
+</tr>
+<tr>
+<td>Nancy Grace Roman Space Telescope</td>
+<td>NASA 太空望遠鏡，以首位女性 NASA 高階主管命名，用來探測暗物質與暗能量。</td>
+</tr>
+<tr>
+<td>Interstellar</td>
+<td>2014 年克里斯多福·諾蘭的科幻片《星際效應》，討論時空與相對論。</td>
 </tr>
 <tr>
 <td>Sydney Morning Herald</td>
-<td>Major newspaper in Sydney, Australia.</td>
+<td>雪梨晨鋒報，澳洲主要報紙之一。</td>
 </tr>
 </tbody>
 </table>
 </div>
 
-
-
 ## Full Transcript
+
 ```
 This is a squeeze podcast where your shortcut to being informed.
 Before we get into the news a message from Deacon University.
@@ -353,5 +364,4 @@ such a bad sweet tooth but I'll give this one a try. We'll put a link to that re
 show notes if you'd like to have a go as well. And that wraps us up for the week. Thank you as
 always for listening. We hope you have a lovely and safe weekend and Andrew and I will be back with
 you again on Mum Day.
-
 ```
