@@ -13,29 +13,29 @@ excerpt: "Coles and Woolworths report stronger-than-expected profits、Australia
 
 ## News Highlights
 
-- **Coles and Woolworths report stronger-than-expected profits／Coles 和 Woolworths 報告利潤強於預期**
-  In your squiz today, Coles and Woollies bag profits, deadly floods in Nepal, meta agrees to big changes in the US, and tributes roll in for Dolly. Larissa, our two biggest supermarkets, Coles and Woollies, have been in the headlines this week after posting their...
-  在今天的測驗中，Coles 和 Woollies 獲得了利潤，尼泊爾發生了致命的洪水，meta 同意美國發生重大變化，並向多莉致敬。 Larissa，我們最大的兩家超市，Coles 和 Woollies，在發布了他們的...後成為了本週的頭條新聞。
+- **Coles and Woolworths report stronger-than-expected profits／Coles和Woolworths報告利潤強於預期**
+  Larissa, our two biggest supermarkets, Coles and Woollies, have been in the headlines this week after posting their results for the last financial year. And to break down the results for you, Woolworths Group made a profit of 1.4 billion, which was up by 18%.
+  我們最大的兩家超市Larissa ， Coles和Woollies ，在上一財政年度公布業績後，本週成為頭條新聞。為了讓您了解業績， Woolworths Group賺取了14億美元的利潤，增長了18 ％。
 
-- **Australian inflation remains above expectations／澳洲通膨仍高於預期**
+- **Australian inflation remains above expectations／澳洲通脹仍高於預期**
   And while we're talking groceries and prices, the Bureau of Stats released our latest inflation figures yesterday. So the Consumer Price Index is our measure for inflation, and it tracks how much a basket of goods has gone up over time.
-  當我們談論食品雜貨和價格時，統計局昨天發布了最新的通膨數據。因此，消費者物價指數是我們衡量通貨膨脹的指標，它追蹤一籃子商品隨著時間的推移而上漲了多少。
+  在我們談論生鮮雜貨和價格的同時，統計局昨天發布了最新的通貨膨脹數據。因此，消費者物價指數是我們衡量通貨膨脹的指標，它追蹤一籃子商品隨著時間的推移上漲了多少。
 
-- **Deadly landslide and floods leave Australians missing in Nepal／致命的山體滑坡和洪水導致澳洲人在尼泊爾失踪**
+- **Deadly landslide and floods leave Australians missing in Nepal／致命的山體滑坡和洪水使尼泊爾的澳大利亞人失蹤**
   Larissa, we've woken up to news that 34 Australians are missing in flash flooding in Nepal after a huge chunk of ice from what experts say was a glacier between Nepal and Tibet fell more than 500 metres into a river in a Himalayan valley....
-  拉里薩，我們一覺醒來就得知消息稱，尼泊爾和西藏之間的一座冰川的一大塊冰塊墜入喜馬拉雅山谷的一條河流中，墜入了 500 多米深，導致 34 名澳大利亞人在尼泊爾山洪中失踪。
+  Larissa ，我們得知34名澳洲人在尼泊爾的山洪暴發中失蹤，因為專家說尼泊爾和西藏之間的一座冰川掉進喜馬拉雅山谷的一條河流超過500米。
 
-- **Meta agrees to major changes to protect children online／Meta 同意做出重大改變以保護上網兒童**
-  The owner of Facebook and Instagram has agreed to pay $23.6 billion to the states along with making what's being described as significant changes to its platforms in the US. Researchers found many support tighter regulation, particularly on social media.
-  Facebook 和 Instagram 的所有者已同意向各州支付 236 億美元，同時對其在美國的平台進行所謂的重大改變。研究人員發現許多人支持更嚴格的監管，尤其是在社群媒體上。
+- **Meta agrees to major changes to protect children online／Meta同意重大變更，以保護線上兒童**
+  The owner of Facebook and Instagram has agreed to pay $23.6 billion to the states along with making what's being described as significant changes to its platforms in the US.
+  Facebook和Instagram的所有者已同意向各州支付236億$ ，並對其在美國的平臺進行重大改變。
 
 - **Australia mourns the death of Dolly Parton／澳洲哀悼多莉·帕頓的去世**
   So leading the tributes was Dolly's 9 to 5 co-star Jane Fonda, who said that her friend will always be with us because she was so present, so powerful, so generous and playful that she is woven into all of our lives and hearts forever....
   領頭致敬的是多莉朝九晚五的搭檔簡·方達，她說她的朋友將永遠和我們在一起，因為她如此臨在，如此強大，如此慷慨和頑皮，以至於她永遠融入了我們所有人的生活和心靈......
 
 - **Young Australians call for stronger restrictions on gambling advertising／澳洲年輕人呼籲加強對賭博廣告的限制**
-  Young Australians are also being exposed and that's why Deakin University public health researcher Dr Hannah Pitt has been asking teenagers what they think about gambling marketing, as well as the adequacy of current regulation and what governments should do next. A quick message now...
-  澳洲的年輕人也受到了影響，這就是為什麼迪肯大學公共衛生研究員漢娜·皮特博士一直在詢問青少年對賭博行銷的看法，以及當前監管是否充分以及政府下一步該做什麼。現在快速留言...
+  Young Australians are also being exposed and that's why Deakin University public health researcher Dr Hannah Pitt has been asking teenagers what they think about gambling marketing, as well as the adequacy of current regulation and what governments should do next. Young people, they can...
+  澳洲的年輕人也受到了影響，這就是為什麼迪肯大學公共衛生研究員漢娜·皮特博士一直在詢問青少年對賭博行銷的看法，以及當前監管是否充分以及政府下一步該做什麼。年輕人，他們可以...
 
 ## Full Transcript
 
@@ -271,14 +271,14 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <td>傾瀉而出</td>
 </tr>
 <tr>
-<td>mountaineering</td>
-<td>verb</td>
-<td>登山</td>
-</tr>
-<tr>
 <td>tortures</td>
 <td>noun</td>
 <td>酷刑</td>
+</tr>
+<tr>
+<td>mountaineering</td>
+<td>verb</td>
+<td>登山</td>
 </tr>
 <tr>
 <td>adequacy</td>
