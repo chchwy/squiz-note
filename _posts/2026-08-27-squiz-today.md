@@ -3,7 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-27"
 date: 2026-08-27 07:00:00 +0800
 categories: notes
-excerpt: "Coles and Woolworths report stronger-than-expected profits、Australian inflation remains above expectations、Deadly landslide and floods leave Australians missing in Nepal、Meta agrees to major changes to protect children online、Australia mourns the death of Dolly Parton、Young Australians call for stronger restrictions on gambling advertising"
+excerpt: "Google AI Message Deakin、Results Coles Supermarkets、Sales Results Staff、Higher Prices Month、Australians Nepal News、Changes Coming Metta、Social Gambling Inquiry、Dolly Tributes Giving、Minister Anthony Albanese Gave、Thanks Great Gambling、Gambling Young Marketing、Gambling Young Marketing、Gambling Young Social、Sure Hearing Weeks"
 ---
 
 ## Listen／收聽本集
@@ -13,29 +13,61 @@ excerpt: "Coles and Woolworths report stronger-than-expected profits、Australia
 
 ## News Highlights
 
-- **Coles and Woolworths report stronger-than-expected profits／Coles和Woolworths報告利潤強於預期**
-  Larissa, our two biggest supermarkets, Coles and Woollies, have been in the headlines this week after posting their results for the last financial year. And to break down the results for you, Woolworths Group made a profit of 1.4 billion, which was up by 18%.
-  我們最大的兩家超市Larissa ， Coles和Woollies ，在上一財政年度公布業績後，本週成為頭條新聞。為了讓您了解業績， Woolworths Group賺取了14億美元的利潤，增長了18 ％。
+- **Google AI Message Deakin／谷歌人工智慧消息迪肯**
+  Before we get into the news, a message from Deakin University. A Deakin study has asked Australian teenagers what they really think about gambling advertising and they have some strong views.
+  在我們了解新聞之前，先聽聽迪肯大學的消息。迪肯大學的一項研究詢問了澳洲青少年他們對賭博廣告的真實看法，他們有一些強烈的觀點。
 
-- **Australian inflation remains above expectations／澳洲通脹仍高於預期**
-  And while we're talking groceries and prices, the Bureau of Stats released our latest inflation figures yesterday. So the Consumer Price Index is our measure for inflation, and it tracks how much a basket of goods has gone up over time.
-  在我們談論生鮮雜貨和價格的同時，統計局昨天發布了最新的通貨膨脹數據。因此，消費者物價指數是我們衡量通貨膨脹的指標，它追蹤一籃子商品隨著時間的推移上漲了多少。
+- **Results Coles Supermarkets／結果 Coles 超市**
+  This is your squiz today. Larissa, our two biggest supermarkets, Coles and Woollies, have been in the headlines this week after posting their results for the last financial year.
+  這是你今天的測驗。 Larissa、我們最大的兩家超市 Coles 和 Woollies 在公佈上一財年的業績後，本周成為頭條新聞。
 
-- **Deadly landslide and floods leave Australians missing in Nepal／致命的山體滑坡和洪水使尼泊爾的澳大利亞人失蹤**
-  Larissa, we've woken up to news that 34 Australians are missing in flash flooding in Nepal after a huge chunk of ice from what experts say was a glacier between Nepal and Tibet fell more than 500 metres into a river in a Himalayan valley....
-  Larissa ，我們得知34名澳洲人在尼泊爾的山洪暴發中失蹤，因為專家說尼泊爾和西藏之間的一座冰川掉進喜馬拉雅山谷的一條河流超過500米。
+- **Sales Results Staff／銷售業績員工**
+  They posted a profit of just over $1 billion, which is up 1%, with supermarket sales growth of 3.7%. Now both groups' results were reduced by back pay payments owed to staff.
+  他們公佈的利潤略高於 10 億美元，成長 1%，超市銷售額成長 3.7%。現在，兩個小組的業績都因拖欠員工薪資而下降。
 
-- **Meta agrees to major changes to protect children online／Meta同意重大變更，以保護線上兒童**
-  The owner of Facebook and Instagram has agreed to pay $23.6 billion to the states along with making what's being described as significant changes to its platforms in the US.
-  Facebook和Instagram的所有者已同意向各州支付236億$ ，並對其在美國的平臺進行重大改變。
+- **Higher Prices Month／價格上漲月**
+  So it's a timely release by the Bureau of Stats, and it showed yesterday that prices across the board in Australia are 3.5% higher than they were a year ago.
+  因此，統計局的發布非常及時，昨天的數據顯示，澳洲的整體物價比一年前上漲了 3.5%。
 
-- **Australia mourns the death of Dolly Parton／澳洲哀悼多莉·帕頓的去世**
-  So leading the tributes was Dolly's 9 to 5 co-star Jane Fonda, who said that her friend will always be with us because she was so present, so powerful, so generous and playful that she is woven into all of our lives and hearts forever....
-  領頭致敬的是多莉朝九晚五的搭檔簡·方達，她說她的朋友將永遠和我們在一起，因為她如此臨在，如此強大，如此慷慨和頑皮，以至於她永遠融入了我們所有人的生活和心靈......
+- **Australians Nepal News／澳洲人尼泊爾新聞**
+  We've woken up to news that 34 Australians are missing in flash flooding in Nepal after a huge chunk of ice from what experts say was a glacier between Nepal and Tibet fell more than...
+  我們一覺醒來就收到消息稱，專家稱尼泊爾和西藏之間的冰川上的一大塊冰塊崩塌超過…，導致尼泊爾山洪暴發，造成 34 名澳洲人失踪。
 
-- **Young Australians call for stronger restrictions on gambling advertising／澳洲年輕人呼籲加強對賭博廣告的限制**
-  Young Australians are also being exposed and that's why Deakin University public health researcher Dr Hannah Pitt has been asking teenagers what they think about gambling marketing, as well as the adequacy of current regulation and what governments should do next. Young people, they can...
-  澳洲的年輕人也受到了影響，這就是為什麼迪肯大學公共衛生研究員漢娜·皮特博士一直在詢問青少年對賭博行銷的看法，以及當前監管是否充分以及政府下一步該做什麼。年輕人，他們可以...
+- **Changes Coming Metta／即將到來的變化**
+  Yeah, some huge changes coming in the US. And this is all to do with the legal action that Metta was facing around allegations that it was failing to keep children and teenagers safe online.
+  是的，美國即將發生一些巨大的變化。這一切都與 Metta 因未能確保兒童和青少年上網安全的指控而面臨的法律訴訟有關。
+
+- **Social Gambling Inquiry／社交賭博查詢**
+  So we'll have to see what happens there and whether these changes to how kids use social media apps are picked up by other countries outside of the US.
+  因此，我們必須看看那裡會發生什麼，以及孩子們使用社交媒體應用程式的這些變化是否會被美國以外的其他國家所效仿。
+
+- **Dolly Tributes Giving／多莉致敬捐贈**
+  We're giving you a double dose of Dolly because for most of yesterday there was no other story in town. Tributes have been rolling in for the country music legend across the world after her...
+  我們給你雙倍劑量的多莉，因為昨天大部分時間鎮上都沒有其他故事。在她過世後，世界各地紛紛向這位鄉村音樂傳奇人物致敬…
+
+- **Minister Anthony Albanese Gave／安東尼·艾博尼斯·加夫部長**
+  She wasn't allowed initially to bring her tour bus because rules and regulations said that it was too big for Aussie roads. But back then our current prime minister, Anthony Albanese, he was the transport...
+  最初她不被允許攜帶旅遊巴士，因為規則和法規規定它對於澳洲道路來說太大了。但當時我們現任總理安東尼·阿爾巴內斯（Anthony Albanese），他是交通工具…
+
+- **Thanks Great Gambling／感謝偉大的賭博**
+  So we'll keep an ear out for what he has to say about some of the issues affecting regional Aussies. Thanks again for listening.
+  因此，我們將密切關注他對影響澳洲偏遠地區的一些問題的看法。再次感謝您的聆聽。
+
+- **Gambling Young Marketing／賭博年輕行銷**
+  Okay, to start, we've been hearing a lot about gambling advertising in Australia over the last few months, but it's mostly adults having those conversations.
+  好的，首先，過去幾個月我們在澳洲聽到了很多有關賭博廣告的訊息，但大多數是成年人進行這些對話。
+
+- **Gambling Young Marketing／賭博年輕行銷**
+  So they wanted to see complete bans on gambling marketing or big restrictions. Young people, they can tell us about how fun and exciting the gambling marketing makes gambling look, and they also say that...
+  因此，他們希望看到賭博行銷的完全禁止或嚴格限制。年輕人，他們可以告訴我們賭博行銷讓賭博看起來多麼有趣和令人興奮，他們也說…
+
+- **Gambling Young Social／賭博青少年社交**
+  So this group of kids that you surveyed were between 12 and 17 years old. So that means they're now impacted by the social media ban.
+  您調查的這群孩子年齡在 12 歲到 17 歲之間。這意味著他們現在受到社群媒體禁令的影響。
+
+- **Sure Hearing Weeks／確定聽證週**
+  Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks ahead after the federal government introduced its long-awaited gambling reform legislation to Parliament just before its winter break.
+  是的，我確信在聯邦政府在寒假前向議會提出期待已久的賭博改革立法後，我們將在未來幾週內聽到更多有關此事的資訊。
 
 ## Full Transcript
 
@@ -127,8 +159,8 @@ Yes, they said it hadn't allowed enough time for a detailed review of the rise o
 
 - **commemorations**：紀念活動
 - **deakin**：迪肯
-- **bondi**：邦迪
 - **regrettable**：遺憾的
+- **bondi**：邦迪
 
 ### Dolly Tributes Giving
 
@@ -218,7 +250,7 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 
 - **deakin**：迪肯
 
-## Advanced Vocabulary (Beyond 7,000 Words)
+## Advanced Vocabulary (Beyond Common 5,000 Words)
 
 <div class="table-wrap">
 <table>
@@ -296,14 +328,14 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 <td>麥考利</td>
 </tr>
 <tr>
-<td>bondi</td>
-<td>noun</td>
-<td>邦迪</td>
-</tr>
-<tr>
 <td>regrettable</td>
 <td>adj.</td>
 <td>遺憾的</td>
+</tr>
+<tr>
+<td>bondi</td>
+<td>noun</td>
+<td>邦迪</td>
 </tr>
 </tbody>
 </table>
