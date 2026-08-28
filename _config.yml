@@ -1,0 +1,30 @@
+title: Squiz Today 學習筆記
+description: 每日 Squiz Today 英文學習筆記（News Highlights、進階單字、Aussie slang、逐字稿）
+lang: zh-TW
+timezone: Asia/Taipei
+
+url: "https://chchwy.github.io"
+baseurl: "/squiz-note"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:year/:month/:day/:title/
+
+minima:
+  skin: auto
+
+header_pages:
+  - about.md
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
