@@ -13,21 +13,21 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 
 ## News Highlights
 
-- **Nepal floods／Nepal floods**
+- **Nepal floods／尼泊爾洪水**
   35 Australians missing, death toll around 400, over 1300 missing globally.
-  35 Australians missing, death toll around 400, over 1300 missing globally.
+  35 名澳洲人失踪，死亡人數約 400 人，全球失蹤人數超過 1,300 人。
 
-- **US murder trial／US murder trial**
+- **US murder trial／美國謀殺案審判**
   Lindsay Clancy accused of murdering her three children; trial sparks debate on postpartum mental illness.
-  Lindsay Clancy accused of murdering her three children; trial sparks debate on postpartum mental illness.
+  林賽·克蘭西被指控謀殺了她的三個孩子；審判引發了關於產後精神疾病的爭論。
 
-- **NASA space telescope launch／NASA space telescope launch**
+- **NASA space telescope launch／美國太空總署太空望遠鏡發射**
   Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
-  Nancy Grace Roman Space Telescope launching to study dark matter and dark energy.
+  南希·格蕾絲·羅馬太空望遠鏡發射升空以研究暗物質和暗能量。
 
-- **WA by-election／WA by-election**
+- **WA by-election／西澳補選**
   Secret Harbour electorate voting; potential three-way fight between Labor, One Nation, Liberal.
-  Secret Harbour electorate voting; potential three-way fight between Labor, One Nation, Liberal.
+  秘密港選民投票；工黨、一國黨、自由黨之間可能有三方鬥爭。
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
@@ -44,57 +44,57 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tr>
 <td>meditated</td>
 <td>verb</td>
-<td>meditated</td>
+<td>沉思的</td>
 </tr>
 <tr>
 <td>homey</td>
 <td>noun</td>
-<td>homey</td>
+<td>溫馨的</td>
 </tr>
 <tr>
 <td>unaccounted</td>
 <td>verb</td>
-<td>unaccounted</td>
+<td>下落不明的</td>
 </tr>
 <tr>
 <td>nepalese</td>
 <td>noun</td>
-<td>nepalese</td>
-</tr>
-<tr>
-<td>gory</td>
-<td>noun</td>
-<td>gory</td>
+<td>尼泊爾人</td>
 </tr>
 <tr>
 <td>postpartum</td>
 <td>noun</td>
-<td>postpartum</td>
+<td>產後</td>
+</tr>
+<tr>
+<td>gory</td>
+<td>noun</td>
+<td>血淋淋的</td>
 </tr>
 <tr>
 <td>trekking</td>
 <td>verb</td>
-<td>trekking</td>
+<td>健行</td>
 </tr>
 <tr>
 <td>kangaroos</td>
 <td>noun</td>
-<td>kangaroos</td>
+<td>袋鼠</td>
 </tr>
 <tr>
 <td>foundational</td>
 <td>noun</td>
-<td>foundational</td>
+<td>基礎的</td>
 </tr>
 <tr>
 <td>aussies</td>
 <td>noun</td>
-<td>aussies</td>
+<td>澳洲人</td>
 </tr>
 <tr>
 <td>hikers</td>
 <td>noun</td>
-<td>hikers</td>
+<td>徒步旅行者</td>
 </tr>
 <tr>
 <td>criminally</td>
@@ -109,12 +109,12 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tr>
 <td>astronomer</td>
 <td>noun</td>
-<td>astronomer</td>
+<td>天文學家</td>
 </tr>
 <tr>
 <td>hotspot</td>
 <td>noun</td>
-<td>hotspot</td>
+<td>熱點</td>
 </tr>
 </tbody>
 </table>
@@ -135,12 +135,12 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tr>
 <td><span style="color:#ff8c00">aussies</span></td>
 <td>Australians (informal)</td>
-<td>Australians (informal)</td>
+<td>澳洲人（非正式）</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">flying kangaroo</span></td>
 <td>nickname for Qantas</td>
-<td>nickname for Qantas</td>
+<td>澳洲航空的暱稱</td>
 </tr>
 </tbody>
 </table>
@@ -159,15 +159,15 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 <tbody>
 <tr>
 <td>Deacon University</td>
-<td>Likely meant Deakin University, Australian university in Victoria.／Likely meant Deakin University, Australian university in Victoria.</td>
+<td>Likely meant Deakin University, Australian university in Victoria.／可能指的是位於維多利亞的澳洲大學迪肯大學。</td>
 </tr>
 <tr>
 <td>Consular Emergency Centre</td>
-<td>Australian government 24/7 hotline for Australians overseas in distress.／Australian government 24/7 hotline for Australians overseas in distress.</td>
+<td>Australian government 24/7 hotline for Australians overseas in distress.／澳洲政府為海外遇險澳洲人提供 24/7 熱線。</td>
 </tr>
 <tr>
 <td>One Nation</td>
-<td>Australian political party founded by Pauline Hanson, right-wing populist.／Australian political party founded by Pauline Hanson, right-wing populist.</td>
+<td>Australian political party founded by Pauline Hanson, right-wing populist.／由右翼民粹主義者寶琳漢森 (Pauline Hanson) 創立的澳洲政黨。</td>
 </tr>
 <tr>
 <td>Nancy Grace Roman Space Telescope</td>
@@ -175,27 +175,27 @@ excerpt: "Nepal floods、US murder trial、NASA space telescope launch、WA by-e
 </tr>
 <tr>
 <td>Project Sunrise</td>
-<td>Qantas project for nonstop flights from Sydney to London and New York.／Qantas project for nonstop flights from Sydney to London and New York.</td>
+<td>Qantas project for nonstop flights from Sydney to London and New York.／澳洲航空計劃開通從雪梨飛往倫敦和紐約的直飛航班。</td>
 </tr>
 <tr>
 <td>Interstellar</td>
-<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 sci-fi film directed by Christopher Nolan about space travel and relativity.</td>
+<td>2014 sci-fi film directed by Christopher Nolan about space travel and relativity.／2014 年克里斯多福諾蘭執導的關於太空旅行和相對論的科幻電影。</td>
 </tr>
 <tr>
 <td>Disney Plus</td>
-<td>Streaming service by Disney.／Streaming service by Disney.</td>
+<td>Streaming service by Disney.／迪士尼的串流服務。</td>
 </tr>
 <tr>
 <td>Vanilla Bean Blog</td>
-<td>Blog by Sarah Kieffer known for baking recipes.／Blog by Sarah Kieffer known for baking recipes.</td>
+<td>Blog by Sarah Kieffer known for baking recipes.／莎拉·基弗 (Sarah Kieffer) 的部落格以烘焙食譜而聞名。</td>
 </tr>
 <tr>
 <td>Secret Harbour</td>
-<td>Suburb of Perth, Western Australia.／Suburb of Perth, Western Australia.</td>
+<td>Suburb of Perth, Western Australia.／西澳大利亞珀斯郊區。</td>
 </tr>
 <tr>
 <td>Sydney Morning Herald</td>
-<td>Major newspaper in Sydney, Australia.／Major newspaper in Sydney, Australia.</td>
+<td>Major newspaper in Sydney, Australia.／</td>
 </tr>
 </tbody>
 </table>
