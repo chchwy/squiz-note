@@ -23,25 +23,18 @@ excerpt: "Coles and Woolworths Post Higher-Than-Expected Annual Profits Amid Scr
 ## News Highlights
 
 - **Coles and Woolworths Post Higher-Than-Expected Annual Profits Amid Scrutiny／澳洲兩大超市獲利超乎預期 伴隨生活成本爭議受檢視**
-  澳洲兩大連鎖超市公布最新財報，Woolworths 全年獲利增長 18% 至 14 億澳幣，超市銷售額增長 4.6%，執行長 Amanda Bardwell 表示增長主因是消費者增加在家用餐的購買量；Coles 獲利則增長 1% 至逾 10 億澳幣，銷售額增長 3.7%。兩家公司的利潤皆受到先前欠薪補償支出的影響。在生活成本高漲的背景下，兩大超市因定價問題受到公眾及競爭監管機構（ACCC）控告誤導性折扣的嚴格檢視，而 Woolworths 近期也因 Ooshies 促銷活動帶動銷售額進一步增長。
 
 - **Australian Inflation Rises to 3.5%, Heightening Interest Rate Speculation／澳洲最新通膨率達 3.5% 高於預期 引發央行升息預測**
-  澳洲統計局公布最新消費者物價指數（CPI），年通膨率達到 3.5%，高於市場預期。儘管物價增長率較上個月的 3.8% 有所放緩，但潛在通膨水準依然高於澳洲儲備銀行（RBA）的目標區間。持續的通膨壓力促使經濟學家預測，澳洲央行在下個月的會議中可能再度升息。
 
 - **Nepal Flash Floods and Landslide Leave Hundreds Missing, Including 34 Australians／尼泊爾冰川崩塌引發洪災與土石流 數百名遊客及 34 名澳洲人失聯**
-  尼泊爾與西藏邊境附近發生冰川崩塌，巨大冰塊墜落引發相當於芮氏規模 5.2 地震的毀滅性土石流，在數秒內沖毀喜馬拉雅山谷中的多個村莊、道路、橋樑及電力設施。該地區為熱門徒步、登山與朝聖地，目前已有來自 28 個國家的數百名遊客失蹤，其中包括 34 名澳洲公民，搜救工作正在進行中。
 
 - **Meta Settles US Youth Safety Lawsuit for $23.6 Billion and Pledges Major Platform Changes／Meta 支付 236 億美元就青少年安全訴訟和解 並承諾重大平台改革**
-  Meta 與美國 29 個州達成 236 億美元的和解協議，結束了指控其未能保障兒少線上安全並刻意製造社群成癮的訴訟。根據協議，Meta 將在美國實施多項保護措施，包括日間使用上限 2 小時、夜間禁用、上課時間暫停推播通知、移除按讚數顯示，以及將演算法動態改為依時間排序以防無止境滑動。Meta 堅持未有不當行為，並呼籲 TikTok 與 YouTube 等其他平台也應跟進實施相應規範。
 
 - **Antisemitism Royal Commission Concludes Hearings Early and Delays Final Report／反猶太主義皇家委員會聽證會提前結束 最終報告延期遞交**
-  澳洲反猶太主義與社會凝聚力皇家委員會在完成九個輪次的公聽會後，提前兩天結束公開聽證。專員 Virginia Bell 宣布將最終調查報告提交日期由 12 月 14 日順延至 12 月 18 日，以免干擾邦代海灘（Bondi Beach）恐怖襲擊週年的紀念活動。儘管有 30 位國防及國家安全領袖呼籲延長調查時間以深入檢視極端主義並傳喚聯邦部長作證，專員仍宣布公聽會如期告一段落。
 
 - **Global Tributes Pour In Following the Death of Country Icon Dolly Parton／鄉村音樂傳奇朵莉·芭頓辭世 全球各界紛紛致敬**
-  鄉村音樂傳奇巨星朵莉·芭頓（Dolly Parton）於清晨離世，引發全球各界深切哀悼，珍·芳達、泰勒絲及碧昂絲等演藝界名人紛紛致敬。公眾除緬懷其在音樂與電影上的深遠影響外，也讚揚其慈善貢獻與機智幽默。澳洲媒體亦回顧她在 2011 年赴澳巡演時，時任交通部長的現任總理艾班尼斯曾特批允許其 14.5 公尺長的巡迴巴士在澳洲公路上行駛的往事。
 
 - **Actor Tim Curry Dies at Age 80／資深演員提姆·柯瑞逝世 享壽 80 歲**
-  資深演員提姆·柯瑞（Tim Curry）夜間辭世，享壽 80 歲。他以在《洛基恐怖秀》（The Rocky Horror Picture Show）中飾演 Frank-N-Furter 博士聞名，並曾出演《安妮》（Annie）及《小鬼當家2》（Home Alone 2）等多部經典電影。
 
 ## Full Transcript
 

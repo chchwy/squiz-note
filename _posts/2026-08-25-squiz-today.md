@@ -23,25 +23,18 @@ excerpt: "Sydney School Sexual Assault Cases Prompt National Debate on Consent�
 ## News Highlights
 
 - **Sydney School Sexual Assault Cases Prompt National Debate on Consent／雪梨私校生涉性侵案引發關注 澳洲重啟同意權教育與網路文化討論**
-  雪梨知名私立男校蘇格蘭學院（The Scots College）三名學生因涉嫌於7月在邦代巷弄性侵一名14歲少女而出席兒童法院受審，警方在搜查住所時查獲電子設備及兩把仿製槍械。此前數日亦有聖葛利果學院等三名17歲少年被控性侵少女。蘇格蘭學院校長先後發言引發對校園文化之質疑，此連串事件亦使同意權教育、社群演算法及網路色情對青少年之影響再度成為澳洲公眾討論焦點。
 
 - **US Announces Fresh Economic Sanctions Against Iran／美國宣布對伊朗實施新一輪經濟制裁 鎖定經濟與金融合作夥伴**
-  美國宣布對伊朗祭出新一輪制裁措施，旨在打擊伊朗經濟及與其有金融往來的國家。美國財政部長貝森特（Scott Bessent）稱此為史上最大規模的金融攻勢。此前伊朗曾警告若有船隻違反荷姆茲海峽航行規定將面臨扣留或罰款等處分。部分專家則指出制裁往往對伊朗平民衝擊最大，分析人士對新措施之實際成效亦有不同看法。
 
 - **KPMG Australia Cuts Nearly 400 Jobs Following Client Data Scandal／畢馬威爆發客戶機密外洩醜聞 宣布裁撤近400名員工與合夥人**
-  會計師事務所畢馬威（KPMG）因爆發審計醜聞宣布裁減27名合夥人與360個職位，共約400人。該公司自6月起面臨國會調查，因內部舉報揭發高層涉嫌濫用包括聯實集團（Lendlease）與澳訊（Optus）等客戶的機密資料以爭取合約，導致多名高層辭職且年營收下滑1%。現任執行長山姆斯（John Sams）表示此次重組為重建事務所的重要步驟。
 
 - **Researchers and Indigenous Rangers Map Great Barrier Reef's Ancient Dry Land／科學家攜手原住民護林員 探索六萬五千年前大堡礁陸地風貌**
-  澳洲科學家與原住民護林員團隊正透過研究昆士蘭中部外海的海底沉積物，試圖重建大堡礁在65,000年前仍為陸地時的地貌。研究推測當時大堡礁南部可能包含草原、沼澤或雨林。原住民傳統所有者亦透過口述祖先在海平面上升前徒步穿越陸地的文化故事協助拼湊歷史，預計海洋學研究結果將於明年內出爐。
 
 - **Australian Schools Enforce Strict Costume Guidelines for Book Week／澳洲學校迎來圖書週 各校服裝規定嚴格引發家長熱議**
-  澳洲各地學校於圖書週期間實施嚴格且各異的裝扮規範，引發家長關注。昆士蘭一所基督教學校明令禁止巫師、女巫及殭屍裝扮；南澳一所學校禁止同人小說角色；另有學校要求電影角色必須改編自原著書籍方可穿著。不同學校的限制讓許多家長在為孩子準備服裝時面臨考驗。
 
 - **Prime Minister Albanese to Defend Budget Reforms at Business Council Dinner／澳洲總理艾班尼斯將於商業委員會晚宴發表主題演說 為預算改革辯護**
-  澳洲總理艾班尼斯（Anthony Albanese）將於澳洲商業委員會（Business Council of Australia）年度晚宴發表主題演說。預計他將在商界領袖面前為政府近期的各項改革政策辯護，特別是先前在商界引發諸多爭議的5月財政預算案。
 
 - **Wangaratta Police Station Holds Memorial for Fallen Officers／旺加拉塔警局舉行追思會 悼念殉職警員逝世一週年**
-  澳洲旺加拉塔（Wangaratta）警察局舉行首場追悼儀式，悼念遭德茲·弗里曼（Dezi Freeman）殺害的兩名殉職警員。適逢兩名警員殉職滿一週年前夕，警局特地舉辦紀念活動，並預計於翌日正式週年當天舉行另一場追思會。
 
 ## Full Transcript
 
