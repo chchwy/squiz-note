@@ -6,6 +6,15 @@ categories: notes
 excerpt: "One-Year Anniversary of Porepunkah Police Shootings Commemorated in Victoria、Country Music Icon Dolly Parton Passes Away at Age 80、Australian National Cabinet Meets on AI Regulations and Gun Reforms、NRL Approves Special Interchange Exemption for Retiring Star Jai Arrow、Historic 'Batman Begins' Wayne Manor Estate Faces Threat of Council Seizure、Royal Commission Hearings into Antisemitism Expected to Wrap Up Early、Spain Hosts Annual La Tomatina Festival Amid Global Celebrations"
 ---
 
+## Table of Contents
+
+- [Listen／收聽本集](#listen收聽本集)
+- [News Highlights](#news-highlights)
+- [Full Transcript](#full-transcript)
+- [Advanced Vocabulary](#advanced-vocabulary-beyond-7000-words)
+- [Aussie Slang & Idioms](#aussie-slang--idioms)
+- [Cultural Background Explanation](#cultural-background-explanation)
+
 ## Listen／收聽本集
 
 - [Apple Podcasts](https://podcasts.apple.com/tw/podcast/a-year-since-the-porepunkah-shooting-and-vale-dolly-parton/id1385995581?i=1000785821346)

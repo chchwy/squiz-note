@@ -6,6 +6,15 @@ categories: notes
 excerpt: "Coles and Woolworths Post Higher-Than-Expected Annual Profits Amid Scrutiny、Australian Inflation Rises to 3.5%, Heightening Interest Rate Speculation、Nepal Flash Floods and Landslide Leave Hundreds Missing, Including 34 Australians、Meta Settles US Youth Safety Lawsuit for $23.6 Billion and Pledges Major Platform Changes、Antisemitism Royal Commission Concludes Hearings Early and Delays Final Report、Global Tributes Pour In Following the Death of Country Icon Dolly Parton、Actor Tim Curry Dies at Age 80"
 ---
 
+## Table of Contents
+
+- [Listen／收聽本集](#listen收聽本集)
+- [News Highlights](#news-highlights)
+- [Full Transcript](#full-transcript)
+- [Advanced Vocabulary](#advanced-vocabulary-beyond-7000-words)
+- [Aussie Slang & Idioms](#aussie-slang--idioms)
+- [Cultural Background Explanation](#cultural-background-explanation)
+
 ## Listen／收聽本集
 
 - [Apple Podcasts](https://podcasts.apple.com/tw/podcast/coles-and-woolies-bag-a-profit-and-remembering-dolly/id1385995581?i=1000786108100)

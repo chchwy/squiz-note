@@ -6,6 +6,15 @@ categories: notes
 excerpt: "Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash Floods、US Jury Deliberates in Murder Trial of Lindsay Clancy、WA Secret Harbour By-Election Draws National Focus on Cost of Living、Qantas Announces Accelerated A380 Retirement and Strong Full-Year Profits、NASA Set to Launch $5.6 Billion Nancy Grace Roman Space Telescope、Friday Lites: Disney+ Thriller 'Furious' and Sarah Kieffer's Chocolate Cake"
 ---
 
+## Table of Contents
+
+- [Listen／收聽本集](#listen收聽本集)
+- [News Highlights](#news-highlights)
+- [Full Transcript](#full-transcript)
+- [Advanced Vocabulary](#advanced-vocabulary-beyond-7000-words)
+- [Aussie Slang & Idioms](#aussie-slang--idioms)
+- [Cultural Background Explanation](#cultural-background-explanation)
+
 ## Listen／收聽本集
 
 - [Apple Podcasts](https://podcasts.apple.com/tw/podcast/the-nepal-toll-climbs-and-a-historic-space-telescope-launch/id1385995581?i=1000786341122)
