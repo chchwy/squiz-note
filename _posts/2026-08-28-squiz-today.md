@@ -14,27 +14,21 @@ excerpt: "Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash F
 ## News Highlights
 
 - **Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash Floods／尼泊爾與中國邊境爆發山洪 釀數百人罹難且35名澳洲人失聯**
-  Flash floods across border villages between Nepal and China have killed around 400 people and left at least 1,300 missing globally, including 35 Australians. A 15-member Australian pilgrimage group booked with Himalayan Glacier Adventures remains unaccounted for. Australian Foreign Minister Penny Wong confirmed DFAT personnel are being deployed to the remote area, while authorities warned of further flood risks as a blocked river lake holding 3 million cubic metres of water is expected to peak on September 1.
   尼泊爾與中國邊境村莊遭遇山洪襲擊，造成約400人罹難、全球至少1,300人失聯，其中包括35名澳洲公民。喜馬拉雅冰川探險旅行社通報由15名澳洲人組成的朝聖團至今下落不明。澳洲外交部長黃英賢證實正調派外交貿易部官員前往該偏遠地區；當局亦警告，因河流受阻形成的堰塞湖積聚達300萬立方公尺水量，預計於9月1日達到高峰，恐引發下游進一步洪災。
 
 - **US Jury Deliberates in Murder Trial of Lindsay Clancy／美國母親蘭賽·克蘭西殺害三幼子案 陪審團展開退庭商議**
-  In the United States, a Massachusetts jury has retired to consider its verdict in the five-week trial of 36-year-old Lindsay Clancy, who is accused of strangling her three young children in 2023. Her defense argues she suffered from postpartum psychosis and is not criminally responsible, while prosecutors argue the killings were deliberate and premeditated. The trial has triggered national debate over postpartum mental health, with Clancy facing life imprisonment if convicted or commitment to a state psychiatric hospital if found not criminally responsible.
   美國麻薩諸塞州36歲母親蘭賽·克蘭西（Lindsay Clancy）涉嫌於2023年勒斃三名幼子的五週審訊告一段落，陪審團已退庭商議判決。辯方律師主張她案發時罹患產後精神病而不具刑事責任能力，檢方則指控其為預謀故意殺人。該案在全美引發對產後精神疾病的廣泛討論；若定罪克蘭西將面臨終身監禁，若認定無刑事責任則將被送往州立精神病院。
 
 - **WA Secret Harbour By-Election Draws National Focus on Cost of Living／西澳秘密港補選成焦點 聚焦生活成本與三方角逐**
-  A state by-election in Western Australia's outer-metropolitan seat of Secret Harbour is taking place to replace retiring Labor MP Paul Papalia. Historically a safe Labor seat, the race has attracted national attention as Pauline Hanson's One Nation challenges both Labor and the Liberal Party, with local voters citing housing and the cost of living as their foremost concerns.
   西澳珀斯南郊的秘密港（Secret Harbour）選區即將舉行州議會補選，以接替長期任職的工黨議員保羅·帕帕利亞（Paul Papalia）。該選區以往為工黨安全席位，但因寶琳·韓森的「單一民族黨」向工黨與自由黨發起挑戰而備受全國矚目，當地選民將住房危機與生活成本列為核心議題。
 
 - **Qantas Announces Accelerated A380 Retirement and Strong Full-Year Profits／澳洲航空提早退役A380客機 全年獲利突破20億澳元**
-  Qantas will retire its Airbus A380 fleet starting in 2028, four years ahead of schedule, transitioning to more efficient Airbus A350-1000s and Boeing 787 Dreamliners featuring a higher proportion of premium seating. CEO Vanessa Hudson reported a full-year pre-tax profit of over $2 billion, absorbing a $420 million financial impact from Middle East conflict, while confirming Project Sunrise non-stop flights to London and New York will launch next October.
   澳洲航空宣布自2028年起陸續淘汰空中巴士A380機隊，較原訂計劃提前四年，全面轉換為燃油效率更高且高階艙位比例更高的A350-1000與波音787機隊。執行長凡妮莎·哈德森（Vanessa Hudson）公布全年稅前獲利超過20億澳元，期間克服了中東衝突造成的4.2億澳元衝擊，並確認直飛倫敦與紐約的「日出計劃」將於明年10月啟航。
 
 - **NASA Set to Launch $5.6 Billion Nancy Grace Roman Space Telescope／NASA將發射斥資56億美元的南西·葛莉絲·羅曼太空望遠鏡**
-  NASA is scheduled to launch the $5.6 billion Nancy Grace Roman Space Telescope from Kennedy Space Center on a SpaceX rocket. Named after NASA's first female executive, the infrared telescope took 16 years to develop and will conduct a five-year mission mapping deep space to study dark matter, dark energy, and test Einstein's theory of general relativity.
   美國太空總署（NASA）定於週日晚間於佛羅里達甘迺迪太空中心搭乘SpaceX火箭發射耗資56億美元的南西·葛莉絲·羅曼太空望遠鏡。該望遠鏡歷時16年研製，以NASA首位女性主管命名，將展開為期五年的深空紅外線觀測任務，重點探索暗物質、暗能量並驗證愛因斯坦的廣義相對論。
 
 - **Friday Lites: Disney+ Thriller 'Furious' and Sarah Kieffer's Chocolate Cake／週五輕鬆選：Disney+驚悚影集《Furious》與莎拉·基弗巧克力蛋糕**
-  In the Friday Lites segment, co-host Anna Pykett recommended the acclaimed Disney+ crime thriller series 'Furious', which follows the pursuit of a female serial killer. Co-host Larissa Huntington shared a popular chocolate cake recipe by American food blogger Sarah Kieffer from The Vanilla Bean Blog.
   在週五推薦單元中，主持人安娜·派克特（Anna Pykett）推薦了Disney+廣受好評的犯罪驚悚影集《Furious》，該劇講述追捕女性連環殺手的歷程；主持人拉莉莎·漢廷頓（Larissa Huntington）則分享了美國美食部落客莎拉·基弗（Sarah Kieffer）的經典巧克力蛋糕食譜。
 
 ## Full Transcript

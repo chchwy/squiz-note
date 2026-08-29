@@ -14,31 +14,24 @@ excerpt: "One-Year Anniversary of Porepunkah Police Shootings Commemorated in Vi
 ## News Highlights
 
 - **One-Year Anniversary of Porepunkah Police Shootings Commemorated in Victoria／維多利亞州悼念波波龐卡警察殉職槍擊案一週年**
-  Victoria is marking one year since gunman Dezi Freeman killed two police officers, Senior Constable Vadim De Waart-Hottart and Detective Leading Senior Constable Neal Thompson, and injured another in Porepunkah. The incident sparked a seven-month manhunt before Freeman was shot dead by police in March. Memorials have been unveiled in Wangaratta and on the mountain as the local Alpine community begins to look toward economic recovery.
   澳洲維多利亞州悼念波波龐卡（Porepunkah）槍擊案一週年。該案中槍手德茲·弗里曼（Dezi Freeman）槍殺了兩名警察——高級警員瓦迪姆·德瓦特-霍塔特（Vadim De Waart-Hottart）與主任高級偵查警員尼爾·湯普森（Neal Thompson），並造成另一名警員受傷。這起事件引發了長達七個多月的全澳大搜捕，直至弗里曼於三月遭警方擊斃。當地已在旺加拉塔（Wangaratta）及山區為殉職警員揭幕紀念碑，歷經衝擊的高山社區亦開始展現經濟復甦希望。
 
 - **Country Music Icon Dolly Parton Passes Away at Age 80／鄉村音樂巨星桃莉·巴頓逝世 享壽80歲**
-  Country music star Dolly Parton has died at age 80, as announced by her nephew on Instagram. Over a seven-decade career, Parton wrote classic hits including 'Jolene' and 'I Will Always Love You,' while also establishing herself as a philanthropist donating millions of books for children's literacy and funding COVID-19 research, and operating ventures including the Dollywood theme park.
   鄉村音樂巨星桃莉·巴頓（Dolly Parton）逝世，享壽80歲，其姪子已在Instagram公布此消息。在長達七十年的職業生涯中，巴頓創作了《Jolene》與《I Will Always Love You》等經典名曲；她同時也是熱心公益的慈善家與企業家，曾為推廣兒童識字捐贈數百萬本書籍、資助新冠病毒研究，並經營「桃莉山」（Dollywood）主題樂園等事業。
 
 - **Australian National Cabinet Meets on AI Regulations and Gun Reforms／澳洲國家內閣會議召開 聚焦人工智慧監管與槍枝改革**
-  Prime Minister Anthony Albanese and state and territory leaders are meeting at National Cabinet to discuss upcoming artificial intelligence legislation and gun reforms. The proposed AI standards address data centres, copyright, job security, and investment, alongside discussions on gender-based violence, fuel supplies, and bird flu.
   澳洲總理艾班尼斯（Anthony Albanese）與各州及領地領導人召開國家內閣會議，重點討論人工智慧（AI）法規標準與槍枝改革。擬議中的AI法案涵蓋數據中心標準、版權保護、就業與投資平衡，會議同時也將討論性別暴力防制、燃油儲備及禽流感等議題。
 
 - **NRL Approves Special Interchange Exemption for Retiring Star Jai Arrow／NRL通過特別換人規定 助退役球星傑·艾羅達成百場里程碑**
-  The NRL has introduced a special rule allowing the South Sydney Rabbitohs an extra interchange player so forward Jai Arrow, who is retiring after being diagnosed with motor neurone disease, can reach his 100th club game. Arrow will lead the team out as co-captain in full kit before being subbed off before active play begins.
   澳洲全國橄欖球聯賽（NRL）宣布一項特別規則，允許南雪梨兔隊（South Sydney Rabbitohs）在後續比賽中增加一名替補球員，以便因確診運動神經元疾病而退役的31歲球星傑·艾羅（Jai Arrow）能夠達成代表該球會出賽百場的里程碑。艾羅將以共同隊長身分身穿完整球衣帶領球隊進場，並在比賽正式開始前被替換下場。
 
 - **Historic 'Batman Begins' Wayne Manor Estate Faces Threat of Council Seizure／《蝙蝠俠：開戰時刻》韋恩莊園取景豪宅因年久失修恐遭市議會查封**
-  Mentmore Towers in Buckinghamshire, which featured as Wayne Manor in Christopher Nolan's 2005 film 'Batman Begins,' is facing potential seizure by the local council due to severe disrepair. Owner Simon Halabi has been ordered to hire contractors and a licensed bat ecologist within a month to assess and restore the historic property.
   曾於克里斯多福·諾蘭2005年執導電影《蝙蝠俠：開戰時刻》（Batman Begins）中作為「韋恩莊園」取景地的英國白金漢郡門特莫爾塔（Mentmore Towers）莊園，因年久失修面臨被地方議會查封的風險。業主西蒙·哈拉比（Simon Halabi）已被要求在一個月內聘請承包商及持證蝙蝠生態學家，對這座歷史建築進行勘驗與修復。
 
 - **Royal Commission Hearings into Antisemitism Expected to Wrap Up Early／澳洲反猶太主義皇家委員會聽證會預計提前結束**
-  The final block of hearings in the Royal Commission into antisemitism and social cohesion is expected to conclude today, wrapping up a couple of days earlier than previously scheduled.
   澳洲針對反猶太主義與社會凝聚力設立的皇家委員會，其最後一輪聽證會預計將於今日結束，比原定時程提前數天告一段落。
 
 - **Spain Hosts Annual La Tomatina Festival Amid Global Celebrations／西班牙舉辦年度番茄大戰 全球多地同慶擲番茄活動**
-  Spain is celebrating La Tomatina, recognized as the world's largest tomato-throwing festival, alongside similar events held internationally in Colombia, the United States, and Vietnam.
   西班牙今日迎來全球規模最大的番茄節慶「番茄大戰」（La Tomatina），而類似的擲番茄活動亦在哥倫比亞、美國與越南等多個國家舉行。
 
 ## Full Transcript

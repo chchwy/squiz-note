@@ -14,31 +14,24 @@ excerpt: "Coles and Woolworths Post Higher-Than-Expected Annual Profits Amid Scr
 ## News Highlights
 
 - **Coles and Woolworths Post Higher-Than-Expected Annual Profits Amid Scrutiny／澳洲兩大超市獲利超乎預期 伴隨生活成本爭議受檢視**
-  Woolworths Group reported an 18% rise in profit to $1.4 billion with supermarket sales up 4.6%, which CEO Amanda Bardwell attributed to shoppers buying more items to eat at home. Coles posted a profit of over $1 billion, up 1%, with 3.7% supermarket sales growth. Both results were tempered by back-pay liabilities for inaccurate roster and overtime records. The supermarkets continue to face public and regulatory scrutiny over grocery prices, including ACCC court action over alleged misleading discounts, while Woolworths recently gained an additional sales boost from its Ooshies promotion.
   澳洲兩大連鎖超市公布最新財報，Woolworths 全年獲利增長 18% 至 14 億澳幣，超市銷售額增長 4.6%，執行長 Amanda Bardwell 表示增長主因是消費者增加在家用餐的購買量；Coles 獲利則增長 1% 至逾 10 億澳幣，銷售額增長 3.7%。兩家公司的利潤皆受到先前欠薪補償支出的影響。在生活成本高漲的背景下，兩大超市因定價問題受到公眾及競爭監管機構（ACCC）控告誤導性折扣的嚴格檢視，而 Woolworths 近期也因 Ooshies 促銷活動帶動銷售額進一步增長。
 
 - **Australian Inflation Rises to 3.5%, Heightening Interest Rate Speculation／澳洲最新通膨率達 3.5% 高於預期 引發央行升息預測**
-  Latest Consumer Price Index figures from the Australian Bureau of Statistics showed annual inflation at 3.5%, higher than economists had expected. While the rate of price increases slowed from 3.8% the previous month, underlying inflation remains above the Reserve Bank of Australia's target. The persistent price pressures have led economists to predict that the RBA could potentially raise interest rates at its upcoming meeting next month.
   澳洲統計局公布最新消費者物價指數（CPI），年通膨率達到 3.5%，高於市場預期。儘管物價增長率較上個月的 3.8% 有所放緩，但潛在通膨水準依然高於澳洲儲備銀行（RBA）的目標區間。持續的通膨壓力促使經濟學家預測，澳洲央行在下個月的會議中可能再度升息。
 
 - **Nepal Flash Floods and Landslide Leave Hundreds Missing, Including 34 Australians／尼泊爾冰川崩塌引發洪災與土石流 數百名遊客及 34 名澳洲人失聯**
-  A massive glacial ice collapse near the Nepal-Tibet border triggered a catastrophic landslide equivalent to a magnitude 5.2 earthquake. The disaster swept away villages, roads, bridges, and power projects across a Himalayan valley popular with trekkers and pilgrims. Hundreds of tourists from 28 countries are missing, including 34 Australians, with search and rescue operations currently underway.
   尼泊爾與西藏邊境附近發生冰川崩塌，巨大冰塊墜落引發相當於芮氏規模 5.2 地震的毀滅性土石流，在數秒內沖毀喜馬拉雅山谷中的多個村莊、道路、橋樑及電力設施。該地區為熱門徒步、登山與朝聖地，目前已有來自 28 個國家的數百名遊客失蹤，其中包括 34 名澳洲公民，搜救工作正在進行中。
 
 - **Meta Settles US Youth Safety Lawsuit for $23.6 Billion and Pledges Major Platform Changes／Meta 支付 236 億美元就青少年安全訴訟和解 並承諾重大平台改革**
-  Meta reached a $23.6 billion settlement with 29 US states, ending a legal battle over allegations that it failed to protect young users from harmful and addictive social media design. As part of the agreement, Meta will introduce significant safeguards for US youth, including a two-hour daytime app limit, nighttime blocks, school-hour notification pauses, the removal of like counters, and a return to chronological rather than algorithmic feeds. Meta denied wrongdoing and called for competitors like TikTok and YouTube to implement similar restrictions.
   Meta 與美國 29 個州達成 236 億美元的和解協議，結束了指控其未能保障兒少線上安全並刻意製造社群成癮的訴訟。根據協議，Meta 將在美國實施多項保護措施，包括日間使用上限 2 小時、夜間禁用、上課時間暫停推播通知、移除按讚數顯示，以及將演算法動態改為依時間排序以防無止境滑動。Meta 堅持未有不當行為，並呼籲 TikTok 與 YouTube 等其他平台也應跟進實施相應規範。
 
 - **Antisemitism Royal Commission Concludes Hearings Early and Delays Final Report／反猶太主義皇家委員會聽證會提前結束 最終報告延期遞交**
-  The Royal Commission into antisemitism and social cohesion completed its public hearings two days ahead of schedule. Commissioner Virginia Bell moved the final report delivery date from December 14 to December 18 so it does not distract from commemorations marking the anniversary of the Bondi Beach terror attack. The inquiry concluded despite objections from 30 defence and national security figures who urged an extension to further investigate extremism and hear federal ministerial evidence.
   澳洲反猶太主義與社會凝聚力皇家委員會在完成九個輪次的公聽會後，提前兩天結束公開聽證。專員 Virginia Bell 宣布將最終調查報告提交日期由 12 月 14 日順延至 12 月 18 日，以免干擾邦代海灘（Bondi Beach）恐怖襲擊週年的紀念活動。儘管有 30 位國防及國家安全領袖呼籲延長調查時間以深入檢視極端主義並傳喚聯邦部長作證，專員仍宣布公聽會如期告一段落。
 
 - **Global Tributes Pour In Following the Death of Country Icon Dolly Parton／鄉村音樂傳奇朵莉·芭頓辭世 全球各界紛紛致敬**
-  Country music legend Dolly Parton passed away in the early morning hours, prompting an outpouring of grief and tributes from fellow celebrities including Jane Fonda, Taylor Swift, and Beyoncé. Fans and public figures celebrated her enduring musical and film legacy, widespread philanthropic endeavors, and quick wit. Australian media also reminisced about her 2011 Australian tour, when then-Transport Minister Anthony Albanese granted special road approval for her oversized 14.5-metre tour bus.
   鄉村音樂傳奇巨星朵莉·芭頓（Dolly Parton）於清晨離世，引發全球各界深切哀悼，珍·芳達、泰勒絲及碧昂絲等演藝界名人紛紛致敬。公眾除緬懷其在音樂與電影上的深遠影響外，也讚揚其慈善貢獻與機智幽默。澳洲媒體亦回顧她在 2011 年赴澳巡演時，時任交通部長的現任總理艾班尼斯曾特批允許其 14.5 公尺長的巡迴巴士在澳洲公路上行駛的往事。
 
 - **Actor Tim Curry Dies at Age 80／資深演員提姆·柯瑞逝世 享壽 80 歲**
-  Actor Tim Curry passed away overnight at the age of 80. He was widely recognized for his iconic portrayal of Dr. Frank-N-Furter in The Rocky Horror Picture Show, along with memorable roles in films such as Annie and Home Alone 2.
   資深演員提姆·柯瑞（Tim Curry）夜間辭世，享壽 80 歲。他以在《洛基恐怖秀》（The Rocky Horror Picture Show）中飾演 Frank-N-Furter 博士聞名，並曾出演《安妮》（Annie）及《小鬼當家2》（Home Alone 2）等多部經典電影。
 
 ## Full Transcript
