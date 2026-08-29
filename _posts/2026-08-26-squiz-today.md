@@ -45,9 +45,9 @@ excerpt: "One-Year Anniversary of Porepunkah Police Shootings Commemorated in Vi
 
 ### Police Officers Porepunkah
 
-This is a <span style="color:#ff8c00">Squiz</span> podcast, where we're your shortcut to being informed. Good morning, I'm Andrew Williams. And I'm Anna Pykett.
+This is a Squiz podcast, where we're your shortcut to being informed. Good morning, I'm Andrew Williams. And I'm Anna Pykett.
 
-It's Wednesday the 26th of August. In your <span style="color:#ff8c00">Squiz</span> today: it's been a year since the Porepunkah shooting, Vale to Dolly Parton, National Cabinet is on today, and a special rule for Jai Arrow. This is your <span style="color:#ff8c00">Squiz</span> Today.
+It's Wednesday the 26th of August. In your Squiz today: it's been a year since the Porepunkah shooting, Vale to Dolly Parton, National Cabinet is on today, and a special rule for Jai Arrow. This is your Squiz Today.
 
 It was a year ago today that two Victorian police officers were killed, and another was injured by the gunman, Dezi Freeman, while they were attending a rural property in Porepunkah. Those shootings led to the biggest **manhunt** Australia has ever seen, which took place over seven months. It did.
 
@@ -57,7 +57,6 @@ But just to recap, a year ago, 10 police officers arrived at a house to serve a 
 
 - **airlifted**：空運的
 - **manhunt**：追捕
-- <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 
 ### Police Officers Remember
 
@@ -152,7 +151,7 @@ And since the owner, Simon Halabi, bought it in 1999, it's fair to say it's seen
 
 And part of me wishes that I was a licensed bat **ecologist**. So if he does that within a month, he'll be able to keep the place. Otherwise, the local council will come in to seize it, cave and all.
 
-And <span style="color:#ff8c00">Squiz</span> the Day now. There's news around that the final block of hearings in the Royal Commission into antisemitism and social cohesion might wrap up today, a couple of days earlier than expected. So keep an eye out for that.
+And Squiz the Day now. There's news around that the final block of hearings in the Royal Commission into antisemitism and social cohesion might wrap up today, a couple of days earlier than expected. So keep an eye out for that.
 
 And on the off chance you're listening to us from Spain, watch out because today is La Tomatina, the largest tomato-throwing festival in the world, which got us wondering just how many of these there are around the world. Yeah, exactly how many. In order to be the largest tomato-throwing festival, that implies the existence of a smaller sort.
 
@@ -161,7 +160,6 @@ We found at least a few in our research. The Gran Tomatina in Colombia is quite 
 #### Words in this section
 
 - **ecologist**：生態學家
-- <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 
 ### Vietnam Lots Options
 
@@ -277,7 +275,7 @@ We'll be back with you again tomorrow.
 </thead>
 <tbody>
 <tr>
-<td><span style="color:#ff8c00">squiz</span></td>
+<td>squiz</td>
 <td>a quick look</td>
 <td>快速查看</td>
 </tr>

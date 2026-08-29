@@ -41,7 +41,7 @@ excerpt: "Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash F
 
 ### Google AI Message Deakin
 
-This is a <span style="color:#ff8c00">Squiz</span> podcast, where we're your shortcut to being informed. Before we get into the news, a message from **Deakin** University. A **Deakin** study has asked Australian teenagers what they really think about gambling advertising, and they have some strong views.
+This is a Squiz podcast, where we're your shortcut to being informed. Before we get into the news, a message from **Deakin** University. A **Deakin** study has asked Australian teenagers what they really think about gambling advertising, and they have some strong views.
 
 Research has found many support tighter regulation, particularly on social media. You can read more via the link in today's episode notes. A message from Google.
 
@@ -52,11 +52,10 @@ Good morning, I'm Anna Pykett. And I'm Larissa Huntington. It's Friday the 28th 
 #### Words in this section
 
 - **deakin**：迪肯
-- <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 
 ### Missing Nepal Australians
 
-In your <span style="color:#ff8c00">Squiz</span> today: 35 Australians are missing in the Nepal floods, a jury deliberates in a US murder trial, **Qantas** says bon voyage to its A380s, and a crowd-pleasing chocolate cake. This is your <span style="color:#ff8c00">Squiz</span> Today. Larissa, we talked yesterday about the flash floods that swept through border villages between Nepal and China, and we've got a bit more information this morning.
+In your Squiz today: 35 Australians are missing in the Nepal floods, a jury deliberates in a US murder trial, **Qantas** says bon voyage to its A380s, and a crowd-pleasing chocolate cake. This is your Squiz Today. Larissa, we talked yesterday about the flash floods that swept through border villages between Nepal and China, and we've got a bit more information this morning.
 
 As is often the case with disasters like this, the numbers are changing quite quickly. But as we record this, around 400 people have been confirmed dead, and at least 1,300 have been reported missing from countries around the world. Yeah, and that includes 35 Australians.
 
@@ -72,7 +71,7 @@ And this includes two young brothers. And most of this group are thought to be f
 - **aussies**：澳洲人
 - **hikers**：徒步旅行者
 - **himalayan**：喜馬拉雅山
-- <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
+
 - <span style="color:#ff8c00"><strong>aussies</strong></span>：澳洲用語
 
 ### Flooding Penny Wong
@@ -280,7 +279,7 @@ And that wraps us up for the week. Thank you as always for listening. We hope yo
 </thead>
 <tbody>
 <tr>
-<td><span style="color:#ff8c00">squiz</span></td>
+<td>squiz</td>
 <td>a quick look</td>
 <td>快速瀏覽一下</td>
 </tr>

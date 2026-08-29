@@ -51,16 +51,15 @@ You can read more via the link in today's episode notes. A message from Google. 
 
 That's why medical researchers are using Google AI to help hearing aids cut through background noise. More's possible with Google AI. Good morning, I'm Anna Pykett.
 
-And I'm Larissa Huntington. It's Thursday the 27th of August. In your <span style="color:#ff8c00">Squiz</span> today: Coles and Woolies bag profits, deadly floods in Nepal, Meta agrees to big changes in the US, and tributes roll in for Dolly.
+And I'm Larissa Huntington. It's Thursday the 27th of August. In your Squiz today: Coles and Woolies bag profits, deadly floods in Nepal, Meta agrees to big changes in the US, and tributes roll in for Dolly.
 
 #### Words in this section
 
 - **deakin**：迪肯
-- <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 
 ### Results Coles Supermarkets
 
-This is your <span style="color:#ff8c00">Squiz</span> Today. Larissa, our two biggest supermarkets, Coles and Woolies, have been in the headlines this week after posting their results for the last financial year. It truly is results season.
+This is your Squiz Today. Larissa, our two biggest supermarkets, Coles and Woolies, have been in the headlines this week after posting their results for the last financial year. It truly is results season.
 
 We've been getting <span style="color:#ff8c00">heaps</span> coming thick and fast, and both companies have posted profits which were higher than expected. And given there's a cost of living crisis going on, people have had some questions. Yeah, they have.
 
@@ -72,7 +71,7 @@ But the CEO, Amanda Bardwell, says that it's due to people buying more rather th
 
 - **woolworths**：（翻譯失敗）
 - **trolleys**：手推車
-- <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
+
 - <span style="color:#ff8c00"><strong>aussies</strong></span>：澳洲用語
 - <span style="color:#ff8c00"><strong>heaps</strong></span>：澳洲用語
 
@@ -156,12 +155,11 @@ She wasn't allowed initially to bring her tour bus because rules and regulations
 
 She was okay to fly to Australia, but when within it—it's a big country—she wanted to travel on her bus. So Albo gave her the green light, and I think the quote was she said she was going to **smother** him in lip gloss for letting her do so. And if you've got a few spare minutes, if you've not had enough Dolly Parton, we'll include a gift link to The New York Times obituary and also a gallery of photos in today's show notes.
 
-<span style="color:#ff8c00">Squiz</span> the day now.
+Squiz the day now.
 
 #### Words in this section
 
 - **smother**：窒息
-- <span style="color:#ff8c00"><strong>squiz</strong></span>：澳洲用語
 
 ### Best Movies Tributes
 
@@ -331,7 +329,7 @@ Yeah, and I'm sure we're going to be hearing a lot more about this in the weeks 
 </thead>
 <tbody>
 <tr>
-<td><span style="color:#ff8c00">squiz</span></td>
+<td>squiz</td>
 <td>a quick look</td>
 <td>快速查看</td>
 </tr>
