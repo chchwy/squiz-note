@@ -161,6 +161,8 @@ And it's got some scientists worried. It has. And so they're wondering, well, wh
 
 That is a really significant drop. And experts are pointing to the ongoing **algal** bloom — our old friend the **algal** bloom in South Australia — that's been devastating the **coastline** there for around 18 months now. So giant **cuttlefish** are native and unique to Australia.
 
+So the fact that they've given what is generally their usual hook-up spot a wide **berth** is **alarming** the experts, and also **sparking** calls for the local population to be listed as endangered. 
+
 #### Words in this section
 
 - **canoodling**：愛撫( canoodle的現在分詞 ); 撫愛; 吻; 摟頸親熱
@@ -175,7 +177,7 @@ That is a really significant drop. And experts are pointing to the ongoing **alg
 
 ### Sydney Marathon Runners Minutes
 
-So the fact that they've given what is generally their usual hook-up spot a wide **berth** is **alarming** the experts, and also **sparking** calls for the local population to be listed as endangered. And at this time last week, we were talking about a little mix-up with the Sydney Marathon **finishers** medal. It features several iconic **landmarks**, and for some reason, Munich's Allianz Arena.
+And at this time last week, we were talking about a little mix-up with the Sydney Marathon **finishers** medal. It features several iconic **landmarks**, and for some reason, Munich's Allianz Arena.
 
 Well, now 36,000 runners are the proud owners of that little collector's item because the 42.2-**kilometre** event took place yesterday. Yeah, and it is such an amazing day regardless of the medal mix-up. So congratulations to anyone who took part, and I really hope you've got your Deep Heat handy this morning.
 
