@@ -3,7 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-31"
 date: 2026-08-31 07:00:00 +0800
 categories: notes
-excerpt: "One Nation Wins Historic WA Lower House Seat in Secret Harbour By-Election、Search for Nepal Glacier Collapse Survivors Continues as Australia Deploys Aid、Pacific Islands Forum Begins in Palau Amid Leadership Turmoil and Absences、South Australia Giant Cuttlefish Numbers Plummet 97% Amid Ongoing Algal Bloom、Addisu Gobena and Peres Jepchirchir Claim Titles at the Sydney Marathon、Survey Reveals AI Rivals Mainstream Media as News Source for Australian Kids、US Open Gets Underway as Alex de Minaur Pursues Grand Slam Milestone"
+excerpt: "One Nation Wins Historic WA State Parliament Lower House Seat in Secret Harbour、Rescue Operations Continue in Nepal Following Massive Himalayan Glacier Collapse、Pacific Islands Forum Begins in Palau as Solomon Islands Prime Minister Departs、South Australian Giant Cuttlefish Population Drops 97% Amid Ongoing Algal Bloom、Addisu Gobena and Peres Jepchirchir Claim Victories at Sydney Marathon、Report Finds Australian Children Increasingly Use AI for News as Engagement Drops、US Open Underway with Alex de Minaur Aiming for Maiden Grand Slam Final"
 ---
 
 ## Table of Contents
@@ -22,19 +22,19 @@ excerpt: "One Nation Wins Historic WA Lower House Seat in Secret Harbour By-Elec
 
 ## News Highlights
 
-- **One Nation Wins Historic WA Lower House Seat in Secret Harbour By-Election／一國黨在密港補選勝出 奪得西澳下議院歷史性首席**
+- **One Nation Wins Historic WA State Parliament Lower House Seat in Secret Harbour／一國黨於西澳哈伯港補選獲勝 奪下歷史性州議會下議院席次**
 
-- **Search for Nepal Glacier Collapse Survivors Continues as Australia Deploys Aid／尼泊爾冰川崩塌搜救持續 澳洲提供援助與派遣應變小組**
+- **Rescue Operations Continue in Nepal Following Massive Himalayan Glacier Collapse／尼泊爾喜馬拉雅冰川崩塌釀重災 搜救行動持續進行**
 
-- **Pacific Islands Forum Begins in Palau Amid Leadership Turmoil and Absences／太平洋島國論壇於帛琉開幕 面臨主席離場及多國領袖缺席**
+- **Pacific Islands Forum Begins in Palau as Solomon Islands Prime Minister Departs／太平洋島國論壇於帛琉登場 索羅門群島總理因不信任動議提前離席**
 
-- **South Australia Giant Cuttlefish Numbers Plummet 97% Amid Ongoing Algal Bloom／受持續藻華影響 南澳巨型烏賊繁殖數量驟降97%**
+- **South Australian Giant Cuttlefish Population Drops 97% Amid Ongoing Algal Bloom／受持續藻華影響 南澳巨型烏賊交配數量驟減97%**
 
-- **Addisu Gobena and Peres Jepchirchir Claim Titles at the Sydney Marathon／戈貝納與傑普契奇爾分獲雪梨馬拉松男女組冠軍**
+- **Addisu Gobena and Peres Jepchirchir Claim Victories at Sydney Marathon／戈貝納與傑普契奇爾分別奪得雪梨馬拉松男女組冠軍**
 
-- **Survey Reveals AI Rivals Mainstream Media as News Source for Australian Kids／調查顯示AI已成為澳洲青少年與主流媒體並列的新聞來源**
+- **Report Finds Australian Children Increasingly Use AI for News as Engagement Drops／最新調查顯示澳洲青少年使用AI獲取新聞比例攀升 整體新聞關注度下滑**
 
-- **US Open Gets Underway as Alex de Minaur Pursues Grand Slam Milestone／美國網球公開賽開打 澳洲名將德米納爾力爭大滿貫突破**
+- **US Open Underway with Alex de Minaur Aiming for Maiden Grand Slam Final／美國網球公開賽開打 澳洲名將德米納爾力爭首度闖進大滿貫決賽**
 
 ## Full Transcript
 
@@ -50,10 +50,9 @@ Good morning, I'm Andrew Williams. And I'm Anna Pykett. It's Monday the 31st of 
 
 #### Words in this section
 
-- **commbank**：商業銀行
+- **commbank**：（翻譯失敗）
 - **deakin**：迪肯大學（澳大利亞的大學）
-- **shortcut**：捷徑, 最短路線
-[計] 快捷方式
+- **shortcut**：捷徑, 最短路線；[計] 快捷方式
 
 ### Nation History Secret Harbour
 
@@ -74,9 +73,8 @@ It had been held by state government with a huge numbers advantage in Parliament
 #### Words in this section
 
 - **pollies**：[網路] 民意調查
-- **pauline**：保羅的, 使徒保羅寫的
-n. 聖保羅學校的學生
-- <span style="color:#ff8c00"><strong>pollies</strong></span>：澳洲俚語，指「政治人物」或「政客」（politicians 的簡稱）。
+- **pauline**：保羅的, 使徒保羅寫的；n. 聖保羅學校的學生
+- <span style="color:#ff8c00"><strong>pollies</strong></span>：澳洲俚語，指政治人物、政客。
 
 ### Secret Harbour Primary Seat
 
@@ -115,11 +113,9 @@ That includes 42 Australians who are still **unaccounted** for, and the **Albane
 - **unaccounted**：未說明的, 未解釋的
 - **hydropower**：水力發出的電力
 - **himalayas**：喜馬拉雅山脈
-- **caveat**：中止訴訟程式的申請, 警告
-[經] 停止支付的廣告, 貨物出門概不退換
-- **swag**：搖晃, 贓物, 窪地, 珍貴物, 垂花飾
-vi. 搖晃, 垂下
-- <span style="color:#ff8c00"><strong>a swag of</strong></span>：澳洲俚語，指「大量的」、「許多的」或「一大批（事物/席位）」。
+- **caveat**：中止訴訟程式的申請, 警告；[經] 停止支付的廣告, 貨物出門概不退換
+- **swag**：搖晃, 贓物, 窪地, 珍貴物, 垂花飾；vi. 搖晃, 垂下
+- <span style="color:#ff8c00"><strong>a swag of</strong></span>：澳洲常用口語，意指「大量的」、「一大批」或「一長串」事物。
 
 ### Home Pacific Islands
 
@@ -134,15 +130,12 @@ He only came to power three months ago, but he's had to head home to deal with t
 #### Words in this section
 
 - **vigils**：保持清醒（尤指夜間）( vigil的複數形式 ); 不眠（時刻）; 守夜; 警戒
-- **wale**：隆起的傷痕, 鞭痕, 凸條紋, 精華, 選擇
-vt. 在...上留下鞭痕, 織成稜紋, 挑選, 撐住
-vi. 挑選
+- **wale**：隆起的傷痕, 鞭痕, 凸條紋, 精華, 選擇；vt. 在...上留下鞭痕, 織成稜紋, 挑選, 撐住；vi. 挑選
 - **palau**：帛琉群島[西太平洋](即帛琉群島)
+- **nepalese**：尼泊爾的；n. 尼泊爾人
 - **rescuers**：救援者（rescuer的複數）
-- **nepalese**：尼泊爾的
-n. 尼泊爾人
-- <span style="color:#ff8c00"><strong>chip in</strong></span>：共同出資、捐款或出力支援；湊份子。
-- <span style="color:#ff8c00"><strong>off to a rocky start</strong></span>：起步艱難、出師不利；開局不順。
+- <span style="color:#ff8c00"><strong>chip in</strong></span>：捐款、湊錢或共同分攤出力（為某個共同目標做出貢獻）。
+- <span style="color:#ff8c00"><strong>off to a rocky start</strong></span>：起步不順、開局坎坷（一開始就遇到問題或挑戰）。
 
 ### Cuttlefish Forum Sent
 
@@ -181,9 +174,7 @@ So the fact that they've given what is generally their usual hook-up spot a wide
 - **allianz**：安聯（財富500強公司之一，總部在德國，主要經營保險）
 - **finishers**：整理工；修整器；決定性的事件；最後優勝者
 - **sparking**：[電] 發電花
-- **berth**：船岸之間的水區, 錨地, 臥鋪
-vi. 停泊
-vt. 使停泊
+- **berth**：船岸之間的水區, 錨地, 臥鋪；vi. 停泊；vt. 使停泊
 - **landmarks**：陸標( landmark的複數形式 ); 目標; （標誌重要階段的）里程碑 ~ (in sth); 有歷史意義的建築物（或遺址）
 
 ### Runners Minutes Event
@@ -198,17 +189,16 @@ The women's title went to Kenyan runner **Peres** **Jepchirchir**, who ran the c
 
 #### Words in this section
 
+- **addisu**：阿迪蘇
 - **jepchirchir**：傑普奇奇爾
 - **gobena**：戈貝納
-- **addisu**：阿迪蘇
 - **peres**：佩雷斯（人名）
 - **javelin**：標槍
-- **thrower**：投擲者, 發射器, 噴射器, 製陶坯的工人
-[化] 拋油環; 甩水圈
+- **thrower**：投擲者, 發射器, 噴射器, 製陶坯的工人；[化] 拋油環; 甩水圈
 - **gonzales**：[人名] 岡薩雷斯; [地名] [美國] 岡薩雷斯
 - **kilometre**：公里, 千米
 - **pursuits**：追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好
-- <span style="color:#ff8c00"><strong>rock up</strong></span>：澳洲與英式日常俚語，指「抵達」、「現身」或「露面」。
+- <span style="color:#ff8c00"><strong>rock up</strong></span>：澳洲及英聯邦常用口語俚語，意指「現身」、「到場」或「抵達」。
 
 ### News Kids Berlin Marathon
 
@@ -253,6 +243,12 @@ We'll speak to you again tomorrow.
 </thead>
 <tbody>
 <tr>
+<td>addisu</td>
+<td></td>
+<td>noun</td>
+<td>阿迪蘇</td>
+</tr>
+<tr>
 <td>jepchirchir</td>
 <td></td>
 <td>noun</td>
@@ -263,12 +259,6 @@ We'll speak to you again tomorrow.
 <td></td>
 <td>noun</td>
 <td>戈貝納</td>
-</tr>
-<tr>
-<td>addisu</td>
-<td></td>
-<td>noun</td>
-<td>阿迪蘇</td>
 </tr>
 <tr>
 <td>hurdigan</td>
@@ -376,7 +366,7 @@ We'll speak to you again tomorrow.
 <td>wale</td>
 <td>weil</td>
 <td>noun</td>
-<td>隆起的傷痕, 鞭痕, 凸條紋, 精華, 選擇 vt. 在...上留下鞭痕, 織成稜紋, 挑選, 撐住 vi. 挑選</td>
+<td>隆起的傷痕, 鞭痕, 凸條紋, 精華, 選擇；vt. 在...上留下鞭痕, 織成稜紋, 挑選, 撐住；vi. 挑選</td>
 </tr>
 <tr>
 <td>palau</td>
@@ -442,19 +432,19 @@ We'll speak to you again tomorrow.
 <td>thrower</td>
 <td>'θrәuә</td>
 <td>n.</td>
-<td>投擲者, 發射器, 噴射器, 製陶坯的工人 [化] 拋油環; 甩水圈</td>
+<td>投擲者, 發射器, 噴射器, 製陶坯的工人；[化] 拋油環; 甩水圈</td>
+</tr>
+<tr>
+<td>nepalese</td>
+<td>.nepә'li:z</td>
+<td>adj.</td>
+<td>尼泊爾的；n. 尼泊爾人</td>
 </tr>
 <tr>
 <td>rescuers</td>
 <td></td>
 <td>noun</td>
 <td>救援者（rescuer的複數）</td>
-</tr>
-<tr>
-<td>nepalese</td>
-<td>.nepә'li:z</td>
-<td>adj.</td>
-<td>尼泊爾的 n. 尼泊爾人</td>
 </tr>
 <tr>
 <td>finishers</td>
@@ -484,13 +474,13 @@ We'll speak to you again tomorrow.
 <td>caveat</td>
 <td>'keiviæt</td>
 <td>n.</td>
-<td>中止訴訟程式的申請, 警告 [經] 停止支付的廣告, 貨物出門概不退換</td>
+<td>中止訴訟程式的申請, 警告；[經] 停止支付的廣告, 貨物出門概不退換</td>
 </tr>
 <tr>
 <td>swag</td>
 <td>swæg</td>
 <td>v.</td>
-<td>搖晃, 贓物, 窪地, 珍貴物, 垂花飾 vi. 搖晃, 垂下</td>
+<td>搖晃, 贓物, 窪地, 珍貴物, 垂花飾；vi. 搖晃, 垂下</td>
 </tr>
 <tr>
 <td>kilometre</td>
@@ -499,16 +489,16 @@ We'll speak to you again tomorrow.
 <td>公里, 千米</td>
 </tr>
 <tr>
+<td>shortcut</td>
+<td>'ʃɒ:tkʌt</td>
+<td>n.</td>
+<td>捷徑, 最短路線；[計] 快捷方式</td>
+</tr>
+<tr>
 <td>pursuits</td>
 <td>pəˈsju:ts</td>
 <td>noun</td>
 <td>追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好</td>
-</tr>
-<tr>
-<td>shortcut</td>
-<td>'ʃɒ:tkʌt</td>
-<td>n.</td>
-<td>捷徑, 最短路線 [計] 快捷方式</td>
 </tr>
 <tr>
 <td>samoa</td>
@@ -526,7 +516,7 @@ We'll speak to you again tomorrow.
 <td>berth</td>
 <td>bә:θ</td>
 <td>v.</td>
-<td>船岸之間的水區, 錨地, 臥鋪 vi. 停泊 vt. 使停泊</td>
+<td>船岸之間的水區, 錨地, 臥鋪；vi. 停泊；vt. 使停泊</td>
 </tr>
 <tr>
 <td>landmarks</td>
@@ -538,7 +528,7 @@ We'll speak to you again tomorrow.
 <td>pauline</td>
 <td>'pɒ:lain</td>
 <td>noun</td>
-<td>保羅的, 使徒保羅寫的 n. 聖保羅學校的學生</td>
+<td>保羅的, 使徒保羅寫的；n. 聖保羅學校的學生</td>
 </tr>
 </tbody>
 </table>
@@ -561,55 +551,61 @@ We'll speak to you again tomorrow.
 <td>pollies</td>
 <td>Pollies across the board are taking stock of what this all means this morning.</td>
 <td>Australian slang for politicians.</td>
-<td>澳洲俚語，指「政治人物」或「政客」（politicians 的簡稱）。</td>
+<td>澳洲俚語，指政治人物、政客。</td>
+</tr>
+<tr>
+<td>take stock</td>
+<td>Pollies across the board are taking stock of what this all means this morning.</td>
+<td>To pause and carefully evaluate or assess a situation before deciding what to do next.</td>
+<td>評估情勢、全面審視現狀（以便決定下一步對策）。</td>
 </tr>
 <tr>
 <td>a swag of</td>
-<td>unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way</td>
-<td>Australian slang meaning a large number, collection, or quantity of something.</td>
-<td>澳洲俚語，指「大量的」、「許多的」或「一大批（事物/席位）」。</td>
+<td>as pollster Kos Samaras pointed out, unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way</td>
+<td>An Australian expression meaning a large quantity, number, or collection of something.</td>
+<td>澳洲常用口語，意指「大量的」、「一大批」或「一長串」事物。</td>
 </tr>
 <tr>
 <td>chip in</td>
 <td>If you'd like to chip in to help, we'll put a link in the episode notes today.</td>
-<td>To contribute money, time, or assistance to a common cause or effort.</td>
-<td>共同出資、捐款或出力支援；湊份子。</td>
+<td>To contribute money, help, or resources toward a shared cause or effort.</td>
+<td>捐款、湊錢或共同分攤出力（為某個共同目標做出貢獻）。</td>
 </tr>
 <tr>
 <td>off to a rocky start</td>
 <td>But it's off to a rocky start as the outgoing chair of the forum has had to leave before it even began.</td>
-<td>Beginning in a difficult, troubled, or unsteady manner.</td>
-<td>起步艱難、出師不利；開局不順。</td>
+<td>Beginning with difficulties, problems, or instability.</td>
+<td>起步不順、開局坎坷（一開始就遇到問題或挑戰）。</td>
 </tr>
 <tr>
-<td>leg it (legged it)</td>
+<td>leg it</td>
 <td>So the PM has legged it out of Palau and will arrive back home today.</td>
-<td>Informal slang meaning to depart hastily, run away, or leave in a hurry.</td>
-<td>俚語，指「匆忙離開」、「趕緊溜走」或「拔腿就跑」。</td>
+<td>Informal slang meaning to depart in a rush or run away quickly.</td>
+<td>口語俚語，指匆忙離開、急忙趕路或拔腿快溜。</td>
 </tr>
 <tr>
 <td>rock up</td>
 <td>But the turnout for this year's mating event was significantly low — just over 1,800 cuttlefish rocked up.</td>
-<td>Informal Australian and British slang meaning to arrive or turn up, often casually.</td>
-<td>澳洲與英式日常俚語，指「抵達」、「現身」或「露面」。</td>
+<td>Common Australian and informal slang meaning to arrive or turn up somewhere, often casually.</td>
+<td>澳洲及英聯邦常用口語俚語，意指「現身」、「到場」或「抵達」。</td>
 </tr>
 <tr>
-<td>give (something) a wide berth</td>
+<td>give something a wide berth</td>
 <td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts</td>
-<td>An idiom meaning to avoid someone or something deliberately, or keep a safe distance.</td>
-<td>習慣用語，指「刻意避開」、「敬而遠之」或保持距離。</td>
+<td>An idiom meaning to deliberately avoid or keep a safe distance from someone or something.</td>
+<td>慣用語，意指「刻意避開」、「敬而遠之」或「保持距離」。</td>
 </tr>
 <tr>
-<td>give (something) a crack</td>
-<td>Hey, maybe you should give running a crack.</td>
-<td>Informal Australian idiom meaning to give something a try or have a go at it.</td>
-<td>澳洲口語俚語，指「嘗試看看」、「試試看」。</td>
+<td>give something a crack</td>
+<td>his aunt said, 'Hey, maybe you should give running a crack. You look like you've got the figure for it.'</td>
+<td>An Australian and informal idiom meaning to try, attempt, or have a go at doing something.</td>
+<td>澳洲及英聯邦常用俚語，意指「嘗試看看」、「試試身手」。</td>
 </tr>
 <tr>
-<td>do (someone) a solid</td>
+<td>do someone a solid</td>
 <td>Of course, they would have to do us a solid and feature the Opera House on their medal, surely.</td>
-<td>An informal idiom meaning to do a favor or helpful service for someone.</td>
-<td>口語慣用語，指「幫（某人）一個忙」或做個人情。</td>
+<td>An informal idiom meaning to do someone a favor or helpful deed.</td>
+<td>口語俚語／慣用語，意指「幫某人一個忙」或「賣個人情」。</td>
 </tr>
 </tbody>
 </table>
@@ -628,27 +624,31 @@ We'll speak to you again tomorrow.
 <tbody>
 <tr>
 <td>One Nation</td>
-<td>A prominent right-wing populist political party in Australia (officially Pauline Hanson's One Nation), known for its signature orange branding and anti-immigration, nationalist policies.／澳洲著名的右翼民粹主義政黨（全稱「保琳·韓森的一國黨」），以標誌性的橘色為代表色，主張澳洲民族主義、反對高移民率及關注本土民生議題。</td>
+<td>A right-wing populist Australian political party founded in 1997 by Pauline Hanson, known for its nationalist policies, anti-immigration platform, and distinctive orange branding.／由寶琳·韓森（Pauline Hanson）於1997年創立的澳洲右翼民粹主義政黨，以民族主義、嚴格反移民立場及代表性的橘色識別著稱。</td>
 </tr>
 <tr>
-<td>CommBank</td>
-<td>Short for Commonwealth Bank of Australia, the country's largest retail bank and one of Australia's 'Big Four' major financial institutions.／澳洲聯邦銀行（Commonwealth Bank of Australia）的常見簡稱，為澳洲最大的零售銀行，也是主導澳洲金融業的「四大銀行」之一。</td>
+<td>Secret Harbour</td>
+<td>An outer metropolitan suburb and state electorate located south of Perth in Western Australia, historically considered a safe seat for the Labor Party.／位於西澳首府伯斯以南的外都市郊區及州議會選區，傳統上一直被視為工黨（Labor Party）的鐵票區。</td>
 </tr>
 <tr>
 <td>Fed Square</td>
-<td>Short for Federation Square, a well-known civic centre and cultural precinct in central Melbourne, Victoria, widely used for public events, community vigils, and gatherings.／聯邦廣場（Federation Square）的簡稱，位於維多利亞州墨爾本市中心的知名公共廣場與文化特區，常用於舉辦大型公眾集會、社區祈禱及節慶活動。</td>
+<td>Short for Federation Square, a prominent civic and cultural precinct in central Melbourne often used for community gatherings, public vigils, and major events.／聯邦廣場（Federation Square）的簡稱，為墨爾本市中心的著名公共與文化地標，常用於舉辦社區集會、公眾悼念及各類大型活動。</td>
 </tr>
 <tr>
-<td>ABC</td>
-<td>The Australian Broadcasting Corporation, Australia's taxpayer-funded national public broadcaster, providing independent television, radio, and online news services.／澳洲廣播公司（Australian Broadcasting Corporation），為澳洲由國家資助的公共廣播機構，提供獨立的電視、廣播與線上新聞服務。</td>
+<td>ABC (Australian Broadcasting Corporation)</td>
+<td>Australia's national public broadcaster, funded by the federal government to provide independent television, radio, and digital news across the country.／澳洲廣播公司，為澳洲由聯邦政府資助的國家公共廣播機構，向全國提供獨立的電視、廣播與數位新聞服務。</td>
 </tr>
 <tr>
-<td>Newspoll</td>
-<td>A premier Australian political opinion poll published by The Australian newspaper, closely tracked by politicians and media for measuring party vote shares and federal leadership approval.／澳洲最具指標性的政治民意調查，刊登於《澳洲人報》（The Australian），是政壇與媒體衡量各大政黨支持度及領袖滿意度的重要指標。</td>
+<td>Cuttlefish Coast</td>
+<td>A coastal area in the Upper Spencer Gulf of South Australia, famous as the world's only known mass breeding aggregation site for native Giant Australian Cuttlefish.／位於南澳斯潘塞灣上段的海岸區域，以作為澳洲特有巨型墨魚全球唯一已知的大規模集體繁殖聚集地而聞名。</td>
+</tr>
+<tr>
+<td>Two-candidate-preferred</td>
+<td>A key metric in Australia's preferential voting system showing the final vote distribution between the two leading candidates after lower preferences are redistributed.／澳洲優先順位偏好投票制度中的核心指標（簡稱 2CP），指在將排名落後候選人的選票偏好分配後，得票最高的前兩名候選人之間的最終得票比例。</td>
 </tr>
 <tr>
 <td>Alex de Minaur</td>
-<td>A leading Australian professional tennis player, commonly referred to in Australian sports culture by his nickname 'The Demon' due to his incredible speed and tenacity.／澳洲男子職業網球名將，在澳洲體育界因其極快的跑動速度與頑強拼勁而被暱稱為「惡魔」（The Demon）。</td>
+<td>A top-ranked Australian professional tennis player, nicknamed 'The Demon' for his speed and relentless court coverage.／澳洲頂尖男子職業網球選手，因驚人的移動速度與頑強的球場奔跑防守能力而被暱稱為「惡魔」（The Demon）。</td>
 </tr>
 </tbody>
 </table>
