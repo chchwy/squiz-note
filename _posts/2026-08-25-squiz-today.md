@@ -5,7 +5,6 @@ date: 2026-08-25 07:00:00 +0800
 categories: [Squiz Today, Notes]
 tags: [podcast, english-learning, aussie-slang]
 toc: true
-description: "Sydney School Sexual Assault Cases Prompt National Debate on Consent、US Announces Fresh Economic Sanctions Against Iran、KPMG Australia Cuts Nearly 400 Jobs Following Client Data Scandal、Researchers and Indigenous Rangers Map Great Barrier Reef's Ancient Dry Land、Australian Schools Enforce Strict Costume Guidelines for Book Week、Prime Minister Albanese to Defend Budget Reforms at Business Council Dinner、Wangaratta Police Station Holds Memorial for Fallen Officers"
 ---
 
 ## Table of Contents

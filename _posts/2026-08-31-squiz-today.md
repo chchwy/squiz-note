@@ -4,7 +4,6 @@ title: "Squiz Today — 2026-08-31"
 date: 2026-08-31 07:00:00 +0800
 categories: [Squiz Today, Notes]
 tags: [podcast, english-learning, aussie-slang]
-description: "One Nation Secures Historic WA Lower House Seat in Secret Harbour By-Election、Rescue Efforts Continue in Nepal After Devastating Himalayan Glacier Collapse、Pacific Islands Forum Begins in Palau Following Sudden Departure of Outgoing Chair、South Australian Giant Cuttlefish Numbers Plummet During Annual Mating Season、Sydney Marathon Concludes with Victories for Addisu Gobena and Peres Jepchirchir、Report Finds Australian Kids Rely on AI for News as Much as Mainstream Media、US Open Kicks Off with Alex de Minaur Aiming for First Grand Slam Final"
 toc: true
 ---
 

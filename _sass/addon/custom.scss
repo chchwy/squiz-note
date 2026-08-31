@@ -1,5 +1,11 @@
 /* Custom enhancements for Squiz Today Learning Notes */
 
+/* Hide bulky subtitle under post title */
+.post-desc,
+p.post-desc {
+  display: none !important;
+}
+
 /* Listen / Podcast Buttons */
 #listen收聽本集 + ul,
 .content h2#listen收聽本集 ~ ul:first-of-type,
