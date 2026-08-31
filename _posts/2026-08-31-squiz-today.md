@@ -3,7 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-31"
 date: 2026-08-31 07:00:00 +0800
 categories: notes
-excerpt: "One Nation Wins First WA Lower House Seat in Secret Harbour By-Election、Himalayan Glacier Collapse Death Toll Rises as Rescue Efforts Continue in Nepal、Pacific Islands Forum Opens in Palau Amid Leadership Turmoil、Giant Cuttlefish Gathering in South Australia Plunges 97% Due to Algal Bloom、Addisu Gobena and Peres Jepchirchir Claim Victories at the Sydney Marathon、Survey Reveals AI Rivals Mainstream News Among Young Australians、US Open Tennis Tournament Kicks Off with Focus on Alex de Minaur"
+excerpt: "One Nation Wins First WA Lower House Seat in Secret Harbour By-Election、Search and Rescue Continues in Nepal After Himalayan Glacier Collapse、Pacific Islands Forum Begins in Palau Under Leadership Uncertainty、Giant Cuttlefish Numbers Collapse Along South Australian Coast、Addisu Gobena and Peres Jepchirchir Win Sydney Marathon、Report Shows AI Matches Mainstream Media as News Source for Aussie Kids、US Open Underway as Alex de Minaur Eyes Maiden Grand Slam Final"
 ---
 
 ## Table of Contents
@@ -22,50 +22,47 @@ excerpt: "One Nation Wins First WA Lower House Seat in Secret Harbour By-Electio
 
 ## News Highlights
 
-- **One Nation Wins First WA Lower House Seat in Secret Harbour By-Election／一國黨於西澳秘密港補選中贏得首個州下議院席位**
+- **One Nation Wins First WA Lower House Seat in Secret Harbour By-Election／一國黨贏得西澳秘密港補選 首度插旗西澳下議院**
 
-- **Himalayan Glacier Collapse Death Toll Rises as Rescue Efforts Continue in Nepal／喜馬拉雅冰川崩塌罹難人數攀升 尼泊爾搜救工作持續進行**
+- **Search and Rescue Continues in Nepal After Himalayan Glacier Collapse／喜馬拉雅冰川崩塌致數百人喪生 尼泊爾搜救行動持續進行**
 
-- **Pacific Islands Forum Opens in Palau Amid Leadership Turmoil／太平洋島國論壇在帛琉揭幕 伴隨領導層政治動盪**
+- **Pacific Islands Forum Begins in Palau Under Leadership Uncertainty／太平洋島國論壇於帛琉揭幕 多國領袖缺席引發關注**
 
-- **Giant Cuttlefish Gathering in South Australia Plunges 97% Due to Algal Bloom／受藻華影響 南澳巨型烏賊年度聚集繁殖數量驟降97%**
+- **Giant Cuttlefish Numbers Collapse Along South Australian Coast／南澳巨型烏賊繁殖數量暴跌97% 專家歸咎長期藻華問題**
 
-- **Addisu Gobena and Peres Jepchirchir Claim Victories at the Sydney Marathon／戈貝納與傑普契奇爾於雪梨馬拉松分別摘得男女組桂冠**
+- **Addisu Gobena and Peres Jepchirchir Win Sydney Marathon／戈貝納與傑普契奇爾分獲雪梨馬拉松男女組冠軍**
 
-- **Survey Reveals AI Rivals Mainstream News Among Young Australians／最新調查顯示 人工智慧已成澳洲青少年主要新聞來源之一**
+- **Report Shows AI Matches Mainstream Media as News Source for Aussie Kids／調查顯示澳洲青少年透過AI獲取新聞比例已追平主流媒體**
 
-- **US Open Tennis Tournament Kicks Off with Focus on Alex de Minaur／美國網球公開賽正式開打 澳洲好手德米瑙爾備受矚目**
+- **US Open Underway as Alex de Minaur Eyes Maiden Grand Slam Final／美網公開賽正式開打 澳洲名將德米納爾力拚首座大滿貫決賽**
 
 ## Full Transcript
 
 ### Message Deakin University Support
 
-This is a **Squiz** podcast, where we're your **shortcut** to being informed. Before we get into the news, a message from **Deakin** University. A **Deakin** study has asked Australian teenagers what they really think about gambling advertising, and they have some strong views.
+This is a Squiz podcast, where we're your **shortcut** to being informed. Before we get into the news, a message from **Deakin** University. A **Deakin** study has asked Australian teenagers what they really think about gambling advertising, and they have some strong views.
 
 Research has found many support tighter regulation, particularly on social media. You can read more via the link in today's episode notes. A message from **CommBank**.
 
 You'll have heard us talking over the past couple of months about financial abuse. If you or someone you know is experiencing financial abuse, support is available through **CommBank**'s Next Chapter program. To learn more, check the link in today's episode notes.
 
-Good morning, I'm Andrew Williams. And I'm Anna **Pykett**. It's Monday the 31st of August.
+Good morning, I'm Andrew Williams. And I'm Anna Pykett. It's Monday the 31st of August.
 
 #### Words in this section
 
-- **pykett**：皮克特
-- **squiz**：<澳俚>好奇的一看,好奇的一瞥
-- **commbank**：（翻譯失敗）
+- **commbank**：商業銀行
 - **deakin**：迪肯大學（澳大利亞的大學）
 - **shortcut**：捷徑, 最短路線
 [計] 快捷方式
 
 ### Nation History Secret Harbour
 
-In your **Squiz** Today: One Nation makes history in Secret Harbour, the search for survivors continues in Nepal, the **cuttlefish** mating ritual that wasn't, and setting records at the Sydney Marathon. This is your **Squiz** Today. It feels like we've been speaking about by-elections a lot over the last few months on the podcast, and we've got another one for you this morning.
+In your Squiz Today: One Nation makes history in Secret Harbour, the search for survivors continues in Nepal, the **cuttlefish** mating ritual that wasn't, and setting records at the Sydney Marathon. This is your Squiz Today. It feels like we've been speaking about by-elections a lot over the last few months on the podcast, and we've got another one for you this morning.
 
 One Nation has made history in WA over the weekend. It won its first ever lower house seat in the State Parliament in the electorate of Secret Harbour.
 
 #### Words in this section
 
-- **squiz**：<澳俚>好奇的一看,好奇的一瞥
 - **cuttlefish**：墨魚, 烏賊
 
 ### Spoke Secret Anymore
@@ -141,9 +138,9 @@ He only came to power three months ago, but he's had to head home to deal with t
 vt. 在...上留下鞭痕, 織成稜紋, 挑選, 撐住
 vi. 挑選
 - **palau**：帛琉群島[西太平洋](即帛琉群島)
+- **rescuers**：救援者（rescuer的複數）
 - **nepalese**：尼泊爾的
 n. 尼泊爾人
-- **rescuers**：救援者（rescuer的複數）
 - <span style="color:#ff8c00"><strong>off to a rocky start</strong></span>：澳洲用語
 
 ### Cuttlefish Forum Sent
@@ -152,13 +149,12 @@ It's made for a fairly **inauspicious** start to the forum. Yeah, not the best b
 
 We've sent ours though. Prime Minister Anthony **Albanese** will be there. He's flying out today, and he says we will have a key role to play in the forum, although at this point that might just be to boost the numbers.
 
-Usually around this time of year, we could be bringing you the annual story of the world's biggest **cuttlefish** mating event. If you know anything about The **Squiz**, you know we wouldn't miss a chance to bring you the story of that. But we can't really this year, or not in the same way, because you might have seen headlines about this: South Australia usually plays host to hundreds of thousands of the species that gather on the **Cuttlefish** Coast for some **canoodling**.
+Usually around this time of year, we could be bringing you the annual story of the world's biggest **cuttlefish** mating event. If you know anything about The Squiz, you know we wouldn't miss a chance to bring you the story of that. But we can't really this year, or not in the same way, because you might have seen headlines about this: South Australia usually plays host to hundreds of thousands of the species that gather on the **Cuttlefish** Coast for some **canoodling**.
 
 But something else has happened. Now, we'll stick a link to an article about this in the episode notes so you can see what **cuttlefish** look like if you can't picture it, because we think they're pretty cool. They're colourful.
 
 #### Words in this section
 
-- **squiz**：<澳俚>好奇的一看,好奇的一瞥
 - **canoodling**：愛撫( canoodle的現在分詞 ); 撫愛; 吻; 摟頸親熱
 - **albanese**：(Albanese)人名；(英)阿爾巴內塞；(法)阿爾巴納斯
 - **inauspicious**：不吉的, 凶兆的, 惡運的
@@ -195,14 +191,14 @@ Well, now 36,000 runners are the proud owners of that little collector's item be
 
 Now, this year's race was won by 21-year-old Ethiopian runner **Addisu** **Gobena**. He finished in the incredible time of two hours, four minutes and 42 seconds — so Speedy **Gonzales**! And fun fact about him: until three years ago, he was actually a **javelin** **thrower**, but his aunt said, 'Hey, maybe you should give running a crack.
 
-You look like you've got the figure for it.' And off he went. And it was a pretty good shout because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge. Huge, and deeply unfair to be that talented at two athletic **pursuits**, when some of us — not naming any names — have zero.
+You look like you've got the figure for it.' And off he went. And it was a pretty <span style="color:#ff8c00">good shout</span> because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge. Huge, and deeply unfair to be that talented at two athletic **pursuits**, when some of us — not naming any names — have zero.
 
 The women's title went to Kenyan runner **Peres** **Jepchirchir**, who ran the course in two hours, 18 minutes and 31 seconds. That's over three minutes ahead of her nearest rival — that was a long time to wait for second to <span style="color:#ff8c00">rock up</span>. The Sydney Marathon, it is a super popular event.
 
 #### Words in this section
 
-- **gobena**：戈貝納
 - **jepchirchir**：（翻譯失敗）
+- **gobena**：戈貝納(gobena)
 - **addisu**：（翻譯失敗）
 - **peres**：佩雷斯（人名）
 - **thrower**：投擲者, 發射器, 噴射器, 製陶坯的工人
@@ -212,21 +208,21 @@ The women's title went to Kenyan runner **Peres** **Jepchirchir**, who ran the c
 - **kilometre**：公里, 千米
 - **pursuits**：追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好
 - <span style="color:#ff8c00"><strong>rock up</strong></span>：澳洲用語
+- <span style="color:#ff8c00"><strong>good shout</strong></span>：澳洲用語
 
 ### News Kids Berlin Marathon
 
 This is the second time the race has been run since it gained World Marathon Major status, and apparently about 123,000 people entered the ballot to run this year's event for those sort of 40,000 spots that took place. So the next major is Berlin Marathon on the 27th of September in Germany. Of course, they would have to do us a solid and feature the Opera House on their medal, surely.
 
-And **Squiz** the Day. Now, you might see some headlines today about the news and young Australians and how they consume it. This is a report that's been published this morning and it's found that AI is now as common a source of news for Aussie kids as mainstream news websites and apps.
+And Squiz the Day. Now, you might see some headlines today about the news and young Australians and how they consume it. This is a report that's been published this morning and it's found that AI is now as common a source of news for Aussie kids as mainstream news websites and apps.
 
-And that was just one **tidbit** from this survey that looks at about 1,000 kids around Australia aged 10 to 17. It also found that they were less engaged with the news across the board compared to where they were three years ago. This is, of course, something we're also passionate about at The **Squiz**.
+And that was just one **tidbit** from this survey that looks at about 1,000 kids around Australia aged 10 to 17. It also found that they were less engaged with the news across the board compared to where they were three years ago. This is, of course, something we're also passionate about at The Squiz.
 
-So if you're looking for a place to start, maybe stop, think, check out our **Newshounds** program, as well as our **Squiz** Kids podcast, which is specifically for younger ears.
+So if you're looking for a place to start, maybe stop, think, check out our **Newshounds** program, as well as our Squiz Kids podcast, which is specifically for younger ears.
 
 #### Words in this section
 
 - **newshounds**：(newshound 的複數) n. 新聞記者
-- **squiz**：<澳俚>好奇的一看,好奇的一瞥
 - **tidbit**：少量的美食, 珍饈, 珍品, 珍聞
 
 ### Names Singles Tennis
@@ -257,34 +253,28 @@ We'll speak to you again tomorrow.
 </thead>
 <tbody>
 <tr>
-<td>gobena</td>
-<td></td>
-<td>noun</td>
-<td>戈貝納</td>
-</tr>
-<tr>
 <td>jepchirchir</td>
 <td></td>
 <td>noun</td>
 <td>傑普奇奇爾</td>
 </tr>
 <tr>
-<td>hurdigan</td>
+<td>gobena</td>
 <td></td>
 <td>noun</td>
-<td>胡爾迪根</td>
+<td>戈貝納(gobena)</td>
 </tr>
 <tr>
 <td>addisu</td>
 <td></td>
 <td>noun</td>
-<td>阿迪蘇</td>
+<td>（查無翻譯）</td>
 </tr>
 <tr>
-<td>pykett</td>
+<td>hurdigan</td>
 <td></td>
 <td>noun</td>
-<td>皮克特</td>
+<td>胡爾迪根</td>
 </tr>
 <tr>
 <td>newshounds</td>
@@ -296,13 +286,7 @@ We'll speak to you again tomorrow.
 <td>minaur</td>
 <td></td>
 <td>noun</td>
-<td>彌瑙爾</td>
-</tr>
-<tr>
-<td>squiz</td>
-<td>skwiz</td>
-<td>noun</td>
-<td>&lt;澳俚&gt;好奇的一看,好奇的一瞥</td>
+<td>（查無翻譯）</td>
 </tr>
 <tr>
 <td>commbank</td>
@@ -329,16 +313,16 @@ We'll speak to you again tomorrow.
 <td>[網路] 民意調查</td>
 </tr>
 <tr>
-<td>samaras</td>
-<td>ˈsæmərəz</td>
-<td>noun</td>
-<td>翼果( samara的名詞複數 )</td>
-</tr>
-<tr>
 <td>mandurah</td>
 <td></td>
 <td>noun</td>
 <td>[地名] 曼哲拉 ( 澳 )</td>
+</tr>
+<tr>
+<td>samaras</td>
+<td>ˈsæmərəz</td>
+<td>noun</td>
+<td>翼果( samara的名詞複數 )</td>
 </tr>
 <tr>
 <td>albanese</td>
@@ -461,16 +445,16 @@ We'll speak to you again tomorrow.
 <td>標槍</td>
 </tr>
 <tr>
-<td>nepalese</td>
-<td>.nepә'li:z</td>
-<td>adj.</td>
-<td>尼泊爾的 n. 尼泊爾人</td>
-</tr>
-<tr>
 <td>rescuers</td>
 <td></td>
 <td>noun</td>
 <td>救援者（rescuer的複數）</td>
+</tr>
+<tr>
+<td>nepalese</td>
+<td>.nepә'li:z</td>
+<td>adj.</td>
+<td>尼泊爾的 n. 尼泊爾人</td>
 </tr>
 <tr>
 <td>finishers</td>
@@ -515,16 +499,16 @@ We'll speak to you again tomorrow.
 <td>公里, 千米</td>
 </tr>
 <tr>
-<td>shortcut</td>
-<td>'ʃɒ:tkʌt</td>
-<td>n.</td>
-<td>捷徑, 最短路線 [計] 快捷方式</td>
-</tr>
-<tr>
 <td>pursuits</td>
 <td>pəˈsju:ts</td>
 <td>noun</td>
 <td>追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好</td>
+</tr>
+<tr>
+<td>shortcut</td>
+<td>'ʃɒ:tkʌt</td>
+<td>n.</td>
+<td>捷徑, 最短路線 [計] 快捷方式</td>
 </tr>
 <tr>
 <td>samoa</td>
@@ -576,56 +560,62 @@ We'll speak to you again tomorrow.
 <tr>
 <td><span style="color:#ff8c00">pollies</span></td>
 <td>Pollies across the board are taking stock of what this all means this morning.</td>
-<td>An informal Australian slang term for politicians.</td>
-<td>澳洲俚語，指「政治人物」或「政客」。</td>
+<td>An Australian slang term for politicians.</td>
+<td>澳洲俚語，指政治人物或政客（politicians 的簡稱）。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">take stock</span></td>
 <td>Pollies across the board are taking stock of what this all means this morning.</td>
-<td>To pause and carefully evaluate a situation, progress, or circumstances before deciding what to do.</td>
-<td>評估情勢、盤點現狀、審時度勢。</td>
+<td>To pause and carefully evaluate or review a situation before deciding what to do.</td>
+<td>評估情勢；停下來審查並總結局勢。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">a swag of</span></td>
-<td>as pollster Kos Samaras pointed out, unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way</td>
-<td>A large quantity, collection, or number of something (informal Australian usage).</td>
-<td>一大批、大量的（澳洲常用口語／俚語）。</td>
+<td>a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way</td>
+<td>An Australian colloquial expression meaning a large number, quantity, or collection of something.</td>
+<td>澳洲口語，指「大量的」或「一大批（事物）」。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">off to a rocky start</span></td>
 <td>But it's off to a rocky start as the outgoing chair of the forum has had to leave before it even began.</td>
-<td>Beginning with difficulties, problems, or instability.</td>
-<td>開局不順、起步艱難、出師不利。</td>
+<td>Beginning with difficulties, instability, or unexpected problems.</td>
+<td>起步不順；出師不利；開局遭遇困難。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">leg it</span></td>
 <td>So the PM has legged it out of Palau and will arrive back home today.</td>
-<td>To depart in a great hurry, run away, or travel somewhere quickly.</td>
-<td>匆匆離開、拔腿快跑、迅速趕路。</td>
+<td>To run away quickly or make a hasty departure from a place.</td>
+<td>匆忙離開；火速趕路或拔腿就跑。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">rock up</span></td>
 <td>But the turnout for this year's mating event was significantly low — just over 1,800 cuttlefish rocked up.</td>
-<td>To arrive or turn up, usually in a casual, unplanned, or informal manner.</td>
-<td>到達、現身、露面（澳洲及英式非正式口語）。</td>
+<td>An informal and Australian phrasal verb meaning to arrive or turn up somewhere, often casually.</td>
+<td>（非正式或澳洲口語）抵達、現身或到場。</td>
 </tr>
 <tr>
-<td><span style="color:#ff8c00">give a wide berth</span></td>
-<td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts, and also sparking calls for the local population to be listed as endangered.</td>
-<td>To avoid or keep a safe distance away from someone or something.</td>
-<td>刻意避開、繞道而行、敬而遠之。</td>
+<td><span style="color:#ff8c00">give something a wide berth</span></td>
+<td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts</td>
+<td>To deliberately stay away from or avoid someone or something.</td>
+<td>刻意避開；敬而遠之；保持距離。</td>
 </tr>
 <tr>
-<td><span style="color:#ff8c00">give (something) a crack</span></td>
-<td>until three years ago, he was actually a javelin thrower, but his aunt said, 'Hey, maybe you should give running a crack. You look like you've got the figure for it.'</td>
-<td>To try or make an attempt at doing something (common Australian idiom).</td>
-<td>試一試、嘗試看看（澳洲常用俚語）。</td>
+<td><span style="color:#ff8c00">give something a crack</span></td>
+<td>Hey, maybe you should give running a crack.</td>
+<td>An Australian and informal idiom meaning to try or attempt something, especially for the first time.</td>
+<td>澳洲及日常口語，指「嘗試一下」或「試試看」。</td>
+</tr>
+<tr>
+<td><span style="color:#ff8c00">good shout</span></td>
+<td>And it was a pretty good shout because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge.</td>
+<td>A colloquial phrase meaning a good suggestion, idea, or decision.</td>
+<td>好主意；出色的建議或英明的決定。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">do someone a solid</span></td>
 <td>Of course, they would have to do us a solid and feature the Opera House on their medal, surely.</td>
-<td>To do a favor or provide an act of kindness for someone.</td>
-<td>幫某人一個忙、賣個人情。</td>
+<td>To do someone a favor or helpful service.</td>
+<td>幫某人一個忙或做件順水人情的事。</td>
 </tr>
 </tbody>
 </table>
@@ -644,15 +634,15 @@ We'll speak to you again tomorrow.
 <tbody>
 <tr>
 <td>Deakin University</td>
-<td>Major Australian public university located in Victoria.／澳洲主要公立大學位於維多利亞。</td>
+<td>Major Australian public university located in Victoria.／位於維多利亞州的澳洲主要公立大學。</td>
 </tr>
 <tr>
 <td>One Nation</td>
-<td>Australian right-wing populist political party founded by Pauline Hanson.／由寶琳漢森 (Pauline Hanson) 創立的澳洲右翼民粹主義政黨。</td>
+<td>Australian right-wing populist political party founded by Pauline Hanson.／由Pauline Hanson創立的澳大利亞右翼民粹主義政黨。</td>
 </tr>
 <tr>
 <td>ABC</td>
-<td>Australian Broadcasting Corporation, national public broadcaster.／澳洲廣播公司，國家公共廣播公司。</td>
+<td>Australian Broadcasting Corporation, national public broadcaster.／澳大利亞廣播公司，國家公共廣播公司。</td>
 </tr>
 </tbody>
 </table>
