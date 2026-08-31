@@ -3,8 +3,17 @@ layout: post
 title: "Squiz Today — 2026-08-31"
 date: 2026-08-31 07:00:00 +0800
 categories: notes
-excerpt: "Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash Floods、Jury Deliberates in US Murder Trial of Lindsay Clancy、Three-Way Contest Emerges in WA Secret Harbour By-Election、Qantas Accelerates A380 Retirement and Posts Annual Results、NASA Prepares to Launch $5.6B Nancy Grace Roman Space Telescope"
+excerpt: "One Nation Secures Historic WA Lower House Seat in Secret Harbour By-Election、Search and Rescue Continues in Nepal Following Himalayan Glacier Collapse、Pacific Islands Forum Opens in Palau Amid Leadership Shake-Up、South Australian Giant Cuttlefish Numbers Drop 97 Percent Amid Algal Bloom、Addisu Gobena and Peres Jepchirchir Triumph at Sydney Marathon、Survey Reveals AI Is Now a Major News Source for Australian Youth、US Open Tennis Tournament Gets Underway"
 ---
+
+## Table of Contents
+
+- [Listen／收聽本集](#listen收聽本集)
+- [News Highlights](#news-highlights)
+- [Full Transcript](#full-transcript)
+- [Advanced Vocabulary](#advanced-vocabulary-beyond-7000-words)
+- [Aussie Slang & Idioms](#aussie-slang--idioms)
+- [Cultural Background Explanation](#cultural-background-explanation)
 
 ## Listen／收聽本集
 
@@ -13,148 +22,169 @@ excerpt: "Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash F
 
 ## News Highlights
 
-- **Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash Floods／尼泊爾與中國邊境暴洪致數百人遇難 35名澳洲人失聯**
-  Flash floods in border villages between Nepal and China have killed around 400 people and left at least 1,300 missing worldwide, including 35 Australians. Among the missing Australians is a 15-person pilgrimage tour group aged 11 to 64, along with a 61-year-old Melbourne man. Foreign Minister Penny Wong announced the deployment of DFAT personnel to assist in the remote region and urged affected families to contact the Consular Emergency Centre. Authorities have warned of potential further flooding from a newly formed lake holding an estimated 3 million cubic metres of blocked river water, which is expected to peak on September 1.
-  尼泊爾與中國邊境村莊發生嚴重暴洪，已造成約400人死亡、全球至少1,300人失聯，其中包括35名澳洲公民。失聯的澳洲人包含一組年齡介於11至64歲的15人朝聖旅行團，以及一名來自墨爾本的61歲男子。澳洲外交部長黃英賢表示正派遣外交貿易部（DFAT）人員前往偏遠災區支援，並呼籲擔憂親友的民眾聯繫24小時領事緊急中心。尼泊爾與中國當局亦警告，因河流受阻形成的堰塞湖蓄水量預計達300萬立方公尺，將於9月1日達到高峰，隨時可能潰堤引發下游進一步洪災。
+- **One Nation Secures Historic WA Lower House Seat in Secret Harbour By-Election／單一民族黨於西澳秘密港補選贏得歷史性首個下議院席次**
 
-- **Jury Deliberates in US Murder Trial of Lindsay Clancy／美國林賽·克蘭西殺子案進入陪審團審議階段**
-  In Massachusetts, the jury has retired to deliberate in the five-week murder trial of 36-year-old Lindsay Clancy, who is accused of strangling her three young children (aged five, three, and eight months) in 2023. While Clancy does not dispute the killings, her defense argues she was suffering from severe postpartum psychosis and should not be held criminally responsible. Prosecutors contend the acts were deliberate and premeditated. The high-profile case has sparked widespread national debate across the United States regarding postpartum mental illness, with hundreds of supporters gathering outside the court. If convicted, Clancy faces life in prison, but if found not criminally responsible, she will be committed to a psychiatric hospital.
-  美國麻薩諸塞州為期五週的林賽·克蘭西（Lindsay Clancy）殺子案已交由陪審團審議。36歲的克蘭西被控於2023年勒斃其三名分別為5歲、3歲及8個月大的幼童。辯方對其殺害子女的事實無異議，但主張她當時飽受產後精神疾患困擾，不具刑事責任能力；檢方則主張其行為屬於蓄意與預謀殺人。本案在全美引發對產後心理健康議題的高度關注與廣泛辯論，數百名支持者身穿粉紅色衣物聚集於法院外聲援。克蘭西若被定罪將面臨終身監禁，若被認定無刑事責任能力則將被送往州立精神病院。
+- **Search and Rescue Continues in Nepal Following Himalayan Glacier Collapse／喜馬拉雅冰川崩塌搜救持續 澳洲派遣危機應對小組並提供援助**
 
-- **Three-Way Contest Emerges in WA Secret Harbour By-Election／西澳秘密港州選區補選上演三方角逐**
-  A state by-election in the outer metropolitan Perth seat of Secret Harbour is set to take place to replace longtime Labor MP Paul Papalia. While traditionally considered a safe Labor electorate, the race has attracted national attention as Pauline Hanson's One Nation challenges Labor's dominance alongside the Liberal Party in a competitive three-way contest. Local voters in the area have highlighted housing affordability and the rising cost of living as their primary concerns heading into the vote.
-  西澳首府伯斯外圍大都會選區「秘密港」（Secret Harbour）即將舉行州議會補選，以填補資深工黨議員保羅·帕帕利亞（Paul Papalia）離任後的席次。該選區傳統上為工黨安全選區，但由於寶琳·韓森（Pauline Hanson）領導的一國黨（One Nation）與自由黨加入競爭，形成備受矚目的三方對決。當地選民表示，住房問題與生活成本上升是本次補選中最受關切的核心議題。
+- **Pacific Islands Forum Opens in Palau Amid Leadership Shake-Up／太平洋島國論壇於帛琉開幕 主席因不信任動議提前離席**
 
-- **Qantas Accelerates A380 Retirement and Posts Annual Results／澳航宣布提前退役A380機隊並公布年度財報**
-  Qantas has announced plans to retire its fleet of Airbus A380s starting in 2028, four years earlier than initially scheduled, as part of a transition to more efficient Airbus A350-1000 and Boeing 787 Dreamliner aircraft with more premium seating. In its full-year financial results, CEO Vanessa Hudson reported a pre-tax profit of just over $2 billion, which included a $420 million hit linked to the US-Israel-Iran conflict. Additionally, Qantas confirmed that bookings for its Project Sunrise non-stop flights to London and New York will open next February ahead of an October launch.
-  澳洲航空（Qantas）宣布將自2028年起逐步淘汰空中巴士A380機隊，較原定計畫提前四年，全面轉向配備更多高艙等座位的空巴A350-1000與波音787夢幻客機等高效機種。執行長凡妮莎·哈德森（Vanessa Hudson）公布全年度財報，稅前獲利略高於20億澳元，其中受到美以伊衝突影響損失達4.2億澳元。此外，澳航確認其直飛倫敦與紐約的「日出計畫」（Project Sunrise）將於明年2月開放訂位、10月正式啟航。
+- **South Australian Giant Cuttlefish Numbers Drop 97 Percent Amid Algal Bloom／受藻華影響 南澳巨型烏賊年度交配數量驟降97%**
 
-- **NASA Prepares to Launch $5.6B Nancy Grace Roman Space Telescope／NASA即將發射斥資56億美元的南西·葛莉絲·羅曼太空望遠鏡**
-  NASA is scheduled to launch the $5.6 billion Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida aboard a SpaceX rocket on Sunday night. Named after NASA's first female executive and astronomer, the telescope took 16 years to develop and is equipped with advanced infrared cameras to survey deep space over a five-year mission. Scientists hope the observations will advance understanding of dark matter, dark energy, and test the accuracy of Albert Einstein's theory of relativity.
-  美國國家航空暨太空總署（NASA）預計於週日晚間在佛羅里達州甘迺迪太空中心透過SpaceX火箭發射斥資56億美元的「南西·葛莉絲·羅曼太空望遠鏡」。該計畫歷經16年研發，以NASA首位女性主管兼天文學家命名，配備高階紅外線相機，預計在為期五年的任務中觀測深空，協助科學家探索暗物質與暗能量的本質，並進一步驗證愛因斯坦廣義相對論的準確性。
+- **Addisu Gobena and Peres Jepchirchir Triumph at Sydney Marathon／戈貝納與傑普契奇爾分別奪得雪梨馬拉松男女組冠軍**
+
+- **Survey Reveals AI Is Now a Major News Source for Australian Youth／調查顯示人工智慧已成澳洲青少年主要新聞來源之一**
+
+- **US Open Tennis Tournament Gets Underway／美國網球公開賽單打賽事正式開打**
 
 ## Full Transcript
 
-### Google AI Message Deakin
+### Message Deakin University Support
 
-This is a Squiz podcast, we're your shortcut to being informed. Before we get into the news, a message from **Deakin** University: A **Deakin** study has asked Australian teenagers what they really think about gambling advertising, and they have some strong views. Research has found many support tighter regulation, particularly on social media.
+This is a Squiz podcast, where we're your shortcut to being informed. Before we get into the news, a message from **Deakin** University. A **Deakin** study has asked Australian teenagers what they really think about gambling advertising, and they have some strong views.
 
-You can read more via the link in today's episode notes. A message from Google: Everyone should enjoy podcasts, even in noisy places. That's why medical researchers are using Google AI to help hearing aids cut through background noise.
+Research has found many support tighter regulation, particularly on social media. You can read more via the link in today's episode notes. A message from CommBank.
 
-More possible with Google AI. Good morning. I'm Anna Pykett, and I'm Larissa Huntington.
+You'll have heard us talking over the past couple of months about financial abuse. If you or someone you know is experiencing financial abuse, support is available through CommBank's Next Chapter program. To learn more, check the link in today's episode notes.
 
-It's Friday, the 28th of August. In your Squiz Today: 35 Australians are missing in the Nepal floods, a jury deliberates in a US murder trial, **Qantas** says bon voyage to its A380s, and a crowd-pleasing chocolate cake. This is your Squiz Today.
+Good morning, I'm Andrew Williams. And I'm Anna Pykett. It's Monday the 31st of August.
 
 #### Words in this section
 
 - **deakin**：迪肯
-- **qantas**：澳洲航空
 
-### Floods Nepal Disasters
+### Nation History Secret Harbour
 
-Larissa, we talked yesterday about the flash floods that swept through border villages between Nepal and China, and we've got a bit more information this morning. As is often the case with disasters like this, the numbers are changing quite quickly, but as we record this, around 400 people have been confirmed dead and at least 1,300 have been reported missing from countries around the world. That includes 35 Australians.
+In your Squiz Today: One Nation makes history in Secret Harbour, the search for survivors continues in Nepal, the **cuttlefish** mating ritual that wasn't, and setting records at the Sydney Marathon. This is your Squiz Today. It feels like we've been speaking about by-elections a lot over the last few months on the podcast, and we've got another one for you this morning.
 
-And the area, as we said yesterday, is pretty popular with **hikers**, tourists, and pilgrims for **trekking** as well as for spiritual reasons, and it's also a hotspot for people who like to do yoga meditation there. And yesterday morning, we heard from a US-based tour company called **Himalayan** Glacier Adventures, which said that a group of 15 **<span style="color:#ff8c00">Aussies</span>** that had taken on a pilgrimage in Nepal are still **unaccounted** for, with the ages of the group between 11 years old and 64 years old, and this includes two young brothers. And most of this group are thought to be from Sydney according to reports, but this morning the Herald has also spoken to a man in Melbourne whose 61-year-old father is also missing.
-
-So it's a tense time, Anna, for many families around the world who are still waiting for updates about their loved ones caught up in the region. Yes, and on that, we heard from Foreign Minister Penny Wong yesterday, who's encouraged people who are worried about friends or family to contact the government's 24-hour Consular Emergency Centre, so we'll pop a link to that in the episode notes with the phone numbers to call. Penny Wong also said Australia is deploying DFAT personnel to the region, but she's stressed that it's a remote area and access and information are very limited, given the scale of the disaster — those are her words.
-
-She's reminded **<span style="color:#ff8c00">Aussies</span>** in the area to follow the advice of local officials. Yes, and that includes staying away from dangerous water. And just on that, we've heard from **Nepalese** and Chinese authorities who are saying that there's still a high risk that more flooding could be on the way, because satellite images are showing that a river has been blocked and is forming a lake at the site of where the flood first happened on Wednesday.
+One Nation has made history in WA over the weekend. It won its first ever lower house seat in the State Parliament in the electorate of Secret Harbour.
 
 #### Words in this section
 
-- **unaccounted**：下落不明的
-- **nepalese**：尼泊爾人
-- **trekking**：徒步
-- **aussies**：澳洲人
-- **hikers**：徒步旅行者
-- **himalayan**：喜瑪拉雅山脈的
-- <span style="color:#ff8c00"><strong>aussies</strong></span>：澳洲用語
+- **cuttlefish**：墨魚
 
-### Warned Breach Create
+### Spoke Secret Anymore
 
-And they've warned that this could breach and create more flooding downstream in the days to come. One report I was reading said that 3 million cubic metres of water, which is the equivalent of about 1,200 Olympic swimming pools if you can't imagine what that looks like, are expected to flow into this lake, which is expected to peak around September the 1st, which is Tuesday next week. So there's a real focus on the rescue effort in what is pretty difficult terrain and hard-to-reach areas.
+Larissa and I spoke about this on Friday, Andrew. We said it won't be much of a secret anymore if Pauline Hanson's party gets up, and it has. It's been making national headlines because it was considered a safe Labor seat.
 
-Nepal is four hours behind Aussie Eastern Standard Time, Tibet is two hours behind, so we can expect more updates across the day.
+It had been held by state government with a huge numbers advantage in Parliament. Pollies across the board are taking stock of what this all means this morning.
 
-### Murdering Lindsay Clancy Criminally
+### Secret Harbour Primary Seat
 
-Larissa, there's been a distressing case playing out over the past five weeks in the US of a mother accused of murdering her three young children. It's all over the international news sites this morning because the jury has just retired to consider its verdict. Yeah, experts are saying that it's a case that has started some difficult conversations over in the US around **postpartum** mental illness.
+Andrew, considering you're from WA, I'll let you run us through the geography before we get into some of the reaction. Secret Harbour is what they call an outer metropolitan seat. It sits well south of Perth.
 
-It's really brought it to the front of public debate over there. But to wind it back a bit, it hinges on whether 36-year-old Lindsay **Clancy** — who doesn't dispute that she strangled her children (they were aged five, three, and eight months old) in 2023 at their home in Massachusetts — whether she was suffering from psychosis at the time. And her lawyers argue that she was a "darn good mother" — that's their quote — who shouldn't be held **criminally** responsible for her actions on that basis.
+It's between the hubs of **Rockingham** and Mandurah, if you know anything about WA. When it comes to the man who has won, his name is Luke Hurdigan. He claimed 39% of the primary vote.
 
-But on the other side, the prosecution says she took deliberate actions and the murders were **premeditated**. And this trial has sparked a huge debate in the US, as Larissa was saying, and hundreds of women have taken to wearing pink outside the court in support of **Clancy**. If she's convicted, she'll face life in prison.
+That was up from 8% in the previous election, so a really significant rise there. That meant that he easily beat the Labor candidate, Georgia Tree, on both first primary preferences and the two-candidate-preferred. Tree saw her party's primary vote **halve**.
 
-If she's found not **criminally** responsible, she'll be committed to a state psychiatric hospital. Now, some of the details of this story are quite distressing, so if it's raised any issues for you, we'll put a link in the show notes to some support resources.
+It went from 46% to 24%. Now, the new Secret Harbour MP, Luke Hurdigan, has been speaking after his win. He says the people of Secret Harbour had sent a message and that cost of living, housing and immigration had been the major issues in the seat.
 
 #### Words in this section
 
-- **premeditated**：有預謀的
-- **postpartum**：產後
-- **clancy**：克蘭西
-- **criminally**：犯罪地
+- **halve**：減半
+- **rockingham**：羅金厄姆
 
-### Secret Harbour Labor Election
+### Election Government Efforts
 
-Back home now, and over in WA we've got a by-election on our hands, this time in the electorate of Secret Harbour, which is set to be the centre of political attention tomorrow night, where the vote is happening to replace longtime state Labor MP Paul Papalia. Secret Harbour sounds a bit like it should be in an **Enid** Blyton book or Home and Away, don't you reckon? Oh, yes!
+Now, to date, One Nation has been seen as mainly a challenger to the Coalition parties on the right, but this election proves it's just as much a threat to Labor as well, so it's been making both major parties nervous, even though analysts have noted that by-elections do sometimes throw up unusual results because the government as a whole is unlikely to change. Yeah, so a little caveat on this, but there won't be a caveat when we get to Victoria's state election in November, because as pollster Kos Samaras pointed out, unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way, and that is an election where the government can change.
 
-But nothing that exciting is going to happen, surely. Ordinarily, a state by-election in what's been a pretty safe Labor seat wouldn't be making national news, but the chance that Pauline Hanson's One Nation might pinch the seat off the dominant Labor government is creating some interest over there. Secret Harbour's an outer metropolitan seat in the south of Perth, if you're not familiar with it, and locals say that housing and the cost of living are the big issues over there.
+And while it's probably a while until the next federal vote, it's the same story there. One Nation is still polling very well. It's topping Newspoll again this morning, and it has been polling well for months, and that means that when the next federal election does roll around, whenever that might be, Canberra could look very, very different if things continue the way they have been — and more orange.
 
-Yeah, these issues obviously very, very front and centre for people across the country, but in this by-election it's promising to be a three-way fight between Labor, One Nation, and the Liberal Party. And if One Nation gets up, this harbour won't be much of a secret anymore.
+Now, the big story late last week was the glacier collapse in the Himalayas that happened on Wednesday. The death toll is still rising from that. It's around 800 at the moment, and there are more than 3,000 people who are still missing.
 
-#### Words in this section
-
-- **enid**：伊妮德
-
-### Planes Qantas Fleet
-
-**Qantas** announced yesterday that it'll be saying see-you-later to its fleet of Airbus A380s from 2028. Now, that's four years earlier than planned, and it's because it's switching to a more efficient fleet of planes. Yeah, in its full-year company results announced yesterday, CEO Vanessa Hudson said that the airline had taken a hit from the war between the US, Israel, and Iran, and that hit was to the tune of $420 million for the year.
-
-Now, it did post a profit of just over $2 billion before tax, but it's looking to change tack from the old A380s, which have been operating since 2008, to new planes — bear with me here: the Airbus A350-1000s and Boeing 787 Dreamliners, if you know your planes. Now, these planes hold fewer passengers, but they do have a bigger share of premium seats, which is **Qantas**'s focus going forward. Yeah, the other thing on the horizon for the <span style="color:#ff8c00">Flying Kangaroo</span> is Project Sunrise, with its non-stop flights to London and New York, which will launch next year in October, with bookings opening for them from February next year.
+That includes 42 Australians who are still **unaccounted** for, and the Albanese government has promised a further $3 million in aid, as well as a 12-person crisis response team to assist in the rescue and recovery efforts. One focus of those efforts is various **hydropower** tunnels in Nepal where hundreds of people are said to be trapped, but the tough terrain and the scale of the disaster are making the rescue effort difficult. Yeah, it is.
 
 #### Words in this section
 
-- **qantas**：澳洲航空
-- <span style="color:#ff8c00"><strong>flying kangaroo</strong></span>：澳洲用語
+- **unaccounted**：下落不明
+- **hydropower**：水力
 
-### Kennedy Space Center Nasa Telescope
+### Home Pacific Islands
 
-Talking about flying, we're back with another space update, and on Sunday night, US space agency NASA is scheduled to launch the Nancy Grace Roman Space Telescope. Now, you might be wondering why they're putting it in space, but this isn't an ordinary telescope. No, it sure isn't.
+When you see some of the ground that these rescuers are trying to cover, you realise just how tricky this is going to be. Back here in Australia, hundreds of people attended vigils organised by the Nepalese community to pray for those affected. There's another one in Melbourne's Fed Square tonight, and we've also seen that the Emergency Action Alliance has set up a donations page that's also supported by the ABC.
 
-This is a $5.6 billion project, so it's a very big deal. And in a nutshell, it's super powerful and it's named after the US astronomer who was also the first female NASA executive, and it's got infrared cameras that can survey deep space. It's been 16 years in the making, and it's scheduled to blast off from the Kennedy Space Center in Florida on a SpaceX rocket and then spend the next five years or so mapping parts of space that we don't know much about, which might help us to understand concepts like dark matter and dark energy.
+If you'd like to chip in to help, we'll put a link in the episode notes today. The Pacific Islands Forum begins in **Palau** today. This is the regular meeting between national leaders of countries in, as you may well have guessed, the Pacific.
 
-Oh, I've recently watched Interstellar again, and this is kind of giving those vibes, isn't it? Now, this telescope could also shed more light on the accuracy of Einstein's theory of relativity. Sorry to bust out physics first thing in the morning, it's not my strong suit, but that's basically that space and time are linked, which is a pretty big deal given that's been a **foundational** part of physics since Einstein came up with it in the early 20th century.
+But it's off to a rocky start as the outgoing chair of the forum has had to leave before it even began. He did, and he was outgoing in more than one sense now. He's the Solomon Islands PM Matthew **Wale**, who you and I have spoken about on the pod several times, Andrew.
 
-Now, Nancy's set to launch around 9:26 precisely, Eastern Standard Time. We'll include a link to NASA's website so you can watch along if you'd like. Friday Lites now, and Larissa, I've been watching a new series on Disney+ called Furious.
-
-#### Words in this section
-
-- **foundational**：基礎
-
-### Cake Recipe Blog
-
-Now, several of my girlfriends have recommended it to me. It follows the hunt for a female serial killer, but yeah, it's not really one to watch with any little people in your house because it is a bit **gory**. I must admit that I've watched quite a lot of it from behind a cushion, but it has got rave reviews.
-
-So if you need a new series to binge over this final winter weekend — can you believe it's the last weekend of winter? I cannot — you're sorted. But on the more happy side of things, if you'd rather bake, Larissa's got you sorted.
-
-Yeah, onto sweeter things: It's my mum's birthday on the weekend, and she's asked for a chocolate cake instead of her usual carrot cake, which is pretty good because I've already shared my favourite carrot cake recipe with this very team. How convenient. So this cake is a version of the recipe that I've been using for years now from an American cook named Sarah Kieffer.
-
-About a hundred years ago, when I used to write my baking blog — you know about that because of my banana bread — and I discovered her blog, um, it's called The Vanilla Bean Blog, and it's full of achievable and delicious cakes like this chocolate one. You're a fellow baker, so you'll know how good it is when you find a recipe that's a keeper. Oh, absolutely!
+He only came to power three months ago, but he's had to head home to deal with the no-confidence motion on his leadership. **Wale**'s Home Affairs Minister says that the leader's repeatedly been making decisions on matters of national importance without proper consultation. So the PM has legged it out of **Palau** and will arrive back home today.
 
 #### Words in this section
 
-- **gory**：血腥
+- **wale**：（翻譯失敗）
+- **palau**：帛琉
 
-### Normally Ruin Putting
+### Cuttlefish Forum Sent
 
-But I normally ruin them by putting more sweet stuff in them because I have such a bad sweet tooth, but I'll give this one a try. We'll put a link to that recipe in the show notes if you'd like to have a go as well. And that wraps us up for the week.
+It's made for a fairly inauspicious start to the forum. Yeah, not the best beginning when the outgoing chair has to leave. And then if you add to that, a bunch of countries, including Samoa, **Vanuatu** and **Kiribati**, haven't sent their leaders at all this year.
 
-Thank you as always for listening. We hope you have a lovely and safe weekend, and Andrew and I will be back with you again on Monday.
+We've sent ours though. Prime Minister Anthony Albanese will be there. He's flying out today, and he says we will have a key role to play in the forum, although at this point that might just be to boost the numbers.
 
-### Close
+Usually around this time of year, we could be bringing you the annual story of the world's biggest **cuttlefish** mating event. If you know anything about The Squiz, you know we wouldn't miss a chance to bring you the story of that. But we can't really this year, or not in the same way, because you might have seen headlines about this: South Australia usually plays host to hundreds of thousands of the species that gather on the **Cuttlefish** Coast for some canoodling.
 
-And that wraps us up for the week. Thank you as always for listening. We hope you have a lovely and safe weekend, and Andrew and I will be back with you again on Monday.
+But something else has happened. Now, we'll stick a link to an article about this in the episode notes so you can see what **cuttlefish** look like if you can't picture it, because we think they're pretty cool. They're colourful.
 
-## Advanced Vocabulary (Beyond Common 5,000 Words)
+#### Words in this section
+
+- **kiribati**：吉里巴斯
+- **cuttlefish**：墨魚
+- **vanuatu**：萬那杜
+
+### Cuttlefish Drop Experts
+
+They can grow up to one metre in size, and they're known for their shape-shifting figures. But the turnout for this year's mating event was significantly low — just over 1,800 **cuttlefish** rocked up. Now that's compared to 63,000 in 2025, which is a 97% drop.
+
+And it's got some scientists worried. It has. And so they're wondering, well, why has this happened?
+
+That is a really significant drop. And experts are pointing to the ongoing **algal** bloom — our old friend the **algal** bloom in South Australia — that's been devastating the coastline there for around 18 months now. So giant **cuttlefish** are native and unique to Australia.
+
+So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts, and also sparking calls for the local population to be listed as endangered. And at this time last week, we were talking about a little mix-up with the Sydney Marathon finishers medal. It features several iconic landmarks, and for some reason, Munich's **Allianz** Arena.
+
+#### Words in this section
+
+- **cuttlefish**：墨魚
+- **algal**：藻類
+- **allianz**：（翻譯失敗）
+
+### Runners Minutes Event
+
+Well, now 36,000 runners are the proud owners of that little collector's item because the 42.2-kilometre event took place yesterday. Yeah, and it is such an amazing day regardless of the medal mix-up. So congratulations to anyone who took part, and I really hope you've got your Deep Heat handy this morning.
+
+Now, this year's race was won by 21-year-old Ethiopian runner Addisu Gobena. He finished in the incredible time of two hours, four minutes and 42 seconds — so Speedy Gonzales! And fun fact about him: until three years ago, he was actually a **javelin** thrower, but his aunt said, 'Hey, maybe you should give running a crack.
+
+You look like you've got the figure for it.' And off he went. And it was a pretty good shout because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge. Huge, and deeply unfair to be that talented at two athletic pursuits, when some of us — not naming any names — have zero.
+
+The women's title went to Kenyan runner **Peres** Jepchirchir, who ran the course in two hours, 18 minutes and 31 seconds. That's over three minutes ahead of her nearest rival — that was a long time to wait for second to rock up. The Sydney Marathon, it is a super popular event.
+
+#### Words in this section
+
+- **peres**：佩雷斯
+- **javelin**：標槍
+
+### News Kids Berlin Marathon
+
+This is the second time the race has been run since it gained World Marathon Major status, and apparently about 123,000 people entered the ballot to run this year's event for those sort of 40,000 spots that took place. So the next major is Berlin Marathon on the 27th of September in Germany. Of course, they would have to do us a solid and feature the Opera House on their medal, surely.
+
+And Squiz the Day. Now, you might see some headlines today about the news and young Australians and how they consume it. This is a report that's been published this morning and it's found that AI is now as common a source of news for Aussie kids as mainstream news websites and apps.
+
+And that was just one **tidbit** from this survey that looks at about 1,000 kids around Australia aged 10 to 17. It also found that they were less engaged with the news across the board compared to where they were three years ago. This is, of course, something we're also passionate about at The Squiz.
+
+So if you're looking for a place to start, maybe stop, think, check out our Newshounds program, as well as our Squiz Kids podcast, which is specifically for younger ears.
+
+#### Words in this section
+
+- **tidbit**：（翻譯失敗）
+
+### Names Singles Tennis
+
+Also today, if you're a tennis fan, the US Open singles tournament is underway. Some big names are in action and you can watch them on 9Now and Stan. And one of those big names, of course, Anna — Alex de Minaur, The Demon.
+
+Could this be the time that he finally reaches his first ever Grand Slam men's singles final? We run this story four times a year. It's got to happen at some stage.
+
+There are some big names out at the top, so it's possible that he could do it this time around. Thank you very much for listening today. Have a great week.
+
+We'll speak to you again tomorrow.
+
+## Advanced Vocabulary (Beyond 7,000 Words)
 
 <div class="table-wrap">
 <table>
@@ -167,79 +197,79 @@ And that wraps us up for the week. Thank you as always for listening. We hope yo
 </thead>
 <tbody>
 <tr>
+<td>kiribati</td>
+<td>noun</td>
+<td>吉里巴斯</td>
+</tr>
+<tr>
+<td>cuttlefish</td>
+<td>adj.</td>
+<td>墨魚</td>
+</tr>
+<tr>
+<td>tidbit</td>
+<td>noun</td>
+<td>（翻譯失敗）</td>
+</tr>
+<tr>
+<td>halve</td>
+<td>noun</td>
+<td>減半</td>
+</tr>
+<tr>
+<td>wale</td>
+<td>noun</td>
+<td>（翻譯失敗）</td>
+</tr>
+<tr>
+<td>palau</td>
+<td>noun</td>
+<td>帛琉</td>
+</tr>
+<tr>
+<td>algal</td>
+<td>adj.</td>
+<td>藻類</td>
+</tr>
+<tr>
+<td>allianz</td>
+<td>noun</td>
+<td>（翻譯失敗）</td>
+</tr>
+<tr>
 <td>deakin</td>
 <td>noun</td>
 <td>迪肯</td>
 </tr>
 <tr>
+<td>rockingham</td>
+<td>noun</td>
+<td>羅金厄姆</td>
+</tr>
+<tr>
+<td>vanuatu</td>
+<td>noun</td>
+<td>萬那杜</td>
+</tr>
+<tr>
+<td>peres</td>
+<td>noun</td>
+<td>佩雷斯</td>
+</tr>
+<tr>
 <td>unaccounted</td>
 <td>verb</td>
-<td>下落不明的</td>
+<td>下落不明</td>
 </tr>
 <tr>
-<td>qantas</td>
+<td>hydropower</td>
 <td>noun</td>
-<td>澳洲航空</td>
+<td>水力</td>
 </tr>
 <tr>
-<td>enid</td>
+<td>javelin</td>
 <td>noun</td>
-<td>伊妮德</td>
-</tr>
-<tr>
-<td>premeditated</td>
-<td>verb</td>
-<td>有預謀的</td>
-</tr>
-<tr>
-<td>nepalese</td>
-<td>noun</td>
-<td>尼泊爾人</td>
-</tr>
-<tr>
-<td>gory</td>
-<td>noun</td>
-<td>血腥</td>
-</tr>
-<tr>
-<td>postpartum</td>
-<td>noun</td>
-<td>產後</td>
-</tr>
-<tr>
-<td>trekking</td>
-<td>verb</td>
-<td>徒步</td>
-</tr>
-<tr>
-<td>foundational</td>
-<td>adj.</td>
-<td>基礎</td>
-</tr>
-<tr>
-<td>aussies</td>
-<td>noun</td>
-<td>澳洲人</td>
-</tr>
-<tr>
-<td>clancy</td>
-<td>noun</td>
-<td>克蘭西</td>
-</tr>
-<tr>
-<td>hikers</td>
-<td>noun</td>
-<td>徒步旅行者</td>
-</tr>
-<tr>
-<td>criminally</td>
-<td>adverb</td>
-<td>犯罪地</td>
-</tr>
-<tr>
-<td>himalayan</td>
-<td>noun</td>
-<td>喜瑪拉雅山脈的</td>
+<td>標槍</td>
 </tr>
 </tbody>
 </table>
@@ -247,29 +277,7 @@ And that wraps us up for the week. Thank you as always for listening. We hope yo
 
 ## Aussie Slang & Idioms
 
-<div class="table-wrap">
-<table>
-<thead>
-<tr>
-<th>Slang / Idiom</th>
-<th>意思</th>
-<th>中文</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span style="color:#ff8c00">aussies</span></td>
-<td>Australians (informal)</td>
-<td>澳洲人（非正式）</td>
-</tr>
-<tr>
-<td><span style="color:#ff8c00">flying kangaroo</span></td>
-<td>nickname for Qantas</td>
-<td>澳洲航空的暱稱</td>
-</tr>
-</tbody>
-</table>
-</div>
+[No Aussie slang detected]
 
 ## Cultural Background Explanation
 
@@ -284,31 +292,15 @@ And that wraps us up for the week. Thank you as always for listening. We hope yo
 <tbody>
 <tr>
 <td>Deakin University</td>
-<td>Major Australian public university located in Victoria.／澳洲主要公立大學位於維多利亞。</td>
-</tr>
-<tr>
-<td>Consular Emergency Centre</td>
-<td>Australian Department of Foreign Affairs and Trade (DFAT) 24/7 emergency hotline for Australians overseas.／澳大利亞外交和貿易部（ DFAT ）為海外澳大利亞人提供全天候緊急熱線。</td>
-</tr>
-<tr>
-<td>DFAT</td>
-<td>Department of Foreign Affairs and Trade (Australia).</td>
+<td>Major Australian public university located in Victoria.／位於維多利亞州的澳洲主要公立大學。</td>
 </tr>
 <tr>
 <td>One Nation</td>
 <td>Australian right-wing populist political party founded by Pauline Hanson.／由Pauline Hanson創立的澳大利亞右翼民粹主義政黨。</td>
 </tr>
 <tr>
-<td>Liberal Party</td>
-<td>Major center-right Australian political party.／澳洲主要中右翼政黨。</td>
-</tr>
-<tr>
-<td>Project Sunrise</td>
-<td>Qantas initiative for nonstop ultra-long-haul flights between Australia and London/New York.／澳洲航空倡議在澳洲和倫敦/紐約之間提供直飛超長途航班。</td>
-</tr>
-<tr>
-<td>Qantas</td>
-<td>Australia's flag carrier airline, nicknamed the 'Flying Kangaroo'.／澳大利亞的旗艦航空公司，綽號“飛行袋鼠”。</td>
+<td>ABC</td>
+<td>Australian Broadcasting Corporation, national public broadcaster.／澳大利亞廣播公司，國家公共廣播公司。</td>
 </tr>
 </tbody>
 </table>
