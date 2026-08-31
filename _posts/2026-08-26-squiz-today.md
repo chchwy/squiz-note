@@ -2,8 +2,10 @@
 layout: post
 title: "Squiz Today — 2026-08-26"
 date: 2026-08-26 07:00:00 +0800
-categories: notes
-excerpt: "One-Year Anniversary of Porepunkah Police Shootings Commemorated in Victoria、Country Music Icon Dolly Parton Passes Away at Age 80、Australian National Cabinet Meets on AI Regulations and Gun Reforms、NRL Approves Special Interchange Exemption for Retiring Star Jai Arrow、Historic 'Batman Begins' Wayne Manor Estate Faces Threat of Council Seizure、Royal Commission Hearings into Antisemitism Expected to Wrap Up Early、Spain Hosts Annual La Tomatina Festival Amid Global Celebrations"
+categories: [Squiz Today, Notes]
+tags: [podcast, english-learning, aussie-slang]
+toc: true
+description: "One-Year Anniversary of Porepunkah Police Shootings Commemorated in Victoria、Country Music Icon Dolly Parton Passes Away at Age 80、Australian National Cabinet Meets on AI Regulations and Gun Reforms、NRL Approves Special Interchange Exemption for Retiring Star Jai Arrow、Historic 'Batman Begins' Wayne Manor Estate Faces Threat of Council Seizure、Royal Commission Hearings into Antisemitism Expected to Wrap Up Early、Spain Hosts Annual La Tomatina Festival Amid Global Celebrations"
 ---
 
 ## Table of Contents

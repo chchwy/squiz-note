@@ -2,8 +2,10 @@
 layout: post
 title: "Squiz Today — 2026-08-31"
 date: 2026-08-31 07:00:00 +0800
-categories: notes
-excerpt: "One Nation Wins Historic First WA Lower House Seat in Secret Harbour By-Election、Search and Rescue Continues in Nepal Following Himalayan Glacier Collapse、Pacific Islands Forum Opens in Palau Amid Leadership Turmoil and Absences、South Australian Giant Cuttlefish Mating Turnout Drops by 97%、Addisu Gobena and Peres Jepchirchir Win the Sydney Marathon、Survey Finds AI is as Common as Mainstream News for Australian Youth、US Open Singles Tournament Begins with Australian Alex de Minaur in Action"
+categories: [Squiz Today, Notes]
+tags: [podcast, english-learning, aussie-slang]
+toc: true
+description: "One Nation Wins Historic First WA Lower House Seat in Secret Harbour By-Election、Search and Rescue Continues in Nepal Following Himalayan Glacier Collapse、Pacific Islands Forum Opens in Palau Amid Leadership Turmoil and Absences、South Australian Giant Cuttlefish Mating Turnout Drops by 97%、Addisu Gobena and Peres Jepchirchir Win the Sydney Marathon、Survey Finds AI is as Common as Mainstream News for Australian Youth、US Open Singles Tournament Begins with Australian Alex de Minaur in Action"
 ---
 
 ## Table of Contents

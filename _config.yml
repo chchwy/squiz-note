@@ -1,23 +1,32 @@
-title: Squiz Today 學習筆記
-description: 每日 Squiz Today 英文學習筆記（News Highlights、進階單字、Aussie slang、逐字稿）
+# The Site Configuration
+theme: jekyll-theme-chirpy
+
 lang: zh-TW
 timezone: Asia/Taipei
+
+title: Squiz Today 學習筆記
+tagline: 每日 Squiz Today 英文學習筆記
+description: >-
+  每日 Squiz Today 英文學習筆記（News Highlights、進階單字、Aussie slang、逐字稿）
 
 url: "https://chchwy.github.io"
 baseurl: "/squiz-note"
 
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+github:
+  username: chchwy
 
-permalink: /:year/:month/:day/:title/
+social:
+  name: chchwy
+  links:
+    - https://github.com/chchwy/squiz-note
 
-minima:
-  skin: auto
+# Theme Mode: [light | dark | (empty for system preference with toggle)]
+theme_mode:
 
-header_pages:
-  - about.md
+paginate: 10
+
+# Table of Contents
+toc: true
 
 markdown: kramdown
 kramdown:
@@ -28,3 +37,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - LICENSE

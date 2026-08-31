@@ -2,8 +2,10 @@
 layout: post
 title: "Squiz Today — 2026-08-28"
 date: 2026-08-28 07:00:00 +0800
-categories: notes
-excerpt: "Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash Floods、US Jury Deliberates in Murder Trial of Lindsay Clancy、WA Secret Harbour By-Election Draws National Focus on Cost of Living、Qantas Announces Accelerated A380 Retirement and Strong Full-Year Profits、NASA Set to Launch $5.6 Billion Nancy Grace Roman Space Telescope、Friday Lites: Disney+ Thriller 'Furious' and Sarah Kieffer's Chocolate Cake"
+categories: [Squiz Today, Notes]
+tags: [podcast, english-learning, aussie-slang]
+toc: true
+description: "Hundreds Dead and 35 Australians Missing in Nepal-China Border Flash Floods、US Jury Deliberates in Murder Trial of Lindsay Clancy、WA Secret Harbour By-Election Draws National Focus on Cost of Living、Qantas Announces Accelerated A380 Retirement and Strong Full-Year Profits、NASA Set to Launch $5.6 Billion Nancy Grace Roman Space Telescope、Friday Lites: Disney+ Thriller 'Furious' and Sarah Kieffer's Chocolate Cake"
 ---
 
 ## Table of Contents
