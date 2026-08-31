@@ -3,7 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-31"
 date: 2026-08-31 07:00:00 +0800
 categories: notes
-excerpt: "One Nation Wins Historic Lower House Seat in Western Australian By-Election、Search and Relief Efforts Continue in Nepal After Deadly Himalayan Glacier Collapse、Pacific Islands Forum Begins in Palau as Solomon Islands Prime Minister Exits Early、South Australia Giant Cuttlefish Numbers Plummet 97 Percent Amid Persistent Algae Bloom、Addisu Gobena and Peres Jepchirchir Claim Victories at Sydney Marathon、Report Finds Australian Youths Rely on AI for News as Much as Mainstream Media、US Open Singles Underway as Australian Tennis Contenders Take the Court"
+excerpt: "One Nation Wins Historic First WA Lower House Seat in Secret Harbour By-Election、Death Toll Rises in Nepal Glacier Collapse as Rescue Efforts and Australian Aid Continue、Pacific Islands Forum Opens in Palau Amid Leadership Turmoil and Key Absences、South Australian Giant Cuttlefish Turnout Plunges 97% Amid Ongoing Algal Bloom、Addisu Gobena and Peres Jepchirchir Claim Victories at Sydney Marathon、Report Finds AI Rivals Mainstream Media as News Source for Young Australians、US Open Underway as Alex de Minaur Seeks Grand Slam Breakthrough"
 ---
 
 ## Table of Contents
@@ -22,19 +22,19 @@ excerpt: "One Nation Wins Historic Lower House Seat in Western Australian By-Ele
 
 ## News Highlights
 
-- **One Nation Wins Historic Lower House Seat in Western Australian By-Election／一國黨於西澳補選贏得歷史性首個下議院席次**
+- **One Nation Wins Historic First WA Lower House Seat in Secret Harbour By-Election／一國黨在西澳密港補選中創歷史 贏得首個州議會下議院席次**
 
-- **Search and Relief Efforts Continue in Nepal After Deadly Himalayan Glacier Collapse／喜馬拉雅冰川崩塌致死傷慘重 尼泊爾搜救與各界援助持續進行**
+- **Death Toll Rises in Nepal Glacier Collapse as Rescue Efforts and Australian Aid Continue／尼泊爾冰川崩塌罹難人數持續攀升 搜救行動與澳洲援助持續進行**
 
-- **Pacific Islands Forum Begins in Palau as Solomon Islands Prime Minister Exits Early／太平洋島國論壇於帛琉揭幕 索羅門群島總理因不信任案提前離境**
+- **Pacific Islands Forum Opens in Palau Amid Leadership Turmoil and Key Absences／太平洋島國論壇於帛琉開幕 面臨領導層動盪與多國領袖缺席**
 
-- **South Australia Giant Cuttlefish Numbers Plummet 97 Percent Amid Persistent Algae Bloom／受持續藻華影響 南澳巨型烏賊年度交配數量驟降九成七**
+- **South Australian Giant Cuttlefish Turnout Plunges 97% Amid Ongoing Algal Bloom／受持續藻華影響 南澳巨型烏賊交配季數量暴跌百分之九十七**
 
-- **Addisu Gobena and Peres Jepchirchir Claim Victories at Sydney Marathon／衣索比亞選手哥貝納與肯亞選手傑普徹徹奪得雪梨馬拉松男女組冠軍**
+- **Addisu Gobena and Peres Jepchirchir Claim Victories at Sydney Marathon／阿迪蘇·戈貝納與佩雷斯·傑普契奇爾摘得雪梨馬拉松男女組冠軍**
 
-- **Report Finds Australian Youths Rely on AI for News as Much as Mainstream Media／調查顯示澳洲青少年透過人工智慧獲取新聞的比例已追平主流媒體**
+- **Report Finds AI Rivals Mainstream Media as News Source for Young Australians／調查報告顯示人工智慧已成澳洲青少年與主流媒體並列之主要新聞來源**
 
-- **US Open Singles Underway as Australian Tennis Contenders Take the Court／美國網球公開賽單打賽事開打 澳洲好手登場競逐**
+- **US Open Underway as Alex de Minaur Seeks Grand Slam Breakthrough／美國網球公開賽開打 澳洲好手德米瑙爾力拚大滿貫突破**
 
 ## Full Transcript
 
@@ -69,7 +69,7 @@ One Nation has made history in WA over the weekend. It won its first ever lower 
 
 Larissa and I spoke about this on Friday, Andrew. We said it won't be much of a secret anymore if **Pauline** Hanson's party gets up, and it has. It's been making national headlines because it was considered a safe Labor seat.
 
-It had been held by state government with a huge numbers advantage in Parliament. **<span style="color:#ff8c00">Pollies</span>** across the board are taking stock of what this all means this morning.
+It had been held by state government with a huge numbers advantage in Parliament. **<span style="color:#ff8c00"><strong>Pollies</strong></span>** across the board are taking stock of what this all means this morning.
 
 #### Words in this section
 
@@ -125,11 +125,11 @@ vi. 搖晃, 垂下
 
 When you see some of the ground that these **rescuers** are trying to cover, you realise just how tricky this is going to be. Back here in Australia, hundreds of people attended **vigils** organised by the **Nepalese** community to pray for those affected. There's another one in Melbourne's Fed Square tonight, and we've also seen that the Emergency Action Alliance has set up a donations page that's also supported by the ABC.
 
-If you'd like to <span style="color:#ff8c00">chip in</span> to help, we'll put a link in the episode notes today. The Pacific Islands Forum begins in **Palau** today. This is the regular meeting between national leaders of countries in, as you may well have guessed, the Pacific.
+If you'd like to chip in to help, we'll put a link in the episode notes today. The Pacific Islands Forum begins in **Palau** today. This is the regular meeting between national leaders of countries in, as you may well have guessed, the Pacific.
 
-But it's off to a <span style="color:#ff8c00">rocky start</span> as the outgoing chair of the forum has had to leave before it even began. He did, and he was outgoing in more than one sense now. He's the Solomon Islands PM Matthew **Wale**, who you and I have spoken about on the pod several times, Andrew.
+But it's <span style="color:#ff8c00"><strong>off to a rocky start</strong></span> as the outgoing chair of the forum has had to leave before it even began. He did, and he was outgoing in more than one sense now. He's the Solomon Islands PM Matthew **Wale**, who you and I have spoken about on the pod several times, Andrew.
 
-He only came to power three months ago, but he's had to head home to deal with the no-confidence motion on his leadership. **Wale**'s Home Affairs Minister says that the leader's repeatedly been making decisions on matters of national importance without proper consultation. So the PM has legged it out of **Palau** and will arrive back home today.
+He only came to power three months ago, but he's had to head home to deal with the no-confidence motion on his leadership. **Wale**'s Home Affairs Minister says that the leader's repeatedly been making decisions on matters of national importance without proper consultation. So the PM has <span style="color:#ff8c00"><strong>legged it</strong></span> out of **Palau** and will arrive back home today.
 
 #### Words in this section
 
@@ -141,8 +141,8 @@ vi. 挑選
 - **rescuers**：救援者（rescuer的複數）
 - **nepalese**：尼泊爾的
 n. 尼泊爾人
-- <span style="color:#ff8c00"><strong>chip in</strong></span>：澳洲用語
-- <span style="color:#ff8c00"><strong>rocky start</strong></span>：澳洲用語
+- <span style="color:#ff8c00"><strong>off to a rocky start</strong></span>：澳洲用語
+- <span style="color:#ff8c00"><strong>legged it</strong></span>：澳洲用語
 
 ### Cuttlefish Forum Sent
 
@@ -166,7 +166,7 @@ But something else has happened. Now, we'll stick a link to an article about thi
 
 ### Cuttlefish Drop Experts
 
-They can grow up to one metre in size, and they're known for their shape-shifting figures. But the turnout for this year's mating event was significantly low — just over 1,800 **cuttlefish** rocked up. Now that's compared to 63,000 in 2025, which is a 97% drop.
+They can grow up to one metre in size, and they're known for their shape-shifting figures. But the turnout for this year's mating event was significantly low — just over 1,800 **cuttlefish** <span style="color:#ff8c00"><strong>rocked up</strong></span>. Now that's compared to 63,000 in 2025, which is a 97% drop.
 
 And it's got some scientists worried. It has. And so they're wondering, well, why has this happened?
 
@@ -185,6 +185,7 @@ So the fact that they've given what is generally their usual hook-up spot a wide
 vi. 停泊
 vt. 使停泊
 - **landmarks**：陸標( landmark的複數形式 ); 目標; （標誌重要階段的）里程碑 ~ (in sth); 有歷史意義的建築物（或遺址）
+- <span style="color:#ff8c00"><strong>rocked up</strong></span>：澳洲用語
 
 ### Runners Minutes Event
 
@@ -194,12 +195,12 @@ Now, this year's race was won by 21-year-old Ethiopian runner **Addisu** **Goben
 
 You look like you've got the figure for it.' And off he went. And it was a pretty good shout because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge. Huge, and deeply unfair to be that talented at two athletic **pursuits**, when some of us — not naming any names — have zero.
 
-The women's title went to Kenyan runner **Peres** **Jepchirchir**, who ran the course in two hours, 18 minutes and 31 seconds. That's over three minutes ahead of her nearest rival — that was a long time to wait for second to <span style="color:#ff8c00">rock up</span>. The Sydney Marathon, it is a super popular event.
+The women's title went to Kenyan runner **Peres** **Jepchirchir**, who ran the course in two hours, 18 minutes and 31 seconds. That's over three minutes ahead of her nearest rival — that was a long time to wait for second to rock up. The Sydney Marathon, it is a super popular event.
 
 #### Words in this section
 
-- **jepchirchir**：傑普奇奇爾
 - **gobena**：戈貝納
+- **jepchirchir**：傑普奇奇爾
 - **addisu**：阿迪蘇
 - **peres**：佩雷斯（人名）
 - **javelin**：標槍
@@ -208,11 +209,10 @@ The women's title went to Kenyan runner **Peres** **Jepchirchir**, who ran the c
 - **gonzales**：[人名] 岡薩雷斯; [地名] [美國] 岡薩雷斯
 - **kilometre**：公里, 千米
 - **pursuits**：追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好
-- <span style="color:#ff8c00"><strong>rock up</strong></span>：澳洲用語
 
 ### News Kids Berlin Marathon
 
-This is the second time the race has been run since it gained World Marathon Major status, and apparently about 123,000 people entered the ballot to run this year's event for those sort of 40,000 spots that took place. So the next major is Berlin Marathon on the 27th of September in Germany. Of course, they would have to do us a solid and feature the Opera House on their medal, surely.
+This is the second time the race has been run since it gained World Marathon Major status, and apparently about 123,000 people entered the ballot to run this year's event for those sort of 40,000 spots that took place. So the next major is Berlin Marathon on the 27th of September in Germany. Of course, they would have to <span style="color:#ff8c00"><strong>do us a solid</strong></span> and feature the Opera House on their medal, surely.
 
 And Squiz the Day. Now, you might see some headlines today about the news and young Australians and how they consume it. This is a report that's been published this morning and it's found that AI is now as common a source of news for Aussie kids as mainstream news websites and apps.
 
@@ -224,6 +224,7 @@ So if you're looking for a place to start, maybe stop, think, check out our **Ne
 
 - **newshounds**：(newshound 的複數) n. 新聞記者
 - **tidbit**：少量的美食, 珍饈, 珍品, 珍聞
+- <span style="color:#ff8c00"><strong>do us a solid</strong></span>：澳洲用語
 
 ### Names Singles Tennis
 
@@ -253,28 +254,28 @@ We'll speak to you again tomorrow.
 </thead>
 <tbody>
 <tr>
-<td>jepchirchir</td>
-<td></td>
-<td>noun</td>
-<td>傑普奇奇爾</td>
-</tr>
-<tr>
-<td>hurdigan</td>
-<td></td>
-<td>noun</td>
-<td>胡爾迪根</td>
-</tr>
-<tr>
 <td>gobena</td>
 <td></td>
 <td>noun</td>
 <td>戈貝納</td>
 </tr>
 <tr>
+<td>jepchirchir</td>
+<td></td>
+<td>noun</td>
+<td>傑普奇奇爾</td>
+</tr>
+<tr>
 <td>addisu</td>
 <td></td>
 <td>noun</td>
 <td>阿迪蘇</td>
+</tr>
+<tr>
+<td>hurdigan</td>
+<td></td>
+<td>noun</td>
+<td>胡爾迪根</td>
 </tr>
 <tr>
 <td>newshounds</td>
@@ -313,16 +314,16 @@ We'll speak to you again tomorrow.
 <td>[網路] 民意調查</td>
 </tr>
 <tr>
-<td>samaras</td>
-<td>ˈsæmərəz</td>
-<td>noun</td>
-<td>翼果( samara的名詞複數 )</td>
-</tr>
-<tr>
 <td>mandurah</td>
 <td></td>
 <td>noun</td>
 <td>[地名] 曼哲拉 ( 澳 )</td>
+</tr>
+<tr>
+<td>samaras</td>
+<td>ˈsæmərəz</td>
+<td>noun</td>
+<td>翼果( samara的名詞複數 )</td>
 </tr>
 <tr>
 <td>albanese</td>
@@ -560,62 +561,50 @@ We'll speak to you again tomorrow.
 <tr>
 <td>pollies</td>
 <td>Pollies across the board are taking stock of what this all means this morning.</td>
-<td>Australian informal slang for politicians.</td>
-<td>政治人物、政客（澳洲俚語）</td>
-</tr>
-<tr>
-<td>take stock</td>
-<td>Pollies across the board are taking stock of what this all means this morning.</td>
-<td>To pause and carefully evaluate or assess a situation before deciding what to do next.</td>
-<td>評估局勢、盤點現況、反思總結</td>
+<td>An informal Australian slang term for politicians.</td>
+<td>澳洲俚語，指政治人物或政客。</td>
 </tr>
 <tr>
 <td>a swag of</td>
-<td>unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way</td>
-<td>An Australian informal term meaning a large number, quantity, or collection of something.</td>
-<td>一大批、大量、許多（澳洲口語）</td>
+<td>unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour... will likely go the same way</td>
+<td>An Australian colloquial phrase meaning a large number, quantity, or collection of something.</td>
+<td>澳洲俚語，指大量的、一長串的（事物或席次）。</td>
 </tr>
 <tr>
-<td>chip in</td>
-<td>If you'd like to chip in to help, we'll put a link in the episode notes today.</td>
-<td>To contribute money, time, or assistance toward a shared purpose or cause.</td>
-<td>出份子錢、共同捐助、出力協助</td>
-</tr>
-<tr>
-<td>rocky start</td>
+<td>off to a rocky start</td>
 <td>But it's off to a rocky start as the outgoing chair of the forum has had to leave before it even began.</td>
-<td>A beginning marked by difficulties, instability, or early problems.</td>
-<td>起步不順、開局受阻、萬事起頭難</td>
+<td>Beginning with problems, difficulties, or instability.</td>
+<td>開局不順、出師不利、起步艱難。</td>
 </tr>
 <tr>
-<td>leg it</td>
+<td>legged it</td>
 <td>So the PM has legged it out of Palau and will arrive back home today.</td>
-<td>An informal British and Australian slang phrase meaning to leave quickly, depart in a hurry, or run away.</td>
-<td>匆忙離開、趕緊開溜、拔腿就跑</td>
+<td>Departed in a hurry, ran away, or fled quickly.</td>
+<td>匆忙離開、迅速逃跑、拔腿就跑。</td>
 </tr>
 <tr>
-<td>rock up</td>
+<td>rocked up</td>
 <td>But the turnout for this year's mating event was significantly low — just over 1,800 cuttlefish rocked up.</td>
-<td>An Australian and British informal slang term meaning to arrive, show up, or turn up (often casually).</td>
-<td>抵達、現身、到場（澳洲常用口語）</td>
+<td>An Australian informal expression meaning to arrive, show up, or turn up somewhere.</td>
+<td>澳洲口語，指抵達、到場、現身。</td>
 </tr>
 <tr>
 <td>give ... a wide berth</td>
-<td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts, and also sparking calls for the local population to be listed as endangered.</td>
-<td>To deliberately keep a distance from or avoid someone or something.</td>
-<td>刻意避開、敬而遠之、保持距離</td>
+<td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts...</td>
+<td>To deliberately avoid, keep a distance from, or stay away from someone or something.</td>
+<td>刻意避開、保持距離、敬而遠之。</td>
 </tr>
 <tr>
 <td>give ... a crack</td>
 <td>Hey, maybe you should give running a crack.</td>
-<td>An Australian and informal idiom meaning to try, have a go at, or attempt something.</td>
-<td>嘗試一下、試試看、放手一試（澳洲口語）</td>
+<td>An Australian/informal idiom meaning to have a go at something, attempt, or try something out.</td>
+<td>澳洲口語，指嘗試看看、試一試、放手一試。</td>
 </tr>
 <tr>
-<td>do someone a solid</td>
+<td>do us a solid</td>
 <td>Of course, they would have to do us a solid and feature the Opera House on their medal, surely.</td>
-<td>An informal idiom meaning to do a favor or perform a helpful act for someone.</td>
-<td>幫某人一個忙、施予人情</td>
+<td>To do someone a favor or provide helpful assistance.</td>
+<td>幫個忙、賣個人情、施以恩惠。</td>
 </tr>
 </tbody>
 </table>
@@ -634,31 +623,31 @@ We'll speak to you again tomorrow.
 <tbody>
 <tr>
 <td>One Nation</td>
-<td>A right-wing populist political party in Australia founded and led by Pauline Hanson, known for its nationalist, anti-immigration platform and trademark orange branding.／由寶琳·韓森（Pauline Hanson）創立並領導的澳洲右翼民粹主義政黨，以強烈的國家主義、反移民立場以及代表性的橘色標誌著稱。</td>
+<td>A prominent right-wing populist political party in Australia founded in 1997 by Pauline Hanson, known for its nationalist and anti-immigration platform.／由寶琳·韓森（Pauline Hanson）於 1997 年創立的澳洲右翼民粹主義政黨，以其民族主義和反移民立場著稱。</td>
+</tr>
+<tr>
+<td>Pollies</td>
+<td>A common Australian slang term (Aussie diminutive) referring to politicians.／澳洲常用的口語俚語，意指「政治人物」或「政客」。</td>
 </tr>
 <tr>
 <td>Secret Harbour</td>
-<td>An outer coastal suburb and state electoral district located south of Perth in Western Australia, situated between Rockingham and Mandurah.／位於西澳伯斯（Perth）南部、介於羅金厄姆（Rockingham）與曼杜拉（Mandurah）之間的外郊沿海城鎮及州議會選區。</td>
-</tr>
-<tr>
-<td>Two-candidate-preferred (2CP)</td>
-<td>A key metric in Australia's preferential voting system representing the final distribution of votes between the top two leading candidates after distributing preference votes from eliminated candidates.／澳洲偏好投票制（優先選制）中的關鍵指標（簡稱2CP），指在淘汰低得票候選人並將其選票偏好逐步分配後，由最後得票最高的兩位候選人對決所獲得的最終票數比例。</td>
+<td>An outer-metropolitan coastal suburb south of Perth in Western Australia, which also serves as a state parliamentary electorate.／位於西澳首府伯斯南方的外都會區沿海市郊，同時也是西澳州議會的一個選區。</td>
 </tr>
 <tr>
 <td>Newspoll</td>
-<td>Australia's most prominent and influential federal political opinion poll, tracking voting intentions, primary votes, and leadership approval ratings.／澳洲最具指標性與影響力的政治民調，專門長期追蹤澳洲聯邦政治中的政黨支持率、初選得票傾向以及政黨領袖支持度。</td>
+<td>A widely cited Australian political opinion poll published by The Australian newspaper that tracks party voting intentions and leadership approval ratings.／由《澳洲人報》發布的知名澳洲政治民意調查，定期追蹤政黨支持率及領袖滿意度，是澳洲政壇的重要指標。</td>
 </tr>
 <tr>
 <td>Fed Square</td>
-<td>Short for Federation Square, a major public square and civic precinct in the heart of Melbourne, Victoria, often used for community gatherings, vigils, and cultural events.／聯邦廣場（Federation Square）的簡稱，是位於維多利亞州墨爾本市中心的知名公共地標廣場，經常作為大型公眾集會、祈福悼念及文化活動的舉辦地。</td>
+<td>Short for Federation Square, a major civic and cultural landmark in central Melbourne frequently used for public gatherings and vigils.／聯邦廣場（Federation Square）的簡稱，為墨爾本市中心著名的公共與文化地標，常用於舉辦大型集會與燭光晚會。</td>
 </tr>
 <tr>
-<td>Cuttlefish Coast</td>
-<td>A coastal region near Whyalla in the Upper Spencer Gulf of South Australia, world-famous for the annual mass breeding aggregation of native Australian Giant Cuttlefish.／位於南澳州上斯賓塞灣（鄰近懷阿拉 Whyalla）的沿海地區，因每年吸引成千上萬的澳洲巨型烏賊聚集交配繁殖而聞名全球。</td>
+<td>ABC</td>
+<td>The Australian Broadcasting Corporation, Australia's national public broadcaster funded by the government to provide independent news, radio, and television services.／澳洲廣播公司（Australian Broadcasting Corporation），為澳洲的國家公共廣播機構，提供獨立的新聞、廣播與電視服務。</td>
 </tr>
 <tr>
 <td>Alex de Minaur</td>
-<td>Australia's top-ranked male professional tennis player, nicknamed 'The Demon' due to his rapid footwork, defensive skills, and relentless on-court intensity.／澳洲排名頂尖的男子職業網球選手，綽號「惡魔」（The Demon），以其出色的場上移動速度、強悍的防守與不知疲倦的頑強鬥志著稱。</td>
+<td>A top Australian professional tennis player nicknamed 'The Demon' for his speed, agility, and fighting spirit on court.／澳洲頂尖男子職業網球選手，因在場上敏捷迅速的步伐與頑強的鬥志而被暱稱為「惡魔」（The Demon）。</td>
 </tr>
 </tbody>
 </table>
