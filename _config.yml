@@ -1,32 +1,40 @@
-# The Site Configuration
-theme: jekyll-theme-chirpy
+# SITE CONFIGURATION
+baseurl: "/squiz-note"
+url: "https://chchwy.github.io"
 
+# THEME CONFIGURATION
+title: Squiz Today 學習筆記
+description: "每日 Squiz Today 英文學習筆記（News Highlights、進階單字、Aussie slang、逐字稿）"
 lang: zh-TW
 timezone: Asia/Taipei
 
-title: Squiz Today 學習筆記
-tagline: 每日 Squiz Today 英文學習筆記
-description: >-
-  每日 Squiz Today 英文學習筆記（News Highlights、進階單字、Aussie slang、逐字稿）
+theme: type-on-strap
 
-url: "https://chchwy.github.io"
-baseurl: "/squiz-note"
+# Header and Footer
+header_text: Squiz Today 學習筆記
+footer_text: >
+  Squiz Today 英文學習筆記
 
-github:
-  username: chchwy
+color_theme: auto  # auto, dark, or light
 
-social:
-  name: chchwy
-  links:
-    - https://github.com/chchwy/squiz-note
-
-# Theme Mode: [light | dark | (empty for system preference with toggle)]
-theme_mode:
+excerpt: false
 
 paginate: 10
+paginate_path: "/page:num"
 
-# Table of Contents
-toc: true
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Navigation Bar
+navigation:
+  - name: 首頁
+    link: /
+  - name: 標籤
+    link: /tags
+  - name: 關於
+    link: /about
 
 markdown: kramdown
 kramdown:
