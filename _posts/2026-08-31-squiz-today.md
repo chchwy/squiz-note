@@ -3,7 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-31"
 date: 2026-08-31 07:00:00 +0800
 categories: notes
-excerpt: "One Nation Wins Historic First WA Lower House Seat in Secret Harbour、Rescue and Aid Efforts Continue Following Deadly Himalayan Glacier Collapse in Nepal、Pacific Islands Forum Begins in Palau as Outgoing Chair Faces No-Confidence Motion、South Australian Giant Cuttlefish Numbers Drop 97% at Annual Mating Event、Addisu Gobena and Peres Jepchirchir Claim Victory in Sydney Marathon、Survey Reveals AI Is Now a Primary News Source for Australian Children、US Open Singles Underway as Alex de Minaur Eyes Grand Slam Breakthrough"
+excerpt: "One Nation Wins First WA Lower House Seat in Secret Harbour By-Election、Himalayan Glacier Collapse Death Toll Rises as Rescue Efforts Continue in Nepal、Pacific Islands Forum Opens in Palau Amid Leadership Turmoil、Giant Cuttlefish Gathering in South Australia Plunges 97% Due to Algal Bloom、Addisu Gobena and Peres Jepchirchir Claim Victories at the Sydney Marathon、Survey Reveals AI Rivals Mainstream News Among Young Australians、US Open Tennis Tournament Kicks Off with Focus on Alex de Minaur"
 ---
 
 ## Table of Contents
@@ -22,19 +22,19 @@ excerpt: "One Nation Wins Historic First WA Lower House Seat in Secret Harbour�
 
 ## News Highlights
 
-- **One Nation Wins Historic First WA Lower House Seat in Secret Harbour／一國黨於西澳密港補選勝出 創下首度贏得州下議院席次歷史**
+- **One Nation Wins First WA Lower House Seat in Secret Harbour By-Election／一國黨於西澳秘密港補選中贏得首個州下議院席位**
 
-- **Rescue and Aid Efforts Continue Following Deadly Himalayan Glacier Collapse in Nepal／尼泊爾喜馬拉雅冰川崩塌搜救持續進行 澳洲承諾提供援助**
+- **Himalayan Glacier Collapse Death Toll Rises as Rescue Efforts Continue in Nepal／喜馬拉雅冰川崩塌罹難人數攀升 尼泊爾搜救工作持續進行**
 
-- **Pacific Islands Forum Begins in Palau as Outgoing Chair Faces No-Confidence Motion／太平洋島國論壇於帛琉登場 主席因面臨不信任動議提前返國**
+- **Pacific Islands Forum Opens in Palau Amid Leadership Turmoil／太平洋島國論壇在帛琉揭幕 伴隨領導層政治動盪**
 
-- **South Australian Giant Cuttlefish Numbers Drop 97% at Annual Mating Event／南澳巨型烏賊年度交配聚集數量暴跌97% 專家歸咎藻華影響**
+- **Giant Cuttlefish Gathering in South Australia Plunges 97% Due to Algal Bloom／受藻華影響 南澳巨型烏賊年度聚集繁殖數量驟降97%**
 
-- **Addisu Gobena and Peres Jepchirchir Claim Victory in Sydney Marathon／戈貝納與傑普契奇爾分別奪得雪梨馬拉松男女組冠軍**
+- **Addisu Gobena and Peres Jepchirchir Claim Victories at the Sydney Marathon／戈貝納與傑普契奇爾於雪梨馬拉松分別摘得男女組桂冠**
 
-- **Survey Reveals AI Is Now a Primary News Source for Australian Children／調查顯示AI已成澳洲青少年獲取新聞的主要來源之一**
+- **Survey Reveals AI Rivals Mainstream News Among Young Australians／最新調查顯示 人工智慧已成澳洲青少年主要新聞來源之一**
 
-- **US Open Singles Underway as Alex de Minaur Eyes Grand Slam Breakthrough／美國網球公開賽單打開打 澳洲好手德米納爾力拼大滿貫突破**
+- **US Open Tennis Tournament Kicks Off with Focus on Alex de Minaur／美國網球公開賽正式開打 澳洲好手德米瑙爾備受矚目**
 
 ## Full Transcript
 
@@ -51,10 +51,11 @@ Good morning, I'm Andrew Williams. And I'm Anna **Pykett**. It's Monday the 31st
 #### Words in this section
 
 - **pykett**：皮克特
-- **squiz**：擠壓
-- **commbank**：商業銀行
-- **deakin**：迪肯
-- **shortcut**：捷徑
+- **squiz**：<澳俚>好奇的一看,好奇的一瞥
+- **commbank**：（翻譯失敗）
+- **deakin**：迪肯大學（澳大利亞的大學）
+- **shortcut**：捷徑, 最短路線
+[計] 快捷方式
 
 ### Nation History Secret Harbour
 
@@ -64,8 +65,8 @@ One Nation has made history in WA over the weekend. It won its first ever lower 
 
 #### Words in this section
 
-- **squiz**：擠壓
-- **cuttlefish**：烏賊
+- **squiz**：<澳俚>好奇的一看,好奇的一瞥
+- **cuttlefish**：墨魚, 烏賊
 
 ### Spoke Secret Anymore
 
@@ -75,8 +76,9 @@ It had been held by state government with a huge numbers advantage in Parliament
 
 #### Words in this section
 
-- **pollies**：波利斯
-- **pauline**：寶琳
+- **pollies**：[網路] 民意調查
+- **pauline**：保羅的, 使徒保羅寫的
+n. 聖保羅學校的學生
 - <span style="color:#ff8c00"><strong>pollies</strong></span>：澳洲用語
 
 ### Secret Harbour Primary Seat
@@ -92,10 +94,10 @@ It went from 46% to 24%. Now, the new Secret Harbour MP, Luke **Hurdigan**, has 
 #### Words in this section
 
 - **hurdigan**：胡爾迪根
-- **mandurah**：曼杜拉
-- **halve**：減半
-- **rockingham**：羅金厄姆
-- **hubs**：樞紐
+- **mandurah**：[地名] 曼哲拉 ( 澳 )
+- **halve**：二等分, 對半分享, 把...減半
+- **rockingham**：羅金厄姆(姓氏)
+- **hubs**：轂；樞紐；中心（hub的複數）
 
 ### Election Government Efforts
 
@@ -109,15 +111,17 @@ That includes 42 Australians who are still **unaccounted** for, and the **Albane
 
 #### Words in this section
 
-- **newspoll**：新聞民意調查
-- **samaras**：薩馬拉斯
-- **albanese**：阿爾巴尼亞語
-- **pollster**：民調者
-- **unaccounted**：下落不明的
-- **hydropower**：水力發電
-- **himalayas**：喜馬拉雅山
-- **caveat**：警告
-- **swag**：贓物
+- **newspoll**：[網路] 新聞民調；新聞民意調查；新聞民意測驗所
+- **samaras**：翼果( samara的名詞複數 )
+- **albanese**：(Albanese)人名；(英)阿爾巴內塞；(法)阿爾巴納斯
+- **pollster**：民意調查人, 民意測驗經辦人
+- **unaccounted**：未說明的, 未解釋的
+- **hydropower**：水力發出的電力
+- **himalayas**：喜馬拉雅山脈
+- **caveat**：中止訴訟程式的申請, 警告
+[經] 停止支付的廣告, 貨物出門概不退換
+- **swag**：搖晃, 贓物, 窪地, 珍貴物, 垂花飾
+vi. 搖晃, 垂下
 - <span style="color:#ff8c00"><strong>a swag of</strong></span>：澳洲用語
 
 ### Home Pacific Islands
@@ -132,11 +136,14 @@ He only came to power three months ago, but he's had to head home to deal with t
 
 #### Words in this section
 
-- **vigils**：守夜
-- **wale**：威爾斯
-- **palau**：帛琉
-- **rescuers**：救援人員
-- **nepalese**：尼泊爾人
+- **vigils**：保持清醒（尤指夜間）( vigil的複數形式 ); 不眠（時刻）; 守夜; 警戒
+- **wale**：隆起的傷痕, 鞭痕, 凸條紋, 精華, 選擇
+vt. 在...上留下鞭痕, 織成稜紋, 挑選, 撐住
+vi. 挑選
+- **palau**：帛琉群島[西太平洋](即帛琉群島)
+- **nepalese**：尼泊爾的
+n. 尼泊爾人
+- **rescuers**：救援者（rescuer的複數）
 - <span style="color:#ff8c00"><strong>off to a rocky start</strong></span>：澳洲用語
 
 ### Cuttlefish Forum Sent
@@ -151,14 +158,14 @@ But something else has happened. Now, we'll stick a link to an article about thi
 
 #### Words in this section
 
-- **squiz**：擠壓
-- **canoodling**：親熱
-- **albanese**：阿爾巴尼亞語
-- **inauspicious**：不祥
-- **kiribati**：吉里巴斯
-- **cuttlefish**：烏賊
-- **vanuatu**：萬那杜
-- **samoa**：薩摩亞
+- **squiz**：<澳俚>好奇的一看,好奇的一瞥
+- **canoodling**：愛撫( canoodle的現在分詞 ); 撫愛; 吻; 摟頸親熱
+- **albanese**：(Albanese)人名；(英)阿爾巴內塞；(法)阿爾巴納斯
+- **inauspicious**：不吉的, 凶兆的, 惡運的
+- **kiribati**：吉里巴斯(西太平洋上一共和國)
+- **cuttlefish**：墨魚, 烏賊
+- **vanuatu**：萬那杜[西南太平洋島國] ( 舊稱新赫布里底群島)
+- **samoa**：薩摩亞（南太平洋中部一群島）
 
 ### Cuttlefish Drop Experts
 
@@ -172,13 +179,15 @@ So the fact that they've given what is generally their usual hook-up spot a wide
 
 #### Words in this section
 
-- **cuttlefish**：烏賊
-- **algal**：藻類
-- **allianz**：安聯
-- **finishers**：終結者
-- **sparking**：火花四射
-- **berth**：泊位
-- **landmarks**：地標
+- **cuttlefish**：墨魚, 烏賊
+- **algal**：[醫] 藻的
+- **allianz**：安聯（財富500強公司之一，總部在德國，主要經營保險）
+- **finishers**：整理工；修整器；決定性的事件；最後優勝者
+- **sparking**：[電] 發電花
+- **berth**：船岸之間的水區, 錨地, 臥鋪
+vi. 停泊
+vt. 使停泊
+- **landmarks**：陸標( landmark的複數形式 ); 目標; （標誌重要階段的）里程碑 ~ (in sth); 有歷史意義的建築物（或遺址）
 
 ### Runners Minutes Event
 
@@ -192,15 +201,16 @@ The women's title went to Kenyan runner **Peres** **Jepchirchir**, who ran the c
 
 #### Words in this section
 
-- **addisu**：阿迪蘇
 - **gobena**：戈貝納
-- **jepchirchir**：傑普奇奇爾
-- **peres**：佩雷斯
+- **jepchirchir**：（翻譯失敗）
+- **addisu**：（翻譯失敗）
+- **peres**：佩雷斯（人名）
+- **thrower**：投擲者, 發射器, 噴射器, 製陶坯的工人
+[化] 拋油環; 甩水圈
 - **javelin**：標槍
-- **thrower**：投擲者
-- **gonzales**：岡薩雷斯
-- **kilometre**：公里
-- **pursuits**：追求
+- **gonzales**：[人名] 岡薩雷斯; [地名] [美國] 岡薩雷斯
+- **kilometre**：公里, 千米
+- **pursuits**：追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好
 - <span style="color:#ff8c00"><strong>rock up</strong></span>：澳洲用語
 
 ### News Kids Berlin Marathon
@@ -215,9 +225,9 @@ So if you're looking for a place to start, maybe stop, think, check out our **Ne
 
 #### Words in this section
 
-- **newshounds**：新聞獵手
-- **squiz**：擠壓
-- **tidbit**：花絮
+- **newshounds**：(newshound 的複數) n. 新聞記者
+- **squiz**：<澳俚>好奇的一看,好奇的一瞥
+- **tidbit**：少量的美食, 珍饈, 珍品, 珍聞
 
 ### Names Singles Tennis
 
@@ -231,7 +241,7 @@ We'll speak to you again tomorrow.
 
 #### Words in this section
 
-- **minaur**：彌瑙爾
+- **minaur**：（翻譯失敗）
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
@@ -240,260 +250,311 @@ We'll speak to you again tomorrow.
 <thead>
 <tr>
 <th>Word</th>
+<th>音標</th>
 <th>詞性</th>
 <th>中文</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>addisu</td>
-<td>noun</td>
-<td>阿迪蘇</td>
-</tr>
-<tr>
 <td>gobena</td>
+<td></td>
 <td>noun</td>
 <td>戈貝納</td>
 </tr>
 <tr>
 <td>jepchirchir</td>
+<td></td>
 <td>noun</td>
 <td>傑普奇奇爾</td>
 </tr>
 <tr>
-<td>pykett</td>
-<td>noun</td>
-<td>皮克特</td>
-</tr>
-<tr>
 <td>hurdigan</td>
+<td></td>
 <td>noun</td>
 <td>胡爾迪根</td>
 </tr>
 <tr>
-<td>newshounds</td>
+<td>addisu</td>
+<td></td>
 <td>noun</td>
-<td>新聞獵手</td>
+<td>阿迪蘇</td>
+</tr>
+<tr>
+<td>pykett</td>
+<td></td>
+<td>noun</td>
+<td>皮克特</td>
+</tr>
+<tr>
+<td>newshounds</td>
+<td></td>
+<td>noun</td>
+<td>(newshound 的複數) n. 新聞記者</td>
 </tr>
 <tr>
 <td>minaur</td>
+<td></td>
 <td>noun</td>
 <td>彌瑙爾</td>
 </tr>
 <tr>
 <td>squiz</td>
+<td>skwiz</td>
 <td>noun</td>
-<td>擠壓</td>
+<td>&lt;澳俚&gt;好奇的一看,好奇的一瞥</td>
 </tr>
 <tr>
 <td>commbank</td>
+<td></td>
 <td>noun</td>
 <td>商業銀行</td>
 </tr>
 <tr>
 <td>newspoll</td>
+<td></td>
 <td>noun</td>
-<td>新聞民意調查</td>
+<td>[網路] 新聞民調；新聞民意調查；新聞民意測驗所</td>
 </tr>
 <tr>
 <td>canoodling</td>
+<td>kəˈnu:dlɪŋ</td>
 <td>verb</td>
-<td>親熱</td>
+<td>愛撫( canoodle的現在分詞 ); 撫愛; 吻; 摟頸親熱</td>
 </tr>
 <tr>
 <td>pollies</td>
+<td></td>
 <td>noun</td>
-<td>波利斯</td>
+<td>[網路] 民意調查</td>
 </tr>
 <tr>
 <td>samaras</td>
+<td>ˈsæmərəz</td>
 <td>noun</td>
-<td>薩馬拉斯</td>
+<td>翼果( samara的名詞複數 )</td>
 </tr>
 <tr>
 <td>mandurah</td>
+<td></td>
 <td>noun</td>
-<td>曼杜拉</td>
+<td>[地名] 曼哲拉 ( 澳 )</td>
 </tr>
 <tr>
 <td>albanese</td>
+<td></td>
 <td>noun</td>
-<td>阿爾巴尼亞語</td>
+<td>(Albanese)人名；(英)阿爾巴內塞；(法)阿爾巴納斯</td>
 </tr>
 <tr>
 <td>inauspicious</td>
+<td>i.nɒ:'spiʃәs</td>
 <td>adj.</td>
-<td>不祥</td>
+<td>不吉的, 凶兆的, 惡運的</td>
 </tr>
 <tr>
 <td>vigils</td>
+<td>ˈvɪdʒəlz</td>
 <td>noun</td>
-<td>守夜</td>
+<td>保持清醒（尤指夜間）( vigil的複數形式 ); 不眠（時刻）; 守夜; 警戒</td>
 </tr>
 <tr>
 <td>pollster</td>
-<td>noun</td>
-<td>民調者</td>
+<td>'pәulstә</td>
+<td>n.</td>
+<td>民意調查人, 民意測驗經辦人</td>
 </tr>
 <tr>
 <td>kiribati</td>
+<td>'kiribæs</td>
 <td>noun</td>
-<td>吉里巴斯</td>
+<td>吉里巴斯(西太平洋上一共和國)</td>
 </tr>
 <tr>
 <td>cuttlefish</td>
-<td>adj.</td>
-<td>烏賊</td>
+<td>'kʌtlfiʃ</td>
+<td>n.</td>
+<td>墨魚, 烏賊</td>
 </tr>
 <tr>
 <td>tidbit</td>
-<td>noun</td>
-<td>花絮</td>
+<td>'tidbit</td>
+<td>n.</td>
+<td>少量的美食, 珍饈, 珍品, 珍聞</td>
 </tr>
 <tr>
 <td>halve</td>
-<td>noun</td>
-<td>減半</td>
+<td>hɑ:v</td>
+<td>v.</td>
+<td>二等分, 對半分享, 把...減半</td>
 </tr>
 <tr>
 <td>wale</td>
+<td>weil</td>
 <td>noun</td>
-<td>威爾斯</td>
+<td>隆起的傷痕, 鞭痕, 凸條紋, 精華, 選擇 vt. 在...上留下鞭痕, 織成稜紋, 挑選, 撐住 vi. 挑選</td>
 </tr>
 <tr>
 <td>palau</td>
+<td>pɑ:'laj</td>
 <td>noun</td>
-<td>帛琉</td>
+<td>帛琉群島[西太平洋](即帛琉群島)</td>
 </tr>
 <tr>
 <td>algal</td>
+<td>'æl^әl</td>
 <td>adj.</td>
-<td>藻類</td>
+<td>[醫] 藻的</td>
 </tr>
 <tr>
 <td>allianz</td>
+<td></td>
 <td>noun</td>
-<td>安聯</td>
+<td>安聯（財富500強公司之一，總部在德國，主要經營保險）</td>
 </tr>
 <tr>
 <td>deakin</td>
+<td></td>
 <td>noun</td>
-<td>迪肯</td>
+<td>迪肯大學（澳大利亞的大學）</td>
 </tr>
 <tr>
 <td>rockingham</td>
+<td>'rɔkiŋәm</td>
 <td>noun</td>
-<td>羅金厄姆</td>
+<td>羅金厄姆(姓氏)</td>
 </tr>
 <tr>
 <td>vanuatu</td>
+<td>,vɑ:nu:'ɑ:tu:</td>
 <td>noun</td>
-<td>萬那杜</td>
+<td>萬那杜[西南太平洋島國] ( 舊稱新赫布里底群島)</td>
 </tr>
 <tr>
 <td>peres</td>
+<td></td>
 <td>noun</td>
-<td>佩雷斯</td>
+<td>佩雷斯（人名）</td>
 </tr>
 <tr>
 <td>unaccounted</td>
+<td>.ʌnә'kauntid</td>
 <td>verb</td>
-<td>下落不明的</td>
+<td>未說明的, 未解釋的</td>
 </tr>
 <tr>
 <td>hydropower</td>
-<td>noun</td>
-<td>水力發電</td>
-</tr>
-<tr>
-<td>javelin</td>
-<td>noun</td>
-<td>標槍</td>
+<td>'haidrәupauә</td>
+<td>n.</td>
+<td>水力發出的電力</td>
 </tr>
 <tr>
 <td>thrower</td>
-<td>noun</td>
-<td>投擲者</td>
+<td>'θrәuә</td>
+<td>n.</td>
+<td>投擲者, 發射器, 噴射器, 製陶坯的工人 [化] 拋油環; 甩水圈</td>
 </tr>
 <tr>
-<td>rescuers</td>
-<td>noun</td>
-<td>救援人員</td>
+<td>javelin</td>
+<td>'dʒævlin</td>
+<td>n.</td>
+<td>標槍</td>
 </tr>
 <tr>
 <td>nepalese</td>
+<td>.nepә'li:z</td>
+<td>adj.</td>
+<td>尼泊爾的 n. 尼泊爾人</td>
+</tr>
+<tr>
+<td>rescuers</td>
+<td></td>
 <td>noun</td>
-<td>尼泊爾人</td>
+<td>救援者（rescuer的複數）</td>
 </tr>
 <tr>
 <td>finishers</td>
+<td>'finiʃə</td>
 <td>noun</td>
-<td>終結者</td>
+<td>整理工；修整器；決定性的事件；最後優勝者</td>
 </tr>
 <tr>
 <td>sparking</td>
-<td>verb</td>
-<td>火花四射</td>
+<td>'spɑ:kiŋ</td>
+<td>adj.</td>
+<td>[電] 發電花</td>
 </tr>
 <tr>
 <td>gonzales</td>
+<td></td>
 <td>noun</td>
-<td>岡薩雷斯</td>
+<td>[人名] 岡薩雷斯; [地名] [美國] 岡薩雷斯</td>
 </tr>
 <tr>
 <td>himalayas</td>
+<td>,himә'leiәz</td>
 <td>noun</td>
-<td>喜馬拉雅山</td>
+<td>喜馬拉雅山脈</td>
 </tr>
 <tr>
 <td>caveat</td>
-<td>noun</td>
-<td>警告</td>
+<td>'keiviæt</td>
+<td>n.</td>
+<td>中止訴訟程式的申請, 警告 [經] 停止支付的廣告, 貨物出門概不退換</td>
 </tr>
 <tr>
 <td>swag</td>
-<td>noun</td>
-<td>贓物</td>
+<td>swæg</td>
+<td>v.</td>
+<td>搖晃, 贓物, 窪地, 珍貴物, 垂花飾 vi. 搖晃, 垂下</td>
 </tr>
 <tr>
 <td>kilometre</td>
+<td>'kilәjmi:tә(r)</td>
 <td>noun</td>
-<td>公里</td>
-</tr>
-<tr>
-<td>pursuits</td>
-<td>noun</td>
-<td>追求</td>
+<td>公里, 千米</td>
 </tr>
 <tr>
 <td>shortcut</td>
+<td>'ʃɒ:tkʌt</td>
+<td>n.</td>
+<td>捷徑, 最短路線 [計] 快捷方式</td>
+</tr>
+<tr>
+<td>pursuits</td>
+<td>pəˈsju:ts</td>
 <td>noun</td>
-<td>捷徑</td>
+<td>追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好</td>
 </tr>
 <tr>
 <td>samoa</td>
+<td>sә'mәuә</td>
 <td>noun</td>
-<td>薩摩亞</td>
+<td>薩摩亞（南太平洋中部一群島）</td>
 </tr>
 <tr>
 <td>hubs</td>
+<td></td>
 <td>noun</td>
-<td>樞紐</td>
+<td>轂；樞紐；中心（hub的複數）</td>
 </tr>
 <tr>
 <td>berth</td>
-<td>noun</td>
-<td>泊位</td>
+<td>bә:θ</td>
+<td>v.</td>
+<td>船岸之間的水區, 錨地, 臥鋪 vi. 停泊 vt. 使停泊</td>
 </tr>
 <tr>
 <td>landmarks</td>
+<td>'lændmɑ:ks</td>
 <td>noun</td>
-<td>地標</td>
+<td>陸標( landmark的複數形式 ); 目標; （標誌重要階段的）里程碑 ~ (in sth); 有歷史意義的建築物（或遺址）</td>
 </tr>
 <tr>
 <td>pauline</td>
+<td>'pɒ:lain</td>
 <td>noun</td>
-<td>寶琳</td>
+<td>保羅的, 使徒保羅寫的 n. 聖保羅學校的學生</td>
 </tr>
 </tbody>
 </table>
@@ -515,50 +576,56 @@ We'll speak to you again tomorrow.
 <tr>
 <td><span style="color:#ff8c00">pollies</span></td>
 <td>Pollies across the board are taking stock of what this all means this morning.</td>
-<td>Australian slang for politicians.</td>
-<td>澳洲俚語，指政客或政治人物（politicians 的簡稱）。</td>
+<td>An informal Australian slang term for politicians.</td>
+<td>澳洲俚語，指「政治人物」或「政客」。</td>
+</tr>
+<tr>
+<td><span style="color:#ff8c00">take stock</span></td>
+<td>Pollies across the board are taking stock of what this all means this morning.</td>
+<td>To pause and carefully evaluate a situation, progress, or circumstances before deciding what to do.</td>
+<td>評估情勢、盤點現狀、審時度勢。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">a swag of</span></td>
-<td>...unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way...</td>
-<td>An Australian colloquial phrase meaning a large amount, number, or collection of something.</td>
-<td>澳洲口語，指大量的、許多的（某事物）。</td>
+<td>as pollster Kos Samaras pointed out, unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way</td>
+<td>A large quantity, collection, or number of something (informal Australian usage).</td>
+<td>一大批、大量的（澳洲常用口語／俚語）。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">off to a rocky start</span></td>
 <td>But it's off to a rocky start as the outgoing chair of the forum has had to leave before it even began.</td>
-<td>An idiom meaning to begin with difficulties, instability, or problems.</td>
+<td>Beginning with difficulties, problems, or instability.</td>
 <td>開局不順、起步艱難、出師不利。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">leg it</span></td>
 <td>So the PM has legged it out of Palau and will arrive back home today.</td>
-<td>An informal expression meaning to depart rapidly, run away, or travel in a hurry.</td>
-<td>非正式俚語，指匆忙離開、趕緊動身或快步落跑。</td>
+<td>To depart in a great hurry, run away, or travel somewhere quickly.</td>
+<td>匆匆離開、拔腿快跑、迅速趕路。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">rock up</span></td>
 <td>But the turnout for this year's mating event was significantly low — just over 1,800 cuttlefish rocked up.</td>
-<td>An Australian and informal phrasal verb meaning to arrive, show up, or appear, often casually.</td>
-<td>澳洲及非正式英語片語，指抵達、現身、露面（通常較隨意）。</td>
+<td>To arrive or turn up, usually in a casual, unplanned, or informal manner.</td>
+<td>到達、現身、露面（澳洲及英式非正式口語）。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">give a wide berth</span></td>
-<td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts...</td>
-<td>An idiom meaning to avoid or keep a distance from a particular person, place, or situation.</td>
-<td>對某人、某地或某事物避而遠之、敬而遠之、保持距離。</td>
+<td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts, and also sparking calls for the local population to be listed as endangered.</td>
+<td>To avoid or keep a safe distance away from someone or something.</td>
+<td>刻意避開、繞道而行、敬而遠之。</td>
 </tr>
 <tr>
-<td><span style="color:#ff8c00">give something a crack</span></td>
-<td>...his aunt said, 'Hey, maybe you should give running a crack.'</td>
-<td>An Australian and informal idiom meaning to try something or have a go at an activity.</td>
-<td>澳洲及非正式俚語，指嘗試看看某事、試試身手或放手一搏。</td>
+<td><span style="color:#ff8c00">give (something) a crack</span></td>
+<td>until three years ago, he was actually a javelin thrower, but his aunt said, 'Hey, maybe you should give running a crack. You look like you've got the figure for it.'</td>
+<td>To try or make an attempt at doing something (common Australian idiom).</td>
+<td>試一試、嘗試看看（澳洲常用俚語）。</td>
 </tr>
 <tr>
 <td><span style="color:#ff8c00">do someone a solid</span></td>
 <td>Of course, they would have to do us a solid and feature the Opera House on their medal, surely.</td>
-<td>An informal idiom meaning to do someone a favor.</td>
-<td>幫某人一個忙、施以人情或好處。</td>
+<td>To do a favor or provide an act of kindness for someone.</td>
+<td>幫某人一個忙、賣個人情。</td>
 </tr>
 </tbody>
 </table>
@@ -581,7 +648,7 @@ We'll speak to you again tomorrow.
 </tr>
 <tr>
 <td>One Nation</td>
-<td>Australian right-wing populist political party founded by Pauline Hanson.／由Pauline Hanson創立的澳大利亞右翼民粹主義政黨。</td>
+<td>Australian right-wing populist political party founded by Pauline Hanson.／由寶琳漢森 (Pauline Hanson) 創立的澳洲右翼民粹主義政黨。</td>
 </tr>
 <tr>
 <td>ABC</td>
