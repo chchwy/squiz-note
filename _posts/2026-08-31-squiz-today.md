@@ -23,19 +23,17 @@ toc: true
 
 ## News Highlights
 
-- **One Nation Secures Historic WA Lower House Seat in Secret Harbour By-Election／一國黨於西澳秘密港補選告捷 贏得歷史性首個下議院席次**
+- **One Nation Wins Historic WA Lower House Seat in Secret Harbour By-Election／一國黨在西澳秘密港補選創歷史 首度贏得州議會下議院席次**
 
-- **Rescue Efforts Continue in Nepal After Devastating Himalayan Glacier Collapse／喜馬拉雅冰川崩塌致數百人罹難 尼泊爾搜救工作持續推進**
+- **Search and Rescue Efforts Continue in Nepal Following Himalayan Glacier Collapse／喜馬拉雅冰川崩塌致數百人罹難 尼泊爾搜救行動持續進行**
 
-- **Pacific Islands Forum Begins in Palau Following Sudden Departure of Outgoing Chair／太平洋島國論壇帛琉登場 卸任主席因不信任案緊急返國**
+- **Pacific Islands Forum Opens in Palau Amid Early Exits and Leader Absences／太平洋島國論壇於帛琉開幕 遭遇領袖提早離席與多國缺席**
 
-- **South Australian Giant Cuttlefish Numbers Plummet During Annual Mating Season／南澳巨型烏賊交配季數量銳減97% 專家憂藻華衝擊生態**
+- **South Australia Giant Cuttlefish Numbers Drop 97% Amid Ongoing Algal Bloom／受持續藻華影響 南澳巨型烏賊數量驟降九成七**
 
-- **Sydney Marathon Concludes with Victories for Addisu Gobena and Peres Jepchirchir／雪梨馬拉松圓滿落幕 衣索比亞與肯亞好手分獲男女組冠軍**
+- **Addisu Gobena and Peres Jepchirchir Claim Victories at the Sydney Marathon／哥貝納與耶普契奇爾於雪梨馬拉松分別奪得男女組冠軍**
 
-- **Report Finds Australian Kids Rely on AI for News as Much as Mainstream Media／研究指出澳洲青少年仰賴AI獲取新聞程度已與主流媒體相當**
-
-- **US Open Kicks Off with Alex de Minaur Aiming for First Grand Slam Final／美國網球公開賽開打 澳洲名將德米納爾力爭首度闖入大滿貫決賽**
+- **Report Finds Australian Youth Rely on AI for News as Much as Mainstream Outlets／報告顯示澳洲青少年透過AI獲取新聞的比例已追平主流媒體**
 
 ## Full Transcript
 
@@ -71,7 +69,7 @@ It had been held by state government with a huge numbers advantage in Parliament
 
 #### Words in this section
 
-- <span style="color:#ff8c00"><strong>pollies</strong></span>：澳洲俚語，指政治人物、政客。
+- <span style="color:#ff8c00"><strong>pollies</strong></span>：澳洲俚語，指政治人物、政客（politicians 的簡稱）。
 
 ### Secret Harbour Primary Seat
 
@@ -105,7 +103,7 @@ That includes 42 Australians who are still **unaccounted** for, and the Albanese
 - **hydropower**：水力發出的電力
 - **caveat**：中止訴訟程式的申請, 警告；[經] 停止支付的廣告, 貨物出門概不退換
 - **swag**：搖晃, 贓物, 窪地, 珍貴物, 垂花飾；vi. 搖晃, 垂下
-- <span style="color:#ff8c00"><strong>a swag of</strong></span>：澳洲口語，意指大量的、一大批的（席位或事物）。
+- <span style="color:#ff8c00"><strong>a swag of</strong></span>：澳洲非正式用語，意指大量的、一大批的（事物或名額）。
 
 ### Home Pacific Islands
 
@@ -121,7 +119,7 @@ He only came to power three months ago, but he's had to head home to deal with t
 
 - **vigils**：保持清醒（尤指夜間）( vigil的複數形式 ); 不眠（時刻）; 守夜; 警戒
 - **rescuers**：救援者（rescuer的複數）
-- <span style="color:#ff8c00"><strong>off to a rocky start</strong></span>：起步艱難、開局不順。
+- <span style="color:#ff8c00"><strong>off to a rocky start</strong></span>：出師不利、一開始就遭遇波折或困難重重。
 
 ### Cuttlefish Forum Sent
 
@@ -164,18 +162,17 @@ Well, now 36,000 runners are the proud owners of that little collector's item be
 
 Now, this year's race was won by 21-year-old Ethiopian runner Addisu Gobena. He finished in the incredible time of two hours, four minutes and 42 seconds — so Speedy Gonzales! And fun fact about him: until three years ago, he was actually a **javelin** **thrower**, but his aunt said, 'Hey, maybe you should give running a crack.
 
-You look like you've got the figure for it.' And off he went. And it was a pretty <span style="color:#ff8c00"><strong>good shout</strong></span> because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge. Huge, and deeply unfair to be that talented at two athletic **pursuits**, when some of us — not naming any names — have zero.
+You look like you've got the figure for it.' And off he went. And it was a pretty good shout because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge. Huge, and deeply unfair to be that talented at two athletic **pursuits**, when some of us — not naming any names — have zero.
 
 The women's title went to Kenyan runner Peres Jepchirchir, who ran the course in two hours, 18 minutes and 31 seconds. That's over three minutes ahead of her nearest rival — that was a long time to wait for second to <span style="color:#ff8c00"><strong>rock up</strong></span>. The Sydney Marathon, it is a super popular event.
 
 #### Words in this section
 
-- **javelin**：標槍
 - **thrower**：投擲者, 發射器, 噴射器, 製陶坯的工人；[化] 拋油環; 甩水圈
+- **javelin**：標槍
 - **kilometre**：公里, 千米
 - **pursuits**：追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好
-- <span style="color:#ff8c00"><strong>rock up</strong></span>：現身、到達、出席（澳洲日常口語）。
-- <span style="color:#ff8c00"><strong>good shout</strong></span>：好提議、明智的建議或判斷。
+- <span style="color:#ff8c00"><strong>rock up</strong></span>：澳洲及非正式英語，意指抵達、現身、到場（通常指隨意或意料外地出現）。
 
 ### News Kids Berlin Marathon
 
@@ -275,16 +272,16 @@ We'll speak to you again tomorrow.
 <td>水力發出的電力</td>
 </tr>
 <tr>
-<td>javelin</td>
-<td>'dʒævlin</td>
-<td>n.</td>
-<td>標槍</td>
-</tr>
-<tr>
 <td>thrower</td>
 <td>'θrәuә</td>
 <td>n.</td>
 <td>投擲者, 發射器, 噴射器, 製陶坯的工人；[化] 拋油環; 甩水圈</td>
+</tr>
+<tr>
+<td>javelin</td>
+<td>'dʒævlin</td>
+<td>n.</td>
+<td>標槍</td>
 </tr>
 <tr>
 <td>rescuers</td>
@@ -323,16 +320,16 @@ We'll speak to you again tomorrow.
 <td>公里, 千米</td>
 </tr>
 <tr>
-<td>shortcut</td>
-<td>'ʃɒ:tkʌt</td>
-<td>n.</td>
-<td>捷徑, 最短路線；[計] 快捷方式</td>
-</tr>
-<tr>
 <td>pursuits</td>
 <td>pəˈsju:ts</td>
 <td>noun</td>
 <td>追趕( pursuit的複數形式 ); 工作; 消遣; 嗜好</td>
+</tr>
+<tr>
+<td>shortcut</td>
+<td>'ʃɒ:tkʌt</td>
+<td>n.</td>
+<td>捷徑, 最短路線；[計] 快捷方式</td>
 </tr>
 <tr>
 <td>hubs</td>
@@ -372,56 +369,56 @@ We'll speak to you again tomorrow.
 <tr>
 <td>pollies</td>
 <td>Pollies across the board are taking stock of what this all means this morning.</td>
-<td>Australian slang for politicians.</td>
-<td>澳洲俚語，指政治人物、政客。</td>
+<td>An Australian informal/slang term for politicians (short for 'politicians').</td>
+<td>澳洲俚語，指政治人物、政客（politicians 的簡稱）。</td>
+</tr>
+<tr>
+<td>take stock of</td>
+<td>Pollies across the board are taking stock of what this all means this morning.</td>
+<td>To pause and carefully assess or evaluate a situation before deciding on further action.</td>
+<td>仔細評估、審視現狀以決定下一步。</td>
 </tr>
 <tr>
 <td>a swag of</td>
-<td>...unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way...</td>
-<td>An Australian informal term meaning a large number, collection, or quantity of something.</td>
-<td>澳洲口語，意指大量的、一大批的（席位或事物）。</td>
+<td>unless something changes, a swag of Melbourne seats with the same profile as Secret Harbour, so the same sort of demographic makeup, will likely go the same way</td>
+<td>An Australian informal idiom meaning a large number, quantity, or collection of things.</td>
+<td>澳洲非正式用語，意指大量的、一大批的（事物或名額）。</td>
 </tr>
 <tr>
 <td>off to a rocky start</td>
 <td>But it's off to a rocky start as the outgoing chair of the forum has had to leave before it even began.</td>
-<td>Starting with difficulties, obstacles, or instability.</td>
-<td>起步艱難、開局不順。</td>
+<td>Beginning or launching with difficulties, complications, or instability.</td>
+<td>出師不利、一開始就遭遇波折或困難重重。</td>
 </tr>
 <tr>
 <td>leg it</td>
 <td>So the PM has legged it out of Palau and will arrive back home today.</td>
-<td>An informal idiom meaning to leave very quickly, flee, or travel away in a rush.</td>
-<td>匆忙離開、急忙趕路、拔腿就走。</td>
+<td>To depart very hurriedly or run away quickly.</td>
+<td>匆忙離開、趕緊啟程或拔腿快跑。</td>
 </tr>
 <tr>
 <td>rock up</td>
 <td>But the turnout for this year's mating event was significantly low — just over 1,800 cuttlefish rocked up.</td>
-<td>An Australian and informal idiom meaning to arrive, show up, or turn up.</td>
-<td>現身、到達、出席（澳洲日常口語）。</td>
+<td>An Australian and informal English phrase meaning to arrive or turn up, often casually or unexpectedly.</td>
+<td>澳洲及非正式英語，意指抵達、現身、到場（通常指隨意或意料外地出現）。</td>
 </tr>
 <tr>
-<td>give something a wide berth</td>
+<td>give (something) a wide berth</td>
 <td>So the fact that they've given what is generally their usual hook-up spot a wide berth is alarming the experts, and also sparking calls for the local population to be listed as endangered.</td>
-<td>An idiom meaning to deliberately stay far away from or avoid someone, something, or a place.</td>
-<td>刻意避開、繞道而行、敬而遠之。</td>
+<td>To deliberately stay far away from or steer clear of someone or somewhere.</td>
+<td>刻意避開、繞道遠離（某處或某人）。</td>
 </tr>
 <tr>
-<td>give something a crack</td>
-<td>And fun fact about him: until three years ago, he was actually a javelin thrower, but his aunt said, 'Hey, maybe you should give running a crack.'</td>
-<td>An Australian and informal idiom meaning to attempt, try, or have a go at something.</td>
-<td>嘗試看看、試一試（澳洲常用口語）。</td>
+<td>give (something) a crack</td>
+<td>until three years ago, he was actually a javelin thrower, but his aunt said, 'Hey, maybe you should give running a crack. You look like you've got the figure for it.'</td>
+<td>An Australian/informal idiom meaning to try, attempt, or have a go at doing something.</td>
+<td>澳洲及英語口語，意指嘗試一下、試試看（做某事）。</td>
 </tr>
 <tr>
-<td>good shout</td>
-<td>And it was a pretty good shout because this year, he knocked a minute and a half off his Sydney Marathon time, which is huge.</td>
-<td>An informal expression meaning a good idea, sensible suggestion, or wise recommendation.</td>
-<td>好提議、明智的建議或判斷。</td>
-</tr>
-<tr>
-<td>do someone a solid</td>
+<td>do (someone) a solid</td>
 <td>Of course, they would have to do us a solid and feature the Opera House on their medal, surely.</td>
 <td>An informal idiom meaning to do someone a favor or helpful service.</td>
-<td>幫某人一個忙、賣個人情。</td>
+<td>口語慣用語，意指幫（某人）一個忙或行個方便。</td>
 </tr>
 </tbody>
 </table>
@@ -440,39 +437,35 @@ We'll speak to you again tomorrow.
 <tbody>
 <tr>
 <td>One Nation</td>
-<td>A right-wing populist Australian political party led by Pauline Hanson, which made history by winning its first-ever lower house seat in Western Australia's state parliament in the Secret Harbour by-election.／由寶琳·韓森（Pauline Hanson）領導的澳洲右翼民粹主義政黨，在秘境港（Secret Harbour）補選中贏得該黨在西澳州議會下議院的首個席位，創下歷史紀錄。</td>
-</tr>
-<tr>
-<td>Secret Harbour</td>
-<td>An outer metropolitan state electorate and coastal suburb located south of Perth, Western Australia, which made national headlines after One Nation won the historically safe Labor seat in a by-election.／位於西澳伯斯南部的外圍都會區選區兼沿海郊區，在補選中由一國黨擊敗長期執政的工黨並奪下席位，引發澳洲全國關注。</td>
+<td>A right-wing populist political party in Australia founded by Pauline Hanson. In the news, it achieved a historic milestone by winning its first-ever lower house seat in the Western Australian State Parliament.／由寶琳·韓森（Pauline Hanson）創立的澳洲右翼民粹主義政黨。在新聞中，該黨在西澳州議會贏得史上首個下議院席位，創下歷史紀錄。</td>
 </tr>
 <tr>
 <td>Luke Hurdigan</td>
-<td>The One Nation candidate who won the Western Australian state by-election for Secret Harbour, becoming the party's first-ever lower house Member of Parliament (MP) in the state.／代表一國黨贏得西澳秘境港選區補選的候選人，成為該黨在西澳州議會下議院的首位議員。</td>
+<td>A politician from Pauline Hanson's One Nation party who won the Western Australian state by-election in the electorate of Secret Harbour, securing the party's historic first lower house seat in WA.／澳洲一國黨（One Nation）政治人物，在西澳州秘密港（Secret Harbour）選區補選中勝出，為該黨贏得在西澳州議會的首個下議院席次。</td>
 </tr>
 <tr>
-<td>Pacific Islands Forum</td>
-<td>The premier intergovernmental organization fostering political and economic cooperation among countries across Oceania, which opened its annual leaders' meeting in Palau.／推動大洋洲各國政治與經濟合作的重要政府間國際組織，其年度領袖峰會於帛琉拉開序幕。</td>
+<td>Secret Harbour</td>
+<td>An outer metropolitan state electoral district and suburb south of Perth, Western Australia. Previously considered a safe Labor seat, it made national headlines when One Nation won a historic by-election victory there.／位於西澳州伯斯南部的一個外郊州選區及同名沿海郊區。該選區原被視為工黨的鐵票區，在一國黨贏得歷史性補選後成為全澳焦點。</td>
 </tr>
 <tr>
 <td>Matthew Wale</td>
-<td>The Prime Minister of the Solomon Islands and outgoing chair of the Pacific Islands Forum, who had to abruptly leave the Palau summit before it began to address a no-confidence motion at home.／索羅門群島總理兼太平洋島國論壇即將卸任的主席，在帛琉峰會開幕前因國內面臨不信任動議而不得不緊急離席返國。</td>
+<td>The Prime Minister of the Solomon Islands who had to abruptly leave the Pacific Islands Forum in Palau to return home and face a no-confidence motion against his leadership.／索羅門群島總理，在帛琉出席太平洋島國論壇期間，因國內面臨對其領導權的不信任動議而不得不提前離席返國。</td>
 </tr>
 <tr>
-<td>Sydney Marathon</td>
-<td>A prominent Australian 42.2-kilometer road running event that recently attained World Marathon Major status, attracting tens of thousands of participants to Sydney.／澳洲知名的42.2公里公路路跑賽事，近期剛升格為世界馬拉松大滿貫（World Marathon Major）賽事，吸引數萬名跑者於雪梨參賽。</td>
+<td>Pacific Islands Forum</td>
+<td>An intergovernmental organization comprising nations across the Pacific region, including Australia and Pacific island states, holding its leaders' summit in Palau to discuss regional policy and cooperation.／由澳洲及太平洋島國等大洋洲國家組成的政府間區域組織，本屆領袖峰會於帛琉召開，討論區域合作與政策議題。</td>
 </tr>
 <tr>
 <td>Addisu Gobena</td>
-<td>A 21-year-old Ethiopian runner and former javelin thrower who won the men's title at the Sydney Marathon with a time of 2 hours, 4 minutes, and 42 seconds.／21歲的衣索比亞長跑選手（曾為標槍運動員），以2小時4分42秒的成績奪得雪梨馬拉松男子組冠軍。</td>
+<td>A 21-year-old Ethiopian long-distance runner and former javelin thrower who won the men's title at the Sydney Marathon in a fast time of 2 hours, 4 minutes, and 42 seconds.／衣索比亞21歲長跑選手、前標槍運動員，以2小時4分42秒的出色成績奪得雪梨馬拉松男子組冠軍。</td>
 </tr>
 <tr>
 <td>Peres Jepchirchir</td>
-<td>A celebrated Kenyan long-distance runner and Olympic champion who won the women's division at the Sydney Marathon in 2 hours, 18 minutes, and 31 seconds.／肯亞著名的長跑運動員兼奧運金牌得主，在雪梨馬拉松中以2小時18分31秒奪得女子組冠軍。</td>
+<td>An elite Kenyan long-distance runner and Olympic champion who claimed the women's title at the Sydney Marathon, finishing more than three minutes ahead of the runner-up.／肯亞頂尖長跑好手兼奧運金牌得主，在雪梨馬拉松女子組賽事中以領先第二名超過三分鐘的優勢強勢奪冠。</td>
 </tr>
 <tr>
 <td>Alex de Minaur</td>
-<td>Australia's top-ranked male tennis player, nicknamed 'The Demon', who is competing in the men's singles tournament at the US Open.／綽號為「惡魔」（The Demon）的澳洲男子網球名將，目前正出戰美國網球公開賽男子單打賽事。</td>
+<td>Australia's leading men's tennis player, known by the nickname 'The Demon', who is competing in the US Open singles tournament.／澳洲頂尖男子網球選手，綽號「惡魔」（The Demon），目前正出戰美國網球公開賽男子單打賽事。</td>
 </tr>
 </tbody>
 </table>
