@@ -219,12 +219,15 @@ table tbody tr:nth-child(even) {
   background-color: rgba(255, 255, 255, 0.03) !important;
 }
 
-/* Column specific widths */
+/* Column specific styles: First column is prominent and bold */
+.content table td:first-child,
+.post-content table td:first-child,
+.table-wrap table td:first-child,
 table td:first-child {
-  font-weight: 600 !important;
-  color: var(--text-color, #1e293b) !important;
+  font-weight: 700 !important;
+  color: var(--text-color, #0f172a) !important;
   white-space: nowrap !important;
-  min-width: 7em;
+  min-width: 7.5em;
 }
 
 /* Monospace IPA pronunciation */
