@@ -2,9 +2,7 @@
 layout: post
 title: "Squiz Today — 2026-09-01"
 date: 2026-09-01 07:00:00 +0800
-categories: [Squiz Today, Notes]
-tags: [podcast, english-learning, aussie-slang]
-toc: true
+categories: notes
 ---
 
 ## Table of Contents
