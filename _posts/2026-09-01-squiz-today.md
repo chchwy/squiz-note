@@ -244,359 +244,241 @@ But I never told anybody because I was too ashamed, and by that stage I was unde
 <thead>
 <tr>
 <th>Word</th>
-<th>音標</th>
-<th>詞性</th>
-<th>中文</th>
+<th>意思</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>flecked</td>
-<td>'flekt</td>
-<td>verb</td>
-<td>有斑點的, 有汙點的</td>
+<td>flecked /'flekt/</td>
+<td>(v.) 有斑點的, 有汙點的</td>
 </tr>
 <tr>
 <td>rungs</td>
-<td></td>
-<td>noun</td>
-<td>梯級（rung的複數形式）</td>
+<td>(n.) 梯級（rung的複數形式）</td>
 </tr>
 <tr>
-<td>swooping</td>
-<td>swu:pɪŋ</td>
-<td>adj.</td>
-<td>俯衝, 猛衝( swoop的現在分詞 )</td>
+<td>swooping /swu:pɪŋ/</td>
+<td>(adj.) 俯衝, 猛衝( swoop的現在分詞 )</td>
 </tr>
 <tr>
-<td>swooped</td>
-<td>swu:pt</td>
-<td>verb</td>
-<td>俯衝, 猛衝( swoop的過去式和過去分詞 )</td>
+<td>swooped /swu:pt/</td>
+<td>(v.) 俯衝, 猛衝( swoop的過去式和過去分詞 )</td>
 </tr>
 <tr>
-<td>gambled</td>
-<td>ˈɡæmbld</td>
-<td>verb</td>
-<td>賭博, 冒風險( gamble的過去式和過去分詞 )</td>
+<td>gambled /ˈɡæmbld/</td>
+<td>(v.) 賭博, 冒風險( gamble的過去式和過去分詞 )</td>
 </tr>
 <tr>
-<td>hiker</td>
-<td>'haikә</td>
-<td>n.</td>
-<td>徒步旅行者</td>
+<td>hiker /'haikә/</td>
+<td>(n.) 徒步旅行者</td>
 </tr>
 <tr>
-<td>unaccounted</td>
-<td>.ʌnә'kauntid</td>
-<td>verb</td>
-<td>未說明的, 未解釋的</td>
+<td>unaccounted /.ʌnә'kauntid/</td>
+<td>(v.) 未說明的, 未解釋的</td>
 </tr>
 <tr>
-<td>hydropower</td>
-<td>'haidrәupauә</td>
-<td>n.</td>
-<td>水力發出的電力</td>
+<td>hydropower /'haidrәupauә/</td>
+<td>(n.) 水力發出的電力</td>
 </tr>
 <tr>
-<td>magpies</td>
-<td>'mægpɚɪz</td>
-<td>noun</td>
-<td>喜鵲（magpie的複數形式）</td>
+<td>magpies /'mægpɚɪz/</td>
+<td>(n.) 喜鵲（magpie的複數形式）</td>
 </tr>
 <tr>
-<td>evacuating</td>
-<td>iˈvækjueitɪŋ</td>
-<td>verb</td>
-<td>撤離, 疏散( evacuate的現在分詞 ); 排空（胃腸）, 排洩（糞便）; （從危險的地方）撤出, 搬出, 撤空</td>
+<td>evacuating /iˈvækjueitɪŋ/</td>
+<td>(v.) 撤離, 疏散( evacuate的現在分詞 ); 排空（胃腸）, 排洩（糞便）; （從危險的地方）撤出, 搬出, 撤空</td>
 </tr>
 <tr>
-<td>confide</td>
-<td>kәn'faid</td>
-<td>v.</td>
-<td>吐露, 委託；vi. 信賴</td>
+<td>confide /kәn'faid/</td>
+<td>(v.) 吐露, 委託；vi. 信賴</td>
 </tr>
 <tr>
-<td>magpie</td>
-<td>'mægpai</td>
-<td>n.</td>
-<td>鵲, 珍種家鴿, 饒舌的人；a. 鵲的, 有收集癖的</td>
+<td>magpie /'mægpai/</td>
+<td>(n.) 鵲, 珍種家鴿, 饒舌的人；a. 鵲的, 有收集癖的</td>
 </tr>
 <tr>
-<td>erasure</td>
-<td>i'reiʃә</td>
-<td>n.</td>
-<td>擦除, 抹掉；[電] 擦掉</td>
+<td>erasure /i'reiʃә/</td>
+<td>(n.) 擦除, 抹掉；[電] 擦掉</td>
 </tr>
 <tr>
-<td>heady</td>
-<td>'hedi</td>
-<td>adj.</td>
-<td>頑固的, 任性的, 性急的, 猛烈的</td>
+<td>heady /'hedi/</td>
+<td>(adj.) 頑固的, 任性的, 性急的, 猛烈的</td>
 </tr>
 <tr>
-<td>hiked</td>
-<td>haikt</td>
-<td>verb</td>
-<td>徒步旅行( hike的過去式和過去分詞 ); &lt;口&gt;提高（價格等）</td>
+<td>hiked /haikt/</td>
+<td>(v.) 徒步旅行( hike的過去式和過去分詞 ); &lt;口&gt;提高（價格等）</td>
 </tr>
 <tr>
-<td>clung</td>
-<td>klʌŋ</td>
-<td>noun</td>
-<td>cling的過去式和過去分詞</td>
+<td>confided /kənˈfaidid/</td>
+<td>(v.) 吐露（秘密, 心事等）( confide的過去式和過去分詞 ); （向某人）吐露（隱私、秘密等）</td>
 </tr>
 <tr>
-<td>confided</td>
-<td>kənˈfaidid</td>
-<td>verb</td>
-<td>吐露（秘密, 心事等）( confide的過去式和過去分詞 ); （向某人）吐露（隱私、秘密等）</td>
-</tr>
-<tr>
-<td>shopped</td>
-<td></td>
-<td>verb</td>
-<td>購買東西</td>
+<td>clung /klʌŋ/</td>
+<td>(n.) cling的過去式和過去分詞</td>
 </tr>
 <tr>
 <td>refreshments</td>
-<td></td>
-<td>noun</td>
-<td>茶點；點心；小吃</td>
+<td>(n.) 茶點；點心；小吃</td>
 </tr>
 <tr>
-<td>jumpsuit</td>
-<td>ˈdʒʌmpsu:t</td>
-<td>n.</td>
-<td>連衣褲, （尤指女式）連衣褲</td>
+<td>shopped</td>
+<td>(v.) 購買東西</td>
 </tr>
 <tr>
-<td>reclaiming</td>
-<td>rɪ'kleɪmɪŋ</td>
-<td>n.</td>
-<td>開拓( reclaim的現在分詞 ); 要求收回; 從廢料中回收（有用的材料）; 挽救</td>
+<td>jumpsuit /ˈdʒʌmpsu:t/</td>
+<td>(n.) 連衣褲, （尤指女式）連衣褲</td>
 </tr>
 <tr>
-<td>unknowingly</td>
-<td>ʌn'nәjiŋli</td>
-<td>adv.</td>
-<td>無意中, 非存心地, 不知不覺地</td>
+<td>reclaiming /rɪ'kleɪmɪŋ/</td>
+<td>(n.) 開拓( reclaim的現在分詞 ); 要求收回; 從廢料中回收（有用的材料）; 挽救</td>
 </tr>
 <tr>
-<td>snippet</td>
-<td>'snipit</td>
-<td>n.</td>
-<td>小片, 片斷, 摘錄</td>
+<td>unknowingly /ʌn'nәjiŋli/</td>
+<td>(adv.) 無意中, 非存心地, 不知不覺地</td>
 </tr>
 <tr>
-<td>caviar</td>
-<td>'kæviɑ:</td>
-<td>n.</td>
-<td>魚子醬；[醫] 魚子醬</td>
+<td>snippet /'snipit/</td>
+<td>(n.) 小片, 片斷, 摘錄</td>
 </tr>
 <tr>
-<td>geologist</td>
-<td>dʒi'ɔlәdʒist</td>
-<td>n.</td>
-<td>地質學家, 地質學者</td>
+<td>caviar /'kæviɑ:/</td>
+<td>(n.) 魚子醬；[醫] 魚子醬</td>
 </tr>
 <tr>
-<td>despised</td>
-<td>disˈpaizd</td>
-<td>adj.</td>
-<td>鄙視, 看不起某人（某事）( despise的過去式和過去分詞 )</td>
+<td>geologist /dʒi'ɔlәdʒist/</td>
+<td>(n.) 地質學家, 地質學者</td>
 </tr>
 <tr>
 <td>doesn</td>
-<td></td>
-<td>noun</td>
-<td>[網路] 不；地那人不</td>
+<td>(n.) [網路] 不；地那人不</td>
 </tr>
 <tr>
-<td>cramped</td>
-<td>'kræmpt</td>
-<td>adj.</td>
-<td>狹窄的, 難懂的, 難辨的</td>
+<td>despised /disˈpaizd/</td>
+<td>(adj.) 鄙視, 看不起某人（某事）( despise的過去式和過去分詞 )</td>
 </tr>
 <tr>
-<td>resale</td>
-<td>ri:'seil</td>
-<td>n.</td>
-<td>再販賣, 轉售；[經] 再賣, 轉賣</td>
+<td>resale /ri:'seil/</td>
+<td>(n.) 再販賣, 轉售；[經] 再賣, 轉賣</td>
 </tr>
 <tr>
-<td>shortcut</td>
-<td>'ʃɒ:tkʌt</td>
-<td>n.</td>
-<td>捷徑, 最短路線；[計] 快捷方式</td>
+<td>cramped /'kræmpt/</td>
+<td>(adj.) 狹窄的, 難懂的, 難辨的</td>
 </tr>
 <tr>
-<td>woken</td>
-<td>'wәukәn</td>
-<td>noun</td>
-<td>wake的過去分詞</td>
+<td>shortcut /'ʃɒ:tkʌt/</td>
+<td>(n.) 捷徑, 最短路線；[計] 快捷方式</td>
 </tr>
 <tr>
-<td>independents</td>
-<td>ˌɪndiˈpendənts</td>
-<td>noun</td>
-<td>自主的( independent的複數形式 ); 不相關連的; 無黨派的; 不相干的人所做的（或提供的）</td>
+<td>woken /'wәukәn/</td>
+<td>(n.) wake的過去分詞</td>
 </tr>
 <tr>
-<td>childcare</td>
-<td>'tʃaildkεә</td>
-<td>noun</td>
-<td>兒童照管；兒童保育</td>
+<td>independents /ˌɪndiˈpendənts/</td>
+<td>(n.) 自主的( independent的複數形式 ); 不相關連的; 無黨派的; 不相干的人所做的（或提供的）</td>
 </tr>
 <tr>
-<td>hauled</td>
-<td>hɔ:ld</td>
-<td>verb</td>
-<td>拖, 拉（ haul的過去式和過去分詞 ）</td>
+<td>childcare /'tʃaildkεә/</td>
+<td>(n.) 兒童照管；兒童保育</td>
 </tr>
 <tr>
-<td>hoops</td>
-<td>hu:ps</td>
-<td>noun</td>
-<td>箍( hoop的名詞複數 ); （籃球）籃圈; （舊時兒童玩的）大環子; （兩端埋在地裡的）小鐵弓</td>
+<td>hauled /hɔ:ld/</td>
+<td>(v.) 拖, 拉（ haul的過去式和過去分詞 ）</td>
 </tr>
 <tr>
-<td>humid</td>
-<td>'hju:mid</td>
-<td>adj.</td>
-<td>潮溼的, 溼潤的, 多溼氣的</td>
+<td>hoops /hu:ps/</td>
+<td>(n.) 箍( hoop的名詞複數 ); （籃球）籃圈; （舊時兒童玩的）大環子; （兩端埋在地裡的）小鐵弓</td>
 </tr>
 <tr>
-<td>nuggets</td>
-<td>ˈnʌgɪts</td>
-<td>noun</td>
-<td>（天然）塊金, 塊( nugget的複數形式 )</td>
+<td>kangaroo /.kæŋgә'ru:/</td>
+<td>(n.) 袋鼠；[醫] 袋鼠(澳洲產)</td>
 </tr>
 <tr>
-<td>kangaroo</td>
-<td>.kæŋgә'ru:</td>
-<td>n.</td>
-<td>袋鼠；[醫] 袋鼠(澳洲產)</td>
+<td>humid /'hju:mid/</td>
+<td>(adj.) 潮溼的, 溼潤的, 多溼氣的</td>
 </tr>
 <tr>
-<td>denim</td>
-<td>'denim</td>
-<td>n.</td>
-<td>斜紋粗棉布, 牛仔布, 勞動布, (非正式)工作服, 工裝褲</td>
+<td>nuggets /ˈnʌgɪts/</td>
+<td>(n.) （天然）塊金, 塊( nugget的複數形式 )</td>
 </tr>
 <tr>
-<td>intercepted</td>
-<td>ˌɪntəˈseptid</td>
-<td>adj.</td>
-<td>攔截( intercept的過去式和過去分詞 ); 截住; 截擊; 攔阻</td>
+<td>denim /'denim/</td>
+<td>(n.) 斜紋粗棉布, 牛仔布, 勞動布, (非正式)工作服, 工裝褲</td>
 </tr>
 <tr>
-<td>blur</td>
-<td>blә:</td>
-<td>n.</td>
-<td>使模糊, 弄髒；vi. 弄髒, 模糊</td>
+<td>intercepted /ˌɪntəˈseptid/</td>
+<td>(adj.) 攔截( intercept的過去式和過去分詞 ); 截住; 截擊; 攔阻</td>
 </tr>
 <tr>
-<td>breaker</td>
-<td>'breikә</td>
-<td>n.</td>
-<td>斷路器；[化] 破碎機</td>
+<td>blur /blә:/</td>
+<td>(n.) 使模糊, 弄髒；vi. 弄髒, 模糊</td>
 </tr>
 <tr>
-<td>isolate</td>
-<td>'aisәleit</td>
-<td>n.</td>
-<td>使隔離, 使孤立, 使絕緣；n. 隔離種群</td>
+<td>breaker /'breikә/</td>
+<td>(n.) 斷路器；[化] 破碎機</td>
 </tr>
 <tr>
-<td>stint</td>
-<td>stint</td>
-<td>v.</td>
-<td>節省, 限制, 停止；vi. 節約；n. 吝惜, 節約, 限額</td>
+<td>isolate /'aisәleit/</td>
+<td>(n.) 使隔離, 使孤立, 使絕緣；n. 隔離種群</td>
 </tr>
 <tr>
-<td>tariffs</td>
-<td>'tærɪf</td>
-<td>noun</td>
-<td>關稅制度; 關稅( tariff的名詞複數 ); 關稅表; （旅館或飯店等的）收費表; 量刑標準</td>
+<td>stint /stint/</td>
+<td>(v.) 節省, 限制, 停止；vi. 節約；n. 吝惜, 節約, 限額</td>
 </tr>
 <tr>
-<td>pronounce</td>
-<td>prә'nauns</td>
-<td>v.</td>
-<td>發音, 宣告, 斷言</td>
+<td>tariffs /'tærɪf/</td>
+<td>(n.) 關稅制度; 關稅( tariff的名詞複數 ); 關稅表; （旅館或飯店等的）收費表; 量刑標準</td>
 </tr>
 <tr>
-<td>banging</td>
-<td>'bæŋiŋ</td>
-<td>adj.</td>
-<td>消音器內爆炸</td>
+<td>pronounce /prә'nauns/</td>
+<td>(v.) 發音, 宣告, 斷言</td>
+</tr>
+<tr>
+<td>banging /'bæŋiŋ/</td>
+<td>(adj.) 消音器內爆炸</td>
+</tr>
+<tr>
+<td>whichever /hwitʃ'evә/</td>
+<td>(det.) 無論那一個, 任何一個</td>
 </tr>
 <tr>
 <td>stranded</td>
-<td></td>
-<td>adj.</td>
-<td>處於困境的, 進退兩難的</td>
+<td>(adj.) 處於困境的, 進退兩難的</td>
 </tr>
 <tr>
-<td>peek</td>
-<td>pi:k</td>
-<td>n.</td>
-<td>偷看, 窺視；n. 偷看, 看一眼</td>
-</tr>
-<tr>
-<td>whichever</td>
-<td>hwitʃ'evә</td>
-<td>det.</td>
-<td>無論那一個, 任何一個</td>
+<td>peek /pi:k/</td>
+<td>(n.) 偷看, 窺視；n. 偷看, 看一眼</td>
 </tr>
 <tr>
 <td>rebuilding</td>
-<td></td>
-<td>n.</td>
-<td>重建</td>
+<td>(n.) 重建</td>
 </tr>
 <tr>
-<td>landscapes</td>
-<td>ˈlændskeips</td>
-<td>noun</td>
-<td>風景( landscape的名詞複數 ); 風景畫; 鄉村風景畫; 地形</td>
+<td>landscapes /ˈlændskeips/</td>
+<td>(n.) 風景( landscape的名詞複數 ); 風景畫; 鄉村風景畫; 地形</td>
 </tr>
 <tr>
-<td>considerations</td>
-<td>kənsɪdə'reɪʃnz</td>
-<td>noun</td>
-<td>考慮( consideration的複數形式 ); 報酬; 仔細考慮; （對他人的）考慮周到</td>
+<td>considerations /kənsɪdə'reɪʃnz/</td>
+<td>(n.) 考慮( consideration的複數形式 ); 報酬; 仔細考慮; （對他人的）考慮周到</td>
+</tr>
+<tr>
+<td>retailer /'ri:teilә/</td>
+<td>(n.) 零售商人, 傳播的人；[經] 零售商</td>
 </tr>
 <tr>
 <td>eyebrows</td>
-<td></td>
-<td>noun</td>
-<td>眉毛（eyebrow的複數）</td>
+<td>(n.) 眉毛（eyebrow的複數）</td>
 </tr>
 <tr>
-<td>retailer</td>
-<td>'ri:teilә</td>
-<td>n.</td>
-<td>零售商人, 傳播的人；[經] 零售商</td>
+<td>lunar /'lu:nә/</td>
+<td>(adj.) 陰曆的, 月的, 微亮的(指光)；[醫] 月的, 銀的</td>
 </tr>
 <tr>
-<td>lunar</td>
-<td>'lu:nә</td>
-<td>adj.</td>
-<td>陰曆的, 月的, 微亮的(指光)；[醫] 月的, 銀的</td>
+<td>attribute /ә'tribju:t/</td>
+<td>(n.) 屬性, 標誌, 定語；vt. 把...歸於, 認為...屬於；[計] 屬性</td>
 </tr>
 <tr>
-<td>attribute</td>
-<td>ә'tribju:t</td>
-<td>n.</td>
-<td>屬性, 標誌, 定語；vt. 把...歸於, 認為...屬於；[計] 屬性</td>
-</tr>
-<tr>
-<td>floods</td>
-<td>flʌdz</td>
-<td>noun</td>
-<td>洪水( flood的名詞複數 ); 水災; 大批；v. （使）充斥( flood的第三人稱單數 ); 大量湧來; （使）為水淹沒; 使大受感動</td>
+<td>floods /flʌdz/</td>
+<td>(n.) 洪水( flood的名詞複數 ); 水災; 大批；v. （使）充斥( flood的第三人稱單數 ); 大量湧來; （使）為水淹沒; 使大受感動</td>
 </tr>
 </tbody>
 </table>
