@@ -178,6 +178,14 @@ table td:first-child {
   overflow-wrap: anywhere !important;
 }
 
+/* Advanced vocab: only the lemma is bold; IPA in the same cell stays regular */
+table.vocab td:first-child {
+  font-weight: 400 !important;
+}
+table.vocab td:first-child strong {
+  font-weight: 700 !important;
+}
+
 /* Remaining columns share the rest — never monospace (IPA lives inside col1 now) */
 table th:not(:first-child),
 table td:not(:first-child) {
