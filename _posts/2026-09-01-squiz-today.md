@@ -45,7 +45,7 @@ If you or someone you know is experiencing financial abuse, support is available
 
 #### Words in this section
 
-- **shortcut**：捷徑, 最短路線；[計] 快捷方式
+- **shortcut**：捷徑
 
 ### Episode Intro
 
@@ -55,35 +55,43 @@ In your Squiz Today: An Australian has been confirmed dead in Nepal, a look at o
 
 #### Words in this section
 
-- **retailer**：零售商人, 傳播的人；[經] 零售商
+- **retailer**：零售商
 
 ### Australian Hiker Confirmed Dead as Search Continues After Nepal-Tibet Flooding
 
-We've been speaking a lot about the flooding between Nepal and Tibet for the past few days, and it happened Wednesday last week, so we're coming up on a week since it happened. And we've **woken** up this morning to news that an Australian who was <span style="color:#ff8c00"><strong>caught up in</strong></span> the disaster has now been confirmed dead. We have.
+We've been speaking a lot about the flooding between Nepal and Tibet for the past few days, and it happened Wednesday last week, so we're coming up on a week since it happened. And we've **woken** up this morning to news that an Australian who was caught up in the disaster has now been confirmed dead. We have.
 
 His name is Michael Keats. He's a **hiker** from Mollymook on the New South Wales South Coast. Now, his partner Emily Boyd confirmed the news, saying it had changed everything for her and her family.
 
 And reports say they initially thought he was safe, but sadly that turned out not to be the case. At this point, we understand around 43 or 44 other Aussies are missing, but exact numbers differ between reports. At least one Australian thought to be on that list has been found, though.
 
-She's 26-year-old Cara Severino, who **hiked** to safety after becoming **stranded** during a trek due to the flood. Yeah, she's from Sydney, and reports say that she made contact with her parents two days after she was reported missing. So the search is continuing.
+She's 26-year-old Cara Severino, who **hiked** to safety after becoming stranded during a trek due to the flood. Yeah, she's from Sydney, and reports say that she made contact with her parents two days after she was reported missing. So the search is continuing.
 
-We had an update from the Australian government on that yesterday. Assistant Foreign Minister Matt Thistlethwaite says it was doing all it could to try and find the other Australians.
+We had an update from the Australian government on that yesterday. Assistant Foreign Minister Matt Thistlethwaite says it was doing all it could to try and find the other Australians. And in his words, "We haven't given up hope." When it comes to the disaster as a whole, the death toll is now around 950, with rescue efforts continuing to find more than 4,700 people who are still **unaccounted** for.
+
+Now, more than 930 of those are workers believed to have been trapped inside **hydropower** tunnels which were damaged in the region. And there are actually some Australians helping with the rescue efforts, including **geologist** Arnold Dix. I was listening to an interview he gave to the BBC this morning, and he was explaining how it's actually a very hard job identifying where these tunnels are because of the impact of the flash **floods** to the terrain.
+
+He said the ground looked like **lunar** **landscapes** in places. Yeah, not easy. And it doesn't get any easier once you've actually located the tunnels themselves.
+
+They're really **cramped**, and trying to figure out how to safely get people out of them is very difficult. But as all of that is going on, we have heard some stories of survival that have been emerging in the days since the disaster, including one about a group of workers who **clung** to rungs on a tunnel roof and **hauled** themselves hundreds of metres to safety, as well as a teacher who saved the lives of 1,600 students by **evacuating** just 10 minutes before the flood arrived.
 
 #### Words in this section
 
-- **hiker**：徒步旅行者
-- **hiked**：徒步旅行( hike的過去式和過去分詞 ); <口>提高（價格等）
-- **woken**：wake的過去分詞
-- **stranded**：處於困境的, 進退兩難的
-- <span style="color:#ff8c00"><strong>caught up in</strong></span>：捲入、身陷（困境或災難）中
+- **unaccounted**：無法解釋的
+- **evacuating**：疏散
+- **hydropower**：水力發電
+- **landscapes**：風景
+- **geologist**：地質學家
+- **cramped**：擠迫
+- **hauled**：拉起
+- **floods**：洪水
+- **lunar**：月亮
+- **hiker**：健行者
+- **hiked**：健行
+- **clung**：緊抓
+- **woken**：醒來
 
 ### US Strikes Iranian Island in Escalation Over Strait of Hormuz Shipping Tolls
-
-And in his words, "We haven't given up hope." When it comes to the disaster as a whole, the death toll is now around 950, with rescue efforts continuing to find more than 4,700 people who are still **unaccounted** for. Now, more than 930 of those are workers believed to have been trapped inside **hydropower** tunnels which were damaged in the region. And there are actually some Australians helping with the rescue efforts, including **geologist** Arnold Dix.
-
-I was listening to an interview he gave to the BBC this morning, and he was explaining how it's actually a very hard job identifying where these tunnels are because of the impact of the flash **floods** to the terrain. He said the ground looked like **lunar** **landscapes** in places. Yeah, not easy.
-
-And it **doesn**'t get any easier once you've actually located the tunnels themselves. They're really **cramped**, and trying to figure out how to safely get people out of them is very difficult. But as all of that is going on, we have heard some stories of survival that have been emerging in the days since the disaster, including one about a group of workers who **clung** to **rungs** on a tunnel roof and **hauled** themselves hundreds of metres to safety, as well as a teacher who saved the lives of 1,600 students by **evacuating** just 10 minutes before the flood arrived.
 
 One thing that we haven't spoken about that much over the past month or so has been the tension between the US and Iran. It's been relatively quiet, at least on the fighting front. There's been some economic back and forth, but that all changed yesterday when US forces attacked an Iranian island off the Strait of Hormuz, and then Iran responded in kind.
 
@@ -93,23 +101,11 @@ It's a major Iranian energy hub being blown up, though there's no evidence that 
 
 #### Words in this section
 
-- **rungs**：梯級（rung的複數形式）
-- **unaccounted**：未說明的, 未解釋的
-- **hydropower**：水力發出的電力
-- **evacuating**：撤離, 疏散( evacuate的現在分詞 ); 排空（胃腸）, 排洩（糞便）; （從危險的地方）撤出, 搬出, 撤空
-- **clung**：cling的過去式和過去分詞
-- **geologist**：地質學家, 地質學者
-- **doesn**：[網路] 不；地那人不
-- **cramped**：狹窄的, 難懂的, 難辨的
-- **hauled**：拖, 拉（ haul的過去式和過去分詞 ）
-- **intercepted**：攔截( intercept的過去式和過去分詞 ); 截住; 截擊; 攔阻
-- **landscapes**：風景( landscape的名詞複數 ); 風景畫; 鄉村風景畫; 地形
-- **lunar**：陰曆的, 月的, 微亮的(指光)；[醫] 月的, 銀的
-- **floods**：洪水( flood的名詞複數 ); 水災; 大批；v. （使）充斥( flood的第三人稱單數 ); 大量湧來; （使）為水淹沒; 使大受感動
+- **intercepted**：截獲
 
 ### Australia Proposes Right to Erasure in Privacy Reforms but Avoids Ban on Smart Glasses
 
-The federal government gave us a **peek** at what it's got in store to boost our privacy yesterday. It's got draft laws that include a right to **erasure**, and that means that people can ask to have their details deleted from the big social media platforms and search engines in certain circumstances. But there's another ongoing issue around tech known as smart glasses that didn't <span style="color:#ff8c00"><strong>get a look-in</strong></span>.
+The federal government gave us a **peek** at what it's got in store to boost our privacy yesterday. It's got draft laws that include a right to **erasure**, and that means that people can ask to have their details deleted from the big social media platforms and search engines in certain circumstances. But there's another ongoing issue around tech known as smart glasses that didn't get a look-in.
 
 No, the government says it has no plans to ban smart glasses, despite calls from the Greens and some **independents** because of concerns around how they're being used to record people without their knowledge. Now, instead, Attorney-General Michelle Rowland says it'll be up to businesses and local councils to restrict their use in places like **childcare** centres, change rooms, and public swimming pools. But it is a tricky one.
 
@@ -117,19 +113,17 @@ eSafety Commissioner Julie Inman Grant has pointed out that the tech can actuall
 
 So we'll see what happens next. A message from CommBank: By now, you'll have heard us talking about the ways domestic and family violence can affect someone's life, and financial abuse can also impact a person's confidence, independence, and relationship with money. At the end of today's podcast, you'll hear a **snippet** from Future Women's *There's No Place Like Home* podcast, made in partnership with CommBank.
 
-Survivor Rachel Lloyd talks about **rebuilding** her financial independence after abuse. Stay listening for that preview.
+Survivor Rachel Lloyd talks about rebuilding her financial independence after abuse. Stay listening for that preview.
 
 #### Words in this section
 
-- **erasure**：擦除, 抹掉；[電] 擦掉
-- **snippet**：小片, 片斷, 摘錄
-- **independents**：自主的( independent的複數形式 ); 不相關連的; 無黨派的; 不相干的人所做的（或提供的）
-- **childcare**：兒童照管；兒童保育
-- **blur**：使模糊, 弄髒；vi. 弄髒, 模糊
-- **peek**：偷看, 窺視；n. 偷看, 看一眼
-- **rebuilding**：重建
-- **considerations**：考慮( consideration的複數形式 ); 報酬; 仔細考慮; （對他人的）考慮周到
-- <span style="color:#ff8c00"><strong>get a look-in</strong></span>：獲得參與或被考慮的機會、受到重視
+- **considerations**：考量
+- **independents**：獨立者
+- **childcare**：托兒服務
+- **snippet**：小片段
+- **erasure**：抹除
+- **blur**：模糊
+- **peek**：探看
 
 ### Fast-Fashion Retailer Shein Lists in Hong Kong Following Valuation Fall
 
@@ -137,7 +131,7 @@ Now, there's probably going to be news today around the global fast fashion **re
 
 It actually could be "She-in" because it was originally a company called SheInside. So technically, it should be "She-in", **whichever** way you choose to **pronounce** it. It is a company known for ultra-cheap clothes, and it's going to be listed on the Hong Kong Stock Exchange today, which means investors can buy shares in it, including Australian investors, although you need to jump through a few **hoops** in order to be able to do that.
 
-I also didn't really know how you pronounced it. I've never actually **shopped** at Shein, She-in, Shine directly, but I did **unknowingly** actually buy a pink **denim** **jumpsuit** from an <span style="color:#ff8c00"><strong>op shop</strong></span> a few years ago that turned out to be from Shein. So out of curiosity this morning, I had a look on their website and similar pieces were going for around $40, just to give you an idea how much their stuff costs.
+I also didn't really know how you pronounced it. I've never actually shopped at Shein, She-in, Shine directly, but I did **unknowingly** actually buy a pink **denim** **jumpsuit** from an op shop a few years ago that turned out to be from Shein. So out of curiosity this morning, I had a look on their website and similar pieces were going for around $40, just to give you an idea how much their stuff costs.
 
 Now, this Chinese company was founded in 2012. It's currently valued at around $36 billion, but that's a drop of about 70% from its peak of 2022. And there's a few reasons for that.
 
@@ -147,17 +141,15 @@ It tried the New York and London stock exchanges first, but struggled to make it
 
 #### Words in this section
 
-- **shopped**：購買東西
-- **jumpsuit**：連衣褲, （尤指女式）連衣褲
-- **unknowingly**：無意中, 非存心地, 不知不覺地
-- **hoops**：箍( hoop的名詞複數 ); （籃球）籃圈; （舊時兒童玩的）大環子; （兩端埋在地裡的）小鐵弓
-- **denim**：斜紋粗棉布, 牛仔布, 勞動布, (非正式)工作服, 工裝褲
-- **tariffs**：關稅制度; 關稅( tariff的名詞複數 ); 關稅表; （旅館或飯店等的）收費表; 量刑標準
-- **pronounce**：發音, 宣告, 斷言
-- **whichever**：無論那一個, 任何一個
-- **retailer**：零售商人, 傳播的人；[經] 零售商
-- **attribute**：屬性, 標誌, 定語；vt. 把...歸於, 認為...屬於；[計] 屬性
-- <span style="color:#ff8c00"><strong>op shop</strong></span>：澳洲俚語，指二手慈善義賣店（opportunity shop 的簡稱）
+- **unknowingly**：不知不覺
+- **pronounce**：發音
+- **attribute**：屬性
+- **whichever**：無論哪一種
+- **jumpsuit**：連身褲裝
+- **retailer**：零售商
+- **tariffs**：關稅
+- **hoops**：圈圈
+- **denim**：牛仔布
 
 ### Novak Djokovic Suffers Shock First-Round Defeat at US Open
 
@@ -171,26 +163,23 @@ The US Open is also making news for what's happening off the court. It's the fir
 
 #### Words in this section
 
-- **despised**：鄙視, 看不起某人（某事）( despise的過去式和過去分詞 )
-- **humid**：潮溼的, 溼潤的, 多溼氣的
+- **despised**：被厭惡
+- **humid**：潮濕
 
 ### US Open Faces Scrutiny Over Soaring Resale Ticket and Concession Prices
 
-But the prices have been raising some **eyebrows**. There's a day pass for the tournament where you don't get guaranteed to go into any game, but you can kind of walk around and hope you get a seat. That's been going on the **resale** market for over $500 in Australian money, and some of the **refreshments**, like—and I love this one—**caviar**-**flecked** chicken **nuggets** that cost well over a hundred bucks.
+But the prices have been raising some eyebrows. There's a day pass for the tournament where you don't get guaranteed to go into any game, but you can kind of walk around and hope you get a seat. That's been going on the **resale** market for over $500 in Australian money, and some of the refreshments, like—and I love this one—**caviar**-**flecked** chicken **nuggets** that cost well over a hundred bucks.
 
-Sure. That is an expensive snack. It's also causing some concern about this tournament essentially being <span style="color:#ff8c00"><strong>priced out of</strong></span> the ability of regular people.
+Sure. That is an expensive snack. It's also causing some concern about this tournament essentially being priced out of the ability of regular people.
 
 So Tiley says prices are a challenge that he's looking to address, particularly in terms of **resale** markets, but he does have big plans for it. He says the US Open will become the "tennis Disneyland". So we'll see what that looks like over the coming years.
 
 #### Words in this section
 
-- **flecked**：有斑點的, 有汙點的
-- **refreshments**：茶點；點心；小吃
-- **caviar**：魚子醬；[醫] 魚子醬
-- **resale**：再販賣, 轉售；[經] 再賣, 轉賣
-- **nuggets**：（天然）塊金, 塊( nugget的複數形式 )
-- **eyebrows**：眉毛（eyebrow的複數）
-- <span style="color:#ff8c00"><strong>priced out of</strong></span>：因價格過高而被排除在外、使普通人難以負擔
+- **nuggets**：雞塊
+- **flecked**：斑點
+- **caviar**：魚子醬
+- **resale**：二手交易
 
 ### Netflix Releases Documentary on Australian Olympic Breaker Raygun
 
@@ -206,7 +195,7 @@ There are plenty of techniques going around on the internet to try and avoid get
 
 As always, thank you so much for listening. Have an excellent day, and we'll be back with you again tomorrow. Hello, it's Anna Pykett.
 
-Escaping financial abuse isn't just about leaving a relationship. It's also about **rebuilding** independence, confidence, and a sense of self. In the third episode of *There's No Place Like Home*, a Future Women series made in partnership with CommBank, host Sally Spicer talks with survivor Rachel Lloyd about **reclaiming** her financial independence after abuse.
+Escaping financial abuse isn't just about leaving a relationship. It's also about rebuilding independence, confidence, and a sense of self. In the third episode of *There's No Place Like Home*, a Future Women series made in partnership with CommBank, host Sally Spicer talks with survivor Rachel Lloyd about **reclaiming** her financial independence after abuse.
 
 Here's a **snippet** of their conversation: "I never **confided** in anybody what was going on financially. So within 18 months of me moving here, he had stopped working and was gambling full-time. I was working full-time, and so I just handed over every cent I had every time he asked for it.
 
@@ -216,23 +205,21 @@ But I never told anybody because I was too ashamed, and by that stage I was unde
 
 #### Words in this section
 
-- **swooping**：俯衝, 猛衝( swoop的現在分詞 )
-- **swooped**：俯衝, 猛衝( swoop的過去式和過去分詞 )
-- **gambled**：賭博, 冒風險( gamble的過去式和過去分詞 )
-- **magpies**：喜鵲（magpie的複數形式）
-- **magpie**：鵲, 珍種家鴿, 饒舌的人；a. 鵲的, 有收集癖的
-- **confide**：吐露, 委託；vi. 信賴
-- **heady**：頑固的, 任性的, 性急的, 猛烈的
-- **confided**：吐露（秘密, 心事等）( confide的過去式和過去分詞 ); （向某人）吐露（隱私、秘密等）
-- **reclaiming**：開拓( reclaim的現在分詞 ); 要求收回; 從廢料中回收（有用的材料）; 挽救
-- **snippet**：小片, 片斷, 摘錄
-- **kangaroo**：袋鼠；[醫] 袋鼠(澳洲產)
-- **isolate**：使隔離, 使孤立, 使絕緣；n. 隔離種群
-- **breaker**：斷路器；[化] 破碎機
-- **stint**：節省, 限制, 停止；vi. 節約；n. 吝惜, 節約, 限額
-- **banging**：消音器內爆炸
-- **rebuilding**：重建
-- <span style="color:#ff8c00"><strong>magpie swooping season</strong></span>：澳洲春季特有現象「喜鵲俯衝季」（指喜鵲因護巢而頻繁俯衝攻擊路人或騎士）
+- **reclaiming**：重新獲得
+- **swooping**：俯衝
+- **confided**：私下傾訴
+- **kangaroo**：袋鼠
+- **breaker**：斷路器
+- **banging**：砰
+- **isolate**：隔離
+- **confide**：坦承
+- **magpies**：烏鴉
+- **snippet**：小片段
+- **swooped**：俯衝
+- **gambled**：賭博
+- **magpie**：烏鴉
+- **heady**：令人興奮的
+- **stint**：短暫的休息
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
