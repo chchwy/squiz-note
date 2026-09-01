@@ -240,7 +240,7 @@ But I never told anybody because I was too ashamed, and by that stage I was unde
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
 <div class="table-wrap">
-<table>
+<table class="cols-2">
 <thead>
 <tr>
 <th>Word</th>
@@ -487,7 +487,7 @@ But I never told anybody because I was too ashamed, and by that stage I was unde
 ## Aussie Slang & Idioms
 
 <div class="table-wrap">
-<table>
+<table class="cols-4">
 <thead>
 <tr>
 <th>Expression</th>
@@ -552,7 +552,7 @@ But I never told anybody because I was too ashamed, and by that stage I was unde
 ## Cultural Background Explanation
 
 <div class="table-wrap">
-<table>
+<table class="cols-2">
 <thead>
 <tr>
 <th>名稱</th>

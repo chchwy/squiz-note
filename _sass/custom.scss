@@ -109,7 +109,9 @@ span[style*="color: #ff8c00"] {
 }
 
 /* ==========================================================================
-   Tables: Bold First Column, Clean Auto-Wrap & Borders
+   Tables: mobile-first — first col shrinks to content, meaning gets the rest
+   (Old 4-col CSS forced nowrap + min-widths and monospace on col2 = IPA;
+    vocab is now 2-col word+IPA | (pos) zh, so that wasted a lot of width.)
    ========================================================================== */
 .table-wrap {
   overflow-x: auto;
@@ -123,7 +125,7 @@ span[style*="color: #ff8c00"] {
 table {
   width: 100% !important;
   border-collapse: collapse !important;
-
+  table-layout: fixed !important; /* predictable col widths on mobile */
   line-height: 1.7 !important;
   white-space: normal !important;
   word-break: normal !important;
@@ -137,9 +139,8 @@ thead {
 }
 
 th {
-  padding: 12px 16px !important;
+  padding: 10px 12px !important;
   font-weight: 700 !important;
-
   color: #64748b !important;
   text-transform: uppercase !important;
   letter-spacing: 0.04em !important;
@@ -149,14 +150,14 @@ th {
 }
 
 td {
-  padding: 12px 16px !important;
+  padding: 10px 12px !important;
   border: none !important;
   border-bottom: 1px solid rgba(0, 0, 0, 0.08) !important;
   vertical-align: top !important;
   white-space: normal !important;
   word-break: break-word !important;
   overflow-wrap: break-word !important;
-  line-height: 1.7 !important;
+  line-height: 1.65 !important;
 }
 
 tbody tr:last-child td {
@@ -167,25 +168,67 @@ tbody tr:nth-child(even) {
   background-color: rgba(0, 0, 0, 0.015);
 }
 
-/* First column is bold 700 */
+/* Default: first col = label (word / expression / 名稱), bold, ~1/3 width */
+table th:first-child,
 table td:first-child {
   font-weight: 700 !important;
-  white-space: nowrap !important;
-  min-width: 7.5em;
+  width: 32% !important;
+  white-space: normal !important;
+  word-break: break-word !important;
+  overflow-wrap: anywhere !important;
 }
 
-/* Monospace IPA pronunciation */
-table td:nth-child(2) {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace !important;
-
-}
-
-/* Explanation / Context columns */
-table td:nth-child(3),
-table td:nth-child(4),
-table td:last-child {
+/* Remaining columns share the rest — never monospace (IPA lives inside col1 now) */
+table th:not(:first-child),
+table td:not(:first-child) {
+  font-family: inherit !important;
   white-space: normal !important;
   word-break: break-word !important;
   overflow-wrap: break-word !important;
-  min-width: 12em;
+}
+
+/* Explicit 2-col (vocab / cultural): tighter word col, fat meaning col */
+table.cols-2 th:first-child,
+table.cols-2 td:first-child {
+  width: 30% !important;
+  max-width: 9.5em !important;
+}
+
+table.cols-2 th:last-child,
+table.cols-2 td:last-child {
+  width: 70% !important;
+}
+
+/* 4-col slang: keep expression readable but don't eat the page */
+table.cols-4 th:first-child,
+table.cols-4 td:first-child {
+  width: 22% !important;
+}
+
+table.cols-4 th:nth-child(2),
+table.cols-4 td:nth-child(2) {
+  width: 28% !important;
+}
+
+table.cols-4 th:nth-child(n+3),
+table.cols-4 td:nth-child(n+3) {
+  width: 25% !important;
+}
+
+@media (max-width: 480px) {
+  th, td {
+    padding: 8px 8px !important;
+    font-size: 0.92em;
+  }
+
+  table.cols-2 th:first-child,
+  table.cols-2 td:first-child {
+    width: 28% !important;
+    max-width: 7.5em !important;
+  }
+
+  table.cols-2 th:last-child,
+  table.cols-2 td:last-child {
+    width: 72% !important;
+  }
 }
