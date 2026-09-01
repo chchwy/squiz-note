@@ -141,6 +141,8 @@ Now, this Chinese company was founded in 2012. It's currently valued at around $
 
 One of the main ones is a fall in profit, and analysts **attribute** that in part to US President Donald Trump's recent run of **tariffs** having an impact on its business. It's also faced a number of issues around its environmental impact in producing fast fashion and forced labour in its supply chains as well. That actually meant even getting listed for Shein was a challenge.
 
+It tried the New York and London stock exchanges first, but struggled to make it there. So Hong Kong it is. We'll see what the demand is like today.
+
 #### Words in this section
 
 - **shopped**：購買東西
@@ -156,8 +158,6 @@ One of the main ones is a fall in profit, and analysts **attribute** that in par
 - <span style="color:#ff8c00"><strong>op shop</strong></span>：澳洲俚語，指二手慈善義賣店（opportunity shop 的簡稱）
 
 ### Open Djokovic Game
-
-It tried the New York and London stock exchanges first, but struggled to make it there. So Hong Kong it is. We'll see what the demand is like today.
 
 And some tennis now. It's not been the start to the US Open that the Serbian champ Novak Djokovic was hoping for. He has gone out in the first round, losing in five sets to the Argentine player Mariano Navone.
 
