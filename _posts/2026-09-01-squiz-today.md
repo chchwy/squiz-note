@@ -487,67 +487,59 @@ But I never told anybody because I was too ashamed, and by that stage I was unde
 ## Aussie Slang & Idioms
 
 <div class="table-wrap">
-<table class="cols-4">
+<table class="cols-3">
 <thead>
 <tr>
 <th>Expression</th>
 <th>Context</th>
 <th>意思</th>
-<th>中文</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>caught up in</td>
 <td>And we've woken up this morning to news that an Australian who was caught up in the disaster has now been confirmed dead.</td>
-<td>To be unexpectedly or unavoidably involved or trapped in an unfortunate, difficult, or dangerous situation.</td>
-<td>捲入、身陷（困境或災難）中</td>
+<td>To be unexpectedly or unavoidably involved or trapped in an unfortunate, difficult, or dangerous situation. ／ 捲入、身陷（困境或災難）中</td>
 </tr>
 <tr>
 <td>respond in kind</td>
 <td>There's been some economic back and forth, but that all changed yesterday when US forces attacked an Iranian island off the Strait of Hormuz, and then Iran responded in kind.</td>
-<td>To retaliate or react by doing the same thing that was done to you.</td>
-<td>以同樣方式回擊、以其人之道還治其人之身</td>
+<td>To retaliate or react by doing the same thing that was done to you. ／ 以同樣方式回擊、以其人之道還治其人之身</td>
 </tr>
 <tr>
 <td>get a look-in</td>
 <td>But there's another ongoing issue around tech known as smart glasses that didn't get a look-in.</td>
-<td>To get a chance to be included, considered, or given attention.</td>
-<td>獲得參與或被考慮的機會、受到重視</td>
+<td>To get a chance to be included, considered, or given attention. ／ 獲得參與或被考慮的機會、受到重視</td>
 </tr>
 <tr>
 <td>jump through hoops</td>
 <td>...although you need to jump through a few hoops in order to be able to do that.</td>
-<td>To complete a complicated, tedious, or bureaucratic series of tasks to achieve a goal.</td>
-<td>克服重重繁雜關卡、經歷繁瑣手續以達成目標</td>
+<td>To complete a complicated, tedious, or bureaucratic series of tasks to achieve a goal. ／ 克服重重繁雜關卡、經歷繁瑣手續以達成目標</td>
 </tr>
 <tr>
 <td>op shop</td>
 <td>I did unknowingly actually buy a pink denim jumpsuit from an op shop a few years ago that turned out to be from Shein.</td>
-<td>Australian slang for 'opportunity shop', a charity shop selling second-hand clothing and goods.</td>
-<td>澳洲俚語，指二手慈善義賣店（opportunity shop 的簡稱）</td>
+<td>Australian slang for 'opportunity shop', a charity shop selling second-hand clothing and goods. ／ 澳洲俚語，指二手慈善義賣店（opportunity shop 的簡稱）</td>
 </tr>
 <tr>
 <td>raise eyebrows</td>
 <td>But the prices have been raising some eyebrows.</td>
-<td>To cause surprise, skepticism, or mild disapproval.</td>
-<td>令人側目、引起質疑或驚訝</td>
+<td>To cause surprise, skepticism, or mild disapproval. ／ 令人側目、引起質疑或驚訝</td>
 </tr>
 <tr>
 <td>priced out of</td>
 <td>It's also causing some concern about this tournament essentially being priced out of the ability of regular people.</td>
-<td>To become too expensive for ordinary people to afford or access.</td>
-<td>因價格過高而被排除在外、使普通人難以負擔</td>
+<td>To become too expensive for ordinary people to afford or access. ／ 因價格過高而被排除在外、使普通人難以負擔</td>
 </tr>
 <tr>
 <td>magpie swooping season</td>
 <td>...it's also the first day of spring, and that means we're in the peak of magpie swooping season.</td>
-<td>An Australian cultural reference to the spring nesting period when native magpies aggressively dive-bomb pedestrians and cyclists to defend their territory.</td>
-<td>澳洲春季特有現象「喜鵲俯衝季」（指喜鵲因護巢而頻繁俯衝攻擊路人或騎士）</td>
+<td>An Australian cultural reference to the spring nesting period when native magpies aggressively dive-bomb pedestrians and cyclists to defend their territory. ／ 澳洲春季特有現象「喜鵲俯衝季」（指喜鵲因護巢而頻繁俯衝攻擊路人或騎士）</td>
 </tr>
 </tbody>
 </table>
 </div>
+
 
 ## Cultural Background Explanation
 

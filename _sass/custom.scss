@@ -199,10 +199,26 @@ table.cols-2 td:last-child {
   width: 70% !important;
 }
 
-/* 4-col slang: keep expression readable but don't eat the page */
+/* 3-col slang: Expression | Context | 意思(EN／ZH) */
+table.cols-3 th:first-child,
+table.cols-3 td:first-child {
+  width: 18% !important;
+}
+
+table.cols-3 th:nth-child(2),
+table.cols-3 td:nth-child(2) {
+  width: 32% !important;
+}
+
+table.cols-3 th:last-child,
+table.cols-3 td:last-child {
+  width: 50% !important;
+}
+
+/* legacy 4-col (older posts) */
 table.cols-4 th:first-child,
 table.cols-4 td:first-child {
-  width: 22% !important;
+  width: 18% !important;
 }
 
 table.cols-4 th:nth-child(2),
@@ -212,7 +228,7 @@ table.cols-4 td:nth-child(2) {
 
 table.cols-4 th:nth-child(n+3),
 table.cols-4 td:nth-child(n+3) {
-  width: 25% !important;
+  width: 27% !important;
 }
 
 @media (max-width: 480px) {
@@ -230,5 +246,20 @@ table.cols-4 td:nth-child(n+3) {
   table.cols-2 th:last-child,
   table.cols-2 td:last-child {
     width: 72% !important;
+  }
+
+  table.cols-3 th:first-child,
+  table.cols-3 td:first-child {
+    width: 20% !important;
+  }
+
+  table.cols-3 th:nth-child(2),
+  table.cols-3 td:nth-child(2) {
+    width: 30% !important;
+  }
+
+  table.cols-3 th:last-child,
+  table.cols-3 td:last-child {
+    width: 50% !important;
   }
 }
