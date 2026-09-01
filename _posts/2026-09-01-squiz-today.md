@@ -57,7 +57,7 @@ In your Squiz Today: An Australian has been confirmed dead in Nepal, a look at o
 
 - **retailer**：零售商人, 傳播的人；[經] 零售商
 
-### Australian Flooding Happened
+### Australian Hiker Confirmed Dead as Search Continues After Nepal-Tibet Flooding
 
 We've been speaking a lot about the flooding between Nepal and Tibet for the past few days, and it happened Wednesday last week, so we're coming up on a week since it happened. And we've **woken** up this morning to news that an Australian who was <span style="color:#ff8c00"><strong>caught up in</strong></span> the disaster has now been confirmed dead. We have.
 
@@ -67,32 +67,34 @@ And reports say they initially thought he was safe, but sadly that turned out no
 
 She's 26-year-old Cara Severino, who **hiked** to safety after becoming **stranded** during a trek due to the flood. Yeah, she's from Sydney, and reports say that she made contact with her parents two days after she was reported missing. So the search is continuing.
 
-We had an update from the Australian government on that yesterday. Assistant Foreign Minister Matt Thistlethwaite says it was doing all it could to try and find the other Australians. And in his words, "We haven't given up hope." When it comes to the disaster as a whole, the death toll is now around 950, with rescue efforts continuing to find more than 4,700 people who are still **unaccounted** for.
+We had an update from the Australian government on that yesterday. Assistant Foreign Minister Matt Thistlethwaite says it was doing all it could to try and find the other Australians.
 
 #### Words in this section
 
 - **hiker**：徒步旅行者
-- **unaccounted**：未說明的, 未解釋的
 - **hiked**：徒步旅行( hike的過去式和過去分詞 ); <口>提高（價格等）
 - **woken**：wake的過去分詞
 - **stranded**：處於困境的, 進退兩難的
 - <span style="color:#ff8c00"><strong>caught up in</strong></span>：捲入、身陷（困境或災難）中
 
-### Actually Island Tunnels
+### US Strikes Iranian Island in Escalation Over Strait of Hormuz Shipping Tolls
 
-Now, more than 930 of those are workers believed to have been trapped inside **hydropower** tunnels which were damaged in the region. And there are actually some Australians helping with the rescue efforts, including **geologist** Arnold Dix. I was listening to an interview he gave to the BBC this morning, and he was explaining how it's actually a very hard job identifying where these tunnels are because of the impact of the flash **floods** to the terrain.
+And in his words, "We haven't given up hope." When it comes to the disaster as a whole, the death toll is now around 950, with rescue efforts continuing to find more than 4,700 people who are still **unaccounted** for. Now, more than 930 of those are workers believed to have been trapped inside **hydropower** tunnels which were damaged in the region. And there are actually some Australians helping with the rescue efforts, including **geologist** Arnold Dix.
 
-He said the ground looked like **lunar** **landscapes** in places. Yeah, not easy. And it **doesn**'t get any easier once you've actually located the tunnels themselves.
+I was listening to an interview he gave to the BBC this morning, and he was explaining how it's actually a very hard job identifying where these tunnels are because of the impact of the flash **floods** to the terrain. He said the ground looked like **lunar** **landscapes** in places. Yeah, not easy.
 
-They're really **cramped**, and trying to figure out how to safely get people out of them is very difficult. But as all of that is going on, we have heard some stories of survival that have been emerging in the days since the disaster, including one about a group of workers who **clung** to **rungs** on a tunnel roof and **hauled** themselves hundreds of metres to safety, as well as a teacher who saved the lives of 1,600 students by **evacuating** just 10 minutes before the flood arrived. One thing that we haven't spoken about that much over the past month or so has been the tension between the US and Iran.
+And it **doesn**'t get any easier once you've actually located the tunnels themselves. They're really **cramped**, and trying to figure out how to safely get people out of them is very difficult. But as all of that is going on, we have heard some stories of survival that have been emerging in the days since the disaster, including one about a group of workers who **clung** to **rungs** on a tunnel roof and **hauled** themselves hundreds of metres to safety, as well as a teacher who saved the lives of 1,600 students by **evacuating** just 10 minutes before the flood arrived.
 
-It's been relatively quiet, at least on the fighting front. There's been some economic back and forth, but that all changed yesterday when US forces attacked an Iranian island off the Strait of Hormuz, and then Iran responded in kind. This island is called Larak Island, and reports say Iran has been charging ships around $2.8 million to pass it, but the US wants traffic to be able to sail through without a fee, thus the strikes.
+One thing that we haven't spoken about that much over the past month or so has been the tension between the US and Iran. It's been relatively quiet, at least on the fighting front. There's been some economic back and forth, but that all changed yesterday when US forces attacked an Iranian island off the Strait of Hormuz, and then Iran responded in kind.
 
-The Islamic Revolutionary Guard Corps says several people were injured and killed in the latest American strikes, and it had responded by targeting US military targets in Jordan and the UAE, though those countries say the attempted strikes were actually **intercepted**. And while all of that's been going on, US President Donald Trump has posted an AI-generated clip of another island, which is called Kharg Island. It's a major Iranian energy hub being blown up, though there's no evidence that that energy hub has actually been hit in these latest strikes.
+This island is called Larak Island, and reports say Iran has been charging ships around $2.8 million to pass it, but the US wants traffic to be able to sail through without a fee, thus the strikes. The Islamic Revolutionary Guard Corps says several people were injured and killed in the latest American strikes, and it had responded by targeting US military targets in Jordan and the UAE, though those countries say the attempted strikes were actually **intercepted**. And while all of that's been going on, US President Donald Trump has posted an AI-generated clip of another island, which is called Kharg Island.
+
+It's a major Iranian energy hub being blown up, though there's no evidence that that energy hub has actually been hit in these latest strikes. If it was, it would cause even more damage to Iran's already struggling economy, but it seems like this clip was just an AI-generated invention, and it's just a threat at this point.
 
 #### Words in this section
 
 - **rungs**：梯級（rung的複數形式）
+- **unaccounted**：未說明的, 未解釋的
 - **hydropower**：水力發出的電力
 - **evacuating**：撤離, 疏散( evacuate的現在分詞 ); 排空（胃腸）, 排洩（糞便）; （從危險的地方）撤出, 搬出, 撤空
 - **clung**：cling的過去式和過去分詞
@@ -105,17 +107,17 @@ The Islamic Revolutionary Guard Corps says several people were injured and kille
 - **lunar**：陰曆的, 月的, 微亮的(指光)；[醫] 月的, 銀的
 - **floods**：洪水( flood的名詞複數 ); 水災; 大批；v. （使）充斥( flood的第三人稱單數 ); 大量湧來; （使）為水淹沒; 使大受感動
 
-### Smart Glasses Record
+### Australia Proposes Right to Erasure in Privacy Reforms but Avoids Ban on Smart Glasses
 
-If it was, it would cause even more damage to Iran's already struggling economy, but it seems like this clip was just an AI-generated invention, and it's just a threat at this point. The federal government gave us a **peek** at what it's got in store to boost our privacy yesterday. It's got draft laws that include a right to **erasure**, and that means that people can ask to have their details deleted from the big social media platforms and search engines in certain circumstances.
+The federal government gave us a **peek** at what it's got in store to boost our privacy yesterday. It's got draft laws that include a right to **erasure**, and that means that people can ask to have their details deleted from the big social media platforms and search engines in certain circumstances. But there's another ongoing issue around tech known as smart glasses that didn't <span style="color:#ff8c00"><strong>get a look-in</strong></span>.
 
-But there's another ongoing issue around tech known as smart glasses that didn't <span style="color:#ff8c00"><strong>get a look-in</strong></span>. No, the government says it has no plans to ban smart glasses, despite calls from the Greens and some **independents** because of concerns around how they're being used to record people without their knowledge. Now, instead, Attorney-General Michelle Rowland says it'll be up to businesses and local councils to restrict their use in places like **childcare** centres, change rooms, and public swimming pools.
+No, the government says it has no plans to ban smart glasses, despite calls from the Greens and some **independents** because of concerns around how they're being used to record people without their knowledge. Now, instead, Attorney-General Michelle Rowland says it'll be up to businesses and local councils to restrict their use in places like **childcare** centres, change rooms, and public swimming pools. But it is a tricky one.
 
-But it is a tricky one. eSafety Commissioner Julie Inman Grant has pointed out that the tech can actually be helpful for people with disabilities. And balancing that with the fact that people can record you without you even being aware of it—it's different to phones because you can see sort of when someone's recording you with a phone, not so much with smart glasses—balancing that with the **considerations** around people living with disability is tricky.
+eSafety Commissioner Julie Inman Grant has pointed out that the tech can actually be helpful for people with disabilities. And balancing that with the fact that people can record you without you even being aware of it—it's different to phones because you can see sort of when someone's recording you with a phone, not so much with smart glasses—balancing that with the **considerations** around people living with disability is tricky. So she's called for the tech to automatically **blur** faces and try to make it clear when smart glasses are recording as a way around the problem.
 
-So she's called for the tech to automatically **blur** faces and try to make it clear when smart glasses are recording as a way around the problem. So we'll see what happens next. A message from CommBank: By now, you'll have heard us talking about the ways domestic and family violence can affect someone's life, and financial abuse can also impact a person's confidence, independence, and relationship with money.
+So we'll see what happens next. A message from CommBank: By now, you'll have heard us talking about the ways domestic and family violence can affect someone's life, and financial abuse can also impact a person's confidence, independence, and relationship with money. At the end of today's podcast, you'll hear a **snippet** from Future Women's *There's No Place Like Home* podcast, made in partnership with CommBank.
 
-At the end of today's podcast, you'll hear a **snippet** from Future Women's *There's No Place Like Home* podcast, made in partnership with CommBank. Survivor Rachel Lloyd talks about **rebuilding** her financial independence after abuse. Stay listening for that preview.
+Survivor Rachel Lloyd talks about **rebuilding** her financial independence after abuse. Stay listening for that preview.
 
 #### Words in this section
 
@@ -129,7 +131,7 @@ At the end of today's podcast, you'll hear a **snippet** from Future Women's *Th
 - **considerations**：考慮( consideration的複數形式 ); 報酬; 仔細考慮; （對他人的）考慮周到
 - <span style="color:#ff8c00"><strong>get a look-in</strong></span>：獲得參與或被考慮的機會、受到重視
 
-### Shein Actually Company
+### Fast-Fashion Retailer Shein Lists in Hong Kong Following Valuation Fall
 
 Now, there's probably going to be news today around the global fast fashion **retailer**, Shein, which led me to realize, Anna, that I don't know how to **pronounce** it. I originally went with "Sheen". I thought it might be "Shine".
 
@@ -157,7 +159,7 @@ It tried the New York and London stock exchanges first, but struggled to make it
 - **attribute**：屬性, 標誌, 定語；vt. 把...歸於, 認為...屬於；[計] 屬性
 - <span style="color:#ff8c00"><strong>op shop</strong></span>：澳洲俚語，指二手慈善義賣店（opportunity shop 的簡稱）
 
-### Open Djokovic Game
+### Novak Djokovic Suffers Shock First-Round Defeat at US Open
 
 And some tennis now. It's not been the start to the US Open that the Serbian champ Novak Djokovic was hoping for. He has gone out in the first round, losing in five sets to the Argentine player Mariano Navone.
 
@@ -165,21 +167,20 @@ It's been a bit of a shock for the tennis world because it's actually the first 
 
 There had been some questions over his form and fitness going into the US Open. Djokovic said after the game he **despised** every moment he spent on the court, and he's been struggling with throwing up during games this year, calling it a serious issue. Yeah, it didn't sound like it was much fun getting through that game, although he did make it to five sets, which is remarkable.
 
-The US Open is also making news for what's happening off the court. It's the first time that the tournament's taken place under the former Australian Open director Craig Tiley. But the prices have been raising some **eyebrows**.
+The US Open is also making news for what's happening off the court. It's the first time that the tournament's taken place under the former Australian Open director Craig Tiley.
 
 #### Words in this section
 
 - **despised**：鄙視, 看不起某人（某事）( despise的過去式和過去分詞 )
 - **humid**：潮溼的, 溼潤的, 多溼氣的
-- **eyebrows**：眉毛（eyebrow的複數）
 
-### Tournament Resale Market
+### US Open Faces Scrutiny Over Soaring Resale Ticket and Concession Prices
 
-There's a day pass for the tournament where you don't get guaranteed to go into any game, but you can kind of walk around and hope you get a seat. That's been going on the **resale** market for over $500 in Australian money, and some of the **refreshments**, like—and I love this one—**caviar**-**flecked** chicken **nuggets** that cost well over a hundred bucks. Sure.
+But the prices have been raising some **eyebrows**. There's a day pass for the tournament where you don't get guaranteed to go into any game, but you can kind of walk around and hope you get a seat. That's been going on the **resale** market for over $500 in Australian money, and some of the **refreshments**, like—and I love this one—**caviar**-**flecked** chicken **nuggets** that cost well over a hundred bucks.
 
-That is an expensive snack. It's also causing some concern about this tournament essentially being <span style="color:#ff8c00"><strong>priced out of</strong></span> the ability of regular people. So Tiley says prices are a challenge that he's looking to address, particularly in terms of **resale** markets, but he does have big plans for it.
+Sure. That is an expensive snack. It's also causing some concern about this tournament essentially being <span style="color:#ff8c00"><strong>priced out of</strong></span> the ability of regular people.
 
-He says the US Open will become the "tennis Disneyland". So we'll see what that looks like over the coming years.
+So Tiley says prices are a challenge that he's looking to address, particularly in terms of **resale** markets, but he does have big plans for it. He says the US Open will become the "tennis Disneyland". So we'll see what that looks like over the coming years.
 
 #### Words in this section
 
@@ -188,9 +189,10 @@ He says the US Open will become the "tennis Disneyland". So we'll see what that 
 - **caviar**：魚子醬；[醫] 魚子醬
 - **resale**：再販賣, 轉售；[經] 再賣, 轉賣
 - **nuggets**：（天然）塊金, 塊( nugget的複數形式 )
+- **eyebrows**：眉毛（eyebrow的複數）
 - <span style="color:#ff8c00"><strong>priced out of</strong></span>：因價格過高而被排除在外、使普通人難以負擔
 
-### Raygun Better Swooping
+### Netflix Releases Documentary on Australian Olympic Breaker Raygun
 
 And Squiz the Day. Now, if you just can't get enough discourse about the Australian **breaker** Raygun, who had a—let's call it a controversial **stint** at the Paris Olympics in 2024—you are in luck. I have very good news for you.
 
@@ -201,21 +203,6 @@ Everyone's **banging** out the **kangaroo**. For the better, for the better. We 
 While we're talking about animals, though, it's also the first day of spring, and that means we're in the peak of **magpie** **swooping** season. So maybe be extra careful as you're walking around at the moment. Yep, look out for those **magpies**.
 
 There are plenty of techniques going around on the internet to try and avoid getting **swooped**. Maybe try one of those. Be careful if you're walking your dog, of course, as well.
-
-#### Words in this section
-
-- **swooping**：俯衝, 猛衝( swoop的現在分詞 )
-- **swooped**：俯衝, 猛衝( swoop的過去式和過去分詞 )
-- **magpies**：喜鵲（magpie的複數形式）
-- **magpie**：鵲, 珍種家鴿, 饒舌的人；a. 鵲的, 有收集癖的
-- **heady**：頑固的, 任性的, 性急的, 猛烈的
-- **kangaroo**：袋鼠；[醫] 袋鼠(澳洲產)
-- **breaker**：斷路器；[化] 破碎機
-- **stint**：節省, 限制, 停止；vi. 節約；n. 吝惜, 節約, 限額
-- **banging**：消音器內爆炸
-- <span style="color:#ff8c00"><strong>magpie swooping season</strong></span>：澳洲春季特有現象「喜鵲俯衝季」（指喜鵲因護巢而頻繁俯衝攻擊路人或騎士）
-
-### Gambling Full Away
 
 As always, thank you so much for listening. Have an excellent day, and we'll be back with you again tomorrow. Hello, it's Anna Pykett.
 
@@ -229,13 +216,23 @@ But I never told anybody because I was too ashamed, and by that stage I was unde
 
 #### Words in this section
 
+- **swooping**：俯衝, 猛衝( swoop的現在分詞 )
+- **swooped**：俯衝, 猛衝( swoop的過去式和過去分詞 )
 - **gambled**：賭博, 冒風險( gamble的過去式和過去分詞 )
+- **magpies**：喜鵲（magpie的複數形式）
+- **magpie**：鵲, 珍種家鴿, 饒舌的人；a. 鵲的, 有收集癖的
 - **confide**：吐露, 委託；vi. 信賴
+- **heady**：頑固的, 任性的, 性急的, 猛烈的
 - **confided**：吐露（秘密, 心事等）( confide的過去式和過去分詞 ); （向某人）吐露（隱私、秘密等）
 - **reclaiming**：開拓( reclaim的現在分詞 ); 要求收回; 從廢料中回收（有用的材料）; 挽救
 - **snippet**：小片, 片斷, 摘錄
+- **kangaroo**：袋鼠；[醫] 袋鼠(澳洲產)
 - **isolate**：使隔離, 使孤立, 使絕緣；n. 隔離種群
+- **breaker**：斷路器；[化] 破碎機
+- **stint**：節省, 限制, 停止；vi. 節約；n. 吝惜, 節約, 限額
+- **banging**：消音器內爆炸
 - **rebuilding**：重建
+- <span style="color:#ff8c00"><strong>magpie swooping season</strong></span>：澳洲春季特有現象「喜鵲俯衝季」（指喜鵲因護巢而頻繁俯衝攻擊路人或騎士）
 
 ## Advanced Vocabulary (Beyond 7,000 Words)
 
