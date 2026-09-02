@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/squiz-note"
 url: "https://chchwy.github.io"
+permalink: "/:categories/:year/:month/:day/"
 
 # THEME CONFIGURATION
 title: Squiz Today 學習筆記
