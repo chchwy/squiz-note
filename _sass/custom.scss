@@ -239,6 +239,18 @@ table.cols-4 td:nth-child(n+3) {
   width: 27% !important;
 }
 
+/* Mobile only: bump base font size (body text scales via em/rem theme styles).
+   Tables are intentionally untouched. Desktop unaffected. */
+@media (max-width: 480px) {
+  html {
+    font-size: 18px;
+  }
+
+  body {
+    font-size: 1.0625rem; /* ~17px fallback for px-based theme styles */
+  }
+}
+
 @media (max-width: 480px) {
   th, td {
     padding: 8px 8px !important;
