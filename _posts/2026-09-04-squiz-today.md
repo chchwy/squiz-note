@@ -21,17 +21,17 @@ categories: notes
 
 ## News Highlights
 
-- **Pacific Islands Forum Wraps in Palau Amid China Tensions and Regional Security Concerns／太平洋島國論壇於帛琉閉幕 中國飛彈試射與台灣代表權爭端成焦點**
+- **Pacific Islands Forum Wraps in Palau Amid China Tensions and Leader Absences／太平洋島國論壇於帛琉閉幕 聚焦中國爭端與多國領袖缺席**
 
-- **Australian Government Approves Bowen Basin Coal Mine Extension Amid Pacific Climate Talks／聯邦政府批准昆士蘭煤礦延期 澳洲減碳承諾於太平洋論壇引發質疑**
+- **Australian Government Approves Bowen Basin Coal Mine Extension Amid Pacific Climate Talks／澳洲政府於太平洋氣候會談之際 批准昆士蘭鮑文盆地煤礦擴建案**
 
-- **Sentencing Hearing Begins for Daniel Billings Over Murder of Molly Ticehurst／殺害前女友 Molly Ticehurst 兇手判刑聆訊展開 家屬悲痛陳述案情**
+- **Sentencing Hearing Begins for Daniel Billings Over 2024 Murder of Molly Ticehurst／Daniel Billings 坦承殺害 Molly Ticehurst 案於新州最高法院展開量刑聆訊**
 
-- **Feminist Icon and Activist Gloria Steinem Dies at 92／美國女權運動先驅葛羅莉亞·史坦能逝世 享耆壽92歲**
+- **Feminist Icon and Activist Gloria Steinem Dies at 92／美國女權運動先鋒與作家葛羅莉亞·史坦能逝世 享耆壽92歲**
 
-- **Professor Georgina Long Wins Eureka Prize for Melanoma mRNA Vaccine Breakthrough／喬治娜·朗教授榮獲澳洲尤里卡科學獎 表彰黑色素瘤癌症疫苗突破**
+- **Professor Georgina Long Wins Eureka Prize for Melanoma mRNA Vaccine Breakthrough／喬治娜·朗教授榮獲澳洲尤里卡科學獎 表彰其黑色素瘤個人化疫苗突破**
 
-- **Ella Langley's "Choosin' Texas" Dominates Charts and Nears Historic Billboard Record／艾拉·蘭利鄉村神曲《Choosin' Texas》強佔榜首 逼近告示牌歷史紀錄**
+- **Ella Langley's 'Choosin' Texas' Dominates Charts and Nears Historic Billboard Record／艾拉·蘭莉熱門單曲《Choosin' Texas》霸榜20週 逼近告示牌歷史紀錄**
 
 ## Full Transcript
 
@@ -55,11 +55,11 @@ In your Squiz Today: The Pacific Islands Forum **wraps**, the **sentencing** of 
 
 - **earworm**：螟蛉
 - **wraps**：外衣；書刊檢查；披肩（wrap的複數形式）
-- **vale**：谷, 溪谷, 告別；interj. 再見
 - **sentencing**：[法] 判決, 宣判
-- <span style="color:#ff8c00"><strong>earworm</strong></span>：洗腦歌（在腦中揮之不去、反覆迴盪的旋律）。
+- **vale**：谷, 溪谷, 告別；interj. 再見
+- <span style="color:#ff8c00"><strong>earworm</strong></span>：洗腦歌、揮之不去的旋律
 
-### Pacific Islands Forum Wraps in Palau Amid China Tensions and Regional Security Concerns
+### Pacific Islands Forum Wraps in Palau Amid China Tensions and Leader Absences
 
 On Monday, Andrew and I talked about the Pacific Islands Forum, Larissa. Now it's been taking place in Palau this week, and our PM, Anthony Albanese, has been there alongside the Energy and Climate Change Minister, Chris Bowen, and it didn't get off to the **smoothest** start. No, it didn't.
 
@@ -83,7 +83,7 @@ Yeah, it **ruffled** quite a few **feathers** at the time. And the chair of the 
 - **condemn**：判刑, 責備, 譴責；[法] 定罪, 判刑, 宣告有罪
 - **denies**：拒絕( deny的第三人稱單數 ); 拒絕承認; 拒絕…佔有; 否認知情
 - **feathers**：羽狀裂縫；翅膀；羽毛（feather的複數）
-- <span style="color:#ff8c00"><strong>thin on the ground</strong></span>：寥寥無幾、為數甚少或稀缺。
+- <span style="color:#ff8c00"><strong>thin on the ground</strong></span>：寥寥無幾、為數甚少
 
 ### Australian Government Approves Bowen Basin Coal Mine Extension Amid Pacific Climate Talks
 
@@ -98,9 +98,9 @@ But it was kind of awkward timing because while they were in Palau, it emerged t
 - **exporting**：輸出的；出口的
 - **generators**：發電機；生成器（generator的複數）
 - **commitments**：委託( commitment的複數形式 ); 任務; 承擔的義務
-- <span style="color:#ff8c00"><strong>pipped to the post</strong></span>：在最後關頭以微小差距惜敗、被搶先擊敗。
+- <span style="color:#ff8c00"><strong>pipped to the post</strong></span>：在最後關頭被險勝、以些微差距落敗
 
-### Sentencing Hearing Begins for Daniel Billings Over Murder of Molly Ticehurst
+### Sentencing Hearing Begins for Daniel Billings Over 2024 Murder of Molly Ticehurst
 
 A **sentencing** hearing for Daniel Billings began yesterday in the New South Wales Supreme Court in Orange, that's in New South Wales' Central West. He's the man who **pleaded** guilty to **murdering** his ex-girlfriend, 28-year-old **childcare** worker Molly Ticehurst, in April 2024. Yeah, you might remember this case because it **sparked** a national movement against **gendered** and domestic violence.
 
@@ -137,7 +137,7 @@ And in addition to that, in 2013, she was awarded the Presidential Medal of Free
 - **mums**：<口>媽媽( mum的複數形式 )
 - **peacefully**：平靜地
 - **undercover**：秘密從事的, 秘密的, 從事間諜活動的；[法] 暗中從事的, 秘密的
-- <span style="color:#ff8c00"><strong>thick and fast</strong></span>：接二連三、蜂擁而至且源源不絕。
+- <span style="color:#ff8c00"><strong>thick and fast</strong></span>：接踵而來、紛至沓來、大量且迅速湧入
 
 ### Professor Georgina Long Wins Eureka Prize for Melanoma mRNA Vaccine Breakthrough
 
@@ -147,7 +147,7 @@ She's currently leading a world-first large-scale clinical trial for a **persona
 
 Absolutely. Now, Long is away currently in Portugal, but she said, "We're all on this planet for a tiny, tiny, tiny time. We're not even a **speck** of dust in this universe.
 
-And there's only one point: to make a difference as much as you can and do it well." <span style="color:#ff8c00"><strong>What a legend</strong></span>.
+And there's only one point: to make a difference as much as you can and do it well." What a <span style="color:#ff8c00"><strong>legend</strong></span>.
 
 #### Words in this section
 
@@ -164,16 +164,16 @@ And there's only one point: to make a difference as much as you can and do it we
 - **patient's**：[網路] 寵物名
 - **transforming**：改變( transform的現在分詞 ); 使改變形態, 使改變外觀（或性質）, 使改觀
 - **milestone**：里程碑, 里程石, 里程標
-- <span style="color:#ff8c00"><strong>gong</strong></span>：（澳洲／英國口語俚語）獎項、獎章或榮譽。
-- <span style="color:#ff8c00"><strong>what a legend</strong></span>：（澳洲口語）真了不起、太傳奇了（用以讚揚令人欽佩或卓越的人）。
+- <span style="color:#ff8c00"><strong>gong</strong></span>：獎項、勳章、榮譽（英澳口語俚語）
+- <span style="color:#ff8c00"><strong>legend</strong></span>：了不起的人、大人物（澳洲俚語，用於稱讚令人欽佩或傑出的人）
 
-### Ella Langley's "Choosin' Texas" Dominates Charts and Nears Historic Billboard Record
+### Ella Langley's 'Choosin' Texas' Dominates Charts and Nears Historic Billboard Record
 
 Larissa, we're going to talk about **earworms** now, because it's looking like country music pop song *Choosin' Texas* from Ella Langley might be about to become one of the biggest hits of all time. And I've got to admit, when I saw the song written down, I didn't know it. But within about two seconds of listening, I was like, "Oh yeah, this one, I have heard this everywhere." Yeah, everywhere.
 
 It's a track about being with a partner who's still **pining** for his ex or his hometown. And it's just spent its 20th week at the top of the US Billboard chart. And it's not just a US thing either—*Choosin' Texas* has spent over 10 weeks at the top of the ARIA Charts as well.
 
-I really like the remix of it with *Dreams* from Fleetwood Mac. And there's also a possible Drake remix <span style="color:#ff8c00"><strong>in the works</strong></span>, as well as one from Matthew McConaughey. Now, warning: I looked that up straight away, a bit of a McConaughey fan.
+I really like the remix of it with *Dreams* from Fleetwood Mac. And there's also a possible Drake remix in the works, as well as one from Matthew McConaughey. Now, warning: I looked that up straight away, a bit of a McConaughey fan.
 
 Yeah, it's pretty bad. In your humble opinion, Larissa. Yes, in my humble opinion, which is shared by many, might I add.
 
@@ -186,7 +186,6 @@ And we did some reading and the only song to spend more time at the top in the U
 - **pining**：[醫] 牛羊貧血病
 - **notched**：有凹口的；[醫] 切跡狀的, 有缺口的
 - **supermarket**：超級市場；[經] 超級市場, 自助售貨商店
-- <span style="color:#ff8c00"><strong>in the works</strong></span>：正在籌備中、製作中或醞釀中。
 
 ### Closing
 
@@ -212,7 +211,7 @@ Andrew and I will be back with Squiz Today on Monday.
 - **biscuits**：<英>餅乾( biscuit的複數形式 ); <美>軟烤餅; 鬆餅（食用時常佐以肉汁）; 淡黃褐色
 - **dads**：爸, 爹( dad的複數形式 )
 - **stellar**：星的, 似星的, 星球的, 主要的
-- <span style="color:#ff8c00"><strong>good shout</strong></span>：（澳洲／英國口語）好提議、說得好，或很棒的適時提醒。
+- <span style="color:#ff8c00"><strong>good shout</strong></span>：好提議、說得好（英澳口語俚語，表示好點子或好的提醒）
 
 ### Partner Preview
 
@@ -307,12 +306,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) 山崩( landslide的複數形式 ); （山坡、懸崖等的）崩塌; 滑坡; （競選中）一方選票佔壓倒性多數</td>
 </tr>
 <tr>
-<td><strong>seagull</strong> /'si:^ʌl/</td>
-<td>(n.) 鷗</td>
-</tr>
-<tr>
 <td><strong>speck</strong> /spek/</td>
 <td>(n.) 斑點, 有斑點的東西, 汙點, 缺點, 微粒, 肥肉；vt. 使有斑點</td>
+</tr>
+<tr>
+<td><strong>seagull</strong> /'si:^ʌl/</td>
+<td>(n.) 鷗</td>
 </tr>
 <tr>
 <td><strong>warhead</strong> /'wɒ:hed/</td>
@@ -383,12 +382,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) 咖啡館（cafe的複數）</td>
 </tr>
 <tr>
-<td><strong>shortcut</strong> /'ʃɒ:tkʌt/</td>
-<td>(n.) 捷徑, 最短路線；[計] 快捷方式</td>
-</tr>
-<tr>
 <td><strong>degrading</strong> /di'greidiŋ/</td>
 <td>(adj.) 喪失體面的, 降低身份的, 有辱人格的；[法] 品質低劣的, 卑劣的, 退化的</td>
+</tr>
+<tr>
+<td><strong>shortcut</strong> /'ʃɒ:tkʌt/</td>
+<td>(n.) 捷徑, 最短路線；[計] 快捷方式</td>
 </tr>
 <tr>
 <td><strong>mums</strong> /mʌmz/</td>
@@ -399,12 +398,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) 瘤, 腫塊</td>
 </tr>
 <tr>
-<td><strong>reassuring</strong> /.ri:ә'ʃuriŋ/</td>
-<td>(adj.) 安心的, 可靠的, 鼓勵的</td>
-</tr>
-<tr>
 <td><strong>childcare</strong> /'tʃaildkεә/</td>
 <td>(n.) 兒童照管；兒童保育</td>
+</tr>
+<tr>
+<td><strong>reassuring</strong> /.ri:ә'ʃuriŋ/</td>
+<td>(adj.) 安心的, 可靠的, 鼓勵的</td>
 </tr>
 <tr>
 <td><strong>exporting</strong></td>
@@ -451,20 +450,20 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) &lt;英&gt;餅乾( biscuit的複數形式 ); &lt;美&gt;軟烤餅; 鬆餅（食用時常佐以肉汁）; 淡黃褐色</td>
 </tr>
 <tr>
-<td><strong>vale</strong> /veil/</td>
-<td>(n.) 谷, 溪谷, 告別；interj. 再見</td>
-</tr>
-<tr>
 <td><strong>sentencing</strong></td>
 <td>(adj.) [法] 判決, 宣判</td>
 </tr>
 <tr>
-<td><strong>peacefully</strong></td>
-<td>(adv.) 平靜地</td>
+<td><strong>vale</strong> /veil/</td>
+<td>(n.) 谷, 溪谷, 告別；interj. 再見</td>
 </tr>
 <tr>
 <td><strong>dads</strong> /dædz/</td>
 <td>(n.) 爸, 爹( dad的複數形式 )</td>
+</tr>
+<tr>
+<td><strong>peacefully</strong></td>
+<td>(adv.) 平靜地</td>
 </tr>
 <tr>
 <td><strong>generators</strong></td>
@@ -495,12 +494,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(adj.) 糟蹋( murder的現在分詞 ); （尤指在團隊運動中）徹底打敗; 打垮</td>
 </tr>
 <tr>
-<td><strong>reminding</strong> /riˈmaindɪŋ/</td>
-<td>(v.) 使想起( remind的現在分詞 ); 提醒</td>
-</tr>
-<tr>
 <td><strong>denies</strong> /diˈnaiz/</td>
 <td>(n.) 拒絕( deny的第三人稱單數 ); 拒絕承認; 拒絕…佔有; 否認知情</td>
+</tr>
+<tr>
+<td><strong>reminding</strong> /riˈmaindɪŋ/</td>
+<td>(v.) 使想起( remind的現在分詞 ); 提醒</td>
 </tr>
 <tr>
 <td><strong>stellar</strong> /'stelә/</td>
@@ -545,52 +544,47 @@ Plus, we explained why some politicians want social media users to opt into algo
 <tr>
 <td>thin on the ground</td>
 <td>So it's a bit thin on the ground for leaders.</td>
-<td>Present only in small numbers; scarce or sparse. ／ 寥寥無幾、為數甚少或稀缺。</td>
+<td>Few in number; scarce or sparse. ／ 寥寥無幾、為數甚少</td>
 </tr>
 <tr>
 <td>ruffle feathers</td>
 <td>Yeah, it ruffled quite a few feathers at the time.</td>
-<td>To cause irritation, annoyance, or upset among people. ／ 惹人不快、引起騷動或觸怒眾人。</td>
+<td>To cause irritation, annoyance, or disturbance among people. ／ 引起不滿、惹人惱怒、引發紛擾</td>
 </tr>
 <tr>
 <td>give the green light</td>
-<td>it emerged the federal government had given the green light to extend a Queensland coal mine in the Bowen Basin</td>
-<td>To grant official permission or approval for a project or action to proceed. ／ 給予綠燈、正式批准或許可進行。</td>
+<td>But it was kind of awkward timing because while they were in Palau, it emerged the federal government had given the green light to extend a Queensland coal mine in the Bowen Basin...</td>
+<td>To give official permission or approval for a project or activity to proceed. ／ 給予批准、開綠燈、准許進行</td>
 </tr>
 <tr>
 <td>pipped to the post</td>
-<td>the climate change summit Australia wanted to host, but you might remember got pipped to the post by Türkiye</td>
-<td>Narrowly defeated or beaten by a competitor at the very last moment. ／ 在最後關頭以微小差距惜敗、被搶先擊敗。</td>
+<td>...the climate change summit Australia wanted to host, but you might remember got pipped to the post by Türkiye—are kicking off next month.</td>
+<td>Narrowly defeated or beaten at the very last moment by a rival or competitor. ／ 在最後關頭被險勝、以些微差距落敗</td>
 </tr>
 <tr>
 <td>thick and fast</td>
-<td>and tributes are coming in thick and fast.</td>
-<td>Arriving or happening rapidly, in large quantities, and in quick succession. ／ 接二連三、蜂擁而至且源源不絕。</td>
+<td>Yeah, that was when Barack Obama was still president, and tributes are coming in thick and fast.</td>
+<td>Arriving or happening rapidly and in large volumes. ／ 接踵而來、紛至沓來、大量且迅速湧入</td>
 </tr>
 <tr>
 <td>gong</td>
-<td>Professor Georgina Long has won Australia's top scientific research gong for her work.</td>
-<td>(Australian/British informal) An award, prize, or medal honoring an achievement. ／ （澳洲／英國口語俚語）獎項、獎章或榮譽。</td>
+<td>...and Professor Georgina Long has won Australia's top scientific research gong for her work.</td>
+<td>Informal Australian and British slang for a medal, award, or prestigious prize. ／ 獎項、勳章、榮譽（英澳口語俚語）</td>
 </tr>
 <tr>
-<td>what a legend</td>
+<td>legend</td>
 <td>&quot;And there's only one point: to make a difference as much as you can and do it well.&quot; What a legend.</td>
-<td>(Australian informal) An expression of deep admiration for someone remarkable, inspiring, or greatly respected. ／ （澳洲口語）真了不起、太傳奇了（用以讚揚令人欽佩或卓越的人）。</td>
+<td>Australian slang used to praise someone who is admirable, remarkable, or highly regarded. ／ 了不起的人、大人物（澳洲俚語，用於稱讚令人欽佩或傑出的人）</td>
 </tr>
 <tr>
 <td>earworm</td>
-<td>and a country music earworm that's set to break records.</td>
-<td>A catchy, repetitive song or melody that sticks in one's head and keeps replaying. ／ 洗腦歌（在腦中揮之不去、反覆迴盪的旋律）。</td>
-</tr>
-<tr>
-<td>in the works</td>
-<td>And there's also a possible Drake remix in the works, as well as one from Matthew McConaughey.</td>
-<td>Currently being planned, prepared, or developed. ／ 正在籌備中、製作中或醞釀中。</td>
+<td>...and a country music earworm that's set to break records.</td>
+<td>A catchy song or melody that gets stuck in someone's head and repeats continuously. ／ 洗腦歌、揮之不去的旋律</td>
 </tr>
 <tr>
 <td>good shout</td>
-<td>Yeah, good shout. That's our reminder to you that it's Father's Day this Sunday</td>
-<td>(Australian/British informal) A good idea, useful suggestion, or timely, well-made point. ／ （澳洲／英國口語）好提議、說得好，或很棒的適時提醒。</td>
+<td>Yeah, good shout. That's our reminder to you that it's Father's Day this Sunday...</td>
+<td>An informal Australian and British expression meaning a good idea, well-timed suggestion, or perceptive comment. ／ 好提議、說得好（英澳口語俚語，表示好點子或好的提醒）</td>
 </tr>
 </tbody>
 </table>
@@ -609,39 +603,35 @@ Plus, we explained why some politicians want social media users to opt into algo
 <tbody>
 <tr>
 <td>Pacific Islands Forum</td>
-<td>An intergovernmental organisation of 18 Pacific nations aimed at fostering regional cooperation. In the story, its annual meeting took place in Palau, where discussions focused on climate change and tensions involving China and Taiwan.／由18個太平洋國家組成的政府間組織，旨在加強區域合作。在報導中，該論壇年度峰會於帛琉舉行，主要討論氣候變遷以及涉及中國與台灣的區域緊張局勢。</td>
+<td>The premier political and economic policy organization in the Pacific region comprising 18 member states, whose annual summit in Palau was a key focus of the news.／太平洋島國論壇是太平洋地區首要的政治與經濟政策組織，由18個成員國組成；其在帛琉舉行的年度峰會是本次新聞的焦點之一。</td>
 </tr>
 <tr>
 <td>Matthew Wale</td>
-<td>A prominent Solomon Islands politician who had to rush home from the Pacific Islands Forum in Palau to confront a domestic leadership challenge.／索羅門群島重要政治人物。在報導中，他因國內突然面臨領導權挑戰，不得不從帛琉舉辦的太平洋島國論壇提前趕回國處理政局危機。</td>
+<td>The Prime Minister of the Solomon Islands, who unexpectedly had to rush home from the Pacific Islands Forum before its opening to address a domestic leadership challenge.／索羅門群島總理；他在太平洋島國論壇開幕前夕因需緊急返國處理國內政壇的領導權挑戰而缺席峰會。</td>
 </tr>
 <tr>
 <td>Bowen Basin</td>
-<td>A major coal-mining region in central Queensland, Australia. The federal government's recent approval to extend a coal mine there sparked debate over Australia's commitment to reducing carbon emissions.／位於澳洲昆士蘭州中部的著名大型煤礦盆地。澳洲聯邦政府近期批准該地區一座煤礦的擴建案，引發外界對澳洲減碳承諾是否足夠誠懇的廣泛質疑與辯論。</td>
+<td>A major coal-mining basin in central Queensland, Australia; mentioned because the Australian federal government approved the extension of a coal mine there during regional climate discussions.／位於澳洲昆士蘭州中部的重要煤礦產區；因澳洲聯邦政府在參與區域氣候討論之際批准了該地區一處煤礦的擴建而備受關注。</td>
 </tr>
 <tr>
 <td>Molly Ticehurst</td>
-<td>A 28-year-old Australian childcare worker whose murder by her former partner in April 2024 sparked widespread national outrage, rallying the community behind 'Her Name Was Molly' and prompting urgent bail reform in New South Wales.／一名28歲的澳洲托育人員，於2024年4月慘遭前男友殺害。此事件引發全澳對家庭暴力的極大公憤，掀起「Her Name Was Molly」紀念運動，並促成新南威爾斯州緊急修改保釋法案。</td>
-</tr>
-<tr>
-<td>Molly's Law</td>
-<td>Bail law reform enacted in New South Wales following the murder of Molly Ticehurst, designed to make it significantly harder for individuals accused of serious domestic violence offences to be granted bail.／新南威爾斯州在莫莉·泰斯赫斯特（Molly Ticehurst）遇害後通過的緊縮保釋法案，旨在讓涉嫌重大家庭暴力犯罪的被告更難獲得交保。</td>
+<td>A 28-year-old Australian childcare worker whose tragic murder by her former partner in 2024 sparked a national movement against domestic violence and inspired New South Wales bail reform known as 'Molly's Law'.／一名28歲的澳洲托兒工作者，她於2024年遭前伴侶謀殺的慘劇引發了全澳反家庭暴力的運動，並催生了新南威爾斯州被稱為「莫莉法」（Molly's Law）的保釋制度改革。</td>
 </tr>
 <tr>
 <td>Gloria Steinem</td>
-<td>An iconic American feminist journalist and social activist who was a leading figure of the women's liberation movement in the late 1960s and 1970s and co-founded Ms. magazine. The podcast reports on her death at age 92.／美國代表性女性主義記者與社運倡議人士，為1960與1970年代女性解放運動的核心領袖之一，並共同創辦《Ms.》雜誌。本期節目報導了她以92歲高齡逝世的消息。</td>
+<td>A pioneering American feminist journalist, author, and activist who co-founded Ms. magazine and was a key leader of the second-wave feminist movement, whose death at age 92 was reported.／美國先驅女性主義記者、作家兼社運人士，為《女士》（Ms.）雜誌共同創辦人及第二波女性主義運動的核心領袖；本集節目報導了她以92歲高齡辭世的消息。</td>
 </tr>
 <tr>
 <td>Eureka Prizes</td>
-<td>Australia's premier national science awards presented annually by the Australian Museum to celebrate outstanding scientific research, innovation, and leadership.／澳洲最具聲望的全國性科學大獎，由澳洲博物館每年頒發，表彰在科研、創新、科學領導力與普及領域做出卓越貢獻的傑出學者。</td>
+<td>Australia's premier national science awards presented annually by the Australian Museum to celebrate excellence in scientific research, innovation, and leadership.／澳洲尤里卡科學獎，由澳洲博物館每年頒發的澳洲頂級國家科學獎項，旨在表彰在科學研究、創新及領導力方面的傑出成就。</td>
 </tr>
 <tr>
-<td>Georgina Long</td>
-<td>A leading Australian medical oncologist and clinical researcher who won a prestigious Eureka Prize for her pioneering work in immunotherapy and personalized mRNA cancer vaccines to treat advanced melanoma.／澳洲知名腫瘤學家兼臨床醫學教授，因在免疫療法及個人化mRNA癌症疫苗治療晚期黑色素瘤方面的突破性貢獻，榮獲澳洲權威尤里卡科學獎（Eureka Prize）。</td>
+<td>Professor Georgina Long</td>
+<td>An Australian medical oncologist, 2024 Australian of the Year, and leading cancer researcher who won a Eureka Prize for her breakthrough work with melanoma immunotherapy and personalized mRNA vaccines.／澳洲著名臨床腫瘤學家、2024年澳洲年度風雲人物，因在黑色素瘤免疫療法及個人化 mRNA 疫苗研發上的突破性成就而榮獲尤里卡獎。</td>
 </tr>
 <tr>
-<td>Ella Langley</td>
-<td>An American country music singer-songwriter whose breakout single 'Choosin\' Texas' achieved massive commercial success, spending weeks at the top of both the US Billboard and Australian ARIA charts.／美國鄉村流行女歌手兼創作人，其爆紅單曲《Choosin\' Texas》取得巨大商業成功，連續數週蟬聯美國告示牌（Billboard）及澳洲唱片業協會榜（ARIA Charts）冠軍。</td>
+<td>ARIA Charts</td>
+<td>The official record charts of the Australian music industry, published weekly by the Australian Recording Industry Association, cited in the episode regarding Ella Langley's chart-topping hit.／澳洲唱片業協會榜（ARIA Charts），由澳洲唱片業協會每週發布的官方音樂排行榜；在節目中被提及以說明艾拉·蘭利（Ella Langley）單曲的登頂紀錄。</td>
 </tr>
 </tbody>
 </table>
