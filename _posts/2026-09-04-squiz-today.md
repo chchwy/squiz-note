@@ -17,7 +17,7 @@ categories: notes
 ## Listen／收聽本集
 
 - [Apple Podcasts](https://podcasts.apple.com/tw/podcast/the-pacific-island-forum-wraps-and-a-country-music-earworm/id1385995581?i=1000787716222)
-- [YouTube](https://www.youtube.com/playlist?list=PLhZ_e38oHRmYtH19YO7ih7TY-WKc_fnE_)
+- [YouTube](https://www.youtube.com/watch?v=ic57SR2m6oE)
 
 ## News Highlights
 
