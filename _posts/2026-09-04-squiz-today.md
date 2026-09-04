@@ -49,7 +49,7 @@ If you or someone you know is experiencing financial abuse, support is available
 
 Good morning, I'm Anna Pykett. And I'm Larissa Huntington. It's Friday, the 4th of September.
 
-In your Squiz Today: The Pacific Islands Forum **wraps**, the **sentencing** of Molly Ticehurst's killer, **vale** Gloria Steinem, and a country music **earworm** that's set to break records. This is your Squiz Today.
+In your Squiz Today: The Pacific Islands Forum **wraps**, the **sentencing** of Molly Ticehurst's killer, **vale** Gloria Steinem, and a country music **<span style="color:#ff8c00"><strong>earworm</strong></span>** that's set to break records. This is your Squiz Today.
 
 #### Words in this section
 
@@ -57,6 +57,7 @@ In your Squiz Today: The Pacific Islands Forum **wraps**, the **sentencing** of 
 - **wraps**：外衣；書刊檢查；披肩（wrap的複數形式）
 - **vale**：谷, 溪谷, 告別；interj. 再見
 - **sentencing**：[法] 判決, 宣判
+- <span style="color:#ff8c00"><strong>earworm</strong></span>：洗腦歌（在腦中揮之不去、反覆迴盪的旋律）。
 
 ### Pacific Islands Forum Wraps in Palau Amid China Tensions and Regional Security Concerns
 
@@ -82,7 +83,7 @@ Yeah, it **ruffled** quite a few **feathers** at the time. And the chair of the 
 - **condemn**：判刑, 責備, 譴責；[法] 定罪, 判刑, 宣告有罪
 - **denies**：拒絕( deny的第三人稱單數 ); 拒絕承認; 拒絕…佔有; 否認知情
 - **feathers**：羽狀裂縫；翅膀；羽毛（feather的複數）
-- <span style="color:#ff8c00"><strong>thin on the ground</strong></span>：稀少；寥寥無幾；為數不多
+- <span style="color:#ff8c00"><strong>thin on the ground</strong></span>：寥寥無幾、為數甚少或稀缺。
 
 ### Australian Government Approves Bowen Basin Coal Mine Extension Amid Pacific Climate Talks
 
@@ -97,6 +98,7 @@ But it was kind of awkward timing because while they were in Palau, it emerged t
 - **exporting**：輸出的；出口的
 - **generators**：發電機；生成器（generator的複數）
 - **commitments**：委託( commitment的複數形式 ); 任務; 承擔的義務
+- <span style="color:#ff8c00"><strong>pipped to the post</strong></span>：在最後關頭以微小差距惜敗、被搶先擊敗。
 
 ### Sentencing Hearing Begins for Daniel Billings Over Murder of Molly Ticehurst
 
@@ -135,7 +137,7 @@ And in addition to that, in 2013, she was awarded the Presidential Medal of Free
 - **mums**：<口>媽媽( mum的複數形式 )
 - **peacefully**：平靜地
 - **undercover**：秘密從事的, 秘密的, 從事間諜活動的；[法] 暗中從事的, 秘密的
-- <span style="color:#ff8c00"><strong>thick and fast</strong></span>：接二連三地湧現；紛至沓來
+- <span style="color:#ff8c00"><strong>thick and fast</strong></span>：接二連三、蜂擁而至且源源不絕。
 
 ### Professor Georgina Long Wins Eureka Prize for Melanoma mRNA Vaccine Breakthrough
 
@@ -162,8 +164,8 @@ And there's only one point: to make a difference as much as you can and do it we
 - **patient's**：[網路] 寵物名
 - **transforming**：改變( transform的現在分詞 ); 使改變形態, 使改變外觀（或性質）, 使改觀
 - **milestone**：里程碑, 里程石, 里程標
-- <span style="color:#ff8c00"><strong>gong</strong></span>：（澳洲／英國俚語）獎項、獎章或榮譽
-- <span style="color:#ff8c00"><strong>what a legend</strong></span>：（澳洲／英聯邦口語）真是個了不起的人物；太厲害了
+- <span style="color:#ff8c00"><strong>gong</strong></span>：（澳洲／英國口語俚語）獎項、獎章或榮譽。
+- <span style="color:#ff8c00"><strong>what a legend</strong></span>：（澳洲口語）真了不起、太傳奇了（用以讚揚令人欽佩或卓越的人）。
 
 ### Ella Langley's "Choosin' Texas" Dominates Charts and Nears Historic Billboard Record
 
@@ -184,7 +186,7 @@ And we did some reading and the only song to spend more time at the top in the U
 - **pining**：[醫] 牛羊貧血病
 - **notched**：有凹口的；[醫] 切跡狀的, 有缺口的
 - **supermarket**：超級市場；[經] 超級市場, 自助售貨商店
-- <span style="color:#ff8c00"><strong>in the works</strong></span>：正在籌劃中；在製作／進行中
+- <span style="color:#ff8c00"><strong>in the works</strong></span>：正在籌備中、製作中或醞釀中。
 
 ### Closing
 
@@ -210,7 +212,7 @@ Andrew and I will be back with Squiz Today on Monday.
 - **biscuits**：<英>餅乾( biscuit的複數形式 ); <美>軟烤餅; 鬆餅（食用時常佐以肉汁）; 淡黃褐色
 - **dads**：爸, 爹( dad的複數形式 )
 - **stellar**：星的, 似星的, 星球的, 主要的
-- <span style="color:#ff8c00"><strong>good shout</strong></span>：（澳洲／英國口語）好提議；說得好；很好的提醒
+- <span style="color:#ff8c00"><strong>good shout</strong></span>：（澳洲／英國口語）好提議、說得好，或很棒的適時提醒。
 
 ### Partner Preview
 
@@ -381,12 +383,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) 咖啡館（cafe的複數）</td>
 </tr>
 <tr>
-<td><strong>degrading</strong> /di'greidiŋ/</td>
-<td>(adj.) 喪失體面的, 降低身份的, 有辱人格的；[法] 品質低劣的, 卑劣的, 退化的</td>
-</tr>
-<tr>
 <td><strong>shortcut</strong> /'ʃɒ:tkʌt/</td>
 <td>(n.) 捷徑, 最短路線；[計] 快捷方式</td>
+</tr>
+<tr>
+<td><strong>degrading</strong> /di'greidiŋ/</td>
+<td>(adj.) 喪失體面的, 降低身份的, 有辱人格的；[法] 品質低劣的, 卑劣的, 退化的</td>
 </tr>
 <tr>
 <td><strong>mums</strong> /mʌmz/</td>
@@ -397,12 +399,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) 瘤, 腫塊</td>
 </tr>
 <tr>
-<td><strong>childcare</strong> /'tʃaildkεә/</td>
-<td>(n.) 兒童照管；兒童保育</td>
-</tr>
-<tr>
 <td><strong>reassuring</strong> /.ri:ә'ʃuriŋ/</td>
 <td>(adj.) 安心的, 可靠的, 鼓勵的</td>
+</tr>
+<tr>
+<td><strong>childcare</strong> /'tʃaildkεә/</td>
+<td>(n.) 兒童照管；兒童保育</td>
 </tr>
 <tr>
 <td><strong>exporting</strong></td>
@@ -413,12 +415,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(v.) 銅鑼, 皿形鍾；vt. 鳴鑼召喚</td>
 </tr>
 <tr>
-<td><strong>podcasts</strong></td>
-<td>(n.) 播客（podcast的複數形式）</td>
-</tr>
-<tr>
 <td><strong>ballistic</strong> /bә'listik/</td>
 <td>(adj.) 彈道的；[醫] 射擊的, 衝擊的</td>
+</tr>
+<tr>
+<td><strong>podcasts</strong></td>
+<td>(n.) 播客（podcast的複數形式）</td>
 </tr>
 <tr>
 <td><strong>almond</strong> /'ɑ:mәnd/</td>
@@ -437,12 +439,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) 外衣；書刊檢查；披肩（wrap的複數形式）</td>
 </tr>
 <tr>
-<td><strong>tighter</strong> /taitə/</td>
-<td>(n.) 緊的( tight的比較級 ); （安排）緊湊的; 緊身的; 嚴密的</td>
-</tr>
-<tr>
 <td><strong>patient's</strong></td>
 <td>(n.) [網路] 寵物名</td>
+</tr>
+<tr>
+<td><strong>tighter</strong> /taitə/</td>
+<td>(n.) 緊的( tight的比較級 ); （安排）緊湊的; 緊身的; 嚴密的</td>
 </tr>
 <tr>
 <td><strong>biscuits</strong> /'bɪskɪts/</td>
@@ -457,12 +459,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(adj.) [法] 判決, 宣判</td>
 </tr>
 <tr>
-<td><strong>dads</strong> /dædz/</td>
-<td>(n.) 爸, 爹( dad的複數形式 )</td>
-</tr>
-<tr>
 <td><strong>peacefully</strong></td>
 <td>(adv.) 平靜地</td>
+</tr>
+<tr>
+<td><strong>dads</strong> /dædz/</td>
+<td>(n.) 爸, 爹( dad的複數形式 )</td>
 </tr>
 <tr>
 <td><strong>generators</strong></td>
@@ -485,12 +487,12 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(n.) 里程碑, 里程石, 里程標</td>
 </tr>
 <tr>
-<td><strong>murdering</strong> /ˈmə:dərɪŋ/</td>
-<td>(adj.) 糟蹋( murder的現在分詞 ); （尤指在團隊運動中）徹底打敗; 打垮</td>
-</tr>
-<tr>
 <td><strong>condemn</strong> /kәn'dem/</td>
 <td>(v.) 判刑, 責備, 譴責；[法] 定罪, 判刑, 宣告有罪</td>
+</tr>
+<tr>
+<td><strong>murdering</strong> /ˈmə:dərɪŋ/</td>
+<td>(adj.) 糟蹋( murder的現在分詞 ); （尤指在團隊運動中）徹底打敗; 打垮</td>
 </tr>
 <tr>
 <td><strong>reminding</strong> /riˈmaindɪŋ/</td>
@@ -505,24 +507,24 @@ Plus, we explained why some politicians want social media users to opt into algo
 <td>(adj.) 星的, 似星的, 星球的, 主要的</td>
 </tr>
 <tr>
-<td><strong>hearted</strong> /'hɑ:tid/</td>
-<td>(adj.) 有...心(腸)的</td>
-</tr>
-<tr>
 <td><strong>undercover</strong> /.ʌndә'kʌvә/</td>
 <td>(adj.) 秘密從事的, 秘密的, 從事間諜活動的；[法] 暗中從事的, 秘密的</td>
+</tr>
+<tr>
+<td><strong>hearted</strong> /'hɑ:tid/</td>
+<td>(adj.) 有...心(腸)的</td>
 </tr>
 <tr>
 <td><strong>supermarket</strong> /'sju:pәmɑ:kit/</td>
 <td>(n.) 超級市場；[經] 超級市場, 自助售貨商店</td>
 </tr>
 <tr>
-<td><strong>feathers</strong></td>
-<td>(n.) 羽狀裂縫；翅膀；羽毛（feather的複數）</td>
-</tr>
-<tr>
 <td><strong>commitments</strong> /kə'mɪtmənts/</td>
 <td>(n.) 委託( commitment的複數形式 ); 任務; 承擔的義務</td>
+</tr>
+<tr>
+<td><strong>feathers</strong></td>
+<td>(n.) 羽狀裂縫；翅膀；羽毛（feather的複數）</td>
 </tr>
 </tbody>
 </table>
@@ -543,42 +545,52 @@ Plus, we explained why some politicians want social media users to opt into algo
 <tr>
 <td>thin on the ground</td>
 <td>So it's a bit thin on the ground for leaders.</td>
-<td>Few in number, scarce, or hard to come by. ／ 稀少；寥寥無幾；為數不多</td>
+<td>Present only in small numbers; scarce or sparse. ／ 寥寥無幾、為數甚少或稀缺。</td>
 </tr>
 <tr>
 <td>ruffle feathers</td>
 <td>Yeah, it ruffled quite a few feathers at the time.</td>
-<td>To upset, irritate, or provoke controversy and annoyance. ／ 惹惱他人；引起不滿或爭端</td>
+<td>To cause irritation, annoyance, or upset among people. ／ 惹人不快、引起騷動或觸怒眾人。</td>
 </tr>
 <tr>
-<td>pip to the post</td>
-<td>...the climate change summit Australia wanted to host, but you might remember got pipped to the post by Türkiye...</td>
-<td>To defeat or surpass someone by a narrow margin, especially at the very last moment. ／ 在最後關頭被險勝；被捷足先登</td>
+<td>give the green light</td>
+<td>it emerged the federal government had given the green light to extend a Queensland coal mine in the Bowen Basin</td>
+<td>To grant official permission or approval for a project or action to proceed. ／ 給予綠燈、正式批准或許可進行。</td>
+</tr>
+<tr>
+<td>pipped to the post</td>
+<td>the climate change summit Australia wanted to host, but you might remember got pipped to the post by Türkiye</td>
+<td>Narrowly defeated or beaten by a competitor at the very last moment. ／ 在最後關頭以微小差距惜敗、被搶先擊敗。</td>
 </tr>
 <tr>
 <td>thick and fast</td>
-<td>...and tributes are coming in thick and fast.</td>
-<td>Arriving or happening rapidly, continuously, and in large quantities. ／ 接二連三地湧現；紛至沓來</td>
+<td>and tributes are coming in thick and fast.</td>
+<td>Arriving or happening rapidly, in large quantities, and in quick succession. ／ 接二連三、蜂擁而至且源源不絕。</td>
 </tr>
 <tr>
 <td>gong</td>
-<td>...Professor Georgina Long has won Australia's top scientific research gong for her work.</td>
-<td>Australian and British slang for an award, medal, or honour. ／ （澳洲／英國俚語）獎項、獎章或榮譽</td>
+<td>Professor Georgina Long has won Australia's top scientific research gong for her work.</td>
+<td>(Australian/British informal) An award, prize, or medal honoring an achievement. ／ （澳洲／英國口語俚語）獎項、獎章或榮譽。</td>
 </tr>
 <tr>
 <td>what a legend</td>
-<td>What a legend.</td>
-<td>A common Australian and Commonwealth colloquial expression of high praise and admiration for someone. ／ （澳洲／英聯邦口語）真是個了不起的人物；太厲害了</td>
+<td>&quot;And there's only one point: to make a difference as much as you can and do it well.&quot; What a legend.</td>
+<td>(Australian informal) An expression of deep admiration for someone remarkable, inspiring, or greatly respected. ／ （澳洲口語）真了不起、太傳奇了（用以讚揚令人欽佩或卓越的人）。</td>
+</tr>
+<tr>
+<td>earworm</td>
+<td>and a country music earworm that's set to break records.</td>
+<td>A catchy, repetitive song or melody that sticks in one's head and keeps replaying. ／ 洗腦歌（在腦中揮之不去、反覆迴盪的旋律）。</td>
 </tr>
 <tr>
 <td>in the works</td>
 <td>And there's also a possible Drake remix in the works, as well as one from Matthew McConaughey.</td>
-<td>Currently being planned, prepared, or developed. ／ 正在籌劃中；在製作／進行中</td>
+<td>Currently being planned, prepared, or developed. ／ 正在籌備中、製作中或醞釀中。</td>
 </tr>
 <tr>
 <td>good shout</td>
-<td>Yeah, good shout. That's our reminder to you that it's Father's Day this Sunday...</td>
-<td>Colloquial Australian/British expression meaning a good suggestion, idea, or timely reminder. ／ （澳洲／英國口語）好提議；說得好；很好的提醒</td>
+<td>Yeah, good shout. That's our reminder to you that it's Father's Day this Sunday</td>
+<td>(Australian/British informal) A good idea, useful suggestion, or timely, well-made point. ／ （澳洲／英國口語）好提議、說得好，或很棒的適時提醒。</td>
 </tr>
 </tbody>
 </table>
@@ -597,35 +609,39 @@ Plus, we explained why some politicians want social media users to opt into algo
 <tbody>
 <tr>
 <td>Pacific Islands Forum</td>
-<td>An intergovernmental organization comprising Pacific island nations, Australia, and New Zealand to foster regional cooperation; its summit in Palau addressed regional security and climate change.／由太平洋島國、澳洲及紐西蘭組成的政府間區域組織，旨在加強區域合作；其在帛琉舉行的峰會重點討論了區域安全與氣候變遷問題。</td>
+<td>An intergovernmental organisation of 18 Pacific nations aimed at fostering regional cooperation. In the story, its annual meeting took place in Palau, where discussions focused on climate change and tensions involving China and Taiwan.／由18個太平洋國家組成的政府間組織，旨在加強區域合作。在報導中，該論壇年度峰會於帛琉舉行，主要討論氣候變遷以及涉及中國與台灣的區域緊張局勢。</td>
 </tr>
 <tr>
 <td>Matthew Wale</td>
-<td>The Prime Minister of the Solomon Islands who had to leave the Pacific Islands Forum in Palau early to face a political leadership challenge at home.／索羅門群島總理，因國內面臨政治領導權挑戰，不得不提前離開在帛琉舉辦的太平洋島國論壇返國處置。</td>
-</tr>
-<tr>
-<td>Molly Ticehurst</td>
-<td>A 28-year-old Australian childcare worker murdered in April 2024, whose death triggered national anti-violence protests and led to tighter bail legislation in NSW known as 'Molly's Law'.／澳洲一名於2024年4月遇害的28歲托育人員。她的死引發了全澳反暴力抗議浪潮，並促使新南威爾斯州實施更嚴格的保釋法規（即「莫莉法案」）。</td>
-</tr>
-<tr>
-<td>Gloria Steinem</td>
-<td>An acclaimed American journalist and pioneer of the women's liberation movement who co-founded Ms. magazine and received the Presidential Medal of Freedom, whose passing at age 92 was reported.／美國著名記者兼女性解放運動先驅，曾共同創辦《Ms.》雜誌並獲頒總統自由勳章，報導指其以92歲高齡離世。</td>
-</tr>
-<tr>
-<td>Professor Georgina Long</td>
-<td>A leading Australian oncologist and former Australian of the Year who won an Australian Eureka Prize for her breakthrough research in immunotherapy and personalized mRNA cancer vaccines.／澳洲知名腫瘤學家、前澳洲年度風雲人物，因在黑色素瘤免疫療法及個人化mRNA癌症疫苗方面的突破性研究而榮獲澳洲尤里卡科學獎。</td>
-</tr>
-<tr>
-<td>Eureka Prizes</td>
-<td>Australia's premier national science awards presented annually by the Australian Museum, celebrating excellence in scientific research, innovation, and leadership.／澳洲頂級國家科學獎項，由澳洲博物館每年頒發，用以表彰在科學研究、創新與領導力方面的傑出成就。</td>
+<td>A prominent Solomon Islands politician who had to rush home from the Pacific Islands Forum in Palau to confront a domestic leadership challenge.／索羅門群島重要政治人物。在報導中，他因國內突然面臨領導權挑戰，不得不從帛琉舉辦的太平洋島國論壇提前趕回國處理政局危機。</td>
 </tr>
 <tr>
 <td>Bowen Basin</td>
-<td>A major geological basin in Queensland containing Australia's largest coal reserves, highlighted after the federal government approved a mine extension there despite climate talks.／位於昆士蘭州的主要地質盆地，蘊藏全澳最大的煤炭儲量；因聯邦政府在氣候談判之際批准該地煤礦擴建案而引發關注與爭議。</td>
+<td>A major coal-mining region in central Queensland, Australia. The federal government's recent approval to extend a coal mine there sparked debate over Australia's commitment to reducing carbon emissions.／位於澳洲昆士蘭州中部的著名大型煤礦盆地。澳洲聯邦政府近期批准該地區一座煤礦的擴建案，引發外界對澳洲減碳承諾是否足夠誠懇的廣泛質疑與辯論。</td>
 </tr>
 <tr>
-<td>ARIA Charts</td>
-<td>The official Australian music industry sales and streaming charts, published weekly by the Australian Recording Industry Association.／澳洲唱片業協會（ARIA）每週發布的官方音樂銷量與串流榜單，代表澳洲最受歡迎的音樂作品。</td>
+<td>Molly Ticehurst</td>
+<td>A 28-year-old Australian childcare worker whose murder by her former partner in April 2024 sparked widespread national outrage, rallying the community behind 'Her Name Was Molly' and prompting urgent bail reform in New South Wales.／一名28歲的澳洲托育人員，於2024年4月慘遭前男友殺害。此事件引發全澳對家庭暴力的極大公憤，掀起「Her Name Was Molly」紀念運動，並促成新南威爾斯州緊急修改保釋法案。</td>
+</tr>
+<tr>
+<td>Molly's Law</td>
+<td>Bail law reform enacted in New South Wales following the murder of Molly Ticehurst, designed to make it significantly harder for individuals accused of serious domestic violence offences to be granted bail.／新南威爾斯州在莫莉·泰斯赫斯特（Molly Ticehurst）遇害後通過的緊縮保釋法案，旨在讓涉嫌重大家庭暴力犯罪的被告更難獲得交保。</td>
+</tr>
+<tr>
+<td>Gloria Steinem</td>
+<td>An iconic American feminist journalist and social activist who was a leading figure of the women's liberation movement in the late 1960s and 1970s and co-founded Ms. magazine. The podcast reports on her death at age 92.／美國代表性女性主義記者與社運倡議人士，為1960與1970年代女性解放運動的核心領袖之一，並共同創辦《Ms.》雜誌。本期節目報導了她以92歲高齡逝世的消息。</td>
+</tr>
+<tr>
+<td>Eureka Prizes</td>
+<td>Australia's premier national science awards presented annually by the Australian Museum to celebrate outstanding scientific research, innovation, and leadership.／澳洲最具聲望的全國性科學大獎，由澳洲博物館每年頒發，表彰在科研、創新、科學領導力與普及領域做出卓越貢獻的傑出學者。</td>
+</tr>
+<tr>
+<td>Georgina Long</td>
+<td>A leading Australian medical oncologist and clinical researcher who won a prestigious Eureka Prize for her pioneering work in immunotherapy and personalized mRNA cancer vaccines to treat advanced melanoma.／澳洲知名腫瘤學家兼臨床醫學教授，因在免疫療法及個人化mRNA癌症疫苗治療晚期黑色素瘤方面的突破性貢獻，榮獲澳洲權威尤里卡科學獎（Eureka Prize）。</td>
+</tr>
+<tr>
+<td>Ella Langley</td>
+<td>An American country music singer-songwriter whose breakout single 'Choosin\' Texas' achieved massive commercial success, spending weeks at the top of both the US Billboard and Australian ARIA charts.／美國鄉村流行女歌手兼創作人，其爆紅單曲《Choosin\' Texas》取得巨大商業成功，連續數週蟬聯美國告示牌（Billboard）及澳洲唱片業協會榜（ARIA Charts）冠軍。</td>
 </tr>
 </tbody>
 </table>
