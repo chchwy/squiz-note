@@ -239,15 +239,40 @@ table.cols-4 td:nth-child(n+3) {
   width: 27% !important;
 }
 
-/* Mobile only: bump base font size (body text scales via em/rem theme styles).
-   Tables are intentionally untouched. Desktop unaffected. */
+/* Mobile only: readable body text.
+   type-on-strap shrinks p/li/td to 0.8em under 768/576px — that is why
+   phones looked tiny even after bumping html. Override content size only;
+   tables stay at 0.92em. Desktop unaffected. */
 @media (max-width: 480px) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   }
 
   body {
-    font-size: 1.0625rem; /* ~17px fallback for px-based theme styles */
+    font-size: 1rem;
+  }
+
+  /* Kill theme mobile shrink on article prose (not tables). */
+  article p,
+  article li,
+  .post-content p,
+  .post-content li {
+    font-size: 1rem !important;
+  }
+
+  article h2,
+  .post-content h2 {
+    font-size: 1.35rem !important;
+  }
+
+  article h3,
+  .post-content h3 {
+    font-size: 1.15rem !important;
+  }
+
+  article h4,
+  .post-content h4 {
+    font-size: 1.05rem !important;
   }
 }
 
