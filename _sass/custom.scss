@@ -239,40 +239,36 @@ table.cols-4 td:nth-child(n+3) {
   width: 27% !important;
 }
 
-/* Mobile only: readable body text.
-   type-on-strap shrinks p/li/td to 0.8em under 768/576px — that is why
-   phones looked tiny even after bumping html. Override content size only;
-   tables stay at 0.92em. Desktop unaffected. */
+/* Mobile only: enlarge Full Transcript prose; leave News Highlights,
+   vocab/slang/cultural tables, TOC, Listen at theme (compact) size.
+   type-on-strap sets p/li/td to 0.8em under 576/768px — that stays for
+   non-transcript sections. Desktop unaffected. */
 @media (max-width: 480px) {
-  html {
-    font-size: 20px;
+  /* Transcript body (~20px): siblings after #full-transcript */
+  h2#full-transcript ~ p,
+  h2#full-transcript ~ ul,
+  h2#full-transcript ~ ul > li {
+    font-size: 1.25rem !important;
   }
 
-  body {
-    font-size: 1rem;
-  }
-
-  /* Kill theme mobile shrink on article prose (not tables). */
-  article p,
-  article li,
-  .post-content p,
-  .post-content li {
-    font-size: 1rem !important;
-  }
-
-  article h2,
-  .post-content h2 {
+  h2#full-transcript ~ h3 {
     font-size: 1.35rem !important;
   }
 
-  article h3,
-  .post-content h3 {
-    font-size: 1.15rem !important;
+  h2#full-transcript ~ h4 {
+    font-size: 1.1rem !important;
   }
 
-  article h4,
-  .post-content h4 {
-    font-size: 1.05rem !important;
+  /* From Advanced Vocabulary onward: restore compact (theme 0.8em path).
+     Same specificity as rules above; later source order wins. */
+  h2#advanced-vocabulary-beyond-7000-words,
+  h2#advanced-vocabulary-beyond-7000-words ~ h2,
+  h2#advanced-vocabulary-beyond-7000-words ~ h3,
+  h2#advanced-vocabulary-beyond-7000-words ~ h4,
+  h2#advanced-vocabulary-beyond-7000-words ~ p,
+  h2#advanced-vocabulary-beyond-7000-words ~ ul,
+  h2#advanced-vocabulary-beyond-7000-words ~ ul > li {
+    font-size: 0.8em !important;
   }
 }
 
