@@ -21,19 +21,17 @@ categories: notes
 
 ## News Highlights
 
-- **AI Industry Leaders Warn of Risks and Propose Slowdown in Technology Development／AI科技巨頭示警研發風險 呼籲放緩步伐並建立安全控管標準**
+- **Top Tech Leaders Warn of AI Risks and Call to Slow Down Development／科技領袖示警人工智慧失控風險　呼籲放緩研發腳步**
 
-- **Anthony Albanese Condemns Pauline Hanson Over Comments Mocking His Late Mother and Upbringing／韓森嘲諷國宅成長經歷 澳總理艾班尼斯痛批攻擊惡毒並捍衛亡母**
+- **Anthony Albanese Rebukes Pauline Hanson Over Attacks on His Mother and Upbringing／澳洲總理艾班尼斯反擊韓森言論　捍衛已故母親與公屋成長背景**
 
-- **Mary Gaudron, Australia's First Female High Court Judge, Dies at 83／澳洲首位高等法院女法官瑪麗·高德倫逝世 享壽83歲**
+- **Mary Gaudron, Australia's First Female High Court Justice, Dies at 83／澳洲首位高等法院女性大法官瑪麗·高德隆逝世　享壽83歲**
 
-- **Squiz Audience Survey Reveals Reduced Social Media Use and Support for Independent Media／Squiz 聽眾調查結果出爐：大眾減少使用社群媒體並力挺獨立媒體**
+- **Squiz Audience Survey Highlights Demand for Fact-Based News and Reduced Social Media Use／Squiz聽眾調查結果出爐：重視事實與觀點區分並減少社群媒體使用**
 
-- **Celine Dion Makes Triumphant Return to Stage in Paris After Six-Year Absence／席琳狄翁重返舞台 於巴黎舉行睽違六年首場完整演唱會**
+- **Celine Dion Returns to Stage with First Full Concert in Six Years in Paris／席琳狄翁克服罕病重返舞台　於巴黎舉辦六年來首場完整演唱會**
 
-- **Elena Rybakina Wins US Open Women's Singles Title to Become World Number One／哈薩克女將芮芭奇娜美網女單封后 榮登世界第一球后寶座**
-
-- **Ben Shelton Faces Alexander Zverev in US Open Men's Final Aiming to End American Drought／謝爾頓出戰美網男單決賽迎戰茲韋列夫 力拚終結地主23年冠軍荒**
+- **US Open Tennis: Elena Rybakina Wins Women's Title as Ben Shelton Contests Men's Final／美國網球公開賽：芮芭奇娜女單奪冠登頂世界第一　謝爾頓爭奪男單金盃**
 
 ## Full Transcript
 
@@ -55,7 +53,7 @@ In your Squiz Today: AI bosses are sounding the alarm on their own technology, t
 
 - **exchanged**：換回( exchange的過去式和過去分詞 ); 交換, 替換; 進行易貨貿易, 作物物交換; [金融業]（貨幣）交換, 兌換
 
-### AI Industry Leaders Warn of Risks and Propose Slowdown in Technology Development
+### Top Tech Leaders Warn of AI Risks and Call to Slow Down Development
 
 And when we started **drafting** the **newsletter** yesterday, every media outlet was leading with a prominent tech leader warning about artificial intelligence. Now, people raising concerns over the development of AI is nothing new, but the names involved here have made it a huge story: Dario Amodei, the CEO of Anthropic, Sam Altman, who runs OpenAI, and Elon Musk, who runs xAI. Now, those are probably the three most prominent names in the entire industry.
 
@@ -63,7 +61,7 @@ Absolutely. And they've all publicly said that it might be time to <span style="
 
 He says the risks are beginning to **outgrow** our ability to prevent them, mainly because AI models are now creating the new generation of AI models. Now, those risks involve things like AI being used for **cyberattacks** or terrorism, or losing control of an AI program or system. That second one already happened back in July.
 
-It was an incident called the Hugging Face incident. If you want to read more about it, that's where OpenAI models basically started hacking a company <span style="color:#ff8c00"><strong>off their own bat</strong></span> without any human directing them to do it. Now, Amodei says that got him thinking about whether things were moving too fast, and he's raised these concerns in a blog post over the weekend.
+It was an incident called the Hugging Face incident. If you want to read more about it, that's where OpenAI models basically started hacking a company off their own bat without any human directing them to do it. Now, Amodei says that got him thinking about whether things were moving too fast, and he's raised these concerns in a blog post over the weekend.
 
 Now, before you start sort of stress-watching the Terminator franchise, Amodei still says that AI brings lots of benefits that make some of these risks worth it. But he says AI companies need to slow down the development so they can spend more time ensuring that it's all safe to use. And he has put together a three-step plan to make that happen.
 
@@ -88,11 +86,9 @@ It has publicly said that that would give China too much of an advantage in the 
 - **sailed**：駕駛( sail的過去式和過去分詞 ); 起航; 坐船旅行; 掠
 - **slowing**：放慢；減速；慢化
 - **newsletter**：時事通訊, 業務通訊, 時事傳報；[法] 時事通訊, 時事信札
-- <span style="color:#ff8c00"><strong>pump the brakes</strong></span>：踩煞車；放慢節奏、放緩行動或暫緩進展。
-- <span style="color:#ff8c00"><strong>off their own bat</strong></span>：自發地、憑自己的主動意志；未經指示自行採取行動。
-- <span style="color:#ff8c00"><strong>the ship might have sailed</strong></span>：大局已定；時機已過、木已成舟。
+- <span style="color:#ff8c00"><strong>pump the brakes</strong></span>：踩煞車；比喻放慢步伐、暫緩行動或行事更加謹慎。
 
-### Anthony Albanese Condemns Pauline Hanson Over Comments Mocking His Late Mother and Upbringing
+### Anthony Albanese Rebukes Pauline Hanson Over Attacks on His Mother and Upbringing
 
 And on Friday, you and Larissa talked about a **spat** involving One Nation leader Pauline Hanson and Liberal MP Andrew Hastie. She's now in the middle of another one that's been playing out over the weekend, and this time it involves the Prime Minister, Anthony Albanese. This latest row is about comments Senator Hanson made on Karl Stefanovic's podcast earlier this year, where she **mimicked** Albanese crying and **mocked** his account of growing up in social housing in Sydney's inner west, which Hanson **labelled** as pathetic.
 
@@ -100,7 +96,7 @@ The background here is Maryanne Albanese was a single mother who had several hea
 
 Yeah, we did. After *The Australian* sort of **resurfaced** these comments on Saturday, he was asked about them on Sunday and he defended his late mother, who died back in 2002. He said this attack was nasty and **spiteful**, and he said he was proud to be a <span style="color:#ff8c00"><strong>houso</strong></span>.
 
-I mentioned Andrew Hastie before and the **spat** from last week. Now, he's also been speaking over the weekend and he <span style="color:#ff8c00"><strong>weighed in</strong></span> on this dispute between Hanson and the Prime Minister. He said mothers should be left out of politics.
+I mentioned Andrew Hastie before and the **spat** from last week. Now, he's also been speaking over the weekend and he weighed in on this dispute between Hanson and the Prime Minister. He said mothers should be left out of politics.
 
 And this is, in his words, another indicator to the Australian people that she's not fit to be Prime Minister.
 
@@ -112,10 +108,9 @@ And this is, in his words, another indicator to the Australian people that she's
 - **spat**：蠔卵, 口角, 拍打；vi. 拍打, 爭吵；spit的過去式和過去分詞
 - **mocked**：愚弄, 嘲弄( mock的過去式和過去分詞 ); 使受挫折; 不尊重, 蔑視
 - **labelled**：貼上標籤的
-- <span style="color:#ff8c00"><strong>houso</strong></span>：澳洲俚語，指住在政府公屋（社會住宅）的人。
-- <span style="color:#ff8c00"><strong>weighed in</strong></span>：介入發聲、發表看法；加入爭辯或討論。
+- <span style="color:#ff8c00"><strong>houso</strong></span>：澳洲俚語，指居住在公營住宅（社會住宅）的人。
 
-### Mary Gaudron, Australia's First Female High Court Judge, Dies at 83
+### Mary Gaudron, Australia's First Female High Court Justice, Dies at 83
 
 Last night, we found out that Mary Gaudron had died at the age of 83. Now, if you don't know her name <span style="color:#ff8c00"><strong>off the top of your head</strong></span>, she's a significant figure in Australia's legal industry and Australia more broadly. Really, she was our first-ever female High Court judge.
 
@@ -123,7 +118,7 @@ And reading about her this morning, Andrew, we've learned that she was born in t
 
 So in 1992, she and five of her fellow judges voted in favour of the Mabo native title case, where she called the treatment of First Nations people the **darkest** aspect of the history of this nation. Yeah, that's probably the most famous of the decisions that she was involved in. But obviously, she was there for a long time.
 
-She was in the High Court until 2003, so <span style="color:#ff8c00"><strong>weighed in</strong></span> on several important legal issues. And as you can imagine, the **tributes** are coming from everywhere this morning. Attorney-General Michelle Rowland said Gaudron broke barriers at every stage of an extraordinary legal career.
+She was in the High Court until 2003, so weighed in on several important legal issues. And as you can imagine, the **tributes** are coming from everywhere this morning. Attorney-General Michelle Rowland said Gaudron broke barriers at every stage of an extraordinary legal career.
 
 So if you'd like to read more about her, we'll link to one of the many, many **obituaries** that have been published in the episode notes today.
 
@@ -134,10 +129,9 @@ So if you'd like to read more about her, we'll link to one of the many, many **o
 - **embarking**：乘船( embark的現在分詞 ); 裝載; 從事
 - **tributes**：（尤指舊時一國向他國交納的）貢品( tribute的名詞複數 ); （良好效果或影響的）體現; （尤指對死者的）致敬; 稱讚
 - **darkest**：最黑暗的（dark的最高階）
-- <span style="color:#ff8c00"><strong>weighed in</strong></span>：介入發聲、發表看法；加入爭辯或討論。
-- <span style="color:#ff8c00"><strong>off the top of your head</strong></span>：不假思索憑記憶；未經查證隨口想到的。
+- <span style="color:#ff8c00"><strong>off the top of your head</strong></span>：憑記憶不假思索、脫口而出；未經查證或深思。
 
-### Squiz Audience Survey Reveals Reduced Social Media Use and Support for Independent Media
+### Squiz Audience Survey Highlights Demand for Fact-Based News and Reduced Social Media Use
 
 Now, you might remember a couple of months back where we kept **pestering** you to fill out our audience survey, and you did an incredible job. Over 7,000 of you **chipped** in to fill it out. That's the most we've ever had.
 
@@ -157,9 +151,8 @@ And as you said, Anna, Kate and I discussed them as well in yesterday's podcast 
 - **chipping**：碎屑, 破片；[機] 鑿平
 - **embarking**：乘船( embark的現在分詞 ); 裝載; 從事
 - **chipped**：有缺口的, 用碎片組成的
-- <span style="color:#ff8c00"><strong>chipped in</strong></span>：共同出資、出一份力；共同參與或貢獻力量。
 
-### Celine Dion Makes Triumphant Return to Stage in Paris After Six-Year Absence
+### Celine Dion Returns to Stage with First Full Concert in Six Years in Paris
 
 One of the most famous voices in all of pop music made her **triumphant** return over the weekend. Anna, I'm talking about the Queen of the Power Ballad, Celine Dion. She performed her first full concert in six years after dealing with some health issues in that time.
 
@@ -185,9 +178,12 @@ They all sold out in just a matter of hours.
 - **confuse**：使混亂, 使狼狽, 使困惑；[法] 混淆
 - **banging**：消音器內爆炸
 - **nationality**：國籍, 國家, 民族性；[法] 國家, 民族, 國民
-- <span style="color:#ff8c00"><strong>banging out</strong></span>：熱情賣力地演奏或演唱（歌曲）；俐落地連續演奏。
 
-### Elena Rybakina Wins US Open Women's Singles Title to Become World Number One
+### US Open Tennis: Elena Rybakina Wins Women's Title as Ben Shelton Contests Men's Final
+
+And Squiz the Day now, as we record this morning, we're keeping an eye on the US Open men's tennis final. That's where Ben Shelton is aiming to become the first American man to win that tournament on home soil since Andy Roddick in 2003. It's been <span style="color:#ff8c00"><strong>a long time between drinks</strong></span> for the Americans there.
+
+He's not off to the greatest start. He's one set down already against Alexander Zverev in the final as we speak today. But if he wins that, it'll be a **marquee** moment in American tennis.
 
 And that follows Kazakhstan's Elena Rybakina winning the women's singles yesterday. And she's become the number one ranked player in the world this year. So she's a name to remember.
 
@@ -202,19 +198,10 @@ Everyone should have a website where they **pronounce** their own name just for 
 #### Words in this section
 
 - **pronouncing**：發音的, 表示發音的
+- **marquee**：大帳篷, 遮篷, 選取框；[計] 選取框
 - **pronunciation**：發音, 讀法
 - **pronounce**：發音, 宣告, 斷言
-
-### Ben Shelton Faces Alexander Zverev in US Open Men's Final Aiming to End American Drought
-
-And Squiz the Day now, as we record this morning, we're keeping an eye on the US Open men's tennis final. That's where Ben Shelton is aiming to become the first American man to win that tournament on home soil since Andy Roddick in 2003. It's been <span style="color:#ff8c00"><strong>a long time between drinks</strong></span> for the Americans there.
-
-He's not off to the greatest start. He's one set down already against Alexander Zverev in the final as we speak today. But if he wins that, it'll be a **marquee** moment in American tennis.
-
-#### Words in this section
-
-- **marquee**：大帳篷, 遮篷, 選取框；[計] 選取框
-- <span style="color:#ff8c00"><strong>a long time between drinks</strong></span>：澳洲及英聯邦常用語，指某事間隔了很長一段時間才再度發生（尤指久違的勝利或成功）。
+- <span style="color:#ff8c00"><strong>a long time between drinks</strong></span>：澳洲經典成語／俚語，形容相隔許久、久旱未逢甘霖，尤指距離上次獲勝、成功或慶祝已經過了很長一段時間。
 
 ### Closing
 
@@ -244,12 +231,12 @@ I hope you have a great start to the week today, and we'll be back with you agai
 <td>(n.) [網路] 攻擊</td>
 </tr>
 <tr>
-<td><strong>pestering</strong> /ˈpestərɪŋ/</td>
-<td>(v.) 使煩惱, 糾纏( pester的現在分詞 )</td>
-</tr>
-<tr>
 <td><strong>mimicked</strong></td>
 <td>(v.) 模仿（活象）</td>
+</tr>
+<tr>
+<td><strong>pestering</strong> /ˈpestərɪŋ/</td>
+<td>(v.) 使煩惱, 糾纏( pester的現在分詞 )</td>
 </tr>
 <tr>
 <td><strong>outgrow</strong> /.aut'grәu/</td>
@@ -410,47 +397,42 @@ I hope you have a great start to the week today, and we'll be back with you agai
 <tr>
 <td>pump the brakes</td>
 <td>And they've all publicly said that it might be time to pump the brakes a bit.</td>
-<td>To slow down, pause, or proceed more cautiously with an activity or process. ／ 踩煞車；放慢節奏、放緩行動或暫緩進展。</td>
+<td>To slow down, pause, or proceed more cautiously with an ongoing activity or development. ／ 踩煞車；比喻放慢步伐、暫緩行動或行事更加謹慎。</td>
 </tr>
 <tr>
-<td>off their own bat</td>
+<td>off one's own bat</td>
 <td>that's where OpenAI models basically started hacking a company off their own bat without any human directing them to do it.</td>
-<td>Independently, on one's own initiative, without being told or prompted by anyone else (derived from cricket). ／ 自發地、憑自己的主動意志；未經指示自行採取行動。</td>
+<td>On one's own initiative; doing something independently without prompt, instruction, or help from others (originating from cricket). ／ 主動自主、未受他人指示或協助而自發行事（源自英式板球術語）。</td>
 </tr>
 <tr>
-<td>the ship might have sailed</td>
+<td>the ship has sailed</td>
 <td>Now, some critics have pointed out that, A, the ship might have sailed on all of this;</td>
-<td>An opportunity has passed or it is already too late to change the course of events. ／ 大局已定；時機已過、木已成舟。</td>
+<td>An opportunity has already been lost or a situation has progressed too far to be altered or reversed. ／ 木已成舟、大勢已去；表示機會已經錯失或局勢已不可逆轉。</td>
 </tr>
 <tr>
 <td>houso</td>
 <td>He said this attack was nasty and spiteful, and he said he was proud to be a houso.</td>
-<td>Australian colloquial slang for someone who lives in public or social housing (housing commission). ／ 澳洲俚語，指住在政府公屋（社會住宅）的人。</td>
+<td>Australian slang for someone who lives in public housing (housing commission) or social housing. ／ 澳洲俚語，指居住在公營住宅（社會住宅）的人。</td>
 </tr>
 <tr>
-<td>weighed in</td>
+<td>weigh in</td>
 <td>Now, he's also been speaking over the weekend and he weighed in on this dispute between Hanson and the Prime Minister.</td>
-<td>To enter an argument, debate, or discussion by expressing one's views or making a forceful contribution. ／ 介入發聲、發表看法；加入爭辯或討論。</td>
+<td>To enter a discussion, debate, or argument by voicing one's opinion or perspective. ／ 介入發表意見、加入討論或針對爭端表達看法。</td>
 </tr>
 <tr>
 <td>off the top of your head</td>
 <td>Now, if you don't know her name off the top of your head, she's a significant figure in Australia's legal industry and Australia more broadly.</td>
-<td>From immediate memory, without checking, researching, or thinking about it deeply first. ／ 不假思索憑記憶；未經查證隨口想到的。</td>
+<td>From memory immediately, without consulting reference material or giving deep thought. ／ 憑記憶不假思索、脫口而出；未經查證或深思。</td>
 </tr>
 <tr>
-<td>chipped in</td>
+<td>chip in</td>
 <td>Over 7,000 of you chipped in to fill it out.</td>
-<td>To contribute help, time, money, or effort towards a collective task or common goal. ／ 共同出資、出一份力；共同參與或貢獻力量。</td>
-</tr>
-<tr>
-<td>banging out</td>
-<td>She wept in front of the sold-out crowd in between banging out some of her classics, like *All by Myself* and *The Power of Love*,</td>
-<td>To perform, play, or produce songs or pieces of work energetically and with apparent ease. ／ 熱情賣力地演奏或演唱（歌曲）；俐落地連續演奏。</td>
+<td>To contribute one's time, effort, or money toward a shared objective or collective effort. ／ 共同出一份力、共同貢獻（時間、金錢或精力）以協助完成某事。</td>
 </tr>
 <tr>
 <td>a long time between drinks</td>
 <td>It's been a long time between drinks for the Americans there.</td>
-<td>An Australian and Commonwealth idiom meaning a long period of time has passed since something last occurred (especially a win or celebration). ／ 澳洲及英聯邦常用語，指某事間隔了很長一段時間才再度發生（尤指久違的勝利或成功）。</td>
+<td>A classic Australian and Commonwealth idiom meaning a long dry spell or interval between notable successes, wins, or celebrations. ／ 澳洲經典成語／俚語，形容相隔許久、久旱未逢甘霖，尤指距離上次獲勝、成功或慶祝已經過了很長一段時間。</td>
 </tr>
 </tbody>
 </table>
@@ -469,39 +451,35 @@ I hope you have a great start to the week today, and we'll be back with you agai
 <tbody>
 <tr>
 <td>Pauline Hanson</td>
-<td>Leader of the right-wing populist Pauline Hanson's One Nation party and a Queensland senator. She triggered a major political row by mocking Prime Minister Anthony Albanese's childhood in social housing.／澳洲右翼民粹政黨「單一民族黨」（One Nation）黨魁兼昆士蘭州聯邦參議員。她因公開嘲諷總理艾班尼斯童年在公營住宅長大的經歷而引發激烈的政治爭端。</td>
-</tr>
-<tr>
-<td>Anthony Albanese</td>
-<td>The Prime Minister of Australia and leader of the Labor Party. He publicly defended his late mother and his working-class upbringing in public housing after disparaging remarks from Senator Pauline Hanson, proudly identifying as a 'houso'.／現任澳洲總理兼工黨黨魁。在參議員韓森發表貶損言論後，他公開為已故母親以及自己在公營住宅長大的工薪家庭背景辯護，並自豪地表示自己是「公屋子弟」（houso）。</td>
-</tr>
-<tr>
-<td>Andrew Hastie</td>
-<td>A federal Liberal Party Member of Parliament and prominent conservative politician. He intervened in the dispute between Hanson and Albanese, arguing that politicians' mothers should be left out of political attacks and declaring Hanson unfit to lead.／澳洲聯邦自由黨眾議員兼重要保守派政治人物。他介入韓森與艾班尼斯的口角，表示政客的母親不應成為政治攻擊的對象，並直言韓森不適合領導國家。</td>
+<td>Leader of the right-wing populist party Pauline Hanson's One Nation and a federal senator for Queensland. In the story, she drew criticism for mocking Prime Minister Anthony Albanese's upbringing in public housing and his late mother.／澳洲右翼民粹主義政黨「一國黨」（One Nation）領袖兼昆士蘭州聯邦參議員。在報導中，她因嘲弄澳洲總理艾班尼斯（Anthony Albanese）在公營房屋成長的背景及其已故母親而引發政治爭議。</td>
 </tr>
 <tr>
 <td>Mary Gaudron</td>
-<td>A pioneering Australian jurist who served as the first female Justice of the High Court of Australia from 1987 to 2003. Following her death at age 83, she was widely praised for breaking gender barriers and for her progressive jurisprudence.／澳洲開創性法學家，於1987年至2003年間擔任澳洲高等法院首位女性大法官。她在以83歲高齡辭世後受到各界廣泛哀悼，被頌揚打破性別壁壘且在法學上深具開創性影響。</td>
+<td>The first female Justice of the High Court of Australia, who served from 1987 to 2003 and passed away at age 83. She was a pioneering legal figure involved in major rulings such as the 1992 Mabo native title case.／澳洲高等法院首位女性大法官，於1987年至2003年間任職，近期以83歲高齡逝世。她是澳洲司法界的開拓者，曾參與1992年著名的馬波（Mabo）原住民土地產權案等里程碑式裁決。</td>
 </tr>
 <tr>
-<td>Mabo case</td>
-<td>A historic 1992 High Court of Australia ruling (Mabo v Queensland (No 2)) that rejected the legal doctrine of terra nullius (empty land) and established legal recognition of native title for First Nations Australians, a decision Justice Mary Gaudron prominently supported.／1992年澳洲高等法院的一項歷史性判決（馬博訴昆士蘭案），推翻了「無主地」（terra nullius）原則，確立並承認澳洲原住民對其土地的原住民產權（Native Title），高卓大法官是該案判決的多數支持者之一。</td>
+<td>Mabo native title case</td>
+<td>A historic 1992 High Court of Australia ruling that overturned the doctrine of terra nullius ('land belonging to no one') and recognized Indigenous Australians' customary land rights. Mary Gaudron was one of the majority judges in this landmark decision.／澳洲高等法院於1992年做出的歷史性判決，推翻了「無主地」（terra nullius）原則，並正式承認澳洲原住民的傳統土地產權（native title）。瑪麗·高德隆（Mary Gaudron）是當時投下贊成票的多數派法官之一。</td>
 </tr>
 <tr>
-<td>Karl Stefanovic</td>
-<td>A prominent Australian television journalist and long-time co-host of the Nine Network's morning show Today. Pauline Hanson made her controversial comments disparaging Anthony Albanese's upbringing during an appearance on his podcast.／澳洲知名電視新聞主播與主持人，長期擔任九號電視網晨間節目《Today》主持人。參議員韓森正是作客他的播客節目時，發表了嘲諷艾班尼斯成長背景的爭議言論。</td>
+<td>Andrew Hastie</td>
+<td>A federal Liberal Party Member of Parliament and former SAS troop commander. In the story, he criticized Pauline Hanson's attacks on Anthony Albanese's mother, stating that mothers should be left out of politics and that Hanson is unfit to be prime minister.／澳洲聯邦自由黨國會議員（MP），曾任澳洲特種空勤團（SAS）軍官。在報導中，他批評韓森對總理艾班尼斯母親的言論，表示政治不應牽扯母親，並認為韓森不適合擔任澳洲總理。</td>
 </tr>
 <tr>
 <td>Dario Amodei</td>
-<td>The CEO and co-founder of AI research company Anthropic. He made international headlines by warning that rogue AI agents could gain control over the internet within a year, urging governments and companies to adopt stricter safety frameworks.／人工智慧研發公司Anthropic的執行長兼共同創辦人。他因警告失控的AI智能體可能在一年內掌控整個網路而登上國際新聞頭條，並呼籲各國政府與企業落實更嚴格的安全規範。</td>
+<td>The CEO and co-founder of AI research company Anthropic. In the story, he warned in a blog post that uncontrolled rogue AI could potentially take over the internet within a year and proposed a safety framework to slow down and regulate development.／人工智慧研究公司Anthropic的執行長兼聯合創辦人。在報導中，他在網誌文章中警告不受控的流氓AI可能在一年內接管整個網路，並提出了一套減緩研發速度與加強監管的安全框架。</td>
+</tr>
+<tr>
+<td>Karl Stefanovic</td>
+<td>A well-known Australian television presenter and journalist, best known as co-host of Nine Network's Today show. In the episode, controversial comments by Pauline Hanson mocking Anthony Albanese's social housing upbringing were resurfaced from Stefanovic's podcast.／澳洲著名電視節目主持人與新聞記者，最知名的是主持九號電視網晨間節目《Today》。在節目中，韓森嘲弄艾班尼斯公屋成長背景的爭議性言論，最初便是在斯特凡諾維奇的播客中發表的。</td>
 </tr>
 <tr>
 <td>Ben Shelton</td>
-<td>A fast-rising American professional tennis player recognized for his powerful serve. The podcast highlighted his appearance in the US Open men's final, where he aimed to become the first American man to win the home Grand Slam since Andy Roddick in 2003.／以發球時速驚人著稱的美國新星職業網球選手。播客提及他闖入美國網球公開賽男子單打決賽，力爭成為自2003年羅迪克以來首位奪得該項大滿貫男單冠軍的美國選手。</td>
+<td>An American professional tennis player known for his explosive serve. In the story, he reached the US Open men's singles final against Alexander Zverev, aiming to become the first American man to win the tournament since Andy Roddick in 2003.／美國男子職業網球選手，以強勁的發球著稱。在報導中，他打入美國網球公開賽男單決賽對陣茲韋列夫（Alexander Zverev），力爭成為自2003年安迪·羅迪克（Andy Roddick）以來首位奪得該項賽事冠軍的美國男選手。</td>
 </tr>
 <tr>
 <td>Elena Rybakina</td>
-<td>A Kazakhstani professional tennis player and former Wimbledon champion who captured the US Open women's singles title and attained the world number one ranking.／哈薩克職業女子網球選手、前溫網女單冠軍。她在奪得美國網球公開賽女單冠軍後，登上了女子網球協會（WTA）世界排名第一的寶座。</td>
+<td>A Kazakh professional tennis player who won the 2026 US Open women's singles championship in the story's context, ascending to the world No. 1 ranking.／哈薩克女子職業網球名將，在報導提及的賽事中奪得美國網球公開賽女單冠軍，並榮登世界排名第一。</td>
 </tr>
 </tbody>
 </table>
