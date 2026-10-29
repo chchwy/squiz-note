@@ -410,7 +410,63 @@ details.zh-trans > p {
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+/* ==========================================================================
+   Episode audio player, pinned to the bottom while reading
+   ========================================================================== */
+#sq-player {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999;
+  padding: 8px 12px calc(8px + env(safe-area-inset-bottom, 0px));
+  background: rgba(255, 255, 255, 0.96);
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.08);
+}
+
+#sq-player audio {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.sq-seek {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.6em;
+  height: 1.6em;
+  margin-right: 4px;
+  padding: 0;
+  font-size: 0.8em;
+  line-height: 1;
+  vertical-align: 0.1em;
+  color: #2563eb;
+  background: rgba(37, 99, 235, 0.1);
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.sq-seek:hover {
+  background: rgba(37, 99, 235, 0.22);
+}
+
+body:has(#sq-player) {
+  padding-bottom: 80px;
+}
+
+body:has(#sq-player) #sq-pop {
+  bottom: calc(80px + env(safe-area-inset-bottom, 0px));
+}
+
 @mixin sq-dark {
+  #sq-player {
+    background: rgba(30, 41, 59, 0.96);
+    border-top-color: rgba(255, 255, 255, 0.12);
+  }
   #sq-pop {
     background: #1e293b;
     color: #e2e8f0;
