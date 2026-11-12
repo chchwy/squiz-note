@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-29"
 date: 2026-10-29 07:00:00 +0800
 categories: notes
+summary: "通貨膨脹再次升溫、西班牙發生高鐵相撞事故、關於毒蘑菇謀殺案的最新電視影集，以及鰻魚盡情狂歡的好地方"
 ---
 
 ## Table of Contents

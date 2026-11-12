@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-12"
 date: 2026-11-12 07:00:00 +0800
 categories: notes
+summary: "David Jones 百貨將關閉半數門市、澳洲總理在聯合國氣候峰會（COP）發表演說、澳洲民眾已可申購 Anthropic 的股票，以及媚比琳（Maybelline）的廣告標語換上了全新面貌"
 ---
 
 ## Table of Contents

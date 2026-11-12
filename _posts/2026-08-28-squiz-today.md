@@ -5,6 +5,7 @@ date: 2026-08-28 07:00:00 +0800
 categories: [Squiz Today, Notes]
 tags: [podcast, english-learning, aussie-slang]
 toc: true
+summary: "尼泊爾與中國邊境暴洪釀約400人罹難 包含35名澳洲人失聯、美國麻州母親涉嫌弒三子案 陪審團展開退庭評議、西澳秘密港選區補選開打 一國黨加入三方角逐、澳洲航空宣布提早退役A380機隊並公布逾20億澳幣年度利潤"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-10"
 date: 2026-09-10 07:00:00 +0800
 categories: notes
+summary: "總理因豬肉桶撥款遭質疑、油價再度上漲、悼念 Blanche d'Alpuget，以及蘋果推出首款折疊 iPhone"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-20"
 date: 2026-10-20 07:00:00 +0800
 categories: notes
+summary: "一名澳洲國會議員受了重傷、一個聯合國機構正在削減對加薩的援助、日本準備前往月球，以及一部我們還看不到的紀錄片"
 ---
 
 ## Table of Contents

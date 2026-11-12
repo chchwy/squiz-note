@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-09"
 date: 2026-09-09 07:00:00 +0800
 categories: notes
+summary: "聯邦政府想整頓你的動態、墨西哥謀殺案開審、查爾斯國王立下規矩，以及有時什麼都不說才是最好的表達"
 ---
 
 ## Table of Contents

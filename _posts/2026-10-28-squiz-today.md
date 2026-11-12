@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-28"
 date: 2026-10-28 07:00:00 +0800
 categories: notes
+summary: "巴西大選出現逆轉、防曬乳新規定可能即將上路、星億賭場（Star Casino）迎來審判日，以及梅根馬可（Meghan Markle）重返《廚神當道》（MasterChef）"
 ---
 
 ## Table of Contents

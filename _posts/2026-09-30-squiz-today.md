@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-30"
 date: 2026-09-30 07:00:00 +0800
 categories: notes
+summary: "OpenAI 為全民健保（Medicare）資料外洩事件致歉；澳洲儲備銀行（央行）再度升息；Dally M 頒獎典禮今晚登場；以及《簡愛》（Jane Eyre）為何在中國掀起熱潮"
 ---
 
 ## Table of Contents

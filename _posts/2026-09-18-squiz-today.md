@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-18"
 date: 2026-09-18 07:00:00 +0800
 categories: notes
+summary: "美國升息、聯邦政府提出移民計畫、鱷魚出沒的河流獲准用於布里斯本奧運，以及胖熊週即將登場"
 ---
 
 ## Table of Contents

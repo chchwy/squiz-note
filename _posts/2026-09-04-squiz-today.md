@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-04"
 date: 2026-09-04 07:00:00 +0800
 categories: notes
+summary: "太平洋島國論壇落幕、Molly Ticehurst 命案兇手宣判、悼念 Gloria Steinem，以及一首即將破紀錄的鄉村金曲"
 ---
 
 ## Table of Contents

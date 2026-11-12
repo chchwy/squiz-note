@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-02"
 date: 2026-09-02 07:00:00 +0800
 categories: notes
+summary: "Tupac 的兇手被判有罪、德國指控俄羅斯發動機場攻擊、蘋果高層異動，以及 Dolly Parton 音樂節籌備中"
 ---
 
 ## Table of Contents

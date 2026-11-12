@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-21"
 date: 2026-10-21 07:00:00 +0800
 categories: notes
+summary: "警方已對涉嫌襲擊 Helen Haines 的嫌犯提出起訴、亞伯達省投票否決獨立、澳洲國民銀行將裁減部分職位，以及芬蘭全天候不間斷的小狗直播"
 ---
 
 ## Table of Contents

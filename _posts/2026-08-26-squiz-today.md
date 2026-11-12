@@ -5,6 +5,7 @@ date: 2026-08-26 07:00:00 +0800
 categories: [Squiz Today, Notes]
 tags: [podcast, english-learning, aussie-slang]
 toc: true
+summary: "維州波波龐卡警察槍擊案滿一週年 當地舉行悼念活動、鄉村音樂傳奇天后桃莉芭頓逝世 享壽80歲、澳洲國家內閣召開會議 聚焦人工智慧國家標準與槍枝改革、澳洲國家橄欖球聯賽為罹患漸凍症球星傑·艾洛設立特別出賽規則"
 ---
 
 ## Table of Contents

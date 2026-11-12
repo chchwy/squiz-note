@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-22"
 date: 2026-10-22 07:00:00 +0800
 categories: notes
+summary: "Helen Haines 健康狀況的最新消息、伊波拉疫情在非洲蔓延、一級方程式賽車（F1）的重頭戲週末，以及世界咖啡師大賽"
 ---
 
 ## Table of Contents

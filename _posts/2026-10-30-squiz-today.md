@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-30"
 date: 2026-10-30 07:00:00 +0800
 categories: notes
+summary: "毒蘑菇謀殺案的上訴裁決、一國黨（One Nation）與總理之間的政治幕僚爭端、密爾瓦基釀酒人隊贏得棒球大賽，以及一些美味的司康"
 ---
 
 ## Table of Contents

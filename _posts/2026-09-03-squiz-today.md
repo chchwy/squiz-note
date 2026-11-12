@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-03"
 date: 2026-09-03 07:00:00 +0800
 categories: notes
+summary: "追查 Telstra 大斷線原因、更多澳洲人在尼泊爾被發現生還、經濟略有回升，以及對狗過敏者的好消息"
 ---
 
 ## Table of Contents

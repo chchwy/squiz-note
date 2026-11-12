@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-12"
 date: 2026-10-12 07:00:00 +0800
 categories: notes
+summary: "美、俄、烏三方如雲霄飛車般跌宕起伏的週末、Firmus 的上市計畫告吹、澳洲足球爆出大冷門，還有幫圓滾滾的南瓜打氣膨脹（pumping up some plump pumpkins）——這唸起來還真拗口"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-11"
 date: 2026-11-11 07:00:00 +0800
 categories: notes
+summary: "新的人工智慧法規即將推出、美國一名川普內閣官員正面臨彈劾、David Walliams 被指控涉及不當性行為，以及 DC 影業準備打掉重練"
 ---
 
 ## Table of Contents

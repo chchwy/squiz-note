@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-05"
 date: 2026-11-05 07:00:00 +0800
 categories: notes
+summary: "民主黨在美國期中選舉大獲全勝、政府支出成為關注焦點、David Jones 百貨面臨財務困境，以及我們全新的國家歌本"
 ---
 
 ## Table of Contents

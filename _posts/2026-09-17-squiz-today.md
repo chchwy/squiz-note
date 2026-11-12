@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-17"
 date: 2026-09-17 07:00:00 +0800
 categories: notes
+summary: "艾班尼斯政府再度準備移民演說、胡塞武裝與沙烏地再起衝突、Ed Sheeran 演唱會危機，以及倫敦時裝週開跑"
 ---
 
 ## Table of Contents

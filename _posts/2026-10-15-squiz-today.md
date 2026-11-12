@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-15"
 date: 2026-10-15 07:00:00 +0800
 categories: notes
+summary: "坎培拉的一些信託問題、教宗良十四世的最新消息、愛麗絲泉在遭逢強烈風暴後仍有數千戶停電，以及一項及時的表決"
 ---
 
 ## Table of Contents

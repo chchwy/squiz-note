@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-09"
 date: 2026-11-09 07:00:00 +0800
 categories: notes
+summary: "一場重大的氣候峰會正式登場；來自紐西蘭、以色列與美國的最新選情；板球界的「砂紙門」醜聞再次浮上檯面；以及 NASA 正在招募新太空人"
 ---
 
 ## Table of Contents

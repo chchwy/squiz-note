@@ -504,3 +504,10 @@ html[data-theme="dark"] {
 /* Home list: smaller post titles */
 .post-teaser h1 { font-size: 2rem !important; line-height: 1.4; margin: 0 0 .3em; }
 .post-teaser h1 a { font-weight: 600; }
+/* Home list: daily rundown under the date */
+.post-teaser .post-summary {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.55;
+  margin: 0.55em 0 0.15em;
+}

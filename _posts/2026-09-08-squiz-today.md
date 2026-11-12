@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-08"
 date: 2026-09-08 07:00:00 +0800
 categories: notes
+summary: "退休金爭議持續、德國極右派勝選、NRL 主題樂園可能成真，以及石器時代的國王與皇后"
 ---
 
 ## Table of Contents

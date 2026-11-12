@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-28"
 date: 2026-09-28 07:00:00 +0800
 categories: notes
+summary: "更多 OpenAI 代理在美國失控、英國空軍基地附近有恐怖主義逮捕、體育賽事滿檔的週末，以及 Delta 熱舞掀風潮"
 ---
 
 ## Table of Contents

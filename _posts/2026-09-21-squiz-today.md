@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-21"
 date: 2026-09-21 07:00:00 +0800
 categories: notes
+summary: "展望 2066 年的澳洲、美國與格陵蘭達成協議、AFL 有一場可能是史上最佳的比賽，以及向 John Farnham 致敬"
 ---
 
 ## Table of Contents

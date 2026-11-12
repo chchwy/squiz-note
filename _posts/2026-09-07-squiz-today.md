@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-07"
 date: 2026-09-07 07:00:00 +0800
 categories: notes
+summary: "社群演算法可能即將改變、烏克蘭和談正在推動、聯合國大幅改動地圖，以及威尼斯影展的熱門話題"
 ---
 
 ## Table of Contents

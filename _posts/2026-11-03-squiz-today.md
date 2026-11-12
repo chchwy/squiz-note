@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-03"
 date: 2026-11-03 07:00:00 +0800
 categories: notes
+summary: "我們將帶您掌握美國期中選舉、外界押注今天會再度升息、Kimi Antonelli 締造一級方程式賽車（F1）歷史，以及為時差所苦的海鳥"
 ---
 
 ## Table of Contents

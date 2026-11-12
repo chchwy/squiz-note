@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-10"
 date: 2026-11-10 07:00:00 +0800
 categories: notes
+summary: "科技公司輝達（Nvidia）面臨間諜指控、羅素布蘭德（Russell Brand）遭判刑入獄、布克獎於今晨揭曉，以及一名鋼琴家的絕境求生故事"
 ---
 
 ## Table of Contents

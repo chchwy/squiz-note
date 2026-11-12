@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-14"
 date: 2026-09-14 07:00:00 +0800
 categories: notes
+summary: "AI 老闆對自家技術敲響警鐘、總理與 Pauline Hanson 交鋒、聽眾調查結果出爐，以及「席琳女王」回歸"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-02"
 date: 2026-10-02 07:00:00 +0800
 categories: notes
+summary: "杜拜航空班機持刀刺傷事件的調查持續進行、一名美國女性在兩度注射死刑後奇蹟生還、NRL 總決賽即將引爆，以及適合連假的美味起司蛋糕"
 ---
 
 ## Table of Contents

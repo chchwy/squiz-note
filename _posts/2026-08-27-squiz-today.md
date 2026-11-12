@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-08-27"
 date: 2026-08-27 07:00:00 +0800
 categories: notes
+summary: "澳洲超市巨頭Coles與Woolworths獲利高於預期 引發公眾關注、澳洲最新通膨率達3.5%高於預期 引發央行可能升息擔憂、尼泊爾冰川崩塌引發巨大山崩洪災 34名澳洲人及數百名遊客失蹤、Meta同意支付236億美元和解金 並在美國推出青少年安全改革措施"
 ---
 
 ## Table of Contents

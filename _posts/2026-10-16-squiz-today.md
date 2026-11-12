@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-16"
 date: 2026-10-16 07:00:00 +0800
 categories: notes
+summary: "澳洲綠黨對 Jordon Steele-John 展開調查、美國取消直播死刑處決的計畫、凌亂風美甲，以及用一道美味的沙拉幫您為烤肉季做好準備"
 ---
 
 ## Table of Contents

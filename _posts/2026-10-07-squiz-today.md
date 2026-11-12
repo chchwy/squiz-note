@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-07"
 date: 2026-10-07 07:00:00 +0800
 categories: notes
+summary: "以色列10月7日襲擊事件屆滿三週年、聯盟黨公布了新的移民目標、向 ABC 新聞主播 Richard Morecroft 致哀，以及我們所能想到最令人神經緊繃的體育競賽"
 ---
 
 ## Table of Contents

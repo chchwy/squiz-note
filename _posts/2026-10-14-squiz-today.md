@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-14"
 date: 2026-10-14 07:00:00 +0800
 categories: notes
+summary: "在澳洲，呼籲封鎖死刑網路直播的聲浪日益高漲；法國超市冰箱遭到駭客入侵；盒裝雞蛋業者爆出聯合壟斷（卡特爾）指控；以及搜尋愛蜜莉亞·艾爾哈特（Amelia Earhart）失蹤飛機的行動正在進行中"
 ---
 
 ## Table of Contents

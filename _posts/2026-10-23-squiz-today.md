@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-23"
 date: 2026-10-23 07:00:00 +0800
 categories: notes
+summary: "昆士蘭遭遇豪雨侵襲、各方緊急修補一項網路安全漏洞、Airbnb 推出新規定，以及一道超讚的平日晚餐料理"
 ---
 
 ## Table of Contents

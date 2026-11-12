@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-27"
 date: 2026-10-27 07:00:00 +0800
 categories: notes
+summary: "以色列即將舉行大選、國會議員在聯邦議會向 Helen Haines 致意、一位澳洲選手創下競走世界紀錄，以及新南威爾斯州的孩子們大秀最拿手的鳥鳴模仿"
 ---
 
 ## Table of Contents

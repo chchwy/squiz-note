@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-26"
 date: 2026-10-26 07:00:00 +0800
 categories: notes
+summary: "眾議院在坎培拉復會、巴西民眾前往投票所投票、西雪梨啟用一座新機場，以及我們推出了全新的電子報"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-16"
 date: 2026-09-16 07:00:00 +0800
 categories: notes
+summary: "澳洲如何應對 AI、美國證實太空部署武器、《The Karl Stefanovic Show》法律戰，以及《Widow's Bay》艾美獎大勝"
 ---
 
 ## Table of Contents

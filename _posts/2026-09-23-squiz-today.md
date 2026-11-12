@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-23"
 date: 2026-09-23 07:00:00 +0800
 categories: notes
+summary: "習近平與川普將在華盛頓會面、澳洲油價上漲、悼念澳洲插畫家 Terry Denton，以及胖熊週投票進行中"
 ---
 
 ## Table of Contents

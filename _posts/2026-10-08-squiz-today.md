@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-08"
 date: 2026-10-08 07:00:00 +0800
 categories: notes
+summary: "高等法院一項具里程碑意義的氣候裁決、美國死囚 Christa Pike 預計將會康復、智慧眼鏡再度登上新聞版面，以及澳洲躍向太空的計畫"
 ---
 
 ## Table of Contents

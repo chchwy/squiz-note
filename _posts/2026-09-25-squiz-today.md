@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-25"
 date: 2026-09-25 07:00:00 +0800
 categories: notes
+summary: "OpenAI 入侵 Medicare、川普在白宮接待中國國家主席、AFL 總決賽進入倒數，以及辣味魚塔可"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-04"
 date: 2026-11-04 07:00:00 +0800
 categories: notes
+summary: "特別集：The Squiz 開放聽眾贊助，核心新聞維持免費"
 ---
 
 ## Table of Contents

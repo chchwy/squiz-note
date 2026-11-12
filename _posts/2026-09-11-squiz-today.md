@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-11"
 date: 2026-09-11 07:00:00 +0800
 categories: notes
+summary: "911 事件滿 25 年、川普向美國人開出 7000 美元期中選舉承諾、本週末體育賽事滿檔，以及瑞典的民主肉丸"
 ---
 
 ## Table of Contents

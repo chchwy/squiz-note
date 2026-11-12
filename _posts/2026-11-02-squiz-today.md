@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-02"
 date: 2026-11-02 07:00:00 +0800
 categories: notes
+summary: "史上規模最大的加密貨幣駭客攻擊、艾班尼斯總理前往加勒比海、澳洲板球隊的深刻反思，以及深入了解「塔斯馬尼亞精神號」（Spirit of Tasmania）"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-19"
 date: 2026-10-19 07:00:00 +0800
 categories: notes
+summary: "坎培拉關於銀行卡的爭論仍在持續、法國有數千名抗議者被捕、新任白宮新聞秘書沒能撐太久，以及是時候不只要數你的雞了"
 ---
 
 ## Table of Contents

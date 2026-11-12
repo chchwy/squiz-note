@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-22"
 date: 2026-09-22 07:00:00 +0800
 categories: notes
+summary: "總理在聯合國推銷澳洲、雪梨高調謀殺案開審、Brownlow 獎創下紀錄之夜，以及澳洲剪羊毛工創下高標"
 ---
 
 ## Table of Contents

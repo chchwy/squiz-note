@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-11-06"
 date: 2026-11-06 07:00:00 +0800
 categories: notes
+summary: "大衛瓊斯（David Jones）百貨進入自願接管程序、羅素·布蘭德（Russell Brand）被判有罪、辣妹合唱團（Spice Girls）迎來里程碑，以及幾款別具特色的派對鹹派"
 ---
 
 ## Table of Contents

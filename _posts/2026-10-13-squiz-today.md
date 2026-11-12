@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-13"
 date: 2026-10-13 07:00:00 +0800
 categories: notes
+summary: "坎培拉政壇就刷卡附加費引發爭端、澳洲政治人物希望封鎖死刑現場直播、為什麼牛隻會佩戴類似 Fitbit 的裝置，以及 Powderfinger 樂團正式宣告回歸"
 ---
 
 ## Table of Contents

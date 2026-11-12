@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-06"
 date: 2026-10-06 07:00:00 +0800
 categories: notes
+summary: "氣候議題在太平洋地區成為焦點、杜拜航空（Flydubai）涉嫌劫機事件的更多細節、雄雞隊（Roosters）包辦所有總決賽冠軍，以及祝澳洲最長壽的人瑞生日快樂"
 ---
 
 ## Table of Contents

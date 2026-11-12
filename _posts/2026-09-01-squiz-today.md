@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-01"
 date: 2026-09-01 07:00:00 +0800
 categories: notes
+summary: "一名澳洲人在尼泊爾確認罹難、新隱私權法一覽、快時尚零售商上市，以及喬科維奇爆冷出局"
 ---
 
 ## Table of Contents

@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-09-29"
 date: 2026-09-29 07:00:00 +0800
 categories: notes
+summary: "今天很可能升息、綠黨領袖 Larissa Waters 請辭、飛蛾入侵澳洲東岸，以及瑪丹娜橫掃 MTV 音樂錄影帶大獎"
 ---
 
 ## Table of Contents

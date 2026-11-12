@@ -3,6 +3,7 @@ layout: post
 title: "Squiz Today — 2026-10-01"
 date: 2026-10-01 07:00:00 +0800
 categories: notes
+summary: "一架飛往以色列的客機如何化解疑似劫機危機、綠黨迎來新黨魁、信用卡附加手續費走入歷史，以及「胖熊週」（Fat Bear Week）的優勝者出爐"
 ---
 
 ## Table of Contents

@@ -5,6 +5,7 @@ date: 2026-08-25 07:00:00 +0800
 categories: [Squiz Today, Notes]
 tags: [podcast, english-learning, aussie-slang]
 toc: true
+summary: "雪梨私立學校學生因性侵指控出庭、美國對伊朗實施新一輪經濟制裁、KPMG 受審計醜聞波及裁減近 400 個職位、研究人員與原住民護林員重現大堡礁遠古陸地樣貌"
 ---
 
 ## Table of Contents
