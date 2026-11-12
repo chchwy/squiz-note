@@ -500,3 +500,7 @@ html[data-theme="dark"] {
     font-size: 1.1rem !important;
   }
 }
+
+/* Home list: smaller post titles */
+.post-teaser h1 { font-size: 1.15rem !important; line-height: 1.4; margin: 0 0 .3em; }
+.post-teaser h1 a { font-weight: 600; }
