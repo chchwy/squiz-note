@@ -226,15 +226,15 @@ summary: "黃仁勳重返輝達擔任執行長、緬懷澳洲音樂傳奇人物 
 
 ### Albanese Government Questioned After COP31 Ends Without Deal {#news-4}
 
-<button class="sq-seek" data-t="436.0" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] As we spoke about yesterday, the UN Climate Summit, which was known as COP31—the 31st Conference of the Parties—ended without a final agreement. And given Energy Minister Chris Bowen was running negotiations for it, the Albanese government has faced some questions over that yesterday.
+<button class="sq-seek" data-t="405.9" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] As we spoke about yesterday, the UN Climate Summit, which was known as COP31—the 31st Conference of the Parties—ended without a final agreement. And given Energy Minister Chris Bowen was running negotiations for it, the Albanese government has faced some questions over that yesterday.
 
 <details class="zh-trans"><summary>中文</summary><p>正如我們昨天提到的，聯合國氣候峰會，也就是第 31 屆締約方大會（COP31），最終在沒有達成任何最終協議的情況下閉幕。由於這場談判是由能源部長 Chris Bowen 主導，艾班尼斯政府昨天也因此面臨了一些質疑。</p></details>
 
-<button class="sq-seek" data-t="450.9" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] Yeah, so as we said yesterday, there was a big split between countries that wanted an explicit mention of **transitioning** away from fossil fuels in the text of the final agreement, like Pacific and EU countries, and ones that didn't, like Saudi Arabia and Russia. Yesterday, Coalition energy **spokesman** Dan Tehan <span style="color:#ff8c00"><strong>put Albanese on the spot</strong></span> over the $150 million cost to taxpayers for Bowen's role in the summit, but the PM defended his government's stance on climate change, saying, "We believe in science." And Bowen, for his part, said that outcome was very disappointing and <span style="color:#ff8c00"><strong>put it down to</strong></span> the complicated and **fraught** **geopolitical** environment.
+<button class="sq-seek" data-t="420.8" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] Yeah, so as we said yesterday, there was a big split between countries that wanted an explicit mention of **transitioning** away from fossil fuels in the text of the final agreement, like Pacific and EU countries, and ones that didn't, like Saudi Arabia and Russia. Yesterday, Coalition energy **spokesman** Dan Tehan <span style="color:#ff8c00"><strong>put Albanese on the spot</strong></span> over the $150 million cost to taxpayers for Bowen's role in the summit, but the PM defended his government's stance on climate change, saying, "We believe in science." And Bowen, for his part, said that outcome was very disappointing and <span style="color:#ff8c00"><strong>put it down to</strong></span> the complicated and **fraught** **geopolitical** environment.
 
 <details class="zh-trans"><summary>中文</summary><p>沒錯，就像我們昨天說的，各國在最終協議文本中是否要明確提及「逐步擺脫化石燃料」出現嚴重分歧，像是太平洋島國和歐盟國家支持納入，而沙烏地阿拉伯和俄羅斯等國則反對。昨天，在野聯盟能源事務發言人 Dan Tehan 就 Chris Bowen 在峰會中擔任的角色花了納稅人 1.5 億澳幣一事，當場質問艾班尼斯；不過總理為政府在氣候變遷上的立場辯護，表示「我們相信科學」。至於 Bowen 本人則表示，這個結果令人非常失望，並將原因歸咎於複雜且充滿變數的地緣政治環境。</p></details>
 
-<button class="sq-seek" data-t="486.8" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] Yeah, that split between those sides was a difficult one to **wrangle** if you followed the full two weeks. They kept going back and forth about whether that phrase would be included in the final text. Now, of course, in the end, nothing new was signed, and that means that the existing agreements from COP30 and before hold until COP32, which will take place in Ethiopia next year.
+<button class="sq-seek" data-t="456.7" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] Yeah, that split between those sides was a difficult one to **wrangle** if you followed the full two weeks. They kept going back and forth about whether that phrase would be included in the final text. Now, of course, in the end, nothing new was signed, and that means that the existing agreements from COP30 and before hold until COP32, which will take place in Ethiopia next year.
 
 <details class="zh-trans"><summary>中文</summary><p>是啊，如果你全程關注這兩週的會議，就會知道雙方之間的分歧真的很難協調。他們不斷反覆拉鋸，爭論最終文本究竟要不要放進那句話。當然，最後沒有簽署任何新協議，這也意味著 COP30 及更早之前的既有協議將繼續有效，直到明年在衣索比亞舉行的 COP32 為止。</p></details>
 
@@ -250,19 +250,19 @@ summary: "黃仁勳重返輝達擔任執行長、緬懷澳洲音樂傳奇人物 
 
 ### Beaver Supermoon to Appear in Tonight's Sky {#news-5}
 
-<button class="sq-seek" data-t="511.9" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] Now, sometimes, Anna, when we're doing the news, I come across a phrase that I've never come across before—words in an order that I've never previously seen. And that happened yesterday as we developed our notes for today, because we're going to talk about something called the super **beaver** moon.
+<button class="sq-seek" data-t="481.8" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] Now, sometimes, Anna, when we're doing the news, I come across a phrase that I've never come across before—words in an order that I've never previously seen. And that happened yesterday as we developed our notes for today, because we're going to talk about something called the super **beaver** moon.
 
 <details class="zh-trans"><summary>中文</summary><p>Anna，有時候我們在做新聞時，我會遇到一個我從來沒聽過的詞組——一些我以前從沒見過這樣排列的字。昨天我們在準備今天節目的筆記時就遇到了這種情況，因為我們接下來要聊一個叫做「超級河狸月」的東西。</p></details>
 
-<button class="sq-seek" data-t="530.0" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] Yeah, how cool is that? Like, I feel like stories where I get to say, "How cool is that sentence?" give you an idea of how our minds work at The Squiz. But a **supermoon** happens when the moon is closer to Earth because its orbit isn't a perfect circle, so it makes it appear bigger.
+<button class="sq-seek" data-t="499.9" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] Yeah, how cool is that? Like, I feel like stories where I get to say, "How cool is that sentence?" give you an idea of how our minds work at The Squiz. But a **supermoon** happens when the moon is closer to Earth because its orbit isn't a perfect circle, so it makes it appear bigger.
 
 <details class="zh-trans"><summary>中文</summary><p>對啊，這不是很酷嗎？我覺得像這種能讓我說出「這句話不是很酷嗎？」的新聞，正好能讓大家知道我們在 The Squiz 團隊是怎麼思考的。總之，當月球因為軌道不是正圓形而更靠近地球時，就會出現「超級月亮」，這會讓月亮看起來比較大。</p></details>
 
-<button class="sq-seek" data-t="545.3" title="從這裡播放" aria-label="從這裡播放">▶</button> This one's called a **beaver** **supermoon** because it happens around the time of year when **beavers** in North America **hunker** down for winter and were historically trapped for their **pelts**. Now, it's the first of three supermoons we should see in the next two months, with the **brightest** expected to be on Christmas Eve.
+<button class="sq-seek" data-t="515.2" title="從這裡播放" aria-label="從這裡播放">▶</button> This one's called a **beaver** **supermoon** because it happens around the time of year when **beavers** in North America **hunker** down for winter and were historically trapped for their **pelts**. Now, it's the first of three supermoons we should see in the next two months, with the **brightest** expected to be on Christmas Eve.
 
 <details class="zh-trans"><summary>中文</summary><p>這次之所以稱為「河狸超級月亮」，是因為它發生在每年北美洲河狸準備窩起來過冬的時節，而過去人們也會在這個時候設陷阱捕捉牠們以取得毛皮。這是我們未來兩個月內預計能見到的三次超級月亮中的第一次，其中最亮的一次預計會出現在平安夜。</p></details>
 
-<button class="sq-seek" data-t="561.1" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] And tonight's one should be visible just after sunset in areas where there isn't much cloud cover, and it'll be **brightest**—if you want to get up very early in the morning—at 1:53 a.m. Sydney/Melbourne time, if you want to set your alarm clock for then. We'll stick a link to where you can find out the best time to see it in your area in the episode notes today.
+<button class="sq-seek" data-t="531.0" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] And tonight's one should be visible just after sunset in areas where there isn't much cloud cover, and it'll be **brightest**—if you want to get up very early in the morning—at 1:53 a.m. Sydney/Melbourne time, if you want to set your alarm clock for then. We'll stick a link to where you can find out the best time to see it in your area in the episode notes today.
 
 <details class="zh-trans"><summary>中文</summary><p>在雲層不多的地區，今晚日落後不久應該就能看到這次的超級月亮；如果你願意一大早起床的話，它最亮的時刻是在雪梨與墨爾本時間凌晨 1 點 53 分，想看的話可以設個鬧鐘。我們今天也會在節目資訊欄附上連結，方便大家查詢自己所在地區的最佳觀賞時間。</p></details>
 
@@ -278,23 +278,23 @@ summary: "黃仁勳重返輝達擔任執行長、緬懷澳洲音樂傳奇人物 
 
 ### Updated Costings Due for New Tasmanian Sports Stadium {#news-6}
 
-<button class="sq-seek" data-t="583.1" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] Squiz the Day now. We are hiring at The Squiz—always an exciting time—and we are looking for a video journalist to join us. We are expanding our video products over the next little while, and as part of the team, you'll be focusing on what we're doing with video, but you'll also do a bit of everything, including this very podcast.
+<button class="sq-seek" data-t="553.0" title="從這裡播放" aria-label="從這裡播放">▶</button> [Andrew Williams] Squiz the Day now. We are hiring at The Squiz—always an exciting time—and we are looking for a video journalist to join us. We are expanding our video products over the next little while, and as part of the team, you'll be focusing on what we're doing with video, but you'll also do a bit of everything, including this very podcast.
 
 <details class="zh-trans"><summary>中文</summary><p>接下來進入「Squiz the Day」單元。我們 The Squiz 正在徵才——這總是令人興奮的時刻——我們正在尋找一名影音記者加入我們。接下來一段時間我們將擴大影音內容，作為團隊的一員，你的重心會放在影音製作上，但同時也會參與各種不同的工作，包括你現在收聽的這個 Podcast。</p></details>
 
-<button class="sq-seek" data-t="600.2" title="從這裡播放" aria-label="從這裡播放">▶</button> This could be your voice that you're hearing right now, saying this—this could be you. So the job ad is up on LinkedIn, and we'll add a link to the episode notes here as well. You can send your applications through to me at andrew@thesquiz.com.au.
+<button class="sq-seek" data-t="570.1" title="從這裡播放" aria-label="從這裡播放">▶</button> This could be your voice that you're hearing right now, saying this—this could be you. So the job ad is up on LinkedIn, and we'll add a link to the episode notes here as well. You can send your applications through to me at andrew@thesquiz.com.au.
 
 <details class="zh-trans"><summary>中文</summary><p>現在聽到的這個聲音，未來可能就是你的聲音、由你來唸出這段話——那個人可能就是你。徵才廣告已經刊登在 LinkedIn 上，我們也會把連結放在節目資訊欄。你可以把應徵資料寄給我，信箱是 andrew@thesquiz.com.au。</p></details>
 
-<button class="sq-seek" data-t="613.0" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] Like I did a few months ago. Like you did. Join us.
+<button class="sq-seek" data-t="582.9" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] Like I did a few months ago. Like you did. Join us.
 
 <details class="zh-trans"><summary>中文</summary><p>就像我幾個月前做的一樣。就像你當初一樣。快來加入我們吧。</p></details>
 
-<button class="sq-seek" data-t="616.4" title="從這裡播放" aria-label="從這裡播放">▶</button> Look where you are now. Having lots of fun. It's a great place to work, so we'd love to hear from anyone if you're interested.
+<button class="sq-seek" data-t="586.3" title="從這裡播放" aria-label="從這裡播放">▶</button> Look where you are now. Having lots of fun. It's a great place to work, so we'd love to hear from anyone if you're interested.
 
 <details class="zh-trans"><summary>中文</summary><p>看看你現在多棒，每天都過得很開心。這裡是個很棒的工作環境，所以如果大家有興趣，我們非常期待收到你們的來信。</p></details>
 
-<button class="sq-seek" data-t="623.5" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] And in terms of news to look out for today, we'll probably hear more about how much the new Tasmanian sports stadium might cost. Now, it was last placed at $1.13 billion, but the Tasmanian government is set to release updated **costings** today before question time begins at 10 a.m. Hobart time, and Premier Jeremy Rockliff says it's probably going to cost more.
+<button class="sq-seek" data-t="593.4" title="從這裡播放" aria-label="從這裡播放">▶</button> [Anna Pykett] And in terms of news to look out for today, we'll probably hear more about how much the new Tasmanian sports stadium might cost. Now, it was last placed at $1.13 billion, but the Tasmanian government is set to release updated **costings** today before question time begins at 10 a.m. Hobart time, and Premier Jeremy Rockliff says it's probably going to cost more.
 
 <details class="zh-trans"><summary>中文</summary><p>至於今天值得關注的新聞，我們可能會聽到更多關於塔斯馬尼亞新體育場造價的消息。上次估算的金額是 11.3 億澳幣，但塔斯馬尼亞政府預計今天在荷巴特時間上午 10 點質詢開始前公布最新成本估算，而州長 Jeremy Rockliff 表示，費用很可能會再增加。</p></details>
 
@@ -304,7 +304,7 @@ summary: "黃仁勳重返輝達擔任執行長、緬懷澳洲音樂傳奇人物 
 
 ### Closing
 
-<button class="sq-seek" data-t="643.1" title="從這裡播放" aria-label="從這裡播放">▶</button> [Speaker A] Thanks so much for listening today. Hope you're having a great week. We'll see you again tomorrow.
+<button class="sq-seek" data-t="613.0" title="從這裡播放" aria-label="從這裡播放">▶</button> [Speaker A] Thanks so much for listening today. Hope you're having a great week. We'll see you again tomorrow.
 
 <details class="zh-trans"><summary>中文</summary><p>非常感謝您今天的收聽。祝您這週一切順心。我們明天見。</p></details>
 
